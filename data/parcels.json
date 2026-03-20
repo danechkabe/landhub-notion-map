@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T21:15:16.542032Z",
+  "generated_at": "2026-03-20T21:20:17.802237Z",
   "counts": {
     "landmatch": 19,
-    "processing": 37,
+    "processing": 38,
     "landhub": 19
   },
   "categories": {
@@ -480,6 +480,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-IDVjIqi.html",
         "latitude": 50.1209260489561,
         "longitude": 30.5983478340328,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-812b-b364-ddbe92c831a3",
+        "source": "processing",
+        "name": "Житні Гори",
+        "area": "18.6983 га",
+        "price": "2 600 $",
+        "distance_to_kyiv": "98,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.7603084457177,30.4857979120855",
+        "notion_url": "https://www.notion.so/32949a17ea97812bb364ddbe92c831a3",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazha-zeml-18-7ga-dlya-promislovost-kivska-oblast-IDTsj2A.html",
+        "latitude": 49.7603084457177,
+        "longitude": 30.4857979120855,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
