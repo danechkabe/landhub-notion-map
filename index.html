@@ -28,51 +28,46 @@
   <body>
     <div class="page-shell">
       <header class="hero">
-        <div class="hero-copy">
-          <div class="eyebrow">LandHub</div>
-          <h1>Активні ділянки на карті</h1>
-          <p>
-            Відкрий локацію, клацни на <span class="heart-inline">💛</span> і
-            перейди в Google Maps одним натисканням.
-          </p>
-        </div>
-        <div class="hero-stats">
-          <div class="stat-card">
-            <span class="stat-label">Статус</span>
-            <strong>active</strong>
-          </div>
-          <div class="stat-card">
-            <span class="stat-label">Джерело</span>
-            <strong>Notion</strong>
-          </div>
-          <div class="stat-card">
-            <span class="stat-label">Маркер</span>
-            <strong>💛</strong>
-          </div>
+        <div class="hero-bar">
+          <h1>Land Map Notion</h1>
+          <nav class="category-tabs" aria-label="Категорії карти">
+            <button class="category-tab is-active" data-category="landmatch" type="button">
+              <span class="tab-symbol">💛</span>
+              <span>LandMatch</span>
+            </button>
+            <button class="category-tab" data-category="processing" type="button">
+              <span class="tab-symbol">📚</span>
+              <span>В обробці</span>
+            </button>
+            <button class="category-tab" data-category="landhub" type="button">
+              <span class="tab-symbol">📍</span>
+              <span>LandHub</span>
+            </button>
+          </nav>
         </div>
       </header>
 
-      <main class="map-layout">
-        <aside class="sidebar">
-          <div class="panel">
-            <div class="panel-kicker">Фільтр</div>
-            <h2>Усі активні ділянки</h2>
-            <p id="summary" class="summary">Завантаження даних…</p>
-          </div>
+      <section id="processing-filters" class="processing-filters is-hidden" aria-label="Фільтри статусів">
+        <button class="status-chip is-active" data-status-key="gives_to_sell" type="button">
+          <span class="chip-symbol">📗</span>
+          <span>Дає на реалізацію</span>
+        </button>
+        <button class="status-chip is-active" data-status-key="site_ok_olx_keeps" type="button">
+          <span class="chip-symbol">📙</span>
+          <span>На сайт OK, але OLX не прибере</span>
+        </button>
+        <button class="status-chip is-active" data-status-key="callback" type="button">
+          <span class="chip-symbol">📘</span>
+          <span>Передзвонити</span>
+        </button>
+        <button class="status-chip is-active" data-status-key="unprocessed" type="button">
+          <span class="chip-symbol">📓</span>
+          <span>Не опрацьована</span>
+        </button>
+      </section>
 
-          <div class="panel">
-            <div class="panel-kicker">Пояснення</div>
-            <ul class="legend">
-              <li><span class="legend-heart">💛</span> Точка на карті</li>
-              <li>У popup видно назву, площу й нашу ціну</li>
-              <li>Кнопка <code>Google Maps</code> веде на вихідну мапу</li>
-            </ul>
-          </div>
-        </aside>
-
-        <section class="map-card">
-          <div id="map" aria-label="Карта активних ділянок"></div>
-        </section>
+      <main class="map-card">
+        <div id="map" aria-label="Карта ділянок"></div>
       </main>
     </div>
 
