@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T14:50:14.515925Z",
+  "generated_at": "2026-03-20T14:55:18.767190Z",
   "counts": {
     "landmatch": 19,
-    "processing": 7,
+    "processing": 8,
     "landhub": 20
   },
   "categories": {
@@ -429,6 +429,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-selo-hodosvka-ID107NLn.html",
         "latitude": 50.2591321626398,
         "longitude": 30.5116604091153,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8154-8446-d7ead75e6514",
+        "source": "processing",
+        "name": "Бабинці",
+        "area": "0.1078 га",
+        "price": "4 200 $",
+        "distance_to_kyiv": "54,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6332470824385,30.0223345991261",
+        "notion_url": "https://www.notion.so/32949a17ea9781548446d7ead75e6514",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-61-sotka-u-samomu-tsentr-sela-babints-z-komunkatsyami-ID107Unk.html",
+        "latitude": 50.6332470824385,
+        "longitude": 30.0223345991261,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
