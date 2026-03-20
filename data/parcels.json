@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T23:05:19.656339Z",
+  "generated_at": "2026-03-20T23:10:17.666316Z",
   "counts": {
     "landmatch": 19,
-    "processing": 65,
+    "processing": 67,
     "landhub": 19
   },
   "categories": {
@@ -571,6 +571,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-8126-ba42-e30bcd2343d9",
+        "source": "processing",
+        "name": "Ясногородка",
+        "area": "0.2367 га",
+        "price": "20 600 $",
+        "distance_to_kyiv": "44,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3678076758591,30.0160014763731",
+        "notion_url": "https://www.notion.so/32949a17ea978126ba42e30bcd2343d9",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-svoy-uchastok-s-yasnogorodka-24sot-makarovskiy-r-n-IDSB9ID.html",
+        "latitude": 50.3678076758591,
+        "longitude": 30.0160014763731,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-8128-9240-cc480105573b",
         "source": "processing",
         "name": "Білогородка",
@@ -1007,6 +1024,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-5-2-sot-10-z-lchilnikom-bez-koms-IDZOCuO.html",
         "latitude": 50.371265583877,
         "longitude": 30.2605812872039,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8190-8f2e-c6e2751dc033",
+        "source": "processing",
+        "name": "Святопетрівське",
+        "area": "0.4854 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "22,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3909195898499,30.2996265610281",
+        "notion_url": "https://www.notion.so/32949a17ea9781908f2ec6e2751dc033",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDVL4PI.html",
+        "latitude": 50.3909195898499,
+        "longitude": 30.2996265610281,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
