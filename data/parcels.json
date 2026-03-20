@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T21:40:16.693813Z",
+  "generated_at": "2026-03-20T21:45:18.588200Z",
   "counts": {
     "landmatch": 19,
-    "processing": 42,
+    "processing": 43,
     "landhub": 19
   },
   "categories": {
@@ -684,6 +684,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-0-4143ga-buchanskiy-rayon-ID101lfj.html",
         "latitude": 50.3856760721303,
         "longitude": 30.2149199213121,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-816a-8c8e-ecce8de24a1e",
+        "source": "processing",
+        "name": "Калинівка",
+        "area": "1.9117 га",
+        "price": "4 000 $",
+        "distance_to_kyiv": "54,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4185880811532,29.8101749868992",
+        "notion_url": "https://www.notion.so/32949a17ea97816a8c8eecce8de24a1e",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/fasad-11-ga-prodazha-zemli-11-02-zhitomirskaya-trassa-s-kalinovka-IDZQ7Cb.html",
+        "latitude": 50.4185880811532,
+        "longitude": 29.8101749868992,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
