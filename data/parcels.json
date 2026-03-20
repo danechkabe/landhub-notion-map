@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T17:35:18.362606Z",
+  "generated_at": "2026-03-20T17:40:15.949856Z",
   "counts": {
     "landmatch": 19,
-    "processing": 12,
+    "processing": 14,
     "landhub": 19
   },
   "categories": {
@@ -469,6 +469,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-815d-bfe2-e4491949fecf",
+        "source": "processing",
+        "name": "Гоголів",
+        "area": "0.1609 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "—",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5080413656544,30.9906825427956",
+        "notion_url": "https://www.notion.so/32949a17ea97815dbfe2e4491949fecf",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-tskavu-dlyanku-16-sotok-na-pochatku-gogolva-brovari-13-hv-IDYT86O.html",
+        "latitude": 50.5080413656544,
+        "longitude": 30.9906825427956,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-8166-8e33-fca9fea029da",
         "source": "processing",
         "name": "Пугачівка",
@@ -514,6 +531,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kozints-12-sotok-blya-lsu-IDZ9joe.html",
         "latitude": 50.5007767083389,
         "longitude": 30.0328134469154,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-819d-9e21-d67d5c7fa65e",
+        "source": "processing",
+        "name": "Займище",
+        "area": "0.12 га",
+        "price": "7 500 $",
+        "distance_to_kyiv": "—",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4746855794458,31.0220067967529",
+        "notion_url": "https://www.notion.so/32949a17ea97819d9e21d67d5c7fa65e",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-12-sotok-s-zaymische-borisplskiy-r-n-IDY54h4.html",
+        "latitude": 50.4746855794458,
+        "longitude": 31.0220067967529,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
