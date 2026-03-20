@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T22:10:19.290444Z",
+  "generated_at": "2026-03-20T22:15:15.628639Z",
   "counts": {
     "landmatch": 19,
-    "processing": 49,
+    "processing": 52,
     "landhub": 19
   },
   "categories": {
@@ -741,6 +741,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-816e-a1c9-cc07e37f220a",
+        "source": "processing",
+        "name": "Калинівка",
+        "area": "0.2499 га",
+        "price": "14 500 $",
+        "distance_to_kyiv": "55,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4136052239605,29.7802476132088",
+        "notion_url": "https://www.notion.so/32949a17ea97816ea1c9cc07e37f220a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-25-sotok-pd-zabudovu-mozhliviy-obmn-na-avto-IDVuSqm.html",
+        "latitude": 50.4136052239605,
+        "longitude": 29.7802476132088,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-8170-9b41-c0764fc900a7",
         "source": "processing",
         "name": "Малютянка",
@@ -871,6 +888,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/bez-koms-dlyanka-z-budinkom-severnvka-IDVwKNa.html",
         "latitude": 50.4092659047507,
         "longitude": 29.9727431038663,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81a7-8b5d-d181fb89c25f",
+        "source": "processing",
+        "name": "Калинівка",
+        "area": "0.1225 га",
+        "price": "2 100 $",
+        "distance_to_kyiv": "42,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2236841950171,30.2472368136583",
+        "notion_url": "https://www.notion.so/32949a17ea9781a78b5dd181fb89c25f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-smt-kalinvka-noviy-masiv-ID104Xnm.html",
+        "latitude": 50.2236841950171,
+        "longitude": 30.2472368136583,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
@@ -1126,6 +1160,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-z-budinkom-ID106akc.html",
         "latitude": 50.0792795516824,
         "longitude": 30.0016149570979,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81f6-8518-eddf1919f934",
+        "source": "processing",
+        "name": "Фурси",
+        "area": "0.0973 га",
+        "price": "12 500 $",
+        "distance_to_kyiv": "104 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.831983340716,29.9413874088741",
+        "notion_url": "https://www.notion.so/32949a17ea9781f68518eddf1919f934",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelnyy-uchastok-skvirskoy-rayon-fursi-pischiki-IDZQAUW.html",
+        "latitude": 49.831983340716,
+        "longitude": 29.9413874088741,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
