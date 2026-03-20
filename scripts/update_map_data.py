@@ -1,7 +1,6 @@
-  #!/usr/bin/env python3
-  """Fetch map data from Notion and write a unified JSON payload for the site."""
-
-  from __future__ import annotations
+#!/usr/bin/env python3
+"""Fetch map data from Notion and write a unified JSON payload for the site."""
+from __future__ import annotations
 
   import argparse
   from dataclasses import dataclass
