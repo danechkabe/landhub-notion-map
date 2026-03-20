@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T23:10:17.666316Z",
+  "generated_at": "2026-03-20T23:15:21.321246Z",
   "counts": {
     "landmatch": 19,
-    "processing": 67,
+    "processing": 68,
     "landhub": 19
   },
   "categories": {
@@ -956,6 +956,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-12-sotok-pd-zabudovu-v-novomu-zhilomu-masiv-ID106ro7.html",
         "latitude": 50.2858385972286,
         "longitude": 30.2549084261847,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8178-b24f-fa0547e654ce",
+        "source": "processing",
+        "name": "Плахтянка",
+        "area": "0.067 га",
+        "price": "5 000 $",
+        "distance_to_kyiv": "58,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5125344381398,29.9129242890968",
+        "notion_url": "https://www.notion.so/32949a17ea978178b24ffa0547e654ce",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDUVCRK.html",
+        "latitude": 50.5125344381398,
+        "longitude": 29.9129242890968,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
