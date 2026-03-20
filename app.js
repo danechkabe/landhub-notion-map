@@ -85,19 +85,19 @@ function popupMarkup(item) {
       <div class="popup-actions">
         ${actionButton({
           href: item.google_maps_url,
-          icon: "icon-maps.svg",
+          icon: "IMG_5575.PNG",
           label: "Google Maps",
           modifier: "maps",
         })}
         ${actionButton({
           href: item.notion_url,
-          icon: "icon-notion.svg",
+          icon: "IMG_5573.PNG",
           label: "Notion",
           modifier: "notion",
         })}
         ${actionButton({
           href: item.olx_url,
-          icon: "icon-olx.svg",
+          icon: "IMG_5574.PNG",
           label: "OLX",
           modifier: "olx",
         })}
