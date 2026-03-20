@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T20:50:15.890237Z",
+  "generated_at": "2026-03-20T20:55:16.647384Z",
   "counts": {
     "landmatch": 19,
-    "processing": 33,
+    "processing": 34,
     "landhub": 19
   },
   "categories": {
@@ -735,6 +735,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-15-sot-smt-makarv-IDXd9aA.html",
         "latitude": 50.478395799187,
         "longitude": 29.8390782811657,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81ba-8090-f32943cb944b",
+        "source": "processing",
+        "name": "Немішаєве",
+        "area": "0.1198 га",
+        "price": "14 000 $",
+        "distance_to_kyiv": "42,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5569280125304,30.0969621413544",
+        "notion_url": "https://www.notion.so/32949a17ea9781ba8090f32943cb944b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-smt-nemshave-30-km-do-kiva-vigdna-propozitsya-IDZOMbu.html",
+        "latitude": 50.5569280125304,
+        "longitude": 30.0969621413544,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
