@@ -115,10 +115,7 @@ def main() -> int:
 
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(
-        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
+    output_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote {sum(counts.values())} markers to {output_path}")
     return 0
 
