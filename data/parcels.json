@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T23:50:17.657963Z",
+  "generated_at": "2026-03-20T23:55:12.623453Z",
   "counts": {
     "landmatch": 19,
-    "processing": 78,
+    "processing": 79,
     "landhub": 19
   },
   "categories": {
@@ -1449,6 +1449,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-10-sot-pd-budvnitstvo-s-n-dubechnya-28km-vd-m-g-dnpra-IDYQ0qe.html",
         "latitude": 50.6869841190112,
         "longitude": 30.6419969736882,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81d7-ad29-c509d17463d8",
+        "source": "processing",
+        "name": "Лука",
+        "area": "0.1197 га",
+        "price": "3 200 $",
+        "distance_to_kyiv": "34,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.354165533188,30.1573873189407",
+        "notion_url": "https://www.notion.so/32949a17ea9781d7ad29c509d17463d8",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/luka-12-sotok-poruch-ls-ta-ozero-IDZQWYm.html",
+        "latitude": 50.354165533188,
+        "longitude": 30.1573873189407,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
