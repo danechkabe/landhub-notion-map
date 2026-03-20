@@ -1,0 +1,167 @@
+  {
+    "source": "LandMatch Parcels",
+    "filter": {
+      "Status": "active"
+    },
+    "count": 19,
+    "parcels": [
+      {
+        "name": "Барахти",
+        "area": "0.1592 га",
+        "price": "6900$",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0968760480249,30.3610803096148",
+        "latitude": 50.0968760480249,
+        "longitude": 30.3610803096148
+      },
+      {
+        "name": "Григорівка",
+        "area": "0.25 га",
+        "price": "12500$",
+        "google_maps_url": "google.com/maps/search/?api=1&query=50.0540320278924,30.6127792690722",
+        "latitude": 50.0540320278924,
+        "longitude": 30.6127792690722
+      },
+      {
+        "name": "Деревʼяна",
+        "area": "0.0972 га",
+        "price": "6000$",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1016703045016,30.6645312125903",
+        "latitude": 50.1016703045016,
+        "longitude": 30.6645312125903
+      },
+      {
+        "name": "Дорогинка",
+        "area": "0.2611 га",
+        "price": "8500$",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1774531163544,29.9238747524102",
+        "latitude": 50.1774531163544,
+        "longitude": 29.9238747524102
+      },
+      {
+        "name": "Забуяння",
+        "area": "0.1495 га",
+        "price": "5700$",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.554830607381,29.644754718905",
+        "latitude": 50.554830607381,
+        "longitude": 29.644754718905
+      },
+      {
+        "name": "Мала Солтанівка",
+        "area": "0.25 га",
+        "price": "9500$",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1645475769938,30.1544633026909",
+        "latitude": 50.1645475769938,
+        "longitude": 30.1544633026909
+      },
+      {
+        "name": "Мирча",
+        "area": "0.25 га",
+        "price": "7900$",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7503512980953,29.8337063557667",
+        "latitude": 50.7503512980953,
+        "longitude": 29.8337063557667
+      },
+      {
+        "name": "Мирча",
+        "area": "0.233 га",
+        "price": "8500$",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7504962308444,29.8369492739424",
+        "latitude": 50.7504962308444,
+        "longitude": 29.8369492739424
+      },
+      {
+        "name": "Мостище",
+        "area": "0.15 га",
+        "price": "5000$",
+        "google_maps_url":
+  "https://www.google.com/maps/place/50%C2%B018'15.4%22N+30%C2%B001'37.3%22E/@50.3042772,30.0270283,692m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d50.3042772!4d30.0270283?entry=ttu&g_ep=EgoyMDI2MDIyNC4wIKXMDSoASAFQAw%3D%3D",
+        "latitude": 50.3042772,
+        "longitude": 30.0270283
+      },
+      {
+        "name": "Музичі",
+        "area": "0.0849 га",
+        "price": "12900$",
+        "google_maps_url":
+  "https://www.google.com/maps/place/50%C2%B021'34.9%22N+30%C2%B008'21.5%22E/@50.3596876,30.1392952,691m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d50.3596876!4d30.1392952?entry=ttu&g_ep=EgoyMDI2MDIyNC4wIKXMDSoASAFQAw%3D%3D",
+        "latitude": 50.3596876,
+        "longitude": 30.1392952
+      },
+      {
+        "name": "Оленівка",
+        "area": "0.1201 га",
+        "price": "3000$",
+        "google_maps_url":
+  "https://www.google.com/maps/place/50%C2%B007'35.1%22N+30%C2%B007'00.7%22E/@50.1264291,30.1142849,694m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d50.1264291!4d30.1168598!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDIxNi4wIKXMDSoASAFQAw%3D%3D",
+        "latitude": 50.1264291,
+        "longitude": 30.1142849
+      },
+      {
+        "name": "Очеретяне",
+        "area": "0.2500 га",
+        "price": "7000$",
+        "google_maps_url":
+  "https://www.google.com/maps?ll=49.822975,30.987967&z=17&t=h&hl=ru&gl=UA&mapclient=embed&q=49%C2%B049%2722.7%22N+30%C2%B059%2720.9%22E+49.822972,+30.989139@49.8229722,30.9891389",
+        "latitude": 49.822975,
+        "longitude": 30.987967
+      },
+      {
+        "name": "Стайки",
+        "area": "0.1980",
+        "price": "12000$",
+        "google_maps_url":
+  "https://www.google.com/maps/place/50%C2%B003'56.6%22N+30%C2%B054'45.2%22E/@50.065728,30.912547,1391m/data=!3m1!1e3!4m4!3m3!8m2!3d50.0657222!4d30.9125556?hl=ru&entry=ttu&g_ep=EgoyMDI2MDIyNC4wIKXMDSoASAFQAw%3D%3D",
+        "latitude": 50.065728,
+        "longitude": 30.912547
+      },
+      {
+        "name": "Старі Безрадичі",
+        "area": "0.0829 га",
+        "price": "9500$",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1655258273272,30.5840062305219",
+        "latitude": 50.1655258273272,
+        "longitude": 30.5840062305219
+      },
+      {
+        "name": "Тарасенки",
+        "area": "0.1094 га",
+        "price": "3500$",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1543840979936,29.9636072374268",
+        "latitude": 50.1543840979936,
+        "longitude": 29.9636072374268
+      },
+      {
+        "name": "Фасова",
+        "area": "0.2502 га",
+        "price": "9500$",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.384115218941,29.8172806607966",
+        "latitude": 50.384115218941,
+        "longitude": 29.8172806607966
+      },
+      {
+        "name": "Фасівочка",
+        "area": "0.1499 га",
+        "price": "8500$",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4296795673376,29.8148192769181",
+        "latitude": 50.4296795673376,
+        "longitude": 29.8148192769181
+      },
+      {
+        "name": "Язвинка",
+        "area": "0.2 га",
+        "price": "4500$",
+        "google_maps_url": "google.com/maps/search/?api=1&query=50.6146456135721,29.6717805342277",
+        "latitude": 50.6146456135721,
+        "longitude": 29.6717805342277
+      },
+      {
+        "name": "Іванівка",
+        "area": "0.2500 га",
+        "price": "7500$",
+        "google_maps_url":
+  "google.com/maps?ll=49.476083,30.137351&z=16&t=h&hl=uk&gl=UA&mapclient=embed&q=49°28%2733.9\"N+30°08%2723.7\"E+49.476083,+30.139917@49.4760833,30.1399167",
+        "latitude": 49.476083,
+        "longitude": 30.137351
+      }
+    ]
+  }
