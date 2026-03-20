@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T23:30:17.764952Z",
+  "generated_at": "2026-03-20T23:35:15.444075Z",
   "counts": {
     "landmatch": 19,
-    "processing": 73,
+    "processing": 74,
     "landhub": 19
   },
   "categories": {
@@ -1228,6 +1228,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-15-sot-smt-makarv-IDXd9aA.html",
         "latitude": 50.478395799187,
         "longitude": 29.8390782811657,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81b7-8ffc-c447f7853eef",
+        "source": "processing",
+        "name": "Білогородка",
+        "area": "0.0402 га",
+        "price": "16 000 $",
+        "distance_to_kyiv": "26,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.375919985087734,30.256331196736998",
+        "notion_url": "https://www.notion.so/32949a17ea9781b78ffcc447f7853eef",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-pd-zabudovu-4-sotki-blogorodka-IDZUJOM.html",
+        "latitude": 50.375919985087734,
+        "longitude": 30.256331196736998,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
