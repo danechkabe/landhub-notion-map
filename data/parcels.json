@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T21:56:33.695737Z",
+  "generated_at": "2026-03-20T22:00:20.178309Z",
   "counts": {
     "landmatch": 19,
-    "processing": 47,
+    "processing": 48,
     "landhub": 19
   },
   "categories": {
@@ -956,6 +956,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/krascha-tsna-v-rpen-dlyanka-dlya-budinku-abo-pd-bznes-sklad-ID101lOI.html",
         "latitude": 50.5327750958874,
         "longitude": 30.2793965008298,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81be-8f6e-cba39054860e",
+        "source": "processing",
+        "name": "Козинці",
+        "area": "0.12 га",
+        "price": "5 500 $",
+        "distance_to_kyiv": "49,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5007767083389,30.0328134469154",
+        "notion_url": "https://www.notion.so/32949a17ea9781be8f6ecba39054860e",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kozints-12-sotok-blya-lsu-IDZ9joe.html",
+        "latitude": 50.5007767083389,
+        "longitude": 30.0328134469154,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
