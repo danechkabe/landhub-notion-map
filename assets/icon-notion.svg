@@ -1,0 +1,16 @@
+  <svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <filter id="notionShadow" x="4" y="4" width="88" height="88" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+        <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.12"/>
+      </filter>
+    </defs>
+    <g filter="url(#notionShadow)">
+      <path d="M20 17.5L58 14L80 29V73C80 76.866 77.0937 80.0973 73.2507 80.5033L33.5 84.5L13 57V25C13 21.0034 16.0551 17.8076 20 17.5Z" fill="white"/>
+      <path d="M20 17.5L58 14L80 29V73C80 76.866 77.0937 80.0973 73.2507 80.5033L33.5 84.5L13 57V25C13 21.0034 16.0551 17.8076 20 17.5Z" stroke="black" stroke-
+  width="5" stroke-linejoin="round"/>
+      <path d="M25 26.5L56.5 24L71.5 34V69.5C71.5 71.5441 69.9836 73.2611 67.954 73.5127L32.5 77.5V34C32.5 30.1539 35.4586 26.8227 39.2928 26.3581L25 26.5Z"
+  fill="white" stroke="black" stroke-width="4.2" stroke-linejoin="round"/>
+      <path d="M24 26L38 36" stroke="black" stroke-width="4.2" stroke-linecap="round"/>
+      <path d="M36.5 62.5V33.5H43.5L57 54.5V33.5H63.5V62.5H56.5L43 41.5V62.5H36.5Z" fill="black"/>
+    </g>
+  </svg>
