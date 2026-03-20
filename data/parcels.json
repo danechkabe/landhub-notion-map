@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T22:45:21.727251Z",
+  "generated_at": "2026-03-20T22:50:21.198239Z",
   "counts": {
     "landmatch": 19,
-    "processing": 60,
+    "processing": 61,
     "landhub": 19
   },
   "categories": {
@@ -1313,6 +1313,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelnyy-uchastok-skvirskoy-rayon-fursi-pischiki-IDZQAUW.html",
         "latitude": 49.831983340716,
         "longitude": 29.9413874088741,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81f6-acd6-e06a053b4166",
+        "source": "processing",
+        "name": "Бузова",
+        "area": "0.12 га",
+        "price": "9 500 $",
+        "distance_to_kyiv": "39,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3994551743049,30.042111010106",
+        "notion_url": "https://www.notion.so/32949a17ea9781f6acd6e06a053b4166",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/buzova-termnovo-prodam-zemlyu-pd-zabudovu-12-sotok-za-7-500-IDUvHmd.html",
+        "latitude": 50.3994551743049,
+        "longitude": 30.042111010106,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
