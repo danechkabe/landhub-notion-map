@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T21:35:15.172465Z",
+  "generated_at": "2026-03-20T21:40:16.693813Z",
   "counts": {
     "landmatch": 19,
-    "processing": 41,
+    "processing": 42,
     "landhub": 19
   },
   "categories": {
@@ -803,6 +803,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-12-sotok-s-zaymische-borisplskiy-r-n-IDY54h4.html",
         "latitude": 50.4746855794458,
         "longitude": 31.0220067967529,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81a6-a63d-f2a9f9659f42",
+        "source": "processing",
+        "name": "Северинівка",
+        "area": "0.06 га",
+        "price": "21 000 $",
+        "distance_to_kyiv": "43,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4092659047507,29.9727431038663",
+        "notion_url": "https://www.notion.so/32949a17ea9781a6a63df2a9f9659f42",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/bez-koms-dlyanka-z-budinkom-severnvka-IDVwKNa.html",
+        "latitude": 50.4092659047507,
+        "longitude": 29.9727431038663,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
