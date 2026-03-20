@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T22:30:18.198514Z",
+  "generated_at": "2026-03-20T22:35:15.598427Z",
   "counts": {
     "landmatch": 19,
-    "processing": 58,
+    "processing": 59,
     "landhub": 19
   },
   "categories": {
@@ -1177,6 +1177,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-10-sot-pd-budvnitstvo-s-n-dubechnya-28km-vd-m-g-dnpra-IDYQ0qe.html",
         "latitude": 50.6869841190112,
         "longitude": 30.6419969736882,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81de-b2ab-c6c5717f60c6",
+        "source": "processing",
+        "name": "Діброва",
+        "area": "5.49 га",
+        "price": "3 200 $",
+        "distance_to_kyiv": "44,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1947892669854,30.2157059471857",
+        "notion_url": "https://www.notion.so/32949a17ea9781deb2abc6c5717f60c6",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prdatsya-zemelna-dlyanka-v-sel-dbrova-IDZOjJe.html",
+        "latitude": 50.1947892669854,
+        "longitude": 30.2157059471857,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
