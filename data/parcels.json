@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T23:15:21.321246Z",
+  "generated_at": "2026-03-20T23:20:17.916397Z",
   "counts": {
     "landmatch": 19,
-    "processing": 68,
+    "processing": 70,
     "landhub": 19
   },
   "categories": {
@@ -758,6 +758,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-8155-82db-c42444b6bf96",
+        "source": "processing",
+        "name": "Нове Залісся",
+        "area": "0.15 га",
+        "price": "9 000 $",
+        "distance_to_kyiv": "51,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.691733298698,29.9721547073552",
+        "notion_url": "https://www.notion.so/32949a17ea97815582dbc42444b6bf96",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-termnovo-zemelnu-dlyanku-dlya-budvnitstva-IDGsI2l.html",
+        "latitude": 50.691733298698,
+        "longitude": 29.9721547073552,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-8157-8440-de34e504ac04",
         "source": "processing",
         "name": "Нові Петрівці",
@@ -1058,6 +1075,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDVL4PI.html",
         "latitude": 50.3909195898499,
         "longitude": 30.2996265610281,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8195-b3d5-ca19a488803d",
+        "source": "processing",
+        "name": "Старі Петрівці",
+        "area": "0.07 га",
+        "price": "32 000 $",
+        "distance_to_kyiv": "29,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6625106846169,30.4078106706947",
+        "notion_url": "https://www.notion.so/32949a17ea978195b3d5ca19a488803d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-vd-vlasnika-IDZAOjN.html",
+        "latitude": 50.6625106846169,
+        "longitude": 30.4078106706947,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
