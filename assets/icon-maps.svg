@@ -1,0 +1,33 @@
+  <svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="mapsCard" x1="10" y1="18" x2="78" y2="84" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#25B86B"/>
+        <stop offset="1" stop-color="#1FA15B"/>
+      </linearGradient>
+      <linearGradient id="mapsPin" x1="55" y1="6" x2="78" y2="74" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#EB5A4B"/>
+        <stop offset="1" stop-color="#E34538"/>
+      </linearGradient>
+      <linearGradient id="mapsFold" x1="52" y1="58" x2="89" y2="87" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#F7F7F7"/>
+        <stop offset="1" stop-color="#CFCFCF"/>
+      </linearGradient>
+      <filter id="mapsShadow" x="0" y="6" width="96" height="86" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+        <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#8E7B2D" flood-opacity="0.18"/>
+      </filter>
+    </defs>
+    <g filter="url(#mapsShadow)">
+      <path d="M9 24.5C9 19.8056 12.8056 16 17.5 16H53.5L87 48.5V78C87 82.9706 82.9706 87 78 87H18C13.0294 87 9 82.9706 9 78V24.5Z" fill="url(#mapsCard)"/>
+      <path d="M13 82L58 38L83.5 63.5L61.5 86H18C15.2107 86 13 84.1224 13 82Z" fill="#4E83E4"/>
+      <path d="M50.5 30.5L61 41L15 86H13.5C11.0147 86 9 83.9853 9 81.5V79.5L50.5 30.5Z" fill="#F9D949"/>
+      <path d="M58 38L87 66.5V78C87 81.4274 85.0842 84.4072 82.2632 85.9266L58 61.5L58 38Z" fill="url(#mapsFold)"/>
+      <path d="M72 7C60.402 7 51 16.1631 51 27.4648C51 40.7149 65.5996 56.8701 69.6875 61.1104C70.9415 62.4117 73.0585 62.4117 74.3125 61.1104C78.4004 56.8701 93
+  40.7149 93 27.4648C93 16.1631 83.598 7 72 7Z" fill="url(#mapsPin)"/>
+      <circle cx="72" cy="29" r="8" fill="#8E2F26"/>
+      <path d="M19 23H38.5L46 31H28C23.0294 31 19 35.0294 19 40V23Z" fill="#2BAE67"/>
+      <path d="M22 29H37V38H22V29Z" fill="#F5F5F5"/>
+      <path d="M22 43.2988V54H26.3135V49.4746H30.4434C35.5098 49.4746 39.1611 46.292 39.1611 41.7236C39.1611 37.1432 35.6807 34.0049 30.6807 34.0049C25.832 34.0049 22
+  37.1885 22 41.6934H26.6162C26.7607 39.498 28.498 38.0674 30.6504 38.0674C33.0195 38.0674 34.5752 39.5361 34.5752 41.7832C34.5752 44.0176 33.0693 45.4121 30.6387
+  45.4121H26.3135V43.2988H22Z" fill="#F5F5F5"/>
+    </g>
+  </svg>
