@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T20:20:13.767897Z",
+  "generated_at": "2026-03-20T20:25:15.576440Z",
   "counts": {
     "landmatch": 19,
-    "processing": 24,
+    "processing": 25,
     "landhub": 19
   },
   "categories": {
@@ -412,6 +412,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kivska-oblast-smt-dimer-vul-pashkova-ID1011nP.html",
         "latitude": 50.7758440312175,
         "longitude": 30.3183654178549,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-811a-978b-d027dad73ff0",
+        "source": "processing",
+        "name": "Лебедівка",
+        "area": "0.125 га",
+        "price": "32 000 $",
+        "distance_to_kyiv": "38,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7126450245264,30.5396114891807",
+        "notion_url": "https://www.notion.so/32949a17ea97811a978bd027dad73ff0",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-z-budvlyami-ID105L18.html",
+        "latitude": 50.7126450245264,
+        "longitude": 30.5396114891807,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
