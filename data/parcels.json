@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T20:15:16.714781Z",
+  "generated_at": "2026-03-20T20:20:13.767897Z",
   "counts": {
     "landmatch": 19,
-    "processing": 22,
+    "processing": 24,
     "landhub": 19
   },
   "categories": {
@@ -537,6 +537,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-8169-9e71-ee1080e42983",
+        "source": "processing",
+        "name": "Гнатівка",
+        "area": "0.4149 га",
+        "price": "29 000 $",
+        "distance_to_kyiv": "28,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3856760721303,30.2149199213121",
+        "notion_url": "https://www.notion.so/32949a17ea9781699e71ee1080e42983",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-0-4143ga-buchanskiy-rayon-ID101lfj.html",
+        "latitude": 50.3856760721303,
+        "longitude": 30.2149199213121,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-816c-b587-dc3d0c09124f",
         "source": "processing",
         "name": "Петрушки",
@@ -684,6 +701,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-10-sot-pd-budvnitstvo-s-n-dubechnya-28km-vd-m-g-dnpra-IDYQ0qe.html",
         "latitude": 50.6869841190112,
         "longitude": 30.6419969736882,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81e5-b2bd-d3d57ee374cd",
+        "source": "processing",
+        "name": "Григорівка",
+        "area": "0.25 га",
+        "price": "14 500 $",
+        "distance_to_kyiv": "51,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0540320278924,30.6127792690722",
+        "notion_url": "https://www.notion.so/32949a17ea9781e5b2bdd3d57ee374cd",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-sered-lsu-na-pagorb-25-sotok-30-km-kiv-5-km-obuhv-IDZWGor.html",
+        "latitude": 50.0540320278924,
+        "longitude": 30.6127792690722,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
