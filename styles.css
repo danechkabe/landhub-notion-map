@@ -2,6 +2,8 @@
   --bg: #f4f0e6;
   --surface: rgba(255, 251, 241, 0.82);
   --surface-strong: rgba(255, 251, 241, 0.95);
+  --accent: #f2cf57;
+  --accent-line: #cfac36;
   --ink: #182114;
   --muted: #67705b;
   --line: rgba(41, 56, 30, 0.12);
@@ -106,9 +108,11 @@ body {
 
 .category-tab.is-active,
 .status-chip.is-active {
-  background: var(--surface-strong);
-  border-color: rgba(44, 57, 28, 0.18);
-  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.7);
+  background: color-mix(in srgb, var(--accent) 72%, white);
+  border-color: var(--accent-line);
+  box-shadow:
+    inset 0 0 0 1px rgba(255, 248, 210, 0.9),
+    0 8px 18px rgba(191, 155, 39, 0.18);
 }
 
 .tab-symbol,
@@ -156,6 +160,33 @@ body {
 .parcel-popup {
   min-width: 228px;
   color: var(--ink);
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 22px;
+  box-shadow: 0 20px 42px rgba(39, 39, 24, 0.18);
+}
+
+.leaflet-popup-content {
+  margin: 16px 18px 14px;
+}
+
+.leaflet-popup-close-button {
+  top: 10px !important;
+  right: 10px !important;
+  width: 24px !important;
+  height: 24px !important;
+  border-radius: 999px;
+  background: rgba(250, 246, 234, 0.95);
+  color: #4a4f3a !important;
+  font-size: 18px !important;
+  line-height: 24px !important;
+  box-shadow: 0 8px 16px rgba(41, 46, 31, 0.16);
+}
+
+.leaflet-popup-close-button:hover {
+  background: white;
+  color: #1f2415 !important;
 }
 
 .parcel-popup h3 {
