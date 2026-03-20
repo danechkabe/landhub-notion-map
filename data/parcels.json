@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T17:40:15.949856Z",
+  "generated_at": "2026-03-20T17:45:16.004394Z",
   "counts": {
     "landmatch": 19,
-    "processing": 14,
+    "processing": 15,
     "landhub": 19
   },
   "categories": {
@@ -548,6 +548,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-12-sotok-s-zaymische-borisplskiy-r-n-IDY54h4.html",
         "latitude": 50.4746855794458,
         "longitude": 31.0220067967529,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81b1-832a-cf40ab601921",
+        "source": "processing",
+        "name": "Макарів",
+        "area": "0.15 га",
+        "price": "6 200 $",
+        "distance_to_kyiv": "—",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.478395799187,29.8390782811657",
+        "notion_url": "https://www.notion.so/32949a17ea9781b1832acf40ab601921",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-15-sot-smt-makarv-IDXd9aA.html",
+        "latitude": 50.478395799187,
+        "longitude": 29.8390782811657,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
