@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+    <title>LandHub Map</title>
+    <meta
+      name="description"
+      content="Інтерактивна карта активних ділянок LandHub."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <div class="eyebrow">LandHub</div>
+          <h1>Активні ділянки на карті</h1>
+          <p>
+            Відкрий локацію, клацни на <span class="heart-inline">💛</span> і
+            перейди в Google Maps одним натисканням.
+          </p>
+        </div>
+        <div class="hero-stats">
+          <div class="stat-card">
+            <span class="stat-label">Статус</span>
+            <strong>active</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Джерело</span>
+            <strong>Notion</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Маркер</span>
+            <strong>💛</strong>
+          </div>
+        </div>
+      </header>
+
+      <main class="map-layout">
+        <aside class="sidebar">
+          <div class="panel">
+            <div class="panel-kicker">Фільтр</div>
+            <h2>Усі активні ділянки</h2>
+            <p id="summary" class="summary">Завантаження даних…</p>
+          </div>
+
+          <div class="panel">
+            <div class="panel-kicker">Пояснення</div>
+            <ul class="legend">
+              <li><span class="legend-heart">💛</span> Точка на карті</li>
+              <li>У popup видно назву, площу й нашу ціну</li>
+              <li>Кнопка <code>Google Maps</code> веде на вихідну мапу</li>
+            </ul>
+          </div>
+        </aside>
+
+        <section class="map-card">
+          <div id="map" aria-label="Карта активних ділянок"></div>
+        </section>
+      </main>
+    </div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="./app.js" defer></script>
+  </body>
+</html>
