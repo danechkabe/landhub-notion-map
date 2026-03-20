@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T22:40:15.377827Z",
+  "generated_at": "2026-03-20T22:45:21.727251Z",
   "counts": {
     "landmatch": 19,
-    "processing": 59,
+    "processing": 60,
     "landhub": 19
   },
   "categories": {
@@ -769,6 +769,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/fasad-11-ga-prodazha-zemli-11-02-zhitomirskaya-trassa-s-kalinovka-IDZQ7Cb.html",
         "latitude": 50.4185880811532,
         "longitude": 29.8101749868992,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-816c-ac70-d6575d15d17a",
+        "source": "processing",
+        "name": "Лісовичі",
+        "area": "0.25 га",
+        "price": "4 000 $",
+        "distance_to_kyiv": "132 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.5110004535372,30.4661787062803",
+        "notion_url": "https://www.notion.so/32949a17ea97816cac70d6575d15d17a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-budvnitstvo-s-h-gospodarstva-taraschanskiy-rayon-IDXOg7R.html",
+        "latitude": 49.5110004535372,
+        "longitude": 30.4661787062803,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
