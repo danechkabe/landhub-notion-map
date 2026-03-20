@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T22:50:21.198239Z",
+  "generated_at": "2026-03-20T22:55:15.404777Z",
   "counts": {
     "landmatch": 19,
-    "processing": 61,
+    "processing": 62,
     "landhub": 19
   },
   "categories": {
@@ -633,6 +633,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyaka-pd-budvnitstvo-z-svtlom-ID104lLA.html",
         "latitude": 50.4956139230451,
         "longitude": 30.1480178905273,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8140-bf43-f2742ca78144",
+        "source": "processing",
+        "name": "Мирча",
+        "area": "0.233 га",
+        "price": "9 500 $",
+        "distance_to_kyiv": "72,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7504962308444,29.8369492739424",
+        "notion_url": "https://www.notion.so/32949a17ea978140bf43f2742ca78144",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/23-sot-pd-budvnitstvo-s-mircha-100m-ls-ta-ozero-49-km-kiv-ID100Omh.html",
+        "latitude": 50.7504962308444,
+        "longitude": 29.8369492739424,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
