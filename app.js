@@ -13,7 +13,7 @@ const processingFiltersNode = document.getElementById("processing-filters");
 const statusChips = Array.from(document.querySelectorAll(".status-chip"));
 
 const state = {
-  category: "landmatch",
+  activeCategories: new Set(categoryTabs.map((button) => button.dataset.category)),
   processingStatuses: new Set(statusChips.map((button) => button.dataset.statusKey)),
 };
 
@@ -107,15 +107,23 @@ function popupMarkup(item) {
 }
 
 function getVisibleItems() {
-  const items = Array.isArray(dataset.categories?.[state.category])
-    ? dataset.categories[state.category]
-    : [];
+  const items = [];
+  state.activeCategories.forEach((category) => {
+    const categoryItems = Array.isArray(dataset.categories?.[category])
+      ? dataset.categories[category]
+      : [];
 
-  if (state.category !== "processing") {
-    return items;
-  }
+    if (category === "processing") {
+      items.push(
+        ...categoryItems.filter((item) => state.processingStatuses.has(item.status_key)),
+      );
+      return;
+    }
 
-  return items.filter((item) => state.processingStatuses.has(item.status_key));
+    items.push(...categoryItems);
+  });
+
+  return items;
 }
 
 function renderMarkers() {
@@ -145,7 +153,7 @@ function renderMarkers() {
     marker.bindPopup(popupMarkup(item), {
       autoPanPaddingTopLeft: [24, 24],
       autoPanPaddingBottomRight: [24, 24],
-      closeButton: false,
+      closeButton: true,
     });
     marker.addTo(markerLayer);
     bounds.push([lat, lng]);
@@ -158,10 +166,10 @@ function renderMarkers() {
 
 function syncControls() {
   categoryTabs.forEach((button) => {
-    button.classList.toggle("is-active", button.dataset.category === state.category);
+    button.classList.toggle("is-active", state.activeCategories.has(button.dataset.category));
   });
 
-  const processingVisible = state.category === "processing";
+  const processingVisible = state.activeCategories.has("processing");
   processingFiltersNode.classList.toggle("is-hidden", !processingVisible);
 
   statusChips.forEach((button) => {
@@ -180,7 +188,12 @@ async function loadData() {
 function registerEvents() {
   categoryTabs.forEach((button) => {
     button.addEventListener("click", () => {
-      state.category = button.dataset.category;
+      const category = button.dataset.category;
+      if (state.activeCategories.has(category)) {
+        state.activeCategories.delete(category);
+      } else {
+        state.activeCategories.add(category);
+      }
       syncControls();
       renderMarkers();
     });
