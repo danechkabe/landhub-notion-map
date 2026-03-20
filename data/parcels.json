@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T17:20:15.806307Z",
+  "generated_at": "2026-03-20T17:25:19.746555Z",
   "counts": {
     "landmatch": 19,
-    "processing": 8,
+    "processing": 9,
     "landhub": 19
   },
   "categories": {
@@ -463,6 +463,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kozints-12-sotok-blya-lsu-IDZ9joe.html",
         "latitude": 50.5007767083389,
         "longitude": 30.0328134469154,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81ce-8499-d3f41c0cfd2a",
+        "source": "processing",
+        "name": "Нижча Дубечня",
+        "area": "0.1 га",
+        "price": "11 500 $",
+        "distance_to_kyiv": "—",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6869841190112,30.6419969736882",
+        "notion_url": "https://www.notion.so/32949a17ea9781ce8499d3f41c0cfd2a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-10-sot-pd-budvnitstvo-s-n-dubechnya-28km-vd-m-g-dnpra-IDYQ0qe.html",
+        "latitude": 50.6869841190112,
+        "longitude": 30.6419969736882,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
