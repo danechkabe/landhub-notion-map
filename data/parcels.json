@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T20:00:15.753636Z",
+  "generated_at": "2026-03-20T20:05:16.158169Z",
   "counts": {
     "landmatch": 19,
-    "processing": 16,
+    "processing": 17,
     "landhub": 19
   },
   "categories": {
@@ -599,6 +599,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-10-sot-pd-budvnitstvo-s-n-dubechnya-28km-vd-m-g-dnpra-IDYQ0qe.html",
         "latitude": 50.6869841190112,
         "longitude": 30.6419969736882,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81fe-b284-eee6a2f8cd41",
+        "source": "processing",
+        "name": "Лютіж",
+        "area": "1.4936 га",
+        "price": "32 000 $",
+        "distance_to_kyiv": "41,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6639570156688,30.2836230742416",
+        "notion_url": "https://www.notion.so/32949a17ea9781feb284eee6a2f8cd41",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-s-lyutzh-1-4936-ga-IDZXYWD.html",
+        "latitude": 50.6639570156688,
+        "longitude": 30.2836230742416,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
