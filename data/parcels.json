@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T23:45:29.299583Z",
+  "generated_at": "2026-03-20T23:50:17.657963Z",
   "counts": {
     "landmatch": 19,
-    "processing": 77,
+    "processing": 78,
     "landhub": 19
   },
   "categories": {
@@ -1092,6 +1092,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/pdgotovlena-dlyanka-u-muzichah-fundament-voda-septk-svtlo-ozero-IDYPmbJ.html",
         "latitude": 50.359687620503,
         "longitude": 30.1392952491185,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8188-b167-df5c381548a5",
+        "source": "processing",
+        "name": "Блиставиця",
+        "area": "0.1563 га",
+        "price": "24 500 $",
+        "distance_to_kyiv": "34,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6057782620043,30.1678796414592",
+        "notion_url": "https://www.notion.so/32949a17ea978188b167df5c381548a5",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zhitlovu-zabudovu-ls-ozero-chiste-povtrya-IDZOj0j.html",
+        "latitude": 50.6057782620043,
+        "longitude": 30.1678796414592,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
