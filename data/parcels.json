@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T21:55:17.523933Z",
+  "generated_at": "2026-03-20T21:56:33.695737Z",
   "counts": {
     "landmatch": 19,
-    "processing": 46,
+    "processing": 47,
     "landhub": 19
   },
   "categories": {
@@ -990,6 +990,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-blya-naberezhno-v-rpn-chudova-nvestitsya-ID104uej.html",
         "latitude": 50.5139311167179,
         "longitude": 30.2618973190951,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81c6-9149-c490943821b0",
+        "source": "processing",
+        "name": "Бородянка",
+        "area": "3.5061 га",
+        "price": "2 300 $",
+        "distance_to_kyiv": "58,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6711965425944,29.9697382392409",
+        "notion_url": "https://www.notion.so/32949a17ea9781c69149c490943821b0",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/3-5-ga-v-borodyants-prodatsya-dlyanka-IDO8fNB.html",
+        "latitude": 50.6711965425944,
+        "longitude": 29.9697382392409,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
