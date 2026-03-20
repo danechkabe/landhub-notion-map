@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T20:25:15.576440Z",
+  "generated_at": "2026-03-20T20:30:18.161306Z",
   "counts": {
     "landmatch": 19,
-    "processing": 25,
+    "processing": 28,
     "landhub": 19
   },
   "categories": {
@@ -486,6 +486,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-8148-a9c0-eafb7e442807",
+        "source": "processing",
+        "name": "Лютіж",
+        "area": "0.2824 га",
+        "price": "16 000 $",
+        "distance_to_kyiv": "40,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6618757653804,30.2857969972291",
+        "notion_url": "https://www.notion.so/32949a17ea978148a9c0eafb7e442807",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-s-lyutzh-ekologchno-chista-lokatsya-IDZXYCB.html",
+        "latitude": 50.6618757653804,
+        "longitude": 30.2857969972291,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-8154-8446-d7ead75e6514",
         "source": "processing",
         "name": "Бабинці",
@@ -599,6 +616,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kutova-dlyanka-15-sotok-u-zhilomu-masiv-asfalt-gaz-elektrika-ID105siV.html",
         "latitude": 50.2912739314553,
         "longitude": 30.2512298250962,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8173-ade9-cdb49641e8db",
+        "source": "processing",
+        "name": "Фурси",
+        "area": "0.1 га",
+        "price": "32 000 $",
+        "distance_to_kyiv": "94,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.823418438432,30.0559630317871",
+        "notion_url": "https://www.notion.so/32949a17ea978173ade9cdb49641e8db",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-s-fursi-pd-zabudovu-vd-vlasnika-0-1-ga-IDWTG57.html",
+        "latitude": 49.823418438432,
+        "longitude": 30.0559630317871,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
@@ -735,6 +769,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-sered-lsu-na-pagorb-25-sotok-30-km-kiv-5-km-obuhv-IDZWGor.html",
         "latitude": 50.0540320278924,
         "longitude": 30.6127792690722,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81e6-8700-d4a7f785d2cc",
+        "source": "processing",
+        "name": "Гостомель",
+        "area": "0.059 га",
+        "price": "25 000 $",
+        "distance_to_kyiv": "34,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5796168244079,30.2398346957171",
+        "notion_url": "https://www.notion.so/32949a17ea9781e68700d4a7f785d2cc",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-pd-zabudovu-v-m-gostomel-ID104zkX.html",
+        "latitude": 50.5796168244079,
+        "longitude": 30.2398346957171,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
