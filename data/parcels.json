@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T21:30:16.563434Z",
+  "generated_at": "2026-03-20T21:35:15.172465Z",
   "counts": {
     "landmatch": 19,
-    "processing": 39,
+    "processing": 41,
     "landhub": 19
   },
   "categories": {
@@ -537,6 +537,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-8137-b3a6-d80cada23a6b",
+        "source": "processing",
+        "name": "Білогородка",
+        "area": "0.0550 га",
+        "price": "17 000 $",
+        "distance_to_kyiv": "26,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.375842951816374,30.256611963082868",
+        "notion_url": "https://www.notion.so/32949a17ea978137b3a6d80cada23a6b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-pd-zabudovu-5-5-sotki-blogorodka-IDZUKvc.html",
+        "latitude": 50.375842951816374,
+        "longitude": 30.256611963082868,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-813f-bef0-c5455610976e",
         "source": "processing",
         "name": "Михайлівка-Рубежівка",
@@ -701,6 +718,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kutova-dlyanka-15-sotok-u-zhilomu-masiv-asfalt-gaz-elektrika-ID105siV.html",
         "latitude": 50.2912739314553,
         "longitude": 30.2512298250962,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8172-a6c7-c0a573628476",
+        "source": "processing",
+        "name": "Святопетрівське",
+        "area": "1.0168 га",
+        "price": "18 000 $",
+        "distance_to_kyiv": "26,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3722252734071,30.2614077372653",
+        "notion_url": "https://www.notion.so/32949a17ea978172a6c7c0a573628476",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kutova-dlyanka-6-01-sot-6-z-lchlnikom-pd-zabudovu-16000-IDZXaht.html",
+        "latitude": 50.3722252734071,
+        "longitude": 30.2614077372653,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
