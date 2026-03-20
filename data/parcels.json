@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T14:40:18.139100Z",
+  "generated_at": "2026-03-20T14:45:16.619034Z",
   "counts": {
     "landmatch": 19,
-    "processing": 4,
+    "processing": 6,
     "landhub": 20
   },
   "categories": {
@@ -399,6 +399,40 @@
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
         "status_key": "gives_to_sell"
+      },
+      {
+        "id": "32949a17-ea97-8132-a73d-e2e06ca510ab",
+        "source": "processing",
+        "name": "Ходосівка",
+        "area": "0.0899 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "26,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2591321626398,30.5116604091153",
+        "notion_url": "https://www.notion.so/32949a17ea978132a73de2e06ca510ab",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-selo-hodosvka-ID107NLn.html",
+        "latitude": 50.2591321626398,
+        "longitude": 30.5116604091153,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8189-b2bd-cfac5ccf1628",
+        "source": "processing",
+        "name": "Козинці",
+        "area": "0.12 га",
+        "price": "5 500 $",
+        "distance_to_kyiv": "49,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5007767083389,30.0328134469154",
+        "notion_url": "https://www.notion.so/32949a17ea978189b2bdcfac5ccf1628",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kozints-12-sotok-blya-lsu-IDZ9joe.html",
+        "latitude": 50.5007767083389,
+        "longitude": 30.0328134469154,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       }
     ],
     "landhub": [
