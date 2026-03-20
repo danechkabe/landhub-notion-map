@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T17:25:19.746555Z",
+  "generated_at": "2026-03-20T17:30:15.492458Z",
   "counts": {
     "landmatch": 19,
-    "processing": 9,
+    "processing": 11,
     "landhub": 19
   },
   "categories": {
@@ -446,6 +446,40 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-61-sotka-u-samomu-tsentr-sela-babints-z-komunkatsyami-ID107Unk.html",
         "latitude": 50.6332470824385,
         "longitude": 30.0223345991261,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8157-8440-de34e504ac04",
+        "source": "processing",
+        "name": "Нові Петрівці",
+        "area": "0.185 га",
+        "price": "32 000 $",
+        "distance_to_kyiv": "—",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6254774188808,30.4162952585532",
+        "notion_url": "https://www.notion.so/32949a17ea9781578440de34e504ac04",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-10-sot-pd-zhitlovu-zab-vu-v-n-petrvtsyah-14-km-vd-kiva-IDZMc1f.html",
+        "latitude": 50.6254774188808,
+        "longitude": 30.4162952585532,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-816c-b587-dc3d0c09124f",
+        "source": "processing",
+        "name": "Петрушки",
+        "area": "0.1 га",
+        "price": "19 900 $",
+        "distance_to_kyiv": "—",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4323003956358,30.1453588772863",
+        "notion_url": "https://www.notion.so/32949a17ea97816cb587dc3d0c09124f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-10-sotok-pd-zabudovu-s-petrushki-15km-do-kiva-IDY7RYC.html",
+        "latitude": 50.4323003956358,
+        "longitude": 30.1453588772863,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
