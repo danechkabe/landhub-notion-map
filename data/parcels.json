@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T21:20:17.802237Z",
+  "generated_at": "2026-03-20T21:25:16.086246Z",
   "counts": {
     "landmatch": 19,
-    "processing": 38,
+    "processing": 39,
     "landhub": 19
   },
   "categories": {
@@ -446,6 +446,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-z-budvlyami-ID105L18.html",
         "latitude": 50.7126450245264,
         "longitude": 30.5396114891807,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-811b-84ed-cebb010948b3",
+        "source": "processing",
+        "name": "Забір'я",
+        "area": "2.6634 га",
+        "price": "2 700 $",
+        "distance_to_kyiv": "41,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2858672965052,30.1985840578704",
+        "notion_url": "https://www.notion.so/32949a17ea97811b84edcebb010948b3",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-pay-266-zabrya-IDWVNP6.html",
+        "latitude": 50.2858672965052,
+        "longitude": 30.1985840578704,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
