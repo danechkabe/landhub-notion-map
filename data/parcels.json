@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T22:15:15.628639Z",
+  "generated_at": "2026-03-20T22:20:26.500329Z",
   "counts": {
     "landmatch": 19,
-    "processing": 52,
+    "processing": 54,
     "landhub": 19
   },
   "categories": {
@@ -418,6 +418,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-8111-85fc-ee595340c6c8",
+        "source": "processing",
+        "name": "Старі Безрадичі",
+        "area": "0.0989 га",
+        "price": "7 000 $",
+        "distance_to_kyiv": "44,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1753532548749,30.5288856046883",
+        "notion_url": "https://www.notion.so/32949a17ea97811185fcee595340c6c8",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-pod-kievom-s-bezradichi-10-sotok-obmen-IDhlrqG.html",
+        "latitude": 50.1753532548749,
+        "longitude": 30.5288856046883,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-8114-b6bf-defea238e4be",
         "source": "processing",
         "name": "Димер",
@@ -480,6 +497,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-mala-vlshanka-obuhvskiy-15-sot-ID107Php.html",
         "latitude": 50.0809772351876,
         "longitude": 30.4706433332424,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8124-a1ee-eec332d1659d",
+        "source": "processing",
+        "name": "Качали",
+        "area": "3.086 га",
+        "price": "2 200 $",
+        "distance_to_kyiv": "69,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7006527170447,29.8413914430224",
+        "notion_url": "https://www.notion.so/32949a17ea978124a1eeeec332d1659d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-pay-v-sel-kachali-IDUIKeh.html",
+        "latitude": 50.7006527170447,
+        "longitude": 29.8413914430224,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
