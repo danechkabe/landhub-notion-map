@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T22:20:26.500329Z",
+  "generated_at": "2026-03-20T22:25:16.558010Z",
   "counts": {
     "landmatch": 19,
-    "processing": 54,
+    "processing": 56,
     "landhub": 19
   },
   "categories": {
@@ -412,6 +412,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-18-sotok-s-trushki-vul-naberezhna-IDXTXDl.html",
         "latitude": 49.7655656757993,
         "longitude": 29.9343041928588,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-810e-b1b9-e39dfc96752f",
+        "source": "processing",
+        "name": "Стави",
+        "area": "0.25 га",
+        "price": "8 900 $",
+        "distance_to_kyiv": "79,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8635786458911,30.6445886132829",
+        "notion_url": "https://www.notion.so/32949a17ea97810eb1b9e39dfc96752f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-30-sot-s-stavi-IDY0Nal.html",
+        "latitude": 49.8635786458911,
+        "longitude": 30.6445886132829,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
@@ -1194,6 +1211,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-z-budinkom-ID106akc.html",
         "latitude": 50.0792795516824,
         "longitude": 30.0016149570979,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81f5-a45f-e88a9449b23f",
+        "source": "processing",
+        "name": "Нове",
+        "area": "0.0616 га",
+        "price": "17 000 $",
+        "distance_to_kyiv": "29,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.314147757935,30.3289206224433",
+        "notion_url": "https://www.notion.so/32949a17ea9781f5a45fe88a9449b23f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/s-nove-dlyanka-6-sotok-pd-budvnitstvo-IDZkScA.html",
+        "latitude": 50.314147757935,
+        "longitude": 30.3289206224433,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
