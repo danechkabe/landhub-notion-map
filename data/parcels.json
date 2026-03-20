@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T11:57:48.667669Z",
+  "generated_at": "2026-03-20T12:00:16.060590Z",
   "counts": {
     "landmatch": 19,
-    "processing": 3,
+    "processing": 4,
     "landhub": 20
   },
   "categories": {
@@ -348,6 +348,23 @@
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": "site_ok_olx_keeps"
+      },
+      {
+        "id": "31349a17-ea97-8071-bbe7-c8fc924a891d",
+        "source": "processing",
+        "name": "Димер",
+        "area": "—",
+        "price": "—",
+        "distance_to_kyiv": "—",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7744863599965,30.317565917252",
+        "notion_url": "https://www.notion.so/31349a17ea978071bbe7c8fc924a891d",
+        "olx_url": "https://www.olx.ua/d/obyavlenie/termnovo-ne-dorogo-prodam-12-sotok-pd-dachu-dimer-IDzLUMg.html",
+        "latitude": 50.7744863599965,
+        "longitude": 30.317565917252,
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "31949a17-ea97-8040-9f5e-ec88a2d98ab4",
