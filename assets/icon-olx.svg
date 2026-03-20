@@ -1,0 +1,18 @@
+  <svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="olxBg" x1="12" y1="12" x2="84" y2="84" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#38E3DD"/>
+        <stop offset="1" stop-color="#31D2D0"/>
+      </linearGradient>
+      <filter id="olxShadow" x="4" y="4" width="88" height="88" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+        <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#0B3040" flood-opacity="0.16"/>
+      </filter>
+    </defs>
+    <g filter="url(#olxShadow)">
+      <rect x="10" y="10" width="76" height="76" rx="18" fill="url(#olxBg)"/>
+      <path d="M23 52C23 42.0589 31.0589 34 41 34C50.9411 34 59 42.0589 59 52C59 61.9411 50.9411 70 41 70C31.0589 70 23 61.9411 23 52ZM32.5 52C32.5 56.6944 36.3056
+  60.5 41 60.5C45.6944 60.5 49.5 56.6944 49.5 52C49.5 47.3056 45.6944 43.5 41 43.5C36.3056 43.5 32.5 47.3056 32.5 52Z" fill="#072F3B"/>
+      <rect x="58.5" y="31" width="8.5" height="39" rx="1.8" fill="#072F3B"/>
+      <path d="M74.5 45.5L79.9 40H86L80.3 45.7L86.1 51.5H80L74.5 46V53H68.5V40H74.5V45.5Z" fill="#072F3B"/>
+    </g>
+  </svg>
