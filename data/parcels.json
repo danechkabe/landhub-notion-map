@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T17:30:15.492458Z",
+  "generated_at": "2026-03-20T17:35:18.362606Z",
   "counts": {
     "landmatch": 19,
-    "processing": 11,
+    "processing": 12,
     "landhub": 19
   },
   "categories": {
@@ -463,6 +463,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-10-sot-pd-zhitlovu-zab-vu-v-n-petrvtsyah-14-km-vd-kiva-IDZMc1f.html",
         "latitude": 50.6254774188808,
         "longitude": 30.4162952585532,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8166-8e33-fca9fea029da",
+        "source": "processing",
+        "name": "Пугачівка",
+        "area": "0.2499 га",
+        "price": "2 300 $",
+        "distance_to_kyiv": "—",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.7190867576744,30.3130069671851",
+        "notion_url": "https://www.notion.so/32949a17ea9781668e33fca9fea029da",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-24-9-sot-pod-zastroyku-na-r-ros-IDr0seC.html",
+        "latitude": 49.7190867576744,
+        "longitude": 30.3130069671851,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
