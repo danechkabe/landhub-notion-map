@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T20:05:16.158169Z",
+  "generated_at": "2026-03-20T20:10:16.633699Z",
   "counts": {
     "landmatch": 19,
-    "processing": 17,
+    "processing": 18,
     "landhub": 19
   },
   "categories": {
@@ -531,6 +531,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kutova-dlyanka-15-sotok-u-zhilomu-masiv-asfalt-gaz-elektrika-ID105siV.html",
         "latitude": 50.2912739314553,
         "longitude": 30.2512298250962,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8173-bec0-c358a74a031c",
+        "source": "processing",
+        "name": "Малютянка",
+        "area": "0.12 га",
+        "price": "20 000 $",
+        "distance_to_kyiv": "36,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2858385972286,30.2549084261847",
+        "notion_url": "https://www.notion.so/32949a17ea978173bec0c358a74a031c",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-12-sotok-pd-zabudovu-v-novomu-zhilomu-masiv-ID106ro7.html",
+        "latitude": 50.2858385972286,
+        "longitude": 30.2549084261847,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
