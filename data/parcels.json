@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T22:05:24.099674Z",
+  "generated_at": "2026-03-20T22:10:19.290444Z",
   "counts": {
     "landmatch": 19,
-    "processing": 48,
+    "processing": 49,
     "landhub": 19
   },
   "categories": {
@@ -820,6 +820,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kozints-12-sotok-blya-lsu-IDZ9joe.html",
         "latitude": 50.5007767083389,
         "longitude": 30.0328134469154,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8197-9a38-ef561968c078",
+        "source": "processing",
+        "name": "Гатне",
+        "area": "0.088 га",
+        "price": "25 000 $",
+        "distance_to_kyiv": "19,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3604039833047,30.3972374998006",
+        "notion_url": "https://www.notion.so/32949a17ea9781979a38ef561968c078",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-v-s-gatnomu-IDPNcjP.html",
+        "latitude": 50.3604039833047,
+        "longitude": 30.3972374998006,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
