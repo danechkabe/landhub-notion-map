@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T10:58:07.372620Z",
+  "generated_at": "2026-03-20T11:28:52.811153Z",
   "counts": {
     "landmatch": 19,
     "processing": 3,
@@ -361,10 +361,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-budvnitstvo-z-fundamentom-IDUScup.html",
         "latitude": 50.2677259026748,
         "longitude": 29.7686189218558,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "31a49a17-ea97-8087-8cc5-e3c002976f84",
