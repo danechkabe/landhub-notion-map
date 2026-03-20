@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T21:00:16.208492Z",
+  "generated_at": "2026-03-20T21:01:20.717428Z",
   "counts": {
     "landmatch": 19,
-    "processing": 35,
+    "processing": 36,
     "landhub": 19
   },
   "categories": {
@@ -888,6 +888,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-pd-zabudovu-v-m-gostomel-ID104zkX.html",
         "latitude": 50.5796168244079,
         "longitude": 30.2398346957171,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81ef-a4a0-f56be18eb395",
+        "source": "processing",
+        "name": "Велика Снітинка",
+        "area": "0.1746 га",
+        "price": "25 000 $",
+        "distance_to_kyiv": "72,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0792795516824,30.0016149570979",
+        "notion_url": "https://www.notion.so/32949a17ea9781efa4a0f56be18eb395",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-z-budinkom-ID106akc.html",
+        "latitude": 50.0792795516824,
+        "longitude": 30.0016149570979,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
