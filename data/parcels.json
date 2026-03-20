@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T21:10:17.394797Z",
+  "generated_at": "2026-03-20T21:15:16.542032Z",
   "counts": {
     "landmatch": 19,
-    "processing": 36,
+    "processing": 37,
     "landhub": 19
   },
   "categories": {
@@ -399,6 +399,23 @@
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
         "status_key": "gives_to_sell"
+      },
+      {
+        "id": "32949a17-ea97-8107-b8d9-dc9ceb9ca146",
+        "source": "processing",
+        "name": "Трушки",
+        "area": "0.1817 га",
+        "price": "21 900 $",
+        "distance_to_kyiv": "105 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.7655656757993,29.9343041928588",
+        "notion_url": "https://www.notion.so/32949a17ea978107b8d9dc9ceb9ca146",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-18-sotok-s-trushki-vul-naberezhna-IDXTXDl.html",
+        "latitude": 49.7655656757993,
+        "longitude": 29.9343041928588,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       },
       {
         "id": "32949a17-ea97-8114-b6bf-defea238e4be",
