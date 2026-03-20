@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T20:30:18.161306Z",
+  "generated_at": "2026-03-20T20:35:13.786445Z",
   "counts": {
     "landmatch": 19,
-    "processing": 28,
+    "processing": 33,
     "landhub": 19
   },
   "categories": {
@@ -452,6 +452,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-8129-80d3-e71f2aaad339",
+        "source": "processing",
+        "name": "Обухів",
+        "area": "0.0516 га",
+        "price": "9 500 $",
+        "distance_to_kyiv": "45,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1209260489561,30.5983478340328",
+        "notion_url": "https://www.notion.so/32949a17ea97812980d3e71f2aaad339",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-IDVjIqi.html",
+        "latitude": 50.1209260489561,
+        "longitude": 30.5983478340328,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-8132-a73d-e2e06ca510ab",
         "source": "processing",
         "name": "Ходосівка",
@@ -480,6 +497,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyaka-pd-budvnitstvo-z-svtlom-ID104lLA.html",
         "latitude": 50.4956139230451,
         "longitude": 30.1480178905273,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8145-b487-ec5003456de5",
+        "source": "processing",
+        "name": "Мощун",
+        "area": "0.1 га",
+        "price": "14 000 $",
+        "distance_to_kyiv": "34,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6031955560765,30.259161949055",
+        "notion_url": "https://www.notion.so/32949a17ea978145b487ec5003456de5",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/top-tsna-10-sot-pd-zabudovu-gostomel-bucha-blistavitsya-moschun-gorenka-IDZXWXC.html",
+        "latitude": 50.6031955560765,
+        "longitude": 30.259161949055,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
@@ -724,6 +758,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-81bb-b648-f6a1c83ff822",
+        "source": "processing",
+        "name": "Гвоздів",
+        "area": "0.1 га",
+        "price": "19 000 $",
+        "distance_to_kyiv": "29,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.247891634291,30.5008806257059",
+        "notion_url": "https://www.notion.so/32949a17ea9781bbb648f6a1c83ff822",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/bez-prodazh-dlyanki-10-10-sot-pd-zabudovu-gvozdv-krenich-pdgrts-ID104h8m.html",
+        "latitude": 50.247891634291,
+        "longitude": 30.5008806257059,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-81bd-8b3b-f1e8ccab4db4",
         "source": "processing",
         "name": "Ірпінь",
@@ -741,6 +792,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-81c4-bcb5-f8b09f3ba361",
+        "source": "processing",
+        "name": "Ірпінь",
+        "area": "0.12 га",
+        "price": "22 000 $",
+        "distance_to_kyiv": "28,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5139311167179,30.2618973190951",
+        "notion_url": "https://www.notion.so/32949a17ea9781c4bcb5f8b09f3ba361",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-blya-naberezhno-v-rpn-chudova-nvestitsya-ID104uej.html",
+        "latitude": 50.5139311167179,
+        "longitude": 30.2618973190951,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-81ce-8499-d3f41c0cfd2a",
         "source": "processing",
         "name": "Нижча Дубечня",
@@ -752,6 +820,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-10-sot-pd-budvnitstvo-s-n-dubechnya-28km-vd-m-g-dnpra-IDYQ0qe.html",
         "latitude": 50.6869841190112,
         "longitude": 30.6419969736882,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81e0-9f66-cc858c14f11b",
+        "source": "processing",
+        "name": "Макарів",
+        "area": "0.1 га",
+        "price": "13 000 $",
+        "distance_to_kyiv": "54,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4763920880216,29.8220147823439",
+        "notion_url": "https://www.notion.so/32949a17ea9781e09f66cc858c14f11b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-10-sotok-ID104D8G.html",
+        "latitude": 50.4763920880216,
+        "longitude": 29.8220147823439,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
