@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T14:45:16.619034Z",
+  "generated_at": "2026-03-20T14:50:14.515925Z",
   "counts": {
     "landmatch": 19,
-    "processing": 6,
+    "processing": 7,
     "landhub": 20
   },
   "categories": {
@@ -399,6 +399,23 @@
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
         "status_key": "gives_to_sell"
+      },
+      {
+        "id": "32949a17-ea97-8121-b9cc-c16ed6cafae2",
+        "source": "processing",
+        "name": "Мала Вільшанка",
+        "area": "0.15 га",
+        "price": "9 000 $",
+        "distance_to_kyiv": "55,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0809772351876,30.4706433332424",
+        "notion_url": "https://www.notion.so/32949a17ea978121b9ccc16ed6cafae2",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-mala-vlshanka-obuhvskiy-15-sot-ID107Php.html",
+        "latitude": 50.0809772351876,
+        "longitude": 30.4706433332424,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       },
       {
         "id": "32949a17-ea97-8132-a73d-e2e06ca510ab",
