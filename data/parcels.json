@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-20T15:08:18.693767Z",
+  "generated_at": "2026-03-20T15:12:59.055558Z",
   "counts": {
     "landmatch": 19,
     "processing": 8,
-    "landhub": 20
+    "landhub": 19
   },
   "categories": {
     "landmatch": [
@@ -672,23 +672,6 @@
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "Not started",
-        "status_key": ""
-      },
-      {
-        "id": "32949a17-ea97-816b-baee-dd33991d0ed2",
-        "source": "landhub",
-        "name": "Мостище",
-        "area": "0.25 га",
-        "price": "8500$",
-        "distance_to_kyiv": "27 км",
-        "google_maps_url": "https://www.google.com/maps/place/50%C2%B018'04.8%22N+30%C2%B000'49.2%22E/@50.3013337,30.0136569,692m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d50.3013337!4d30.0136569?entry=ttu&g_ep=EgoyMDI2MDIyNC4wIKXMDSoASAFQAw%3D%3D",
-        "notion_url": "https://www.notion.so/32949a17ea97816bbaeedd33991d0ed2",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-v-mostische-IDKJGwu.html",
-        "latitude": 50.3013337,
-        "longitude": 30.0136569,
-        "marker_symbol": "📍",
-        "marker_color": "#111111",
-        "status_label": "Дає на реалізацію",
         "status_key": ""
       },
       {
