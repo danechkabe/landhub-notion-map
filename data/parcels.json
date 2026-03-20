@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T23:00:19.671712Z",
+  "generated_at": "2026-03-20T23:05:19.656339Z",
   "counts": {
     "landmatch": 19,
-    "processing": 62,
+    "processing": 65,
     "landhub": 19
   },
   "categories": {
@@ -401,6 +401,23 @@
         "status_key": "gives_to_sell"
       },
       {
+        "id": "32949a17-ea97-8102-addb-d5654b73cf9f",
+        "source": "processing",
+        "name": "Шкарівка",
+        "area": "0.1262 га",
+        "price": "13 000 $",
+        "distance_to_kyiv": "98,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.7589476238673,30.1536413442059",
+        "notion_url": "https://www.notion.so/32949a17ea978102addbd5654b73cf9f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-v-shkarvts-IDV6Jvf.html",
+        "latitude": 49.7589476238673,
+        "longitude": 30.1536413442059,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-8107-b8d9-dc9ceb9ca146",
         "source": "processing",
         "name": "Трушки",
@@ -463,6 +480,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kivska-oblast-smt-dimer-vul-pashkova-ID1011nP.html",
         "latitude": 50.7758440312175,
         "longitude": 30.3183654178549,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8119-930b-ecb04e9ce3c5",
+        "source": "processing",
+        "name": "Шпитьки",
+        "area": "0.1511 га",
+        "price": "21 200 $",
+        "distance_to_kyiv": "33,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.41055807954566,30.130111115519693",
+        "notion_url": "https://www.notion.so/32949a17ea978119930becb04e9ce3c5",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-15-sot-zemelno-dlyanki-z-komunkatsyami-v-tsentr-sela-IDYmXHF.html",
+        "latitude": 50.41055807954566,
+        "longitude": 30.130111115519693,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
@@ -922,6 +956,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDYGQy8.html",
         "latitude": 50.1845603187207,
         "longitude": 29.8159646289053,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-817d-80cb-e336ca7e3a64",
+        "source": "processing",
+        "name": "Музичі",
+        "area": "0.0849 га",
+        "price": "14 900 $",
+        "distance_to_kyiv": "37,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.359687620503,30.1392952491185",
+        "notion_url": "https://www.notion.so/32949a17ea97817d80cbe336ca7e3a64",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/pdgotovlena-dlyanka-u-muzichah-fundament-voda-septk-svtlo-ozero-IDYPmbJ.html",
+        "latitude": 50.359687620503,
+        "longitude": 30.1392952491185,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
