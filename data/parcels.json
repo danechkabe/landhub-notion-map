@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T23:35:15.444075Z",
+  "generated_at": "2026-03-20T23:40:15.423999Z",
   "counts": {
     "landmatch": 19,
-    "processing": 74,
+    "processing": 77,
     "landhub": 19
   },
   "categories": {
@@ -622,6 +622,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-812a-9dff-df0a729a0e87",
+        "source": "processing",
+        "name": "Віта-Поштова",
+        "area": "0.1237 га",
+        "price": "27 000 $",
+        "distance_to_kyiv": "24,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.326783460405,30.3707821146833",
+        "notion_url": "https://www.notion.so/32949a17ea97812a9dffdf0a729a0e87",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zabudovu-12-37-sotok-vta-poshtova-IDYYJzP.html",
+        "latitude": 50.326783460405,
+        "longitude": 30.3707821146833,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-812b-b364-ddbe92c831a3",
         "source": "processing",
         "name": "Житні Гори",
@@ -820,6 +837,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-tskavu-dlyanku-16-sotok-na-pochatku-gogolva-brovari-13-hv-IDYT86O.html",
         "latitude": 50.5080413656544,
         "longitude": 30.9906825427956,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8160-b14b-c3c688f57b60",
+        "source": "processing",
+        "name": "Гнідин",
+        "area": "0.0697 га",
+        "price": "28 000 $",
+        "distance_to_kyiv": "19,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3504140447034,30.6250412727004",
+        "notion_url": "https://www.notion.so/32949a17ea978160b14bc3c688f57b60",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-dlyanka-bez-m-slavutich-6-km-s-t-zlagoda-IDLXPrJ.html",
+        "latitude": 50.3504140447034,
+        "longitude": 30.6250412727004,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
@@ -1415,6 +1449,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-12-sotok-tslove-nd-sadvnitstvo-s-buzova-IDZCtiz.html",
         "latitude": 50.426769591297,
         "longitude": 30.0293504414951,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81de-8883-d56d1fbeb88c",
+        "source": "processing",
+        "name": "Плесецьке",
+        "area": "0.25 га",
+        "price": "9 800 $",
+        "distance_to_kyiv": "50,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2143179689353,30.103942051112",
+        "notion_url": "https://www.notion.so/32949a17ea9781de8883d56d1fbeb88c",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zem-dlyanka-pd-zhitloviy-budinok-0-25-ga-plesetske-vul-lsna-10-IDZBTkw.html",
+        "latitude": 50.2143179689353,
+        "longitude": 30.103942051112,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
