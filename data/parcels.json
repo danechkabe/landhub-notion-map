@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T23:20:17.916397Z",
+  "generated_at": "2026-03-20T23:25:14.195909Z",
   "counts": {
     "landmatch": 19,
-    "processing": 70,
+    "processing": 73,
     "landhub": 19
   },
   "categories": {
@@ -707,6 +707,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-8143-a1b5-f6212322b270",
+        "source": "processing",
+        "name": "Забуяння",
+        "area": "0.1495 га",
+        "price": "7 900 $",
+        "distance_to_kyiv": "74,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5506183935196,29.6435509764243",
+        "notion_url": "https://www.notion.so/32949a17ea978143a1b5f6212322b270",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/15-sotok-blya-ozera-55-km-vd-kiva-mozhna-buduvati-IDZLneN.html",
+        "latitude": 50.5506183935196,
+        "longitude": 29.6435509764243,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-8145-b487-ec5003456de5",
         "source": "processing",
         "name": "Мощун",
@@ -820,6 +837,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-24-9-sot-pod-zastroyku-na-r-ros-IDr0seC.html",
         "latitude": 49.7190867576744,
         "longitude": 30.3130069671851,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8168-9eca-eafda3d4dc5b",
+        "source": "processing",
+        "name": "Шпитьки",
+        "area": "0.0799 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "33,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4210836058526,30.1345521444183",
+        "notion_url": "https://www.notion.so/32949a17ea9781689ecaeafda3d4dc5b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-8-sotok-IDZckcy.html",
+        "latitude": 50.4210836058526,
+        "longitude": 30.1345521444183,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
@@ -1347,6 +1381,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-10-sot-pd-budvnitstvo-s-n-dubechnya-28km-vd-m-g-dnpra-IDYQ0qe.html",
         "latitude": 50.6869841190112,
         "longitude": 30.6419969736882,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81da-bdd7-dc26944a849b",
+        "source": "processing",
+        "name": "Бузова",
+        "area": "0.12 га",
+        "price": "14 000 $",
+        "distance_to_kyiv": "37,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.426769591297,30.0293504414951",
+        "notion_url": "https://www.notion.so/32949a17ea9781dabdd7dc26944a849b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-12-sotok-tslove-nd-sadvnitstvo-s-buzova-IDZCtiz.html",
+        "latitude": 50.426769591297,
+        "longitude": 30.0293504414951,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
