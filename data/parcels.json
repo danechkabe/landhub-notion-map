@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T22:25:16.558010Z",
+  "generated_at": "2026-03-20T22:30:18.198514Z",
   "counts": {
     "landmatch": 19,
-    "processing": 56,
+    "processing": 58,
     "landhub": 19
   },
   "categories": {
@@ -877,6 +877,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-817a-984e-d8bd6d02a145",
+        "source": "processing",
+        "name": "Пришивальня",
+        "area": "0.1188 га",
+        "price": "5 500 $",
+        "distance_to_kyiv": "71,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1845603187207,29.8159646289053",
+        "notion_url": "https://www.notion.so/32949a17ea97817a984ed8bd6d02a145",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDYGQy8.html",
+        "latitude": 50.1845603187207,
+        "longitude": 29.8159646289053,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-8189-b2bd-cfac5ccf1628",
         "source": "processing",
         "name": "Козинці",
@@ -888,6 +905,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kozints-12-sotok-blya-lsu-IDZ9joe.html",
         "latitude": 50.5007767083389,
         "longitude": 30.0328134469154,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8190-8b9a-fc2ba16747f6",
+        "source": "processing",
+        "name": "Білогородка",
+        "area": "1.0245 га",
+        "price": "15 000 $",
+        "distance_to_kyiv": "26,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.371265583877,30.2605812872039",
+        "notion_url": "https://www.notion.so/32949a17ea9781908b9afc2ba16747f6",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-5-2-sot-10-z-lchilnikom-bez-koms-IDZOCuO.html",
+        "latitude": 50.371265583877,
+        "longitude": 30.2605812872039,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
