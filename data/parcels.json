@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T21:50:17.295386Z",
+  "generated_at": "2026-03-20T21:55:17.523933Z",
   "counts": {
     "landmatch": 19,
-    "processing": 43,
+    "processing": 46,
     "landhub": 19
   },
   "categories": {
@@ -486,6 +486,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-8128-9240-cc480105573b",
+        "source": "processing",
+        "name": "Білогородка",
+        "area": "0.4131 га",
+        "price": "4 000 $",
+        "distance_to_kyiv": "31,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3762099258817,30.1934456944452",
+        "notion_url": "https://www.notion.so/32949a17ea9781289240cc480105573b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/do-01-05-srochno-tsena-snizhena-eksklyuzivnyy-zemelnyy-uchastok-41-IDUsOZt.html",
+        "latitude": 50.3762099258817,
+        "longitude": 30.1934456944452,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-8129-80d3-e71f2aaad339",
         "source": "processing",
         "name": "Обухів",
@@ -843,6 +860,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32949a17-ea97-81b1-8133-d20bcfb56e19",
+        "source": "processing",
+        "name": "Козин",
+        "area": "0.25 га",
+        "price": "9 500 $",
+        "distance_to_kyiv": "40,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1634340735729,30.7299869557677",
+        "notion_url": "https://www.notion.so/32949a17ea9781b18133d20bcfb56e19",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-s-plyuti-obuhvskiy-r-n-z-vihodom-na-kozinku-IDZJrR8.html",
+        "latitude": 50.1634340735729,
+        "longitude": 30.7299869557677,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32949a17-ea97-81b1-832a-cf40ab601921",
         "source": "processing",
         "name": "Макарів",
@@ -922,6 +956,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/krascha-tsna-v-rpen-dlyanka-dlya-budinku-abo-pd-bznes-sklad-ID101lOI.html",
         "latitude": 50.5327750958874,
         "longitude": 30.2793965008298,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-81c3-843d-e79079778bf3",
+        "source": "processing",
+        "name": "Калинівка",
+        "area": "1.953 га",
+        "price": "4 000 $",
+        "distance_to_kyiv": "55,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.418819895753,29.8149180915994",
+        "notion_url": "https://www.notion.so/32949a17ea9781c3843de79079778bf3",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/fasad-2ga-prodazha-uchastka-11-02-promyshlennost-zhitomirskaya-trassa-IDZQThs.html",
+        "latitude": 50.418819895753,
+        "longitude": 29.8149180915994,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
