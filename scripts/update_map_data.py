@@ -292,7 +292,7 @@
                   return float(match.group(1)), float(match.group(2))
 
       for candidate in (parsed.path, unquote(parsed.path), normalized):
-          match = re.search(r"@(-?\\d{1,3}\\.\\d+),(-?\\d{1,3}\\.\\d+)", candidate)
+          match = re.search(r"@(-?\d{1,3}\.\d+),(-?\d{1,3}\.\d+)", candidate)
           if match:
               return float(match.group(1)), float(match.group(2))
 
