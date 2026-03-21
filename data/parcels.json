@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T00:10:17.382642Z",
+  "generated_at": "2026-03-21T00:15:19.154239Z",
   "counts": {
     "landmatch": 19,
-    "processing": 83,
+    "processing": 85,
     "landhub": 19
   },
   "categories": {
@@ -1710,6 +1710,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8175-b98c-fe2b64854d94",
+        "source": "processing",
+        "name": "Пилиповичі",
+        "area": "0.15 га",
+        "price": "21 000 $",
+        "distance_to_kyiv": "49,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6080957350602,29.9494991958897",
+        "notion_url": "https://www.notion.so/32a49a17ea978175b98cfe2b64854d94",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-z-komunkatsyami-kivska-oblast-IDZy9r3.html",
+        "latitude": 50.6080957350602,
+        "longitude": 29.9494991958897,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8196-81f5-d3c95743f583",
         "source": "processing",
         "name": "Фасова",
@@ -1721,6 +1738,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-krasivomu-msts-ta-v-mezhah-sela-IDNjUZO.html",
         "latitude": 50.3904327775595,
         "longitude": 29.7956806697899,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81b2-a954-f4ce33149260",
+        "source": "processing",
+        "name": "Мостище",
+        "area": "0.2499 га",
+        "price": "8 300 $",
+        "distance_to_kyiv": "47,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2811230710606,30.0362944186413",
+        "notion_url": "https://www.notion.so/32a49a17ea9781b2a954f4ce33149260",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodaetsya-uchastok-v-mostysche-makarovskiy-r-n-IDKJDAv.html",
+        "latitude": 50.2811230710606,
+        "longitude": 30.0362944186413,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
