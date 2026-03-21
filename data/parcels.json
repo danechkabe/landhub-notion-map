@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T04:05:20.030836Z",
+  "generated_at": "2026-03-21T04:10:20.097913Z",
   "counts": {
     "landmatch": 19,
-    "processing": 133,
+    "processing": 135,
     "landhub": 19
   },
   "categories": {
@@ -1778,6 +1778,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8107-a5ba-e64ad98704a9",
+        "source": "processing",
+        "name": "Новосілки",
+        "area": "0.0836 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "18,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3556356689912,30.4593110859332",
+        "notion_url": "https://www.notion.so/32a49a17ea978107a5bae64ad98704a9",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-obmn-zem-dlyanki-9-79-sotki-s-novoslki-chabanvska-s-r-IDSRB7t.html",
+        "latitude": 50.3556356689912,
+        "longitude": 30.4593110859332,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-810b-a1c0-f80846ac7b16",
         "source": "processing",
         "name": "Таценки",
@@ -2350,6 +2367,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-12-sotok-obuhovskiy-r-n-IDMhutg.html",
         "latitude": 50.2377889792232,
         "longitude": 30.513686110081,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81d8-8bac-f84a09dc9630",
+        "source": "processing",
+        "name": "Бобриця",
+        "area": "0.12 га",
+        "price": "14 400 $",
+        "distance_to_kyiv": "34,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3503624560883,30.1619238111255",
+        "notion_url": "https://www.notion.so/32a49a17ea9781d88bacf84a09dc9630",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-bobrits-buchanskogo-rayonu-IDTNbgT.html",
+        "latitude": 50.3503624560883,
+        "longitude": 30.1619238111255,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
