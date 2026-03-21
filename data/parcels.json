@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T00:55:15.212478Z",
+  "generated_at": "2026-03-21T01:00:20.077215Z",
   "counts": {
     "landmatch": 19,
-    "processing": 98,
+    "processing": 99,
     "landhub": 19
   },
   "categories": {
@@ -1755,6 +1755,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-mzh-zabryam-zhornvkoyu-19-5-ga-pd-zabudovu-IDYONO7.html",
         "latitude": 50.3217135230082,
         "longitude": 30.1758701559114,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8160-a369-fdef080c2b97",
+        "source": "processing",
+        "name": "Михайлівка-Рубежівка",
+        "area": "0.1497 га",
+        "price": "16 000 $",
+        "distance_to_kyiv": "38,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5209310241738,30.1170619458365",
+        "notion_url": "https://www.notion.so/32a49a17ea978160a369fdef080c2b97",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-z-elektrikoyu-15-sot-IDZUcth.html",
+        "latitude": 50.5209310241738,
+        "longitude": 30.1170619458365,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
