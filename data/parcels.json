@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T05:20:18.613522Z",
+  "generated_at": "2026-03-21T05:25:18.017609Z",
   "counts": {
     "landmatch": 19,
-    "processing": 150,
+    "processing": 151,
     "landhub": 19
   },
   "categories": {
@@ -2503,6 +2503,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-15-sotok-komnunkats-poruch-bez-koms-IDYxg6a.html",
         "latitude": 50.4246606768445,
         "longitude": 30.0465576707624,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81ab-b881-fbf6a9189345",
+        "source": "processing",
+        "name": "Абрамівка",
+        "area": "0.1824 га",
+        "price": "13 000 $",
+        "distance_to_kyiv": "55,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7447156238675,30.099553780949",
+        "notion_url": "https://www.notion.so/32a49a17ea9781abb881fbf6a9189345",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/56-sotok-selo-abramvka-krasch-dlyanki-v-sel-IDZMSos.html",
+        "latitude": 50.7447156238675,
+        "longitude": 30.099553780949,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
