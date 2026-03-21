@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T04:40:17.833843Z",
+  "generated_at": "2026-03-21T04:45:23.738218Z",
   "counts": {
     "landmatch": 19,
-    "processing": 139,
+    "processing": 140,
     "landhub": 19
   },
   "categories": {
@@ -2282,6 +2282,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/idealno-pod-sklady-sobstvennik-zemlya-pod-kievom-osg-srochno-IDPNdvZ.html",
         "latitude": 50.6287826032125,
         "longitude": 30.3809824847344,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8189-a4a8-d20b4529b9fe",
+        "source": "processing",
+        "name": "Новосілки",
+        "area": "2 га",
+        "price": "4 700 $",
+        "distance_to_kyiv": "28,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6037314934654,30.5850123436401",
+        "notion_url": "https://www.notion.so/32a49a17ea978189a4a8d20b4529b9fe",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/fasad-2-46-ga-novoslki-zmna-pd-komertsyu-2700u-e-sot-IDM3O3b.html",
+        "latitude": 50.6037314934654,
+        "longitude": 30.5850123436401,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
