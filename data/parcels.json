@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T04:50:18.894799Z",
+  "generated_at": "2026-03-21T04:53:52.185437Z",
   "counts": {
     "landmatch": 19,
-    "processing": 142,
+    "processing": 143,
     "landhub": 19
   },
   "categories": {
@@ -2265,6 +2265,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-pd-budvnitstvo-poruch-ls-ta-ozero-13-km-kiv-IDYS1H2.html",
         "latitude": 50.49803432360393,
         "longitude": 30.138335885016254,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-817a-baa7-cc9822b4219e",
+        "source": "processing",
+        "name": "Хотів",
+        "area": "0.1134 га",
+        "price": "26 000 $",
+        "distance_to_kyiv": "24,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3133389127181,30.4942869915204",
+        "notion_url": "https://www.notion.so/32a49a17ea97817abaa7cc9822b4219e",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-11-sotok-v-s-hotv-IDXWyXU.html",
+        "latitude": 50.3133389127181,
+        "longitude": 30.4942869915204,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
