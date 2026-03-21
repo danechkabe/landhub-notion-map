@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T07:50:19.940832Z",
+  "generated_at": "2026-03-21T07:55:16.498943Z",
   "counts": {
     "landmatch": 19,
-    "processing": 193,
+    "processing": 194,
     "landhub": 19
   },
   "categories": {
@@ -3200,6 +3200,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-12-sotok-obuhovskiy-r-n-IDMhutg.html",
         "latitude": 50.2377889792232,
         "longitude": 30.513686110081,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81d4-9728-f6b6d551f9b8",
+        "source": "processing",
+        "name": "Андріївка",
+        "area": "2.42 га",
+        "price": "20 000 $",
+        "distance_to_kyiv": "71,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5801216567077,29.7989460458477",
+        "notion_url": "https://www.notion.so/32a49a17ea9781d49728f6b6d551f9b8",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/noviy-korogod-andrvka-prodam-dlyaku-2-42ga-ID107khO.html",
+        "latitude": 50.5801216567077,
+        "longitude": 29.7989460458477,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
