@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T07:09:15.031066Z",
+  "generated_at": "2026-03-21T07:10:22.288551Z",
   "counts": {
     "landmatch": 19,
-    "processing": 177,
+    "processing": 178,
     "landhub": 19
   },
   "categories": {
@@ -2197,6 +2197,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-dlya-bznesu-vishgorod-ID107dUa.html",
         "latitude": 50.5958200956182,
         "longitude": 30.4612963627111,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8144-8103-dbe25be49b75",
+        "source": "processing",
+        "name": "Білогородка",
+        "area": "0.0293 га",
+        "price": "15 000 $",
+        "distance_to_kyiv": "24,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.38031000472086,30.26142708437305",
+        "notion_url": "https://www.notion.so/32a49a17ea9781448103dbe25be49b75",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ID1044d2.html",
+        "latitude": 50.38031000472086,
+        "longitude": 30.26142708437305,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
