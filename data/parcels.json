@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T08:05:20.338114Z",
+  "generated_at": "2026-03-21T08:10:21.304584Z",
   "counts": {
     "landmatch": 19,
-    "processing": 195,
+    "processing": 197,
     "landhub": 19
   },
   "categories": {
@@ -2101,6 +2101,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8135-a840-f583042787e7",
+        "source": "processing",
+        "name": "Забір'я",
+        "area": "0.0565 га",
+        "price": "7 000 $",
+        "distance_to_kyiv": "34,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3147242668712,30.2181628394878",
+        "notion_url": "https://www.notion.so/32a49a17ea978135a840f583042787e7",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ID106gEM.html",
+        "latitude": 50.3147242668712,
+        "longitude": 30.2181628394878,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8138-a54b-d0c6f0223980",
         "source": "processing",
         "name": "Хотів",
@@ -3013,6 +3030,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dmitrvka-kuba-8-59-sotok-vlasnik-IDZT0b8.html",
         "latitude": 50.4725816582877,
         "longitude": 30.1820685313718,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81aa-8a0a-ff92a15d3934",
+        "source": "processing",
+        "name": "Миколаївка",
+        "area": "0.06 га",
+        "price": "13 000 $",
+        "distance_to_kyiv": "43,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4562473577255,30.033204214064",
+        "notion_url": "https://www.notion.so/32a49a17ea9781aa8a0aff92a15d3934",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-dlyanka-dacha-buzova-mikolavka-27km-vd-m-zhitomirska-IDT7BkU.html",
+        "latitude": 50.4562473577255,
+        "longitude": 30.033204214064,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
