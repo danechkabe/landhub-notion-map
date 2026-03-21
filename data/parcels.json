@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T01:45:18.125795Z",
+  "generated_at": "2026-03-21T01:50:16.188607Z",
   "counts": {
     "landmatch": 19,
-    "processing": 109,
+    "processing": 110,
     "landhub": 19
   },
   "categories": {
@@ -2095,6 +2095,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-9-sotok-pd-zabudovu-mala-soltanovka-IDYcMHe.html",
         "latitude": 50.1735093278045,
         "longitude": 30.1588336065481,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81df-9111-f2ab0864216e",
+        "source": "processing",
+        "name": "Віта-Поштова",
+        "area": "0.6299 га",
+        "price": "8 500 $",
+        "distance_to_kyiv": "25,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3040390725087,30.3651631525811",
+        "notion_url": "https://www.notion.so/32a49a17ea9781df9111f2ab0864216e",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/vta-poshtova-vul-zvenigorodska-63-sot-komertsynogo-priznachennya-IDYWvtC.html",
+        "latitude": 50.3040390725087,
+        "longitude": 30.3651631525811,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
