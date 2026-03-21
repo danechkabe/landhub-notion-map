@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T05:45:17.252927Z",
+  "generated_at": "2026-03-21T05:50:18.813346Z",
   "counts": {
     "landmatch": 19,
-    "processing": 157,
+    "processing": 159,
     "landhub": 19
   },
   "categories": {
@@ -1846,6 +1846,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8120-983c-c88634fb45b7",
+        "source": "processing",
+        "name": "Ходосівка",
+        "area": "0.0899 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "26,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2591321626398,30.5116604091153",
+        "notion_url": "https://www.notion.so/32a49a17ea978120983cc88634fb45b7",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-selo-hodosvka-ID107NLn.html",
+        "latitude": 50.2591321626398,
+        "longitude": 30.5116604091153,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8121-b5fb-fe8a29c3cba1",
         "source": "processing",
         "name": "Біла Церква",
@@ -2231,6 +2248,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-v-s-buki-pd-zabudovu-IDVIbGK.html",
         "latitude": 49.8368214344629,
         "longitude": 29.6637945113519,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8164-a629-c73377176f45",
+        "source": "processing",
+        "name": "Шпитьки",
+        "area": "0.7259 га",
+        "price": "3 300 $",
+        "distance_to_kyiv": "35,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4006261560722,30.1214502159995",
+        "notion_url": "https://www.notion.so/32a49a17ea978164a629c73377176f45",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-komertsyu-0-72-ga-IDZbSwo.html",
+        "latitude": 50.4006261560722,
+        "longitude": 30.1214502159995,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
