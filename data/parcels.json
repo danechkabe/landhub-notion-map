@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T06:20:19.558739Z",
+  "generated_at": "2026-03-21T06:25:16.446691Z",
   "counts": {
     "landmatch": 19,
-    "processing": 165,
+    "processing": 166,
     "landhub": 19
   },
   "categories": {
@@ -1976,6 +1976,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-pd-zabudovu-5-sotok-svtlo-14kv-3-fazi-30km-vd-ki-ID100c6p.html",
         "latitude": 50.3690080883904,
         "longitude": 30.0185706580857,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8123-b8a8-de0b974f4dd2",
+        "source": "processing",
+        "name": "Білогородка",
+        "area": "0.037 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "28,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3759320709639,30.2294816120677",
+        "notion_url": "https://www.notion.so/32a49a17ea978123b8a8de0b974f4dd2",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-4-sotki-pd-zabudovu-blogorodka-IDHFY7V.html",
+        "latitude": 50.3759320709639,
+        "longitude": 30.2294816120677,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
