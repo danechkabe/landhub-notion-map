@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T02:50:20.795130Z",
+  "generated_at": "2026-03-21T02:55:17.429703Z",
   "counts": {
     "landmatch": 19,
-    "processing": 118,
+    "processing": 119,
     "landhub": 19
   },
   "categories": {
@@ -1704,6 +1704,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-kryukvschin-IDYDRd0.html",
         "latitude": 50.382583846561815,
         "longitude": 30.405416161802588,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8107-8982-ea89ca985a1b",
+        "source": "processing",
+        "name": "Біла Церква",
+        "area": "0.1 га",
+        "price": "2 000 $",
+        "distance_to_kyiv": "94,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8248093240776,30.0596236665699",
+        "notion_url": "https://www.notion.so/32a49a17ea9781078982ea89ca985a1b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-10-sot-ID1075vC.html",
+        "latitude": 49.8248093240776,
+        "longitude": 30.0596236665699,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
