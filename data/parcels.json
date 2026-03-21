@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T05:35:17.580035Z",
+  "generated_at": "2026-03-21T05:40:19.094685Z",
   "counts": {
     "landmatch": 19,
-    "processing": 152,
+    "processing": 155,
     "landhub": 19
   },
   "categories": {
@@ -1829,6 +1829,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8120-9529-cab540783765",
+        "source": "processing",
+        "name": "Андріївка",
+        "area": "0.25 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "61,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5481981979794,29.886069153678",
+        "notion_url": "https://www.notion.so/32a49a17ea9781209529cab540783765",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-IDVkOrx.html",
+        "latitude": 50.5481981979794,
+        "longitude": 29.886069153678,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8121-b5fb-fe8a29c3cba1",
         "source": "processing",
         "name": "Біла Церква",
@@ -2577,6 +2594,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-81b8-aeed-e0f0d56deca8",
+        "source": "processing",
+        "name": "Ніжиловичі",
+        "area": "3.9395 га",
+        "price": "11 500 $",
+        "distance_to_kyiv": "75,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5045820083721,29.6580947008742",
+        "notion_url": "https://www.notion.so/32a49a17ea9781b8aeede0f0d56deca8",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnoviy-prodazh-4-ga-zemelno-dlyanki-IDVaIUL.html",
+        "latitude": 50.5045820083721,
+        "longitude": 29.6580947008742,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-81ba-ad4a-f8de382b2ce9",
         "source": "processing",
         "name": "Білогородка",
@@ -2588,6 +2622,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kutova-dlyanka-z-lchilnikom-5-26-sot-bez-komsy-ID10718S.html",
         "latitude": 50.37194919643277,
         "longitude": 30.258892732684295,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81c2-84ed-f06658384841",
+        "source": "processing",
+        "name": "Гвоздів",
+        "area": "0.125 га",
+        "price": "17 000 $",
+        "distance_to_kyiv": "31,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2380733880555,30.4917537424192",
+        "notion_url": "https://www.notion.so/32a49a17ea9781c284edf06658384841",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/s-gvozdv-vul-ozerna-zemelna-dlyanka-12-5-sotok-obuhvskiy-r-n-IDYtWrJ.html",
+        "latitude": 50.2380733880555,
+        "longitude": 30.4917537424192,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
