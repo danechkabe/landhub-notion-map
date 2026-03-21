@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T06:15:18.882569Z",
+  "generated_at": "2026-03-21T06:20:19.558739Z",
   "counts": {
     "landmatch": 19,
-    "processing": 164,
+    "processing": 165,
     "landhub": 19
   },
   "categories": {
@@ -2792,6 +2792,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/s-gvozdv-vul-ozerna-zemelna-dlyanka-12-5-sotok-obuhvskiy-r-n-IDYtWrJ.html",
         "latitude": 50.2380733880555,
         "longitude": 30.4917537424192,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81c3-a63d-e3c7a612c005",
+        "source": "processing",
+        "name": "Нові Петрівці",
+        "area": "0.13 га",
+        "price": "9 000 $",
+        "distance_to_kyiv": "26,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6246795809562,30.4112018108922",
+        "notion_url": "https://www.notion.so/32a49a17ea9781c3a63de3c7a612c005",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-nov-petrvts-ID1065BB.html",
+        "latitude": 50.6246795809562,
+        "longitude": 30.4112018108922,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
