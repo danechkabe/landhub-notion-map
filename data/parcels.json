@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T03:10:21.047879Z",
+  "generated_at": "2026-03-21T03:15:18.395978Z",
   "counts": {
     "landmatch": 19,
-    "processing": 122,
+    "processing": 126,
     "landhub": 19
   },
   "categories": {
@@ -1693,6 +1693,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8101-9e45-c71f85daf881",
+        "source": "processing",
+        "name": "Мостище",
+        "area": "0.25 га",
+        "price": "7 500 $",
+        "distance_to_kyiv": "48,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3020624069843,30.0058325473569",
+        "notion_url": "https://www.notion.so/32a49a17ea9781019e45c71f85daf881",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnyy-uchastok-25-s-v-mostysche-IDKMZvJ.html",
+        "latitude": 50.3020624069843,
+        "longitude": 30.0058325473569,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8103-9450-df544821d448",
         "source": "processing",
         "name": "Нижча Дубечня",
@@ -1897,6 +1914,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8154-b44f-ceea155e0836",
+        "source": "processing",
+        "name": "Гатне",
+        "area": "0.0958 га",
+        "price": "17 000 $",
+        "distance_to_kyiv": "20,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3606876599858,30.4038895244795",
+        "notion_url": "https://www.notion.so/32a49a17ea978154b44fceea155e0836",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-v-gatnom-IDXIBEV.html",
+        "latitude": 50.3606876599858,
+        "longitude": 30.4038895244795,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8159-bec8-fe52b1ce7b10",
         "source": "processing",
         "name": "Боярка",
@@ -2010,6 +2044,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zeml-pd-zabudovu-poruch-z-lsom-IDZb5zT.html",
         "latitude": 50.254701172372,
         "longitude": 30.1089950745851,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8173-a230-f996221590ed",
+        "source": "processing",
+        "name": "Плюти",
+        "area": "0.15 га",
+        "price": "8 300 $",
+        "distance_to_kyiv": "40,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1653503191824,30.7265104756182",
+        "notion_url": "https://www.notion.so/32a49a17ea978173a230f996221590ed",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-bez-koms-s-plyuti-obuhvskiy-r-n-kozin-IDZUz4y.html",
+        "latitude": 50.1653503191824,
+        "longitude": 30.7265104756182,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
@@ -2248,6 +2299,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-9-sotok-pd-zabudovu-mala-soltanovka-IDYcMHe.html",
         "latitude": 50.1735093278045,
         "longitude": 30.1588336065481,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81de-be51-cf1346bfb7ad",
+        "source": "processing",
+        "name": "Старі Петрівці",
+        "area": "0.1 га",
+        "price": "4 200 $",
+        "distance_to_kyiv": "29,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6383321405095,30.3888652013526",
+        "notion_url": "https://www.notion.so/32a49a17ea9781debe51cf1346bfb7ad",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-uchastok-IDGZyse.html",
+        "latitude": 50.6383321405095,
+        "longitude": 30.3888652013526,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
