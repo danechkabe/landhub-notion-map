@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T07:15:19.850438Z",
+  "generated_at": "2026-03-21T07:20:16.839348Z",
   "counts": {
     "landmatch": 19,
-    "processing": 181,
+    "processing": 182,
     "landhub": 19
   },
   "categories": {
@@ -2656,6 +2656,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-v-podgortsah-sobstvennik-IDNyWBz.html",
         "latitude": 50.214053538196,
         "longitude": 30.4831344072681,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8183-9b80-d758dc6b1625",
+        "source": "processing",
+        "name": "Ходосівка",
+        "area": "1.033 га",
+        "price": "3 500 $",
+        "distance_to_kyiv": "24,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2764099481944,30.5400292057878",
+        "notion_url": "https://www.notion.so/32a49a17ea9781839b80d758dc6b1625",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-1ga-osg-s-hodosvka-IDW0bKm.html",
+        "latitude": 50.2764099481944,
+        "longitude": 30.5400292057878,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
