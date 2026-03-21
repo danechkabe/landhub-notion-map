@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T08:10:21.304584Z",
+  "generated_at": "2026-03-21T08:15:19.773416Z",
   "counts": {
     "landmatch": 19,
-    "processing": 197,
+    "processing": 198,
     "landhub": 19
   },
   "categories": {
@@ -1857,6 +1857,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/gostomel-prodayu-svoh-6-sotok-IDJ2qNy.html",
         "latitude": 50.5845394214781,
         "longitude": 30.1990242323596,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-811a-9dab-d367dc17ddea",
+        "source": "processing",
+        "name": "Біла Церква",
+        "area": "0.1 га",
+        "price": "18 000 $",
+        "distance_to_kyiv": "95,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8253193054616,30.0534477489916",
+        "notion_url": "https://www.notion.so/32a49a17ea97811a9dabd367dc17ddea",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemlyu-na-vontorg-ID1062YZ.html",
+        "latitude": 49.8253193054616,
+        "longitude": 30.0534477489916,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
