@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T02:55:17.429703Z",
+  "generated_at": "2026-03-21T03:00:18.696746Z",
   "counts": {
     "landmatch": 19,
-    "processing": 119,
+    "processing": 120,
     "landhub": 19
   },
   "categories": {
@@ -1789,6 +1789,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-r-n-vyskbud-ID107VE3.html",
         "latitude": 49.8181153200515,
         "longitude": 30.0366986605192,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8122-9d75-ff7e23d40660",
+        "source": "processing",
+        "name": "Андріївка",
+        "area": "2 га",
+        "price": "10 100 $",
+        "distance_to_kyiv": "62,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5367291202823,29.8150977546562",
+        "notion_url": "https://www.notion.so/32a49a17ea9781229d75ff7e23d40660",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodam-2-ga-zemelnu-dlyanku-IDZ60DA.html",
+        "latitude": 50.5367291202823,
+        "longitude": 29.8150977546562,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
