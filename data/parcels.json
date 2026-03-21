@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T01:30:19.400009Z",
+  "generated_at": "2026-03-21T01:35:18.656686Z",
   "counts": {
     "landmatch": 19,
-    "processing": 105,
+    "processing": 108,
     "landhub": 19
   },
   "categories": {
@@ -1880,6 +1880,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-816d-848b-cf0a041edbda",
+        "source": "processing",
+        "name": "Дзвінкове",
+        "area": "5.7499 га",
+        "price": "2 800 $",
+        "distance_to_kyiv": "53,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.254701172372,30.1089950745851",
+        "notion_url": "https://www.notion.so/32a49a17ea97816d848bcf0a041edbda",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zeml-pd-zabudovu-poruch-z-lsom-IDZb5zT.html",
+        "latitude": 50.254701172372,
+        "longitude": 30.1089950745851,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8174-8abf-eab816661dd1",
         "source": "processing",
         "name": "Барахти",
@@ -2027,6 +2044,40 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kutova-dlyanka-z-lchilnikom-5-26-sot-bez-komsy-ID10718S.html",
         "latitude": 50.37194919643277,
         "longitude": 30.258892732684295,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81d1-b0a3-c1575ceff094",
+        "source": "processing",
+        "name": "Підгірці",
+        "area": "0.12 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "30,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2377889792232,30.513686110081",
+        "notion_url": "https://www.notion.so/32a49a17ea9781d1b0a3c1575ceff094",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-12-sotok-obuhovskiy-r-n-IDMhutg.html",
+        "latitude": 50.2377889792232,
+        "longitude": 30.513686110081,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81dc-90ec-e1ca313abe20",
+        "source": "processing",
+        "name": "Мала Солтанівка",
+        "area": "0.0929 га",
+        "price": "6 400 $",
+        "distance_to_kyiv": "53,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1735093278045,30.1588336065481",
+        "notion_url": "https://www.notion.so/32a49a17ea9781dc90ece1ca313abe20",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-9-sotok-pd-zabudovu-mala-soltanovka-IDYcMHe.html",
+        "latitude": 50.1735093278045,
+        "longitude": 30.1588336065481,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
