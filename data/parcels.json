@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T03:25:16.835480Z",
+  "generated_at": "2026-03-21T03:30:18.869186Z",
   "counts": {
     "landmatch": 19,
-    "processing": 127,
+    "processing": 128,
     "landhub": 19
   },
   "categories": {
@@ -2146,6 +2146,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/idealno-pod-sklady-sobstvennik-zemlya-pod-kievom-osg-srochno-IDPNdvZ.html",
         "latitude": 50.6287826032125,
         "longitude": 30.3809824847344,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-818e-a79e-c9f76d853292",
+        "source": "processing",
+        "name": "Святопетрівське",
+        "area": "1.0067 га",
+        "price": "5 500 $",
+        "distance_to_kyiv": "22,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4046799917508,30.3077967385372",
+        "notion_url": "https://www.notion.so/32a49a17ea97818ea79ec9f76d853292",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/124-sotki-komertsynogo-priznachennya-11-02-IDZXyOE.html",
+        "latitude": 50.4046799917508,
+        "longitude": 30.3077967385372,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
