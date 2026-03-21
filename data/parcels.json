@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T03:35:17.633825Z",
+  "generated_at": "2026-03-21T03:40:20.290698Z",
   "counts": {
     "landmatch": 19,
-    "processing": 128,
+    "processing": 129,
     "landhub": 19
   },
   "categories": {
@@ -1840,6 +1840,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodam-2-ga-zemelnu-dlyanku-IDZ60DA.html",
         "latitude": 50.5367291202823,
         "longitude": 29.8150977546562,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8122-aa26-cd8d210bf6d4",
+        "source": "processing",
+        "name": "Біла Церква",
+        "area": "0.06 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "88,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8332696835353,30.1165948218888",
+        "notion_url": "https://www.notion.so/32a49a17ea978122aa26cd8d210bf6d4",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-6-sot-privatizovaniy-suhoyarska-prodazh-vd-vlasnika-IDYLBza.html",
+        "latitude": 49.8332696835353,
+        "longitude": 30.1165948218888,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
