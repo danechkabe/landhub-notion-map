@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T01:25:17.565251Z",
+  "generated_at": "2026-03-21T01:30:19.400009Z",
   "counts": {
     "landmatch": 19,
-    "processing": 104,
+    "processing": 105,
     "landhub": 19
   },
   "categories": {
@@ -2095,6 +2095,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/10-sotok-vishgorodskiy-rayon-suvdska-rada-IDZ4Nsu.html",
         "latitude": 50.9329844612435,
         "longitude": 30.5978178280152,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81fe-885d-e82352b150be",
+        "source": "processing",
+        "name": "Білогородка",
+        "area": "0.1903 га",
+        "price": "31 000 $",
+        "distance_to_kyiv": "26,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3760122766742,30.2561481012768",
+        "notion_url": "https://www.notion.so/32a49a17ea9781fe885de82352b150be",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-9-5-sot-blogorodka-sadi-vul-soborna-bez-komsy-IDZZMJU.html",
+        "latitude": 50.3760122766742,
+        "longitude": 30.2561481012768,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
