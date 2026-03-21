@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T07:30:21.119972Z",
+  "generated_at": "2026-03-21T07:35:18.935365Z",
   "counts": {
     "landmatch": 19,
-    "processing": 183,
+    "processing": 185,
     "landhub": 19
   },
   "categories": {
@@ -2713,6 +2713,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8189-8f92-f11c17e706cd",
+        "source": "processing",
+        "name": "Бузова",
+        "area": "0.15 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "37,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4439950749302,30.047685056444",
+        "notion_url": "https://www.notion.so/32a49a17ea9781898f92f11c17e706cd",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemlyu-navproti-kompleksu-ukranske-selo-tsna-lishe-10-000-IDUZMbK.html",
+        "latitude": 50.4439950749302,
+        "longitude": 30.047685056444,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8189-a4a8-d20b4529b9fe",
         "source": "processing",
         "name": "Новосілки",
@@ -3268,6 +3285,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemlya-v-m-gostomel-6-15-ga-torg-bez-komss-IDYpoBM.html",
         "latitude": 50.6079874178293,
         "longitude": 30.2510187210044,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81e7-8f58-d7e73197927a",
+        "source": "processing",
+        "name": "Рославичі",
+        "area": "2 га",
+        "price": "2 700 $",
+        "distance_to_kyiv": "38,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2290519177341,30.4085158481927",
+        "notion_url": "https://www.notion.so/32a49a17ea9781e78f58d7e73197927a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-u-malovnichy-mstsevost-roslavich-tskavo-dlya-zabudovnika-IDObl1z.html",
+        "latitude": 50.2290519177341,
+        "longitude": 30.4085158481927,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
