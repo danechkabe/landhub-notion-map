@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T01:15:18.769156Z",
+  "generated_at": "2026-03-21T01:20:17.277297Z",
   "counts": {
     "landmatch": 19,
-    "processing": 102,
+    "processing": 103,
     "landhub": 19
   },
   "categories": {
@@ -1908,6 +1908,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-z-komunkatsyami-kivska-oblast-IDZy9r3.html",
         "latitude": 50.6080957350602,
         "longitude": 29.9494991958897,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-817d-8b3a-c00b8abc95cc",
+        "source": "processing",
+        "name": "Михайлівка-Рубежівка",
+        "area": "0.1563 га",
+        "price": "29 500 $",
+        "distance_to_kyiv": "35,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.506256014723,30.1453139615221",
+        "notion_url": "https://www.notion.so/32a49a17ea97817d8b3ac00b8abc95cc",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/mihaylvka-rubezhvka-dlyanka-15-6-sotok-pd-budvnitstvo-torg-IDYMtRl.html",
+        "latitude": 50.506256014723,
+        "longitude": 30.1453139615221,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
