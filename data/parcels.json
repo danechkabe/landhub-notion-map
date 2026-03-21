@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T08:35:16.590246Z",
+  "generated_at": "2026-03-21T08:40:17.620223Z",
   "counts": {
     "landmatch": 19,
-    "processing": 204,
+    "processing": 206,
     "landhub": 19
   },
   "categories": {
@@ -2101,6 +2101,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-812d-9dcd-f1a571470813",
+        "source": "processing",
+        "name": "Мостище",
+        "area": "0.25 га",
+        "price": "7 800 $",
+        "distance_to_kyiv": "48,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3013336880842,30.0136568734815",
+        "notion_url": "https://www.notion.so/32a49a17ea97812d9dcdf1a571470813",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-v-mostische-IDKJGwu.html",
+        "latitude": 50.3013336880842,
+        "longitude": 30.0136568734815,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8132-91f1-ec0deb979ea1",
         "source": "processing",
         "name": "Петрушки",
@@ -2197,6 +2214,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemlyu-21-sotka-s-buzova-kivo-svyatoshinskiy-rayon-IDUOxrK.html",
         "latitude": 50.4106599114393,
         "longitude": 30.0434494998794,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-813c-9314-fcfe64df9b7b",
+        "source": "processing",
+        "name": "Гореничі",
+        "area": "0.1227 га",
+        "price": "20 800 $",
+        "distance_to_kyiv": "28,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4154026619433,30.1892370873391",
+        "notion_url": "https://www.notion.so/32a49a17ea97813c9314fcfe64df9b7b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-gorenich-uchastok-pd-zabudovu-12-sotok-vul-chereshneva-IDXIgVb.html",
+        "latitude": 50.4154026619433,
+        "longitude": 30.1892370873391,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
