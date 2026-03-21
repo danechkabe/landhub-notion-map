@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T06:40:16.628704Z",
+  "generated_at": "2026-03-21T06:45:17.237699Z",
   "counts": {
     "landmatch": 19,
-    "processing": 170,
+    "processing": 172,
     "landhub": 19
   },
   "categories": {
@@ -2203,6 +2203,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-814c-b2a5-ddab88e45255",
+        "source": "processing",
+        "name": "Мотовилівська Слобідка",
+        "area": "0.0618 га",
+        "price": "13 000 $",
+        "distance_to_kyiv": "76,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1375342073567,30.036995104563",
+        "notion_url": "https://www.notion.so/32a49a17ea97814cb2a5ddab88e45255",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-privatizovanu-zemelnu-dlyanku-12-sotok-motovilvska-slobodka-ID1011N3.html",
+        "latitude": 50.1375342073567,
+        "longitude": 30.036995104563,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8154-b44f-ceea155e0836",
         "source": "processing",
         "name": "Гатне",
@@ -2741,6 +2758,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-15-sotok-komnunkats-poruch-bez-koms-IDYxg6a.html",
         "latitude": 50.4246606768445,
         "longitude": 30.0465576707624,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81a1-ba27-d7582f393dac",
+        "source": "processing",
+        "name": "Березенщина",
+        "area": "0.0391 га",
+        "price": "17 000 $",
+        "distance_to_kyiv": "35,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2080804621995,30.3092070935333",
+        "notion_url": "https://www.notion.so/32a49a17ea9781a1ba27d7582f393dac",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-z-nfrastrukturoyu-pd-lsom-u-vasilkov-asfalt-gaz-svtlo-IDZ8jyG.html",
+        "latitude": 50.2080804621995,
+        "longitude": 30.3092070935333,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
