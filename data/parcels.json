@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T06:50:19.238110Z",
+  "generated_at": "2026-03-21T06:55:23.156448Z",
   "counts": {
     "landmatch": 19,
-    "processing": 172,
+    "processing": 173,
     "landhub": 19
   },
   "categories": {
@@ -2163,6 +2163,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-s-gorenich-poruch-z-lsom-z-svtlom-IDXkdpa.html",
         "latitude": 50.4109804985528,
         "longitude": 30.1868430771069,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8140-ac1e-e9d13e59ff78",
+        "source": "processing",
+        "name": "Біла Церква",
+        "area": "0.0788 га",
+        "price": "4 300 $",
+        "distance_to_kyiv": "88,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8289788436958,30.1242305018038",
+        "notion_url": "https://www.notion.so/32a49a17ea978140ac1ee9d13e59ff78",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-pd-sadvnitstvo-IDYsZ1E.html",
+        "latitude": 49.8289788436958,
+        "longitude": 30.1242305018038,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
