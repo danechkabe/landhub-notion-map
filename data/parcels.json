@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T00:50:17.686246Z",
+  "generated_at": "2026-03-21T00:55:15.212478Z",
   "counts": {
     "landmatch": 19,
-    "processing": 96,
+    "processing": 98,
     "landhub": 19
   },
   "categories": {
@@ -1795,6 +1795,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-816b-9f20-f8ce73d7413f",
+        "source": "processing",
+        "name": "Обухів",
+        "area": "0.0591 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "44,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1099813249411,30.6523635320669",
+        "notion_url": "https://www.notion.so/32a49a17ea97816b9f20f8ce73d7413f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-v-obuhove-6-sotok-avtoshkola-ul-gaydamatska-IDEnJir.html",
+        "latitude": 50.1099813249411,
+        "longitude": 30.6523635320669,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8174-8abf-eab816661dd1",
         "source": "processing",
         "name": "Барахти",
@@ -1925,6 +1942,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-blya-lsu-s-nescherv-vlasnik-IDYySjc.html",
         "latitude": 50.1499692752537,
         "longitude": 30.6095722835079,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81ee-924a-f9699bdefaff",
+        "source": "processing",
+        "name": "Журавлиха",
+        "area": "0.1501 га",
+        "price": "2 100 $",
+        "distance_to_kyiv": "34,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3179422629561,30.2073561066198",
+        "notion_url": "https://www.notion.so/32a49a17ea9781ee924af9699bdefaff",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-s-zabrya-IDZU01D.html",
+        "latitude": 50.3179422629561,
+        "longitude": 30.2073561066198,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
