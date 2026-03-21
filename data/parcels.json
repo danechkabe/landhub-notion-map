@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T08:50:18.288068Z",
+  "generated_at": "2026-03-21T08:55:17.080722Z",
   "counts": {
     "landmatch": 19,
-    "processing": 207,
+    "processing": 209,
     "landhub": 19
   },
   "categories": {
@@ -1857,6 +1857,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/gostomel-prodayu-svoh-6-sotok-IDJ2qNy.html",
         "latitude": 50.5845394214781,
         "longitude": 30.1990242323596,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8118-8549-e1c8de792a4d",
+        "source": "processing",
+        "name": "Мала Антонівка",
+        "area": "0.25 га",
+        "price": "5 300 $",
+        "distance_to_kyiv": "85,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.854915089982,30.3576038294652",
+        "notion_url": "https://www.notion.so/32a49a17ea9781188549e1c8de792a4d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnyy-uchastok-v-maloy-antonovke-IDKwgFs.html",
+        "latitude": 49.854915089982,
+        "longitude": 30.3576038294652,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
@@ -3727,6 +3744,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-kivska-obl-vasilkvskiy-r-n-s-zdorvka-IDxAkMV.html",
         "latitude": 50.200623128492,
         "longitude": 30.250928889476,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81f4-9d16-d9bf3787901a",
+        "source": "processing",
+        "name": "Михайлівка-Рубежівка",
+        "area": "0.1906 га",
+        "price": "32 000 $",
+        "distance_to_kyiv": "36,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5144680700823,30.1459607485267",
+        "notion_url": "https://www.notion.so/32a49a17ea9781f49d16d9bf3787901a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-19-06-sot-v-mihaylvka-rubezhvka-IDZPxJw.html",
+        "latitude": 50.5144680700823,
+        "longitude": 30.1459607485267,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
