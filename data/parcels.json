@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T08:25:24.240989Z",
+  "generated_at": "2026-03-21T08:30:17.670435Z",
   "counts": {
     "landmatch": 19,
-    "processing": 201,
+    "processing": 202,
     "landhub": 19
   },
   "categories": {
@@ -3064,6 +3064,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-z-nfrastrukturoyu-pd-lsom-u-vasilkov-asfalt-gaz-svtlo-IDZ8jyG.html",
         "latitude": 50.2080804621995,
         "longitude": 30.3092070935333,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81a7-997d-ef2411931c7c",
+        "source": "processing",
+        "name": "Осещина",
+        "area": "0.0805 га",
+        "price": "31 900 $",
+        "distance_to_kyiv": "25,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.574850598547,30.5569534657406",
+        "notion_url": "https://www.notion.so/32a49a17ea9781a7997def2411931c7c",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-km-mzhrchchya-8-sot-termnovo-IDZevWy.html",
+        "latitude": 50.574850598547,
+        "longitude": 30.5569534657406,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
