@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T23:55:12.623453Z",
+  "generated_at": "2026-03-21T00:00:15.260964Z",
   "counts": {
     "landmatch": 19,
-    "processing": 79,
+    "processing": 80,
     "landhub": 19
   },
   "categories": {
@@ -548,6 +548,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-mala-vlshanka-obuhvskiy-15-sot-ID107Php.html",
         "latitude": 50.0809772351876,
         "longitude": 30.4706433332424,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32949a17-ea97-8123-aa2e-f62bb34cc6e2",
+        "source": "processing",
+        "name": "Біла Церква",
+        "area": "0.1 га",
+        "price": "22 000 $",
+        "distance_to_kyiv": "96,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8207089942864,30.0405120089003",
+        "notion_url": "https://www.notion.so/32949a17ea978123aa2ef62bb34cc6e2",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-10sotok-IDUf7Sz.html",
+        "latitude": 49.8207089942864,
+        "longitude": 30.0405120089003,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
