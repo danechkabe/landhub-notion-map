@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T08:55:17.080722Z",
+  "generated_at": "2026-03-21T09:00:17.213703Z",
   "counts": {
     "landmatch": 19,
-    "processing": 209,
+    "processing": 210,
     "landhub": 19
   },
   "categories": {
@@ -3353,6 +3353,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zeml-dlyanka-s-abramvka-vishgorodskiy-r-n-kivska-oblast-IDH3yU2.html",
         "latitude": 50.7503029870792,
         "longitude": 30.0819063771925,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81c8-a971-e3f83ec63672",
+        "source": "processing",
+        "name": "Червоне",
+        "area": "0.1879 га",
+        "price": "14 500 $",
+        "distance_to_kyiv": "52,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1594517198744,30.2944612481445",
+        "notion_url": "https://www.notion.so/32a49a17ea9781c8a971e3f83ec63672",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDNVZpQ.html",
+        "latitude": 50.1594517198744,
+        "longitude": 30.2944612481445,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
