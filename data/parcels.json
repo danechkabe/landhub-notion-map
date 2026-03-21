@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T07:05:23.318739Z",
+  "generated_at": "2026-03-21T07:09:15.031066Z",
   "counts": {
     "landmatch": 19,
-    "processing": 175,
+    "processing": 177,
     "landhub": 19
   },
   "categories": {
@@ -2288,6 +2288,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-815a-af12-dbe3424514f1",
+        "source": "processing",
+        "name": "Михайлівка-Рубежівка",
+        "area": "0.1001 га",
+        "price": "22 000 $",
+        "distance_to_kyiv": "36,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4875157563215,30.1400408508043",
+        "notion_url": "https://www.notion.so/32a49a17ea97815aaf12dbe3424514f1",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-10sot-v-malovnichomu-msts-gaz-ta-elektrika-poryad-IDZX6lp.html",
+        "latitude": 50.4875157563215,
+        "longitude": 30.1400408508043,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-815e-867d-db4856f0f69d",
         "source": "processing",
         "name": "Лебедівка",
@@ -3064,6 +3081,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-9-sotok-pd-zabudovu-mala-soltanovka-IDYcMHe.html",
         "latitude": 50.1735093278045,
         "longitude": 30.1588336065481,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81dd-9a5e-cfe175648499",
+        "source": "processing",
+        "name": "Литвинівка",
+        "area": "0.12 га",
+        "price": "6 100 $",
+        "distance_to_kyiv": "44,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7300363827423,30.2624318166892",
+        "notion_url": "https://www.notion.so/32a49a17ea9781dd9a5ecfe175648499",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-v-s-litvinvka-kivska-obl-IDXSNQS.html",
+        "latitude": 50.7300363827423,
+        "longitude": 30.2624318166892,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
