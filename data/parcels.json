@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T01:40:18.549300Z",
+  "generated_at": "2026-03-21T01:45:18.125795Z",
   "counts": {
     "landmatch": 19,
-    "processing": 108,
+    "processing": 109,
     "landhub": 19
   },
   "categories": {
@@ -1721,6 +1721,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-12-sotok-tatsenki-novoobuhvska-trasa-ls-ozera-poryad-IDZYIG4.html",
         "latitude": 50.1630916732495,
         "longitude": 30.6737928431696,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8117-99c1-f08f0f9caf07",
+        "source": "processing",
+        "name": "Гостомель",
+        "area": "0.06 га",
+        "price": "8 500 $",
+        "distance_to_kyiv": "31,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5845394214781,30.1990242323596",
+        "notion_url": "https://www.notion.so/32a49a17ea97811799c1f08f0f9caf07",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/gostomel-prodayu-svoh-6-sotok-IDJ2qNy.html",
+        "latitude": 50.5845394214781,
+        "longitude": 30.1990242323596,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
