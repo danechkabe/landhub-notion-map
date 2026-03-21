@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T06:30:16.559498Z",
+  "generated_at": "2026-03-21T06:35:18.398080Z",
   "counts": {
     "landmatch": 19,
-    "processing": 168,
+    "processing": 170,
     "landhub": 19
   },
   "categories": {
@@ -2050,6 +2050,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8133-a7c2-fe44ad222b18",
+        "source": "processing",
+        "name": "Велика Солтанівка",
+        "area": "2.5153 га",
+        "price": "2 600 $",
+        "distance_to_kyiv": "48,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1561424308334,30.2134287179405",
+        "notion_url": "https://www.notion.so/32a49a17ea978133a7c2fe44ad222b18",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/5ga-fasad-pd-bznes-odeska-trasa-IDZV5Rz.html",
+        "latitude": 50.1561424308334,
+        "longitude": 30.2134287179405,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8138-a54b-d0c6f0223980",
         "source": "processing",
         "name": "Хотів",
@@ -2554,6 +2571,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-v-podgortsah-sobstvennik-IDNyWBz.html",
         "latitude": 50.214053538196,
         "longitude": 30.4831344072681,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8184-ab2a-d08510e6e18f",
+        "source": "processing",
+        "name": "Лісники",
+        "area": "0.0426 га",
+        "price": "11 000 $",
+        "distance_to_kyiv": "19,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3184498948531,30.5261951504124",
+        "notion_url": "https://www.notion.so/32a49a17ea978184ab2ad08510e6e18f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/v-prodazh-zemelna-dlyanka-4-sotki-v-sel-lsniki-blya-equides-club-IDW4jJ6.html",
+        "latitude": 50.3184498948531,
+        "longitude": 30.5261951504124,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
