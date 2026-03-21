@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T00:40:21.293097Z",
+  "generated_at": "2026-03-21T00:45:15.071929Z",
   "counts": {
     "landmatch": 19,
-    "processing": 94,
+    "processing": 96,
     "landhub": 19
   },
   "categories": {
@@ -1846,6 +1846,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8196-84c6-e88233f64e80",
+        "source": "processing",
+        "name": "Лосятин",
+        "area": "3.0435 га",
+        "price": "19 000 $",
+        "distance_to_kyiv": "83,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8962412148704,30.209974695673",
+        "notion_url": "https://www.notion.so/32a49a17ea97819684c6e88233f64e80",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-pay-3-giktara-IDZzywg.html",
+        "latitude": 49.8962412148704,
+        "longitude": 30.209974695673,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-819d-b5a8-c8c2e80eafcf",
         "source": "processing",
         "name": "Бузова",
@@ -1891,6 +1908,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kutova-dlyanka-z-lchilnikom-5-26-sot-bez-komsy-ID10718S.html",
         "latitude": 50.37194919643277,
         "longitude": 30.258892732684295,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81e3-ad9c-efd12a3288f5",
+        "source": "processing",
+        "name": "Нещерів",
+        "area": "1.1499 га",
+        "price": "2 600 $",
+        "distance_to_kyiv": "42,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1499692752537,30.6095722835079",
+        "notion_url": "https://www.notion.so/32a49a17ea9781e3ad9cefd12a3288f5",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-blya-lsu-s-nescherv-vlasnik-IDYySjc.html",
+        "latitude": 50.1499692752537,
+        "longitude": 30.6095722835079,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
