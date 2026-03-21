@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T04:45:23.738218Z",
+  "generated_at": "2026-03-21T04:50:18.894799Z",
   "counts": {
     "landmatch": 19,
-    "processing": 140,
+    "processing": 142,
     "landhub": 19
   },
   "categories": {
@@ -1880,6 +1880,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8123-93b8-d22830a1201d",
+        "source": "processing",
+        "name": "Новосілки",
+        "area": "0.264 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "43,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3051665096663,30.0633247255405",
+        "notion_url": "https://www.notion.so/32a49a17ea97812393b8d22830a1201d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-pd-zabudovu-IDyMv9M.html",
+        "latitude": 50.3051665096663,
+        "longitude": 30.0633247255405,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8129-8438-c047139454f7",
         "source": "processing",
         "name": "Мала Вільшанка",
@@ -2214,6 +2231,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-z-komunkatsyami-kivska-oblast-IDZy9r3.html",
         "latitude": 50.6080957350602,
         "longitude": 29.9494991958897,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8178-a876-cfa8363ea99d",
+        "source": "processing",
+        "name": "Нижча Дубечня",
+        "area": "0.9999 га",
+        "price": "32 000 $",
+        "distance_to_kyiv": "38,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6765023527511,30.6033963659296",
+        "notion_url": "https://www.notion.so/32a49a17ea978178a876cfa8363ea99d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-0-999ga-29km-vd-kiv-perspektivna-nvestitsya-IDZUcEP.html",
+        "latitude": 50.6765023527511,
+        "longitude": 30.6033963659296,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
