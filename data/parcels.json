@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T05:30:23.565273Z",
+  "generated_at": "2026-03-21T05:35:17.580035Z",
   "counts": {
     "landmatch": 19,
-    "processing": 151,
+    "processing": 152,
     "landhub": 19
   },
   "categories": {
@@ -2163,6 +2163,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-z-elektrikoyu-15-sot-IDZUcth.html",
         "latitude": 50.5209310241738,
         "longitude": 30.1170619458365,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8162-b54b-f992d6d04eb3",
+        "source": "processing",
+        "name": "Хотів",
+        "area": "0.1316 га",
+        "price": "11 000 $",
+        "distance_to_kyiv": "24,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3112966607267,30.4576177616227",
+        "notion_url": "https://www.notion.so/32a49a17ea978162b54bf992d6d04eb3",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-13-sotok-osg-v-sel-hotv-IDVxeem.html",
+        "latitude": 50.3112966607267,
+        "longitude": 30.4576177616227,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
