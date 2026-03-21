@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T00:35:20.575029Z",
+  "generated_at": "2026-03-21T00:40:21.293097Z",
   "counts": {
     "landmatch": 19,
-    "processing": 93,
+    "processing": 94,
     "landhub": 19
   },
   "categories": {
@@ -1789,6 +1789,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodam-dv-zemeln-dlyanki-s-pshenichne-IDZr3Ww.html",
         "latitude": 50.098025070129815,
         "longitude": 30.20340808903933,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8174-8abf-eab816661dd1",
+        "source": "processing",
+        "name": "Барахти",
+        "area": "3.8434 га",
+        "price": "2 200 $",
+        "distance_to_kyiv": "47,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1399898137119,30.3079853847469",
+        "notion_url": "https://www.notion.so/32a49a17ea9781748abfeab816661dd1",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-slskogospodarskogo-priznachennya-ID106oFw.html",
+        "latitude": 50.1399898137119,
+        "longitude": 30.3079853847469,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
