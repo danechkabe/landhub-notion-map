@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T08:00:19.574408Z",
+  "generated_at": "2026-03-21T08:05:20.338114Z",
   "counts": {
     "landmatch": 19,
-    "processing": 194,
+    "processing": 195,
     "landhub": 19
   },
   "categories": {
@@ -2350,6 +2350,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-super-IDXxMhC.html",
         "latitude": 50.4017827942586,
         "longitude": 29.9745666838931,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8158-9dcd-ff504b3f4c6f",
+        "source": "processing",
+        "name": "Буча",
+        "area": "0.0374 га",
+        "price": "26 500 $",
+        "distance_to_kyiv": "29,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5647175574556,30.1942092624367",
+        "notion_url": "https://www.notion.so/32a49a17ea9781589dcdff504b3f4c6f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-pd-zabudovu-v-buch-4-sotki-ID106G8r.html",
+        "latitude": 50.5647175574556,
+        "longitude": 30.1942092624367,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
