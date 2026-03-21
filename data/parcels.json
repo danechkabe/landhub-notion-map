@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T06:05:23.235983Z",
+  "generated_at": "2026-03-21T06:10:19.156477Z",
   "counts": {
     "landmatch": 19,
-    "processing": 161,
+    "processing": 164,
     "landhub": 19
   },
   "categories": {
@@ -1829,6 +1829,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-811d-8d75-dfa4da902d8a",
+        "source": "processing",
+        "name": "Дмитрівка",
+        "area": "0.1127 га",
+        "price": "26 000 $",
+        "distance_to_kyiv": "31,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4559699718622,30.1594803935527",
+        "notion_url": "https://www.notion.so/32a49a17ea97811d8d75dfa4da902d8a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-11-sotok-s-dmitrvka-bez-koms-ID106kQ4.html",
+        "latitude": 50.4559699718622,
+        "longitude": 30.1594803935527,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8120-9529-cab540783765",
         "source": "processing",
         "name": "Андріївка",
@@ -2180,6 +2197,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-mzh-zabryam-zhornvkoyu-19-5-ga-pd-zabudovu-IDYONO7.html",
         "latitude": 50.3217135230082,
         "longitude": 30.1758701559114,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-815e-867d-db4856f0f69d",
+        "source": "processing",
+        "name": "Лебедівка",
+        "area": "0.084 га",
+        "price": "14 000 $",
+        "distance_to_kyiv": "40,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7270198031122,30.5513928941319",
+        "notion_url": "https://www.notion.so/32a49a17ea97815e867ddb4856f0f69d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-s-lebedvka-0-085-ga-ID101oGI.html",
+        "latitude": 50.7270198031122,
+        "longitude": 30.5513928941319,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
@@ -2554,6 +2588,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-dlyanka-16sot-lebedvka-vishgorodskiy-bez-IDYRQe5.html",
         "latitude": 50.7277220779215,
         "longitude": 30.5474942057988,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8192-8337-edcfb53845c3",
+        "source": "processing",
+        "name": "Пилиповичі",
+        "area": "0.1688 га",
+        "price": "9 800 $",
+        "distance_to_kyiv": "50,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6170566968933,29.9350992018853",
+        "notion_url": "https://www.notion.so/32a49a17ea9781928337edcfb53845c3",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-z-nedobudovoyu-u-s-pilipovich-buchanskiy-r-n-IDZf4H5.html",
+        "latitude": 50.6170566968933,
+        "longitude": 29.9350992018853,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
