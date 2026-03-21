@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T09:02:21.900300Z",
+  "generated_at": "2026-03-21T09:05:22.385013Z",
   "counts": {
     "landmatch": 19,
-    "processing": 210,
+    "processing": 211,
     "landhub": 19
   },
   "categories": {
@@ -2894,6 +2894,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/v-prodazh-zemelna-dlyanka-4-sotki-v-sel-lsniki-blya-equides-club-IDW4jJ6.html",
         "latitude": 50.3184498948531,
         "longitude": 30.5261951504124,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8186-a841-fe8fe35904a4",
+        "source": "processing",
+        "name": "Пилиповичі",
+        "area": "0.066 га",
+        "price": "11 000 $",
+        "distance_to_kyiv": "47,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6067702570635,29.9735605707749",
+        "notion_url": "https://www.notion.so/32a49a17ea978186a841fe8fe35904a4",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-pilipovichi-IDWsYxa.html",
+        "latitude": 50.6067702570635,
+        "longitude": 29.9735605707749,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
