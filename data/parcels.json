@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T03:40:20.290698Z",
+  "generated_at": "2026-03-21T03:45:32.561307Z",
   "counts": {
     "landmatch": 19,
-    "processing": 129,
+    "processing": 130,
     "landhub": 19
   },
   "categories": {
@@ -2452,6 +2452,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-s-zabrya-IDZU01D.html",
         "latitude": 50.3179422629561,
         "longitude": 30.2073561066198,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81f5-8bab-d7255c8fa034",
+        "source": "processing",
+        "name": "Осещина",
+        "area": "0.0737 га",
+        "price": "29 400 $",
+        "distance_to_kyiv": "26,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5692737017218,30.5623703069038",
+        "notion_url": "https://www.notion.so/32a49a17ea9781f58babd7255c8fa034",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-km-mzhrchchya-vul-shafranova-7-sot-IDZAgAx.html",
+        "latitude": 50.5692737017218,
+        "longitude": 30.5623703069038,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
