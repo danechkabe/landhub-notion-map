@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T02:45:19.117951Z",
+  "generated_at": "2026-03-21T02:50:20.795130Z",
   "counts": {
     "landmatch": 19,
-    "processing": 117,
+    "processing": 118,
     "landhub": 19
   },
   "categories": {
@@ -2095,6 +2095,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-15-sotok-komnunkats-poruch-bez-koms-IDYxg6a.html",
         "latitude": 50.4246606768445,
         "longitude": 30.0465576707624,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81ad-adde-f92dd4030615",
+        "source": "processing",
+        "name": "Демидів",
+        "area": "0.3407 га",
+        "price": "11 000 $",
+        "distance_to_kyiv": "40,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7140329303577,30.2805328696642",
+        "notion_url": "https://www.notion.so/32a49a17ea9781adaddef92dd4030615",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-termnovo-IDVhkiy.html",
+        "latitude": 50.7140329303577,
+        "longitude": 30.2805328696642,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
