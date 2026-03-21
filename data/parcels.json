@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T02:00:21.620751Z",
+  "generated_at": "2026-03-21T02:05:18.720143Z",
   "counts": {
     "landmatch": 19,
-    "processing": 111,
+    "processing": 113,
     "landhub": 19
   },
   "categories": {
@@ -1999,6 +1999,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8186-a9a0-cb6d66d9ac5f",
+        "source": "processing",
+        "name": "Нові Петрівці",
+        "area": "1.6174 га",
+        "price": "3 300 $",
+        "distance_to_kyiv": "29,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6287826032125,30.3809824847344",
+        "notion_url": "https://www.notion.so/32a49a17ea978186a9a0cb6d66d9ac5f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/idealno-pod-sklady-sobstvennik-zemlya-pod-kievom-osg-srochno-IDPNdvZ.html",
+        "latitude": 50.6287826032125,
+        "longitude": 30.3809824847344,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8196-81f5-d3c95743f583",
         "source": "processing",
         "name": "Фасова",
@@ -2095,6 +2112,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-12-sotok-obuhovskiy-r-n-IDMhutg.html",
         "latitude": 50.2377889792232,
         "longitude": 30.513686110081,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81d8-afee-f5df7946a786",
+        "source": "processing",
+        "name": "Біла Церква",
+        "area": "0.1 га",
+        "price": "12 500 $",
+        "distance_to_kyiv": "96,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8154577464938,30.0286542471499",
+        "notion_url": "https://www.notion.so/32a49a17ea9781d8afeef5df7946a786",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/vyskbud-3-tya-lnya-skvirskogo-shose-IDTdvNG.html",
+        "latitude": 49.8154577464938,
+        "longitude": 30.0286542471499,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
