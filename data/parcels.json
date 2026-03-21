@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T06:55:23.156448Z",
+  "generated_at": "2026-03-21T07:00:21.122439Z",
   "counts": {
     "landmatch": 19,
-    "processing": 173,
+    "processing": 175,
     "landhub": 19
   },
   "categories": {
@@ -2509,6 +2509,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8175-a4fe-d04d395a37b5",
+        "source": "processing",
+        "name": "Крюківщина",
+        "area": "0.03 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "20,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3752589105498,30.4239129721625",
+        "notion_url": "https://www.notion.so/32a49a17ea978175a4fed04d395a37b5",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-3-sotki-s-kryukvschina-stolichniy-rinok-12000-IDJ549G.html",
+        "latitude": 50.3752589105498,
+        "longitude": 30.4239129721625,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8175-b98c-fe2b64854d94",
         "source": "processing",
         "name": "Пилиповичі",
@@ -2741,6 +2758,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-pay-3-giktara-IDZzywg.html",
         "latitude": 49.8962412148704,
         "longitude": 30.209974695673,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-819a-9166-e76bf73a5eeb",
+        "source": "processing",
+        "name": "Хотів",
+        "area": "1.0176 га",
+        "price": "2 800 $",
+        "distance_to_kyiv": "23,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3205262536351,30.4409180804909",
+        "notion_url": "https://www.notion.so/32a49a17ea97819a9166e76bf73a5eeb",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-1-0176-ga-v-sel-hotv-IDXtXOF.html",
+        "latitude": 50.3205262536351,
+        "longitude": 30.4409180804909,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
