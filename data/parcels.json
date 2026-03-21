@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T00:15:19.154239Z",
+  "generated_at": "2026-03-21T00:20:14.573613Z",
   "counts": {
     "landmatch": 19,
-    "processing": 85,
+    "processing": 87,
     "landhub": 19
   },
   "categories": {
@@ -1693,6 +1693,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8162-bac1-d2536e26d91a",
+        "source": "processing",
+        "name": "Біла Церква",
+        "area": "0.3048 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "114 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8368214344629,29.6637945113519",
+        "notion_url": "https://www.notion.so/32a49a17ea978162bac1d2536e26d91a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-v-s-buki-pd-zabudovu-IDVIbGK.html",
+        "latitude": 49.8368214344629,
+        "longitude": 29.6637945113519,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-816a-86b0-dca04e840952",
         "source": "processing",
         "name": "ПШЕНИЧНЕ",
@@ -1755,6 +1772,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodaetsya-uchastok-v-mostysche-makarovskiy-r-n-IDKJDAv.html",
         "latitude": 50.2811230710606,
         "longitude": 30.0362944186413,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81ba-ad4a-f8de382b2ce9",
+        "source": "processing",
+        "name": "Білогородка",
+        "area": "0.0526 га",
+        "price": "18 000 $",
+        "distance_to_kyiv": "26,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.37194919643277,30.258892732684295",
+        "notion_url": "https://www.notion.so/32a49a17ea9781baad4af8de382b2ce9",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kutova-dlyanka-z-lchilnikom-5-26-sot-bez-komsy-ID10718S.html",
+        "latitude": 50.37194919643277,
+        "longitude": 30.258892732684295,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
