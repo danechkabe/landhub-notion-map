@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T01:00:20.077215Z",
+  "generated_at": "2026-03-21T01:05:16.089013Z",
   "counts": {
     "landmatch": 19,
-    "processing": 99,
+    "processing": 100,
     "landhub": 19
   },
   "categories": {
@@ -1687,6 +1687,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-s-lyutzh-1-4936-ga-IDZXYWD.html",
         "latitude": 50.6639570156688,
         "longitude": 30.2836230742416,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-810b-a1c0-f80846ac7b16",
+        "source": "processing",
+        "name": "Таценки",
+        "area": "0.1 га",
+        "price": "6 600 $",
+        "distance_to_kyiv": "37,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1630916732495,30.6737928431696",
+        "notion_url": "https://www.notion.so/32a49a17ea97810ba1c0f80846ac7b16",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-12-sotok-tatsenki-novoobuhvska-trasa-ls-ozera-poryad-IDZYIG4.html",
+        "latitude": 50.1630916732495,
+        "longitude": 30.6737928431696,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
