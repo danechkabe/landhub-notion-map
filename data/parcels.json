@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T02:25:16.717089Z",
+  "generated_at": "2026-03-21T02:30:17.525838Z",
   "counts": {
     "landmatch": 19,
-    "processing": 115,
+    "processing": 117,
     "landhub": 19
   },
   "categories": {
@@ -1710,6 +1710,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8107-8f3f-f3041ecfe921",
+        "source": "processing",
+        "name": "Копачів",
+        "area": "0.2171 га",
+        "price": "5 800 $",
+        "distance_to_kyiv": "51,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.122953428415,30.5036429452045",
+        "notion_url": "https://www.notion.so/32a49a17ea9781078f3ff3041ecfe921",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ID107mxl.html",
+        "latitude": 50.122953428415,
+        "longitude": 30.5036429452045,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-810b-a1c0-f80846ac7b16",
         "source": "processing",
         "name": "Таценки",
@@ -2197,6 +2214,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-blya-lsu-s-nescherv-vlasnik-IDYySjc.html",
         "latitude": 50.1499692752537,
         "longitude": 30.6095722835079,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81e3-b489-f70b0e602212",
+        "source": "processing",
+        "name": "Святопетрівське",
+        "area": "0.5868 га",
+        "price": "5 200 $",
+        "distance_to_kyiv": "23,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.40240616936968,30.302871597811713",
+        "notion_url": "https://www.notion.so/32a49a17ea9781e3b489f70b0e602212",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/65-sotok-asfalt-skladi-virobnitstvo-IDVGDMt.html",
+        "latitude": 50.40240616936968,
+        "longitude": 30.302871597811713,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
