@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T08:30:17.670435Z",
+  "generated_at": "2026-03-21T08:35:16.590246Z",
   "counts": {
     "landmatch": 19,
-    "processing": 202,
+    "processing": 204,
     "landhub": 19
   },
   "categories": {
@@ -3597,6 +3597,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-81ea-b43c-f39837f72bd3",
+        "source": "processing",
+        "name": "Ходосівка",
+        "area": "0.1499 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "23,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2686503623467,30.5311269013222",
+        "notion_url": "https://www.notion.so/32a49a17ea9781eab43cf39837f72bd3",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-15-sotok-v-sel-hodosvka-IDXBJaf.html",
+        "latitude": 50.2686503623467,
+        "longitude": 30.5311269013222,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-81ed-8c59-f51980db4b95",
         "source": "processing",
         "name": "Великі Дмитровичі",
@@ -3744,6 +3761,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/10-sotok-vishgorodskiy-rayon-suvdska-rada-IDZ4Nsu.html",
         "latitude": 50.9329844612435,
         "longitude": 30.5978178280152,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81fd-a894-d85258a4aadd",
+        "source": "processing",
+        "name": "Шпитьки",
+        "area": "0.08 га",
+        "price": "14 000 $",
+        "distance_to_kyiv": "32,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.42547048821,30.1411727280623",
+        "notion_url": "https://www.notion.so/32a49a17ea9781fda894d85258a4aadd",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodayu-dlyanku-8-sotok-u-shpitkah-20-kvt-elektroenerg-vlasnik-IDZ2UNj.html",
+        "latitude": 50.42547048821,
+        "longitude": 30.1411727280623,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
