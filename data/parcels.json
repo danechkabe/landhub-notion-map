@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T07:10:22.288551Z",
+  "generated_at": "2026-03-21T07:15:19.850438Z",
   "counts": {
     "landmatch": 19,
-    "processing": 178,
+    "processing": 181,
     "landhub": 19
   },
   "categories": {
@@ -2730,6 +2730,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-818e-ab14-c3ec778bdef0",
+        "source": "processing",
+        "name": "Білогородка",
+        "area": "0.0523 га",
+        "price": "17 000 $",
+        "distance_to_kyiv": "26,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.371351999999995,30.262169500000002",
+        "notion_url": "https://www.notion.so/32a49a17ea97818eab14c3ec778bdef0",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-5-22-sot-pd-zabudovu-10-km-vd-kiva-ID1070yw.html",
+        "latitude": 50.371351999999995,
+        "longitude": 30.262169500000002,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8190-9f61-d8b5ce171e35",
         "source": "processing",
         "name": "Лебедівка",
@@ -3087,6 +3104,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-81da-959c-ccffb884bb38",
+        "source": "processing",
+        "name": "Трушки",
+        "area": "0.1 га",
+        "price": "3 300 $",
+        "distance_to_kyiv": "106 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.7675819566084,29.9837339913675",
+        "notion_url": "https://www.notion.so/32a49a17ea9781da959cccffb884bb38",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemlya-10-sotok-IDZyX21.html",
+        "latitude": 49.7675819566084,
+        "longitude": 29.9837339913675,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-81dc-90ec-e1ca313abe20",
         "source": "processing",
         "name": "Мала Солтанівка",
@@ -3234,6 +3268,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/16-sotok-prodam-zemelnu-dlyanku-IDYNY7B.html",
         "latitude": 50.2142403644138,
         "longitude": 30.3051377252962,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81ea-9f6c-e00be637553d",
+        "source": "processing",
+        "name": "Рославичі",
+        "area": "0.14 га",
+        "price": "23 000 $",
+        "distance_to_kyiv": "36,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2546523516486,30.428552770605",
+        "notion_url": "https://www.notion.so/32a49a17ea9781ea9f6ce00be637553d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelna-dlyanka-14-sot-s-roslavich-15km-vd-kiva-IDYaEIE.html",
+        "latitude": 50.2546523516486,
+        "longitude": 30.428552770605,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
