@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T03:55:21.620648Z",
+  "generated_at": "2026-03-21T04:00:20.686438Z",
   "counts": {
     "landmatch": 19,
-    "processing": 132,
+    "processing": 133,
     "landhub": 19
   },
   "categories": {
@@ -1891,6 +1891,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemlyu-21-sotka-s-buzova-kivo-svyatoshinskiy-rayon-IDUOxrK.html",
         "latitude": 50.4106599114393,
         "longitude": 30.0434494998794,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-813c-bbfd-d1899e18033b",
+        "source": "processing",
+        "name": "Бузова",
+        "area": "0.12 га",
+        "price": "17 000 $",
+        "distance_to_kyiv": "37,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4205942415332,30.0519161214322",
+        "notion_url": "https://www.notion.so/32a49a17ea97813cbbfdd1899e18033b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-12-sotok-v-tsentr-s-buzova-20km-vd-kiva-IDZXxSH.html",
+        "latitude": 50.4205942415332,
+        "longitude": 30.0519161214322,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
