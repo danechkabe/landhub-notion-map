@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T07:20:16.839348Z",
+  "generated_at": "2026-03-21T07:25:22.576087Z",
   "counts": {
     "landmatch": 19,
-    "processing": 182,
+    "processing": 183,
     "landhub": 19
   },
   "categories": {
@@ -3319,6 +3319,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-s-zabrya-IDZU01D.html",
         "latitude": 50.3179422629561,
         "longitude": 30.2073561066198,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81f1-8b91-db2adc2bcc2d",
+        "source": "processing",
+        "name": "Гостомель",
+        "area": "0.0799 га",
+        "price": "25 000 $",
+        "distance_to_kyiv": "27,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.575600137429284,30.254620746045205",
+        "notion_url": "https://www.notion.so/32a49a17ea9781f18b91db2adc2bcc2d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-s-gostomel-IDZZZYQ.html",
+        "latitude": 50.575600137429284,
+        "longitude": 30.254620746045205,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
