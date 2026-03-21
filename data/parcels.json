@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T03:05:17.178339Z",
+  "generated_at": "2026-03-21T03:10:21.047879Z",
   "counts": {
     "landmatch": 19,
-    "processing": 121,
+    "processing": 122,
     "landhub": 19
   },
   "categories": {
@@ -2265,6 +2265,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/vta-poshtova-vul-zvenigorodska-63-sot-komertsynogo-priznachennya-IDYWvtC.html",
         "latitude": 50.3040390725087,
         "longitude": 30.3651631525811,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81e0-9fdd-c65aac86abbb",
+        "source": "processing",
+        "name": "Щербанівка",
+        "area": "0.12 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "53,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1028457460714,30.735372355896",
+        "notion_url": "https://www.notion.so/32a49a17ea9781e09fddc65aac86abbb",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-pd-budvnitstvo-obuhvskiy-rayon-IDS0JbC.html",
+        "latitude": 50.1028457460714,
+        "longitude": 30.735372355896,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
