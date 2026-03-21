@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T08:20:21.472451Z",
+  "generated_at": "2026-03-21T08:25:24.240989Z",
   "counts": {
     "landmatch": 19,
-    "processing": 198,
+    "processing": 201,
     "landhub": 19
   },
   "categories": {
@@ -1897,6 +1897,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8120-8ab5-e7ec43603986",
+        "source": "processing",
+        "name": "Осещина",
+        "area": "0.0678 га",
+        "price": "27 100 $",
+        "distance_to_kyiv": "25,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5754496121364,30.5569669404699",
+        "notion_url": "https://www.notion.so/32a49a17ea9781208ab5e7ec43603986",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-km-mzhrchchya-7-sot-termnovo-IDZevmZ.html",
+        "latitude": 50.5754496121364,
+        "longitude": 30.5569669404699,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8120-9529-cab540783765",
         "source": "processing",
         "name": "Андріївка",
@@ -2741,6 +2758,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-11-sotok-v-s-hotv-IDXWyXU.html",
         "latitude": 50.3133389127181,
         "longitude": 30.4942869915204,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-817d-8075-d1b2fa97ad3c",
+        "source": "processing",
+        "name": "Осещина",
+        "area": "0.0682 га",
+        "price": "27 400 $",
+        "distance_to_kyiv": "25,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5751586636301,30.5566570216968",
+        "notion_url": "https://www.notion.so/32a49a17ea97817d8075d1b2fa97ad3c",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-km-mzhrchchya-7-sot-termnovo-IDZevLn.html",
+        "latitude": 50.5751586636301,
+        "longitude": 30.5566570216968,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
@@ -3659,6 +3693,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-12-sotok-blya-r-stugna-z-vihodom-do-dnpra-IDRDTUP.html",
         "latitude": 50.1696572755256,
         "longitude": 30.6252478852158,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81f7-ac6d-fb5c4798c152",
+        "source": "processing",
+        "name": "Бобриця",
+        "area": "0.1115 га",
+        "price": "14 000 $",
+        "distance_to_kyiv": "35,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3503022692999,30.1627098369991",
+        "notion_url": "https://www.notion.so/32a49a17ea9781f7ac6dfb5c4798c152",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-blya-lsu-ta-rchki-rpn-11-sot-IDZbBwx.html",
+        "latitude": 50.3503022692999,
+        "longitude": 30.1627098369991,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
