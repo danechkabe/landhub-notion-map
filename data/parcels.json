@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T03:20:15.340918Z",
+  "generated_at": "2026-03-21T03:25:16.835480Z",
   "counts": {
     "landmatch": 19,
-    "processing": 126,
+    "processing": 127,
     "landhub": 19
   },
   "categories": {
@@ -2418,6 +2418,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-s-zabrya-IDZU01D.html",
         "latitude": 50.3179422629561,
         "longitude": 30.2073561066198,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81f5-9974-cf1b95253f75",
+        "source": "processing",
+        "name": "Михайлівка-Рубежівка",
+        "area": "0.1 га",
+        "price": "15 000 $",
+        "distance_to_kyiv": "36,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4912192539283,30.1433241931678",
+        "notion_url": "https://www.notion.so/32a49a17ea9781f59974cf1b95253f75",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnoviy-prodazh-zemelno-dlyanki-10sotok-IDVoNhw.html",
+        "latitude": 50.4912192539283,
+        "longitude": 30.1433241931678,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
