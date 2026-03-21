@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T04:30:20.326464Z",
+  "generated_at": "2026-03-21T04:35:17.435533Z",
   "counts": {
     "landmatch": 19,
-    "processing": 137,
+    "processing": 139,
     "landhub": 19
   },
   "categories": {
@@ -1999,6 +1999,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8145-87ee-c7bf829c2b9d",
+        "source": "processing",
+        "name": "Бородянка",
+        "area": "0.1215 га",
+        "price": "11 500 $",
+        "distance_to_kyiv": "55,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6381982552759,29.879682132008",
+        "notion_url": "https://www.notion.so/32a49a17ea97814587eec7bf829c2b9d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-12-sotok-borodyanka-vul-raduzhna-IDXPZcR.html",
+        "latitude": 50.6381982552759,
+        "longitude": 29.879682132008,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8154-b44f-ceea155e0836",
         "source": "processing",
         "name": "Гатне",
@@ -2197,6 +2214,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-z-komunkatsyami-kivska-oblast-IDZy9r3.html",
         "latitude": 50.6080957350602,
         "longitude": 29.9494991958897,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8178-a940-f81ea72759f9",
+        "source": "processing",
+        "name": "Михайлівка-Рубежівка",
+        "area": "0.0660 га",
+        "price": "3 700 $",
+        "distance_to_kyiv": "36,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.49803432360393,30.138335885016254",
+        "notion_url": "https://www.notion.so/32a49a17ea978178a940f81ea72759f9",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-pd-budvnitstvo-poruch-ls-ta-ozero-13-km-kiv-IDYS1H2.html",
+        "latitude": 50.49803432360393,
+        "longitude": 30.138335885016254,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
