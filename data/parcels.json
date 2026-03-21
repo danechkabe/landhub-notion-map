@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T07:35:18.935365Z",
+  "generated_at": "2026-03-21T07:40:21.476844Z",
   "counts": {
     "landmatch": 19,
-    "processing": 185,
+    "processing": 188,
     "landhub": 19
   },
   "categories": {
@@ -2237,6 +2237,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-814a-a670-e0dc7e6b9bec",
+        "source": "processing",
+        "name": "Бородянка",
+        "area": "0.1657 га",
+        "price": "14 000 $",
+        "distance_to_kyiv": "56,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6319764442135,29.85920054353",
+        "notion_url": "https://www.notion.so/32a49a17ea97814aa670e0dc7e6b9bec",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-ID105nox.html",
+        "latitude": 50.6319764442135,
+        "longitude": 29.85920054353,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-814c-b2a5-ddab88e45255",
         "source": "processing",
         "name": "Мотовилівська Слобідка",
@@ -3053,6 +3070,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-81c3-b908-df0fefe17994",
+        "source": "processing",
+        "name": "Музичі",
+        "area": "0.2001 га",
+        "price": "19 000 $",
+        "distance_to_kyiv": "39,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3638481047043,30.094833134131",
+        "notion_url": "https://www.notion.so/32a49a17ea9781c3b908df0fefe17994",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-v-muzychah-20-sotok-sobstvennik-IDVzKus.html",
+        "latitude": 50.3638481047043,
+        "longitude": 30.094833134131,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-81c5-887c-c152b890ae2b",
         "source": "processing",
         "name": "Кожухівка",
@@ -3081,6 +3115,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zeml-dlyanka-s-abramvka-vishgorodskiy-r-n-kivska-oblast-IDH3yU2.html",
         "latitude": 50.7503029870792,
         "longitude": 30.0819063771925,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81cc-b6b3-e4be17783d0d",
+        "source": "processing",
+        "name": "Липівка",
+        "area": "0.1881 га",
+        "price": "8 500 $",
+        "distance_to_kyiv": "60,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.518152319393,29.8159107299883",
+        "notion_url": "https://www.notion.so/32a49a17ea9781ccb6b3e4be17783d0d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-osg-ID107tXq.html",
+        "latitude": 50.518152319393,
+        "longitude": 29.8159107299883,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
