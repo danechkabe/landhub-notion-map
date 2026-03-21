@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T04:10:20.097913Z",
+  "generated_at": "2026-03-21T04:17:16.154870Z",
   "counts": {
     "landmatch": 19,
-    "processing": 135,
+    "processing": 136,
     "landhub": 19
   },
   "categories": {
@@ -1891,6 +1891,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-mala-vlshanka-obuhvskiy-15-sot-ID107Php.html",
         "latitude": 50.0809772351876,
         "longitude": 30.4706433332424,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8138-a54b-d0c6f0223980",
+        "source": "processing",
+        "name": "Хотів",
+        "area": "0.1316 га",
+        "price": "13 000 $",
+        "distance_to_kyiv": "24,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3111360304447,30.4618308603052",
+        "notion_url": "https://www.notion.so/32a49a17ea978138a54bd0c6f0223980",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-13-sotok-v-sel-hotv-IDW4kpY.html",
+        "latitude": 50.3111360304447,
+        "longitude": 30.4618308603052,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
