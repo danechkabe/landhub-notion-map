@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T04:20:24.849586Z",
+  "generated_at": "2026-03-21T04:25:19.249503Z",
   "counts": {
     "landmatch": 19,
-    "processing": 136,
+    "processing": 137,
     "landhub": 19
   },
   "categories": {
@@ -2554,6 +2554,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-s-zabrya-IDZU01D.html",
         "latitude": 50.3179422629561,
         "longitude": 30.2073561066198,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81f1-9009-e51174512ac7",
+        "source": "processing",
+        "name": "Здорівка",
+        "area": "0.12 га",
+        "price": "9 000 $",
+        "distance_to_kyiv": "41,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.200623128492,30.250928889476",
+        "notion_url": "https://www.notion.so/32a49a17ea9781f19009e51174512ac7",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-kivska-obl-vasilkvskiy-r-n-s-zdorvka-IDxAkMV.html",
+        "latitude": 50.200623128492,
+        "longitude": 30.250928889476,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
