@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T03:50:19.896495Z",
+  "generated_at": "2026-03-21T03:55:21.620648Z",
   "counts": {
     "landmatch": 19,
-    "processing": 131,
+    "processing": 132,
     "landhub": 19
   },
   "categories": {
@@ -1976,6 +1976,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-mzh-zabryam-zhornvkoyu-19-5-ga-pd-zabudovu-IDYONO7.html",
         "latitude": 50.3217135230082,
         "longitude": 30.1758701559114,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-815e-8f1a-c9ddc0134524",
+        "source": "processing",
+        "name": "Осещина",
+        "area": "0.0682 га",
+        "price": "27 500 $",
+        "distance_to_kyiv": "25,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5750046313404,30.5565222744042",
+        "notion_url": "https://www.notion.so/32a49a17ea97815e8f1ac9ddc0134524",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-km-mzhrchchya-7-sot-IDZAgu6.html",
+        "latitude": 50.5750046313404,
+        "longitude": 30.5565222744042,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
