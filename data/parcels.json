@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T01:20:17.277297Z",
+  "generated_at": "2026-03-21T01:25:17.565251Z",
   "counts": {
     "landmatch": 19,
-    "processing": 103,
+    "processing": 104,
     "landhub": 19
   },
   "categories": {
@@ -1925,6 +1925,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/mihaylvka-rubezhvka-dlyanka-15-6-sotok-pd-budvnitstvo-torg-IDYMtRl.html",
         "latitude": 50.506256014723,
         "longitude": 30.1453139615221,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8181-b1d4-f031841925e5",
+        "source": "processing",
+        "name": "Підгірці",
+        "area": "0.1 га",
+        "price": "7 500 $",
+        "distance_to_kyiv": "35,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.214053538196,30.4831344072681",
+        "notion_url": "https://www.notion.so/32a49a17ea978181b1d4f031841925e5",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-v-podgortsah-sobstvennik-IDNyWBz.html",
+        "latitude": 50.214053538196,
+        "longitude": 30.4831344072681,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
