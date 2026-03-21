@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T08:40:17.620223Z",
+  "generated_at": "2026-03-21T08:45:23.582988Z",
   "counts": {
     "landmatch": 19,
-    "processing": 206,
+    "processing": 207,
     "landhub": 19
   },
   "categories": {
@@ -3081,6 +3081,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-15-sotok-komnunkats-poruch-bez-koms-IDYxg6a.html",
         "latitude": 50.4246606768445,
         "longitude": 30.0465576707624,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81a0-82cd-e84417b19e39",
+        "source": "processing",
+        "name": "Германівка",
+        "area": "0.1294 га",
+        "price": "7 000 $",
+        "distance_to_kyiv": "63,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0007400175086,30.5721664350772",
+        "notion_url": "https://www.notion.so/32a49a17ea9781a082cde84417b19e39",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-pd-budvnitstvo-IDSu4bi.html",
+        "latitude": 50.0007400175086,
+        "longitude": 30.5721664350772,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
