@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T01:05:16.089013Z",
+  "generated_at": "2026-03-21T01:10:17.985558Z",
   "counts": {
     "landmatch": 19,
-    "processing": 100,
+    "processing": 101,
     "landhub": 19
   },
   "categories": {
@@ -1687,6 +1687,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-s-lyutzh-1-4936-ga-IDZXYWD.html",
         "latitude": 50.6639570156688,
         "longitude": 30.2836230742416,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-8105-b6a5-da9c6e828c41",
+        "source": "processing",
+        "name": "Вишневе",
+        "area": "0.0566 га",
+        "price": "24 000 $",
+        "distance_to_kyiv": "20,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.382583846561815,30.405416161802588",
+        "notion_url": "https://www.notion.so/32a49a17ea978105b6a5da9c6e828c41",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-kryukvschin-IDYDRd0.html",
+        "latitude": 50.382583846561815,
+        "longitude": 30.405416161802588,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
