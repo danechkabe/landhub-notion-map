@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T02:10:22.330969Z",
+  "generated_at": "2026-03-21T02:15:16.296397Z",
   "counts": {
     "landmatch": 19,
-    "processing": 113,
+    "processing": 115,
     "landhub": 19
   },
   "categories": {
@@ -1897,6 +1897,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-816a-a20b-c581dad9a7f2",
+        "source": "processing",
+        "name": "Ворзель",
+        "area": "0.0500 га",
+        "price": "20 000 $",
+        "distance_to_kyiv": "36,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.55173055542944,30.11129213469542",
+        "notion_url": "https://www.notion.so/32a49a17ea97816aa20bc581dad9a7f2",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/bez-dlyanka-5-sotok-vorzel-ID1051KU.html",
+        "latitude": 50.55173055542944,
+        "longitude": 30.11129213469542,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-816b-9f20-f8ce73d7413f",
         "source": "processing",
         "name": "Обухів",
@@ -2180,6 +2197,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-blya-lsu-s-nescherv-vlasnik-IDYySjc.html",
         "latitude": 50.1499692752537,
         "longitude": 30.6095722835079,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81e8-9ad0-e214ccf02e0f",
+        "source": "processing",
+        "name": "Васильків",
+        "area": "0.1609 га",
+        "price": "18 500 $",
+        "distance_to_kyiv": "37,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2142403644138,30.3051377252962",
+        "notion_url": "https://www.notion.so/32a49a17ea9781e89ad0e214ccf02e0f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/16-sotok-prodam-zemelnu-dlyanku-IDYNY7B.html",
+        "latitude": 50.2142403644138,
+        "longitude": 30.3051377252962,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
