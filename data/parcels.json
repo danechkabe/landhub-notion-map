@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T06:25:16.446691Z",
+  "generated_at": "2026-03-21T06:30:16.559498Z",
   "counts": {
     "landmatch": 19,
-    "processing": 166,
+    "processing": 168,
     "landhub": 19
   },
   "categories": {
@@ -1999,6 +1999,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8124-8efe-c543d30b3af1",
+        "source": "processing",
+        "name": "Рославичі",
+        "area": "0.2962 га",
+        "price": "3 300 $",
+        "distance_to_kyiv": "38,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2475211169587,30.4320517086366",
+        "notion_url": "https://www.notion.so/32a49a17ea9781248efec543d30b3af1",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-panoramna-dlyanka-s-roslavich-IDZQI2K.html",
+        "latitude": 50.2475211169587,
+        "longitude": 30.4320517086366,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8129-8438-c047139454f7",
         "source": "processing",
         "name": "Мала Вільшанка",
@@ -2843,6 +2860,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-kozhuhvka-fastvskiy-rayon-IDW1PjV.html",
         "latitude": 50.2564701718946,
         "longitude": 30.2287809261461,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81c6-8f9b-c914c5c59911",
+        "source": "processing",
+        "name": "Абрамівка",
+        "area": "0.0919 га",
+        "price": "4 300 $",
+        "distance_to_kyiv": "55,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7503029870792,30.0819063771925",
+        "notion_url": "https://www.notion.so/32a49a17ea9781c68f9bc914c5c59911",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zeml-dlyanka-s-abramvka-vishgorodskiy-r-n-kivska-oblast-IDH3yU2.html",
+        "latitude": 50.7503029870792,
+        "longitude": 30.0819063771925,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
