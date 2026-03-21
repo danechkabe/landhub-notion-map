@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T06:00:23.026734Z",
+  "generated_at": "2026-03-21T06:05:23.235983Z",
   "counts": {
     "landmatch": 19,
-    "processing": 159,
+    "processing": 161,
     "landhub": 19
   },
   "categories": {
@@ -1948,6 +1948,23 @@
         "status_key": "unprocessed"
       },
       {
+        "id": "32a49a17-ea97-8123-9b02-c7e2cd3da893",
+        "source": "processing",
+        "name": "Ясногородка",
+        "area": "0.0528 га",
+        "price": "8 000 $",
+        "distance_to_kyiv": "44,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3690080883904,30.0185706580857",
+        "notion_url": "https://www.notion.so/32a49a17ea9781239b02c7e2cd3da893",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-pd-zabudovu-5-sotok-svtlo-14kv-3-fazi-30km-vd-ki-ID100c6p.html",
+        "latitude": 50.3690080883904,
+        "longitude": 30.0185706580857,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "32a49a17-ea97-8129-8438-c047139454f7",
         "source": "processing",
         "name": "Мала Вільшанка",
@@ -2605,6 +2622,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-15-sotok-komnunkats-poruch-bez-koms-IDYxg6a.html",
         "latitude": 50.4246606768445,
         "longitude": 30.0465576707624,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "32a49a17-ea97-81a8-b0f5-c0b7c6aee929",
+        "source": "processing",
+        "name": "Дмитрівка",
+        "area": "0.0859 га",
+        "price": "22 000 $",
+        "distance_to_kyiv": "30,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4725816582877,30.1820685313718",
+        "notion_url": "https://www.notion.so/32a49a17ea9781a8b0f5c0b7c6aee929",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dmitrvka-kuba-8-59-sotok-vlasnik-IDZT0b8.html",
+        "latitude": 50.4725816582877,
+        "longitude": 30.1820685313718,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
