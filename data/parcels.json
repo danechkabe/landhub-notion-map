@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-28T19:20:18.751812Z",
+  "generated_at": "2026-03-28T19:25:18.650077Z",
   "counts": {
     "landmatch": 25,
-    "processing": 13,
+    "processing": 14,
     "landhub": 20
   },
   "categories": {
@@ -650,6 +650,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-vishgorodskiy-r-n-s-krugi-0-25g-IDKUeP2.html",
         "latitude": 50.8455208151404,
         "longitude": 30.3113361007566,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "33149a17-ea97-81d9-8a74-fa3906a9cc48",
+        "source": "processing",
+        "name": "Борова",
+        "area": "0.0768 га",
+        "price": "—",
+        "distance_to_kyiv": "56,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1502570857657,30.1216703032441",
+        "notion_url": "https://www.notion.so/33149a17ea9781d98a74fa3906a9cc48",
+        "olx_url": "",
+        "latitude": 50.1502570857657,
+        "longitude": 30.1216703032441,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
