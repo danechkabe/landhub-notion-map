@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+    <title>LandHub Map</title>
+    <meta
+      name="description"
+      content="Інтерактивна карта активних ділянок LandHub."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-bar">
+          <h1>Land Map Notion</h1>
+          <nav class="category-tabs" aria-label="Категорії карти">
+            <button class="category-tab is-active" data-category="landmatch" type="button">
+              <span class="tab-symbol">💛</span>
+              <span>LandMatch</span>
+            </button>
+            <button class="category-tab" data-category="processing" type="button">
+              <span class="tab-symbol">📚</span>
+              <span>В обробці</span>
+            </button>
+            <button class="category-tab" data-category="landhub" type="button">
+              <span class="tab-symbol">📍</span>
+              <span>LandHub</span>
+            </button>
+          </nav>
+        </div>
+      </header>
+
+      <section id="processing-filters" class="processing-filters is-hidden" aria-label="Фільтри статусів">
+        <button class="status-chip is-active" data-status-key="gives_to_sell" type="button">
+          <span class="chip-symbol">📗</span>
+          <span>Дає на реалізацію</span>
+        </button>
+        <button class="status-chip is-active" data-status-key="site_ok_olx_keeps" type="button">
+          <span class="chip-symbol">📙</span>
+          <span>На сайт OK, але OLX не прибере</span>
+        </button>
+        <button class="status-chip is-active" data-status-key="callback" type="button">
+          <span class="chip-symbol">📘</span>
+          <span>Передзвонити</span>
+        </button>
+        <button class="status-chip is-active" data-status-key="unprocessed" type="button">
+          <span class="chip-symbol">📓</span>
+          <span>Не опрацьована</span>
+        </button>
+      </section>
+
+      <main class="map-card">
+        <div id="map" aria-label="Карта ділянок"></div>
+      </main>
+    </div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="./app.js" defer></script>
+  </body>
+</html>
