@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29T12:55:15.326206Z",
+  "generated_at": "2026-03-29T13:00:22.017323Z",
   "counts": {
     "landmatch": 25,
-    "processing": 14,
+    "processing": 15,
     "landhub": 20
   },
   "categories": {
@@ -667,6 +667,23 @@
         "olx_url": "",
         "latitude": 50.1502570857657,
         "longitude": 30.1216703032441,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "33249a17-ea97-8197-bedd-ee74c8d79881",
+        "source": "processing",
+        "name": "Тарасівщина",
+        "area": "0.15 га",
+        "price": "8 000 $",
+        "distance_to_kyiv": "44,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7143486163161,30.2183335193918",
+        "notion_url": "https://www.notion.so/33249a17ea978197beddee74c8d79881",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-15-sotok-s-tarasvschina-IDYqD1P.html",
+        "latitude": 50.7143486163161,
+        "longitude": 30.2183335193918,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
