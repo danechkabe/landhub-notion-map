@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29T17:40:16.836701Z",
+  "generated_at": "2026-03-29T17:45:15.926945Z",
   "counts": {
     "landmatch": 25,
-    "processing": 15,
+    "processing": 16,
     "landhub": 20
   },
   "categories": {
@@ -684,6 +684,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-15-sotok-s-tarasvschina-IDYqD1P.html",
         "latitude": 50.7143486163161,
         "longitude": 30.2183335193918,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "33249a17-ea97-81e2-9067-fac5369bec31",
+        "source": "processing",
+        "name": "Пилипівка",
+        "area": "0.25 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "82,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0012770123625,29.9191900382035",
+        "notion_url": "https://www.notion.so/33249a17ea9781e29067fac5369bec31",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelnyy-uchastok-37-sotok-s-pilipovka-fastov-ID10b2uQ.html",
+        "latitude": 50.0012770123625,
+        "longitude": 29.9191900382035,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
