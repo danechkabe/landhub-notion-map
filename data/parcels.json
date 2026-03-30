@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T14:40:21.344296Z",
+  "generated_at": "2026-03-30T14:45:18.400662Z",
   "counts": {
     "landmatch": 25,
     "processing": 16,
@@ -650,10 +650,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-vishgorodskiy-r-n-s-krugi-0-25g-IDKUeP2.html",
         "latitude": 50.8455208151404,
         "longitude": 30.3113361007566,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "33149a17-ea97-81d9-8a74-fa3906a9cc48",
