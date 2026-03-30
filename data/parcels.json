@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T15:10:18.527407Z",
+  "generated_at": "2026-03-30T15:15:16.953408Z",
   "counts": {
     "landmatch": 25,
     "processing": 17,
@@ -633,10 +633,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodayu-uchastok-pod-kievom-11-14-sotok-IDNoPpG.html?search_reason=search%7Corganic",
         "latitude": 50.8481355722412,
         "longitude": 30.3308969160683,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "33149a17-ea97-8140-ae7e-ec7159ee0c0b",
