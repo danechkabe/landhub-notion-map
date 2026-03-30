@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-30T15:50:18.249836Z",
+  "generated_at": "2026-03-30T15:55:18.942988Z",
   "counts": {
     "landmatch": 25,
-    "processing": 11,
+    "processing": 9,
     "landhub": 21
   },
   "categories": {
@@ -434,40 +434,6 @@
       }
     ],
     "processing": [
-      {
-        "id": "2f049a17-ea97-803c-93b1-f08e66c2d4ed",
-        "source": "processing",
-        "name": "Одноріг",
-        "area": "0.0839 га",
-        "price": "5500$",
-        "distance_to_kyiv": "—",
-        "google_maps_url": "https://www.google.com/maps?q=49.6969390,30.2235752&entry=gps&lucs=,94297699,94275415,94284454,94231188,94280568,47071704,94266209,94218641,94282134,94286869&g_ep=CAISEjI2LjAyLjQuODUyMzYyMzU0MRgAINeCAypaLDk0Mjk3Njk5LDk0Mjc1NDE1LDk0Mjg0NDU0LDk0MjMxMTg4LDk0MjgwNTY4LDQ3MDcxNzA0LDk0MjY2MjA5LDk0MjE4NjQxLDk0MjgyMTM0LDk0Mjg2ODY5QgJVQQ%3D%3D&skid=d9eeb217-bd04-478e-a4f7-fb8da5e1a16d&g_st=ic",
-        "notion_url": "https://www.notion.so/2f049a17ea97803c93b1f08e66c2d4ed",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDZFclR.html",
-        "latitude": 49.696939,
-        "longitude": 30.2235752,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
-      },
-      {
-        "id": "31349a17-ea97-8071-bbe7-c8fc924a891d",
-        "source": "processing",
-        "name": "Димер",
-        "area": "—",
-        "price": "—",
-        "distance_to_kyiv": "—",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7744863599965,30.317565917252",
-        "notion_url": "https://www.notion.so/31349a17ea978071bbe7c8fc924a891d",
-        "olx_url": "https://www.olx.ua/d/obyavlenie/termnovo-ne-dorogo-prodam-12-sotok-pd-dachu-dimer-IDzLUMg.html",
-        "latitude": 50.7744863599965,
-        "longitude": 30.317565917252,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
-      },
       {
         "id": "31949a17-ea97-8040-9f5e-ec88a2d98ab4",
         "source": "processing",
