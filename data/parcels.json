@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T16:15:17.126252Z",
+  "generated_at": "2026-03-30T16:20:17.284233Z",
   "counts": {
     "landmatch": 25,
     "processing": 9,
@@ -524,17 +524,17 @@
         "source": "processing",
         "name": "Круги",
         "area": "0.25 га",
-        "price": "2 300 $",
+        "price": "7500 $",
         "distance_to_kyiv": "56,3 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8455208151404,30.3113361007566",
         "notion_url": "https://www.notion.so/33149a17ea9781938244eb2f279a4bf7",
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-vishgorodskiy-r-n-s-krugi-0-25g-IDKUeP2.html",
         "latitude": 50.8455208151404,
         "longitude": 30.3113361007566,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "33149a17-ea97-81d9-8a74-fa3906a9cc48",
