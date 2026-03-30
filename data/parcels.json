@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-30T14:55:19.535663Z",
+  "generated_at": "2026-03-30T15:00:21.037876Z",
   "counts": {
     "landmatch": 25,
-    "processing": 16,
+    "processing": 17,
     "landhub": 20
   },
   "categories": {
@@ -622,6 +622,23 @@
         "status_key": "gives_to_sell"
       },
       {
+        "id": "33149a17-ea97-80a1-97cc-feb1519a4666",
+        "source": "processing",
+        "name": "Круги",
+        "area": "0.1196 га",
+        "price": "—",
+        "distance_to_kyiv": "56 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8481355722412,30.3308969160683",
+        "notion_url": "https://www.notion.so/33149a17ea9780a197ccfeb1519a4666",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodayu-uchastok-pod-kievom-11-14-sotok-IDNoPpG.html?search_reason=search%7Corganic",
+        "latitude": 50.8481355722412,
+        "longitude": 30.3308969160683,
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
+      },
+      {
         "id": "33149a17-ea97-8140-ae7e-ec7159ee0c0b",
         "source": "processing",
         "name": "Ясногородка",
@@ -633,10 +650,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelnoy-dlyanki-12-sotok-yasnogorodka-vyshgorod-IDYwLg4.html",
         "latitude": 50.8706187015095,
         "longitude": 30.4073390551705,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "33149a17-ea97-8193-8244-eb2f279a4bf7",
