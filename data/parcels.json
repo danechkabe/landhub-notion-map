@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-30T15:25:17.765389Z",
+  "generated_at": "2026-03-30T15:30:21.651618Z",
   "counts": {
     "landmatch": 25,
-    "processing": 17,
+    "processing": 15,
     "landhub": 20
   },
   "categories": {
@@ -503,23 +503,6 @@
         "status_key": "gives_to_sell"
       },
       {
-        "id": "32a49a17-ea97-800d-8bd7-d0aa34301372",
-        "source": "processing",
-        "name": "Плахтянка",
-        "area": "0.067 га",
-        "price": "5000$",
-        "distance_to_kyiv": "38 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5125344381398,29.9129242890968",
-        "notion_url": "https://www.notion.so/32a49a17ea97800d8bd7d0aa34301372",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDUVCRK.html",
-        "latitude": 50.5125344381398,
-        "longitude": 29.9129242890968,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
         "id": "32c49a17-ea97-80c2-b7c6-cfdaff0d54d5",
         "source": "processing",
         "name": "Буки",
@@ -599,23 +582,6 @@
         "olx_url": "https://www.olx.ua/d/obyavlenie/prodam-dlyanku-zemlyu-s-mala-sntinka-9-sotok-po-90-za-sotku-IDM7KP1.html",
         "latitude": 50.1518630366238,
         "longitude": 29.9695720509134,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
-        "id": "32f49a17-ea97-8179-809e-c1182f0782f9",
-        "source": "processing",
-        "name": "Княжичі",
-        "area": "0.1 га",
-        "price": "2 500 $",
-        "distance_to_kyiv": "39,1 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3239187828273,30.1522848881269",
-        "notion_url": "https://www.notion.so/32f49a17ea978179809ec1182f0782f9",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-kivo-svyatoshinskiy-rayon-IDPZpbv.html",
-        "latitude": 50.3239187828273,
-        "longitude": 30.1522848881269,
         "marker_symbol": "📗",
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
