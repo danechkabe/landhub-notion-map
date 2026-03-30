@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-30T16:20:17.284233Z",
+  "generated_at": "2026-03-30T16:25:15.039884Z",
   "counts": {
     "landmatch": 25,
-    "processing": 9,
-    "landhub": 21
+    "processing": 8,
+    "landhub": 22
   },
   "categories": {
     "landmatch": [
@@ -486,23 +486,6 @@
         "status_key": "gives_to_sell"
       },
       {
-        "id": "32d49a17-ea97-81ce-9719-c401f2034e89",
-        "source": "processing",
-        "name": "Королівка",
-        "area": "0.2501 га",
-        "price": "4750 $",
-        "distance_to_kyiv": "67,1 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5508928756328,29.752310346544007",
-        "notion_url": "https://www.notion.so/32d49a17ea9781ce9719c401f2034e89",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-s-korolvka-buchanskiy-rayon-IDXI1nk.html",
-        "latitude": 50.5508928756328,
-        "longitude": 29.752310346544007,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
         "id": "33149a17-ea97-80a1-97cc-feb1519a4666",
         "source": "processing",
         "name": "Круги",
@@ -924,6 +907,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-m-obuhv-IDFMRj7.html",
         "latitude": 50.1059109776159,
         "longitude": 30.6360950422715,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "Дає на реалізацію",
+        "status_key": ""
+      },
+      {
+        "id": "32d49a17-ea97-81ce-9719-c401f2034e89",
+        "source": "landhub",
+        "name": "Королівка",
+        "area": "0.2501 га",
+        "price": "4750 $",
+        "distance_to_kyiv": "67,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5508928756328,29.752310346544007",
+        "notion_url": "https://www.notion.so/32d49a17ea9781ce9719c401f2034e89",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-s-korolvka-buchanskiy-rayon-IDXI1nk.html",
+        "latitude": 50.5508928756328,
+        "longitude": 29.752310346544007,
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "Дає на реалізацію",
