@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T15:20:19.436110Z",
+  "generated_at": "2026-03-30T15:25:17.765389Z",
   "counts": {
     "landmatch": 25,
     "processing": 17,
@@ -718,10 +718,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelnyy-uchastok-37-sotok-s-pilipovka-fastov-ID10b2uQ.html",
         "latitude": 50.0012770123625,
         "longitude": 29.9191900382035,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       }
     ],
     "landhub": [
