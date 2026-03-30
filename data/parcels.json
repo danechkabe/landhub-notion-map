@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-30T15:48:19.485620Z",
+  "generated_at": "2026-03-30T15:50:18.249836Z",
   "counts": {
     "landmatch": 25,
-    "processing": 12,
+    "processing": 11,
     "landhub": 21
   },
   "categories": {
@@ -501,23 +501,6 @@
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
         "status_key": "gives_to_sell"
-      },
-      {
-        "id": "32c49a17-ea97-80c2-b7c6-cfdaff0d54d5",
-        "source": "processing",
-        "name": "Буки",
-        "area": "0.25 га",
-        "price": "9000 $",
-        "distance_to_kyiv": "93 км",
-        "google_maps_url": "https://www.google.com/maps?q=49.8429915,29.6502928&entry=gps&shh=CAE&lucs=,94297699,94284454,94231188,94280568,47071704,94218641,94282134,94286869&g_ep=CAISEjI2LjExLjEuODgxMDA1NjQ2MBgAINeCAypILDk0Mjk3Njk5LDk0Mjg0NDU0LDk0MjMxMTg4LDk0MjgwNTY4LDQ3MDcxNzA0LDk0MjE4NjQxLDk0MjgyMTM0LDk0Mjg2ODY5QgJUSA%3D%3D&skid=24ed3ff7-6b9b-457c-aa75-f4887df0b49a&g_st=ic",
-        "notion_url": "https://www.notion.so/32c49a17ea9780c2b7c6cfdaff0d54d5",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDYqQ7o.html?reason=ip%7Ccool%3Abase",
-        "latitude": 49.8429915,
-        "longitude": 29.6502928,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "32d49a17-ea97-81b3-9651-ccb4f7abd553",
