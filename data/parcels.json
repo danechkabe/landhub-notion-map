@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-30T15:40:22.169162Z",
+  "generated_at": "2026-03-30T15:45:19.676214Z",
   "counts": {
     "landmatch": 25,
-    "processing": 13,
-    "landhub": 20
+    "processing": 12,
+    "landhub": 21
   },
   "categories": {
     "landmatch": [
@@ -554,23 +554,6 @@
         "status_key": "gives_to_sell"
       },
       {
-        "id": "32e49a17-ea97-81a7-b75b-cf03f60018b2",
-        "source": "processing",
-        "name": "Тарасенкі 2",
-        "area": "0.0915 га",
-        "price": "3 000 $",
-        "distance_to_kyiv": "84,0 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1518630366238,29.9695720509134",
-        "notion_url": "https://www.notion.so/2-32e49a17ea9781a7b75bcf03f60018b2",
-        "olx_url": "https://www.olx.ua/d/obyavlenie/prodam-dlyanku-zemlyu-s-mala-sntinka-9-sotok-po-90-za-sotku-IDM7KP1.html",
-        "latitude": 50.1518630366238,
-        "longitude": 29.9695720509134,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
         "id": "33149a17-ea97-80a1-97cc-feb1519a4666",
         "source": "processing",
         "name": "Круги",
@@ -992,6 +975,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-m-obuhv-IDFMRj7.html",
         "latitude": 50.1059109776159,
         "longitude": 30.6360950422715,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "Дає на реалізацію",
+        "status_key": ""
+      },
+      {
+        "id": "32e49a17-ea97-81a7-b75b-cf03f60018b2",
+        "source": "landhub",
+        "name": "Тарасенкі 2",
+        "area": "0.0915 га",
+        "price": "3 000 $",
+        "distance_to_kyiv": "84,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1518630366238,29.9695720509134",
+        "notion_url": "https://www.notion.so/2-32e49a17ea9781a7b75bcf03f60018b2",
+        "olx_url": "https://www.olx.ua/d/obyavlenie/prodam-dlyanku-zemlyu-s-mala-sntinka-9-sotok-po-90-za-sotku-IDM7KP1.html",
+        "latitude": 50.1518630366238,
+        "longitude": 29.9695720509134,
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "Дає на реалізацію",
