@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-01T05:50:14.152467Z",
+  "generated_at": "2026-04-01T05:55:12.771629Z",
   "counts": {
     "landmatch": 25,
-    "processing": 7,
+    "processing": 6,
     "landhub": 22
   },
   "categories": {
@@ -446,23 +446,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-budvnitstvo-z-fundamentom-IDUScup.html",
         "latitude": 50.2677259026748,
         "longitude": 29.7686189218558,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
-        "id": "31a49a17-ea97-8087-8cc5-e3c002976f84",
-        "source": "processing",
-        "name": "Погреби",
-        "area": "0.25 га",
-        "price": "6200$",
-        "distance_to_kyiv": "37 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.135858680272,30.4244923855208",
-        "notion_url": "https://www.notion.so/31a49a17ea9780878cc5e3c002976f84",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-25-sotok-s-pogrebi-vasilkvskogo-rayonu-ls-IDIigN6.html?reason=extended_search_extended_distance&search_reason=search%7Corganic",
-        "latitude": 50.135858680272,
-        "longitude": 30.4244923855208,
         "marker_symbol": "📗",
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
