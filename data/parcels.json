@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-01T05:40:18.021048Z",
+  "generated_at": "2026-04-01T05:45:18.676357Z",
   "counts": {
     "landmatch": 25,
-    "processing": 8,
+    "processing": 7,
     "landhub": 22
   },
   "categories": {
@@ -480,23 +480,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-kivska-obl-m-rpn-ssch-rada-gostomelskatsna-IDWwGn3.html",
         "latitude": 50.6064367438169,
         "longitude": 30.2663260134458,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
-        "id": "33149a17-ea97-80a1-97cc-feb1519a4666",
-        "source": "processing",
-        "name": "Круги",
-        "area": "0.1196 га",
-        "price": "—",
-        "distance_to_kyiv": "56 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8481355722412,30.3308969160683",
-        "notion_url": "https://www.notion.so/33149a17ea9780a197ccfeb1519a4666",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodayu-uchastok-pod-kievom-11-14-sotok-IDNoPpG.html?search_reason=search%7Corganic",
-        "latitude": 50.8481355722412,
-        "longitude": 30.3308969160683,
         "marker_symbol": "📗",
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
