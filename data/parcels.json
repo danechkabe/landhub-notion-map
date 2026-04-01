@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T05:45:18.676357Z",
+  "generated_at": "2026-04-01T05:50:14.152467Z",
   "counts": {
     "landmatch": 25,
     "processing": 7,
@@ -514,10 +514,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dacha-aktsya-poruch-z-s-borova-dlyanka-v-dachnomu-koop-v-ozerniy-IDYgQYE.html",
         "latitude": 50.1502570857657,
         "longitude": 30.1216703032441,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "33249a17-ea97-8197-bedd-ee74c8d79881",
