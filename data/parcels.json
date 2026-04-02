@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-02T12:15:21.461316Z",
+  "generated_at": "2026-04-02T12:20:16.050786Z",
   "counts": {
     "landmatch": 25,
     "processing": 6,
-    "landhub": 22
+    "landhub": 21
   },
   "categories": {
     "landmatch": [
@@ -737,23 +737,6 @@
         "olx_url": "",
         "latitude": 50.1655258273272,
         "longitude": 30.5840062305219,
-        "marker_symbol": "📍",
-        "marker_color": "#111111",
-        "status_label": "Not started",
-        "status_key": ""
-      },
-      {
-        "id": "32949a17-ea97-817d-8414-ff4b27f47c4b",
-        "source": "landhub",
-        "name": "Деревʼяна",
-        "area": "0.0972 га",
-        "price": "6000$",
-        "distance_to_kyiv": "16 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1016703045016,30.6645312125903",
-        "notion_url": "https://www.notion.so/32949a17ea97817d8414ff4b27f47c4b",
-        "olx_url": "",
-        "latitude": 50.1016703045016,
-        "longitude": 30.6645312125903,
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "Not started",
