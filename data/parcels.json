@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-02T23:10:15.754506Z",
+  "generated_at": "2026-04-02T23:15:18.195266Z",
   "counts": {
     "landmatch": 25,
     "processing": 6,
-    "landhub": 17
+    "landhub": 21
   },
   "categories": {
     "landmatch": [
@@ -538,6 +538,74 @@
       }
     ],
     "landhub": [
+      {
+        "id": "2ef49a17-ea97-80c9-9afa-f125a2315558",
+        "source": "landhub",
+        "name": "Оленівка",
+        "area": "0.1201 га",
+        "price": "3000$",
+        "distance_to_kyiv": "43 км",
+        "google_maps_url": "https://www.google.com/maps?q=50.1264291,30.1168598&entry=gps&shh=CAE&lucs=,94297699,94275415,94284454,94231188,94280568,47071704,94266209,94218641,94282134,94286869&g_ep=CAISEjI2LjAyLjQuODUyMzYyMzU0MRgAINeCAypaLDk0Mjk3Njk5LDk0Mjc1NDE1LDk0Mjg0NDU0LDk0MjMxMTg4LDk0MjgwNTY4LDQ3MDcxNzA0LDk0MjY2MjA5LDk0MjE4NjQxLDk0MjgyMTM0LDk0Mjg2ODY5QgJVQQ%3D%3D&skid=7ed6d495-5106-4420-8e71-919d9ce14b60&g_st=ic",
+        "notion_url": "https://www.notion.so/2ef49a17ea9780c99afaf125a2315558",
+        "olx_url": "",
+        "latitude": 50.1264291,
+        "longitude": 30.1168598,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "Дає на реалізацію",
+        "status_key": ""
+      },
+      {
+        "id": "2f049a17-ea97-805b-b407-c0486b2e2499",
+        "source": "landhub",
+        "name": "Мала Солтанівка",
+        "area": "0.25 га",
+        "price": "9500$",
+        "distance_to_kyiv": "36 км",
+        "google_maps_url": "https://www.google.com/maps/place/50%C2%B009'52.4%22N+30%C2%B009'16.1%22E/@50.1645476,30.1544633,672m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d50.1645476!4d30.1544633?entry=tts&g_ep=EgoyMDI2MDExOS4wIPu8ASoASAFQAw%3D%3D&skid=aacaa80f-47ce-4943-8666-43edaa68509b",
+        "notion_url": "https://www.notion.so/2f049a17ea97805bb407c0486b2e2499",
+        "olx_url": "https://www.olx.ua/d/obyavlenie/25-sot-zemelna-dlnka-pd-kivom-IDZrne1.html",
+        "latitude": 50.1645476,
+        "longitude": 30.1544633,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": ""
+      },
+      {
+        "id": "2f349a17-ea97-80b0-ada6-d80ddfab7196",
+        "source": "landhub",
+        "name": "Тарасенки",
+        "area": "0.1094 га",
+        "price": "3500$",
+        "distance_to_kyiv": "70",
+        "google_maps_url": "https://www.google.com/maps/place/50%C2%B009'15.8%22N+29%C2%B057'49.0%22E/@50.1543841,29.9636072,689m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d50.1543841!4d29.9636072?entry=tts&g_ep=EgoyMDI2MDIxMS4wIPu8ASoASAFQAw%3D%3D&skid=9327772c-68fa-4df4-8c70-818d2d084968",
+        "notion_url": "https://www.notion.so/2f349a17ea9780b0ada6d80ddfab7196",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelnyy-uchastok-pod-fastovom-IDZkeRw.html?reason=extended_search_extended_distance",
+        "latitude": 50.1543841,
+        "longitude": 29.9636072,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": ""
+      },
+      {
+        "id": "30849a17-ea97-801d-b17d-fb7b6d135b9b",
+        "source": "landhub",
+        "name": "Григорівка",
+        "area": "0.25 га",
+        "price": "12500$",
+        "distance_to_kyiv": "20-30",
+        "google_maps_url": "https://www.google.com/maps/place/50%C2%B003'14.5%22N+30%C2%B036'46.0%22E/@50.0532332,30.6169401,897m/data=!3m1!1e3!4m4!3m3!8m2!3d50.054032!4d30.6127793?entry=tts&g_ep=EgoyMDI2MDIxMS4wIPu8ASoASAFQAw%3D%3D&skid=ab213e99-4da0-493b-9bbd-04e1075dc73c",
+        "notion_url": "https://www.notion.so/30849a17ea97801db17dfb7b6d135b9b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDXRaxe.html",
+        "latitude": 50.0532332,
+        "longitude": 30.6169401,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "Дає на реалізацію",
+        "status_key": ""
+      },
       {
         "id": "30a49a17-ea97-8056-8ac2-cf0473fae513",
         "source": "landhub",
