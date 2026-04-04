@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-04T20:40:18.186128Z",
+  "generated_at": "2026-04-04T20:45:14.718642Z",
   "counts": {
     "landmatch": 25,
-    "processing": 7,
+    "processing": 8,
     "landhub": 21
   },
   "categories": {
@@ -548,6 +548,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-abo-obmnyayu-na-avto-zemelnu-dlyanku-pd-zabudovu-v-s-vablya-IDSTJAH.html",
         "latitude": 50.5944229899209,
         "longitude": 29.864379331143,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "33849a17-ea97-8136-a00c-ee335232fb6d",
+        "source": "processing",
+        "name": "Новосілки",
+        "area": "0.1 га",
+        "price": "7 500 $",
+        "distance_to_kyiv": "43,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3088613326652,30.0631001467195",
+        "notion_url": "https://www.notion.so/33849a17ea978136a00cee335232fb6d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-s-novoslki-IDYK5ih.html",
+        "latitude": 50.3088613326652,
+        "longitude": 30.0631001467195,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
