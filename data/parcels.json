@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-04T21:05:15.449611Z",
+  "generated_at": "2026-04-04T21:10:15.353174Z",
   "counts": {
     "landmatch": 25,
-    "processing": 10,
+    "processing": 11,
     "landhub": 21
   },
   "categories": {
@@ -565,6 +565,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-s-novoslki-IDYK5ih.html",
         "latitude": 50.3088613326652,
         "longitude": 30.0631001467195,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "33849a17-ea97-815b-8222-ccb273a691ef",
+        "source": "processing",
+        "name": "Мала Вільшанка",
+        "area": "0.22 га",
+        "price": "6 500 $",
+        "distance_to_kyiv": "56,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0795764344596,30.4590550660773",
+        "notion_url": "https://www.notion.so/33849a17ea97815b8222ccb273a691ef",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-obuhvskiy-mala-vlshanka-IDUEh1R.html",
+        "latitude": 50.0795764344596,
+        "longitude": 30.4590550660773,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
