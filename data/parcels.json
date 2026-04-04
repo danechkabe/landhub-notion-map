@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-04T20:45:14.718642Z",
+  "generated_at": "2026-04-04T20:50:16.019294Z",
   "counts": {
     "landmatch": 25,
-    "processing": 8,
+    "processing": 9,
     "landhub": 21
   },
   "categories": {
@@ -565,6 +565,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-s-novoslki-IDYK5ih.html",
         "latitude": 50.3088613326652,
         "longitude": 30.0631001467195,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "33849a17-ea97-81a3-8b79-ca2f40b8e4fe",
+        "source": "processing",
+        "name": "Обухів",
+        "area": "0.0908 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "44,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1223054826681,30.5935777798742",
+        "notion_url": "https://www.notion.so/33849a17ea9781a38b79ca2f40b8e4fe",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDXhypz.html",
+        "latitude": 50.1223054826681,
+        "longitude": 30.5935777798742,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
