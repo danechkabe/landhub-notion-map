@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-05T11:50:15.215080Z",
+  "generated_at": "2026-04-05T11:55:13.254657Z",
   "counts": {
     "landmatch": 25,
-    "processing": 13,
+    "processing": 11,
     "landhub": 21
   },
   "categories": {
@@ -565,40 +565,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-s-novoslki-IDYK5ih.html",
         "latitude": 50.3088613326652,
         "longitude": 30.0631001467195,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
-      },
-      {
-        "id": "33849a17-ea97-8141-b1bb-d6a38c69c01f",
-        "source": "processing",
-        "name": "Мала Вільшанка",
-        "area": "0.15 га",
-        "price": "9 000 $",
-        "distance_to_kyiv": "55,8 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0809772351876,30.4706433332424",
-        "notion_url": "https://www.notion.so/33849a17ea978141b1bbd6a38c69c01f",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemlya-pd-nd-budvnitstvo-obuhovskiy-r-on-ID10eI1g.html",
-        "latitude": 50.0809772351876,
-        "longitude": 30.4706433332424,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
-      },
-      {
-        "id": "33849a17-ea97-815b-8222-ccb273a691ef",
-        "source": "processing",
-        "name": "Мала Вільшанка",
-        "area": "0.22 га",
-        "price": "6 500 $",
-        "distance_to_kyiv": "56,3 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0795764344596,30.4590550660773",
-        "notion_url": "https://www.notion.so/33849a17ea97815b8222ccb273a691ef",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-obuhvskiy-mala-vlshanka-IDUEh1R.html",
-        "latitude": 50.0795764344596,
-        "longitude": 30.4590550660773,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
