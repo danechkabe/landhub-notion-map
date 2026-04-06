@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-06T17:35:25.788671Z",
+  "generated_at": "2026-04-06T17:40:23.991518Z",
   "counts": {
-    "landmatch": 30,
+    "landmatch": 31,
     "processing": 8,
     "landhub": 22
   },
@@ -410,6 +410,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zabudovu-s-peregonvka-obuhvskiy-r-n-IDXOqmQ.html",
         "latitude": 49.9854331426066,
         "longitude": 30.4860404572122,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "33849a17-ea97-8116-a9f0-d1b8206b7b09",
+        "source": "landmatch",
+        "name": "Яцьки",
+        "area": "0.2499 га",
+        "price": "9 500 $",
+        "distance_to_kyiv": "50 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0047673327082,30.432909599733",
+        "notion_url": "https://www.notion.so/33849a17ea978116a9f0d1b8206b7b09",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-vasilkv-s-yatski-ID10dheY.html",
+        "latitude": 50.0047673327082,
+        "longitude": 30.432909599733,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
