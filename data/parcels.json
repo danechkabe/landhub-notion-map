@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-06T17:10:21.631473Z",
+  "generated_at": "2026-04-06T17:15:27.858255Z",
   "counts": {
-    "landmatch": 28,
+    "landmatch": 29,
     "processing": 9,
     "landhub": 22
   },
@@ -444,6 +444,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-s-tolokun-IDYXigp.html",
         "latitude": 50.8847211175515,
         "longitude": 30.4349936911921,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "33849a17-ea97-81a3-8b79-ca2f40b8e4fe",
+        "source": "landmatch",
+        "name": "Обухів",
+        "area": "0.0908 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "44,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1223054826681,30.5935777798742",
+        "notion_url": "https://www.notion.so/33849a17ea9781a38b79ca2f40b8e4fe",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDXhypz.html",
+        "latitude": 50.1223054826681,
+        "longitude": 30.5935777798742,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
