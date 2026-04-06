@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-06T17:15:27.858255Z",
+  "generated_at": "2026-04-06T17:20:25.274860Z",
   "counts": {
-    "landmatch": 29,
+    "landmatch": 30,
     "processing": 9,
     "landhub": 22
   },
@@ -410,6 +410,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zabudovu-s-peregonvka-obuhvskiy-r-n-IDXOqmQ.html",
         "latitude": 49.9854331426066,
         "longitude": 30.4860404572122,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "33849a17-ea97-814e-a4a2-ccc30b02c75d",
+        "source": "landmatch",
+        "name": "Рови",
+        "area": "0.25 га",
+        "price": "7 500 $",
+        "distance_to_kyiv": "74,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8805809592698,30.3230501320616",
+        "notion_url": "https://www.notion.so/33849a17ea97814ea4a2ccc30b02c75d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/selo-rovi-25-sotok-IDLVQbZ.html",
+        "latitude": 50.8805809592698,
+        "longitude": 30.3230501320616,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
