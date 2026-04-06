@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-06T18:35:23.566679Z",
+  "generated_at": "2026-04-06T18:40:24.998937Z",
   "counts": {
-    "landmatch": 44,
+    "landmatch": 45,
     "processing": 9,
     "landhub": 22
   },
@@ -410,6 +410,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zabudovu-s-peregonvka-obuhvskiy-r-n-IDXOqmQ.html",
         "latitude": 49.9854331426066,
         "longitude": 30.4860404572122,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "32e49a17-ea97-819c-8eef-e5ea050881be",
+        "source": "landmatch",
+        "name": "Григорівка",
+        "area": "0.1464 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "51,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0602290936171,30.6124109598057",
+        "notion_url": "https://www.notion.so/32e49a17ea97819c8eefe5ea050881be",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDYwNNx.html",
+        "latitude": 50.0602290936171,
+        "longitude": 30.6124109598057,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
