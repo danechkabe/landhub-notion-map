@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-06T18:50:25.857911Z",
+  "generated_at": "2026-04-06T18:55:26.894166Z",
   "counts": {
-    "landmatch": 47,
+    "landmatch": 48,
     "processing": 9,
     "landhub": 22
   },
@@ -393,6 +393,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-yasnogorodka-st-slava-vyshgorodskiy-r-n-IDYX6Vi.html",
         "latitude": 50.861385769707,
         "longitude": 30.3651137452405,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "32c49a17-ea97-816e-b173-da1f3c23a4e7",
+        "source": "landmatch",
+        "name": "Борова",
+        "area": "0.0768 га",
+        "price": "3 800 $",
+        "distance_to_kyiv": "56,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1502570857657,30.1216703032441",
+        "notion_url": "https://www.notion.so/32c49a17ea97816eb173da1f3c23a4e7",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dacha-aktsya-poruch-z-s-borova-dlyanka-v-dachnomu-koop-v-ozerniy-IDYgQYE.html",
+        "latitude": 50.1502570857657,
+        "longitude": 30.1216703032441,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
