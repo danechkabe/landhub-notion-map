@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-06T17:20:25.274860Z",
+  "generated_at": "2026-04-06T17:25:17.805663Z",
   "counts": {
     "landmatch": 30,
-    "processing": 9,
+    "processing": 8,
     "landhub": 22
   },
   "categories": {
@@ -569,23 +569,6 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
-      },
-      {
-        "id": "33249a17-ea97-81e2-9067-fac5369bec31",
-        "source": "processing",
-        "name": "Пилипівка",
-        "area": "0.25 га",
-        "price": "6 000 $",
-        "distance_to_kyiv": "82,8 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0012770123625,29.9191900382035",
-        "notion_url": "https://www.notion.so/33249a17ea9781e29067fac5369bec31",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelnyy-uchastok-37-sotok-s-pilipovka-fastov-ID10b2uQ.html",
-        "latitude": 50.0012770123625,
-        "longitude": 29.9191900382035,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
       },
       {
         "id": "33849a17-ea97-8106-aac9-c9f894c54329",
