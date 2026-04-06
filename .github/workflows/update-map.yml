@@ -34,14 +34,34 @@ jobs:
           python scripts/update_map_data.py --token "$NOTION_TOKEN"
 
       - name: Commit updated data
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
         run: |
-          if git diff --quiet; then
-            echo "No map changes"
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/parcels.json
-          git commit -m "Update map data"
-          git pull --rebase origin "${GITHUB_REF_NAME:-main}"
-          git push origin HEAD:"${GITHUB_REF_NAME:-main}"
+          BRANCH="${GITHUB_REF_NAME:-main}"
+
+          for attempt in 1 2 3; do
+            git fetch origin "$BRANCH"
+            git reset --hard "origin/$BRANCH"
+
+            python scripts/update_map_data.py --token "$NOTION_TOKEN"
+
+            if git diff --quiet -- data/parcels.json; then
+              echo "No map changes"
+              exit 0
+            fi
+
+            git add data/parcels.json
+            git commit -m "Update map data"
+
+            if git push origin HEAD:"$BRANCH"; then
+              exit 0
+            fi
+
+            echo "Push failed on attempt $attempt, retrying from latest origin/$BRANCH"
+            git reset --hard "origin/$BRANCH"
+          done
+
+          echo "Failed to push updated data after retries"
+          exit 1
