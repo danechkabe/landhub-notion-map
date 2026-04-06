@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-06T18:40:24.998937Z",
+  "generated_at": "2026-04-06T18:45:21.125866Z",
   "counts": {
-    "landmatch": 45,
+    "landmatch": 46,
     "processing": 9,
     "landhub": 22
   },
@@ -410,6 +410,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zabudovu-s-peregonvka-obuhvskiy-r-n-IDXOqmQ.html",
         "latitude": 49.9854331426066,
         "longitude": 30.4860404572122,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "32d49a17-ea97-8168-b37e-c26c54b3bc2c",
+        "source": "landmatch",
+        "name": "Митниця",
+        "area": "0.2 га",
+        "price": "8 800 $",
+        "distance_to_kyiv": "51,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1218159178426,30.2283811758446",
+        "notion_url": "https://www.notion.so/32d49a17ea978168b37ec26c54b3bc2c",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodatsya-zemelna-dlyanka-pd-zabudovu-IDUzC0L.html",
+        "latitude": 50.1218159178426,
+        "longitude": 30.2283811758446,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
