@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-06T18:15:23.559322Z",
+  "generated_at": "2026-04-06T18:20:21.258685Z",
   "counts": {
-    "landmatch": 37,
+    "landmatch": 39,
     "processing": 9,
     "landhub": 22
   },
@@ -416,6 +416,23 @@
         "status_key": ""
       },
       {
+        "id": "33149a17-ea97-8197-bfed-ff09f4d9c1c4",
+        "source": "landmatch",
+        "name": "Вільшаниця",
+        "area": "0.4 га",
+        "price": "5 000 $",
+        "distance_to_kyiv": "109 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.6840842830731,30.6100034748443",
+        "notion_url": "https://www.notion.so/33149a17ea978197bfedff09f4d9c1c4",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-40sot-z-teplitseyu-pd-akvaponku-IDT2tqu.html",
+        "latitude": 49.6840842830731,
+        "longitude": 30.6100034748443,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
         "id": "33249a17-ea97-8197-bedd-ee74c8d79881",
         "source": "landmatch",
         "name": "Тарасівщина",
@@ -427,6 +444,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-15-sotok-s-tarasvschina-IDYqD1P.html",
         "latitude": 50.7143486163161,
         "longitude": 30.2183335193918,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "33249a17-ea97-81ba-9637-f1bf8c6b5b22",
+        "source": "landmatch",
+        "name": "Катюжанка",
+        "area": "0.15 га",
+        "price": "4 500 $",
+        "distance_to_kyiv": "59,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7996962573558,30.1455115908846",
+        "notion_url": "https://www.notion.so/33249a17ea9781ba9637f1bf8c6b5b22",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-15-sotok-v-katyuzhanke-zemelna-dlyanka-kayuzhanka-IDxGnTS.html",
+        "latitude": 50.7996962573558,
+        "longitude": 30.1455115908846,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
