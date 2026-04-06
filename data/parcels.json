@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-06T06:15:13.878961Z",
+  "generated_at": "2026-04-06T06:20:14.451829Z",
   "counts": {
     "landmatch": 24,
-    "processing": 12,
+    "processing": 11,
     "landhub": 21
   },
   "categories": {
@@ -582,23 +582,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnyy-uchastok-v-sele-motyzhin-IDEvq0V.html",
         "latitude": 50.3911171769417,
         "longitude": 29.91432566094,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
-      },
-      {
-        "id": "33949a17-ea97-8125-b38f-c7f92baa792f",
-        "source": "processing",
-        "name": "Пришивальня",
-        "area": "0.1 га",
-        "price": "5 500 $",
-        "distance_to_kyiv": "73,9 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1640613215845,29.8174603238534",
-        "notion_url": "https://www.notion.so/33949a17ea978125b38fc7f92baa792f",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ID10eQiI.html",
-        "latitude": 50.1640613215845,
-        "longitude": 29.8174603238534,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
