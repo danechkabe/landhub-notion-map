@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-06T05:15:18.615166Z",
+  "generated_at": "2026-04-06T05:20:14.904426Z",
   "counts": {
     "landmatch": 24,
-    "processing": 11,
+    "processing": 12,
     "landhub": 21
   },
   "categories": {
@@ -599,6 +599,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ID10eQiI.html",
         "latitude": 50.1640613215845,
         "longitude": 29.8174603238534,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "33a49a17-ea97-81ef-abfa-e91de2ea2dda",
+        "source": "processing",
+        "name": "Ярошівка",
+        "area": "0.1178 га",
+        "price": "4 000 $",
+        "distance_to_kyiv": "67,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1936505888885,29.850603666261",
+        "notion_url": "https://www.notion.so/33a49a17ea9781efabfae91de2ea2dda",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-2h-dlyanok-po-12-sotok-kozhna-okremo-abo-razom-yaroshvka-ID10c7k6.html",
+        "latitude": 50.1936505888885,
+        "longitude": 29.850603666261,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
