@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-06T06:20:14.451829Z",
+  "generated_at": "2026-04-06T06:25:13.223408Z",
   "counts": {
     "landmatch": 24,
-    "processing": 11,
+    "processing": 10,
     "landhub": 21
   },
   "categories": {
@@ -565,23 +565,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDXhypz.html",
         "latitude": 50.1223054826681,
         "longitude": 30.5935777798742,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
-      },
-      {
-        "id": "33849a17-ea97-81b7-bc06-c01fea21488e",
-        "source": "processing",
-        "name": "Мотижин",
-        "area": "0.15 га",
-        "price": "10 000 $",
-        "distance_to_kyiv": "49,2 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3911171769417,29.91432566094",
-        "notion_url": "https://www.notion.so/33849a17ea9781b7bc06c01fea21488e",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnyy-uchastok-v-sele-motyzhin-IDEvq0V.html",
-        "latitude": 50.3911171769417,
-        "longitude": 29.91432566094,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
