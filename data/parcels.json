@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-06T18:00:19.690089Z",
+  "generated_at": "2026-04-06T18:03:17.621304Z",
   "counts": {
-    "landmatch": 36,
+    "landmatch": 37,
     "processing": 9,
     "landhub": 22
   },
@@ -410,6 +410,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zabudovu-s-peregonvka-obuhvskiy-r-n-IDXOqmQ.html",
         "latitude": 49.9854331426066,
         "longitude": 30.4860404572122,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "33249a17-ea97-8197-bedd-ee74c8d79881",
+        "source": "landmatch",
+        "name": "Тарасівщина",
+        "area": "0.15 га",
+        "price": "8 000 $",
+        "distance_to_kyiv": "44,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7143486163161,30.2183335193918",
+        "notion_url": "https://www.notion.so/33249a17ea978197beddee74c8d79881",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-15-sotok-s-tarasvschina-IDYqD1P.html",
+        "latitude": 50.7143486163161,
+        "longitude": 30.2183335193918,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
