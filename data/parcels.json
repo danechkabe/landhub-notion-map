@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-06T18:45:21.125866Z",
+  "generated_at": "2026-04-06T18:50:25.857911Z",
   "counts": {
-    "landmatch": 46,
+    "landmatch": 47,
     "processing": 9,
     "landhub": 22
   },
@@ -410,6 +410,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zabudovu-s-peregonvka-obuhvskiy-r-n-IDXOqmQ.html",
         "latitude": 49.9854331426066,
         "longitude": 30.4860404572122,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "32d49a17-ea97-812e-b76a-dc83afd41ad4",
+        "source": "landmatch",
+        "name": "Ірпінь",
+        "area": "0.06 га",
+        "price": "11 800 $",
+        "distance_to_kyiv": "27,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5323068717748,30.2780445363272",
+        "notion_url": "https://www.notion.so/32d49a17ea97812eb76adc83afd41ad4",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-6-sot-v-m-rpn-propozitsya-obmezhena-IDZu4ux.html",
+        "latitude": 50.5323068717748,
+        "longitude": 30.2780445363272,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
