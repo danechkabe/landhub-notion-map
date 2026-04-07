@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T14:30:22.541413Z",
+  "generated_at": "2026-04-07T14:35:19.182710Z",
   "counts": {
     "landmatch": 50,
     "processing": 9,
@@ -990,10 +990,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-2h-dlyanok-po-12-sotok-kozhna-okremo-abo-razom-yaroshvka-ID10c7k6.html",
         "latitude": 50.1936505888885,
         "longitude": 29.850603666261,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "33b49a17-ea97-813d-b158-d9c32cae196a",
