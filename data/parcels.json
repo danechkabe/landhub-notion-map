@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T16:40:25.187941Z",
+  "generated_at": "2026-04-07T16:45:21.777789Z",
   "counts": {
     "landmatch": 51,
     "processing": 9,
@@ -939,10 +939,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-s-yasnogorodka-IDYHSDl.html",
         "latitude": 50.8588142838768,
         "longitude": 30.4166545846668,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "33849a17-ea97-8106-aac9-c9f894c54329",
