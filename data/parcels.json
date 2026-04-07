@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T16:20:22.376918Z",
+  "generated_at": "2026-04-07T16:25:20.020219Z",
   "counts": {
     "landmatch": 51,
     "processing": 9,
@@ -973,10 +973,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-s-novoslki-IDYK5ih.html",
         "latitude": 50.3088613326652,
         "longitude": 30.0631001467195,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "33849a17-ea97-81f3-8434-ec709a3d0d60",
