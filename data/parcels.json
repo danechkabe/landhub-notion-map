@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-07T11:40:16.928805Z",
+  "generated_at": "2026-04-07T11:45:16.969147Z",
   "counts": {
     "landmatch": 49,
-    "processing": 10,
+    "processing": 9,
     "landhub": 22
   },
   "categories": {
@@ -960,23 +960,6 @@
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
         "status_key": "unprocessed"
-      },
-      {
-        "id": "33a49a17-ea97-811d-a533-e61c991ffd46",
-        "source": "processing",
-        "name": "Бобриця",
-        "area": "0.1249 га",
-        "price": "8 500 $",
-        "distance_to_kyiv": "32,9 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.356360808968915,30.226839353883218",
-        "notion_url": "https://www.notion.so/33a49a17ea97811da533e61c991ffd46",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-12-5-sot-u-bobrits-blya-lsu-16-kvt-asfalt-bez-koms-ID10cbIQ.html",
-        "latitude": 50.356360808968915,
-        "longitude": 30.226839353883218,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
       },
       {
         "id": "33a49a17-ea97-81ef-abfa-e91de2ea2dda",
