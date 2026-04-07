@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T14:20:22.451471Z",
+  "generated_at": "2026-04-07T14:25:21.248286Z",
   "counts": {
     "landmatch": 50,
     "processing": 9,
@@ -1007,10 +1007,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/12-sotok-blya-ozera-bez-koms-persha-lnya-pd-kivom-tisha-priroda-IDZycma.html",
         "latitude": 50.6027736436253,
         "longitude": 30.169927800307,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       }
     ],
     "landhub": [
