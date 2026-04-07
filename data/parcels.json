@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-07T08:30:24.249232Z",
+  "generated_at": "2026-04-07T08:35:19.284710Z",
   "counts": {
-    "landmatch": 48,
+    "landmatch": 49,
     "processing": 10,
     "landhub": 22
   },
@@ -716,6 +716,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-vasilkv-s-yatski-ID10dheY.html",
         "latitude": 50.0047673327082,
         "longitude": 30.432909599733,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "33849a17-ea97-8136-a567-deb08c82b2b3",
+        "source": "landmatch",
+        "name": "Гребінки",
+        "area": "0.15 га",
+        "price": "5 100 $",
+        "distance_to_kyiv": "55 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.9662096337563,30.1615420271297",
+        "notion_url": "https://www.notion.so/33849a17ea978136a567deb08c82b2b3",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/smt-grebnki-blotserkvskiy-r-n-zemelna-dlyanka-pd-zabudovu-15sot-IDWDywh.html",
+        "latitude": 49.9662096337563,
+        "longitude": 30.1615420271297,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
