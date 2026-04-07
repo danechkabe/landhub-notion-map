@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T14:35:19.182710Z",
+  "generated_at": "2026-04-07T14:40:21.436918Z",
   "counts": {
     "landmatch": 50,
     "processing": 9,
@@ -956,10 +956,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-s-novoslki-IDYK5ih.html",
         "latitude": 50.3088613326652,
         "longitude": 30.0631001467195,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "33849a17-ea97-81f3-8434-ec709a3d0d60",
@@ -973,10 +973,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/starye-bezradichi-s-kapustyana-zemlya-25-sotok-500-sotka-IDLJnmO.html",
         "latitude": 50.16406419885,
         "longitude": 30.5288766215354,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "33a49a17-ea97-81ef-abfa-e91de2ea2dda",
