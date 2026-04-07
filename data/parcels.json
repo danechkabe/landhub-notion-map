@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-07T06:15:17.638522Z",
+  "generated_at": "2026-04-07T06:20:20.628564Z",
   "counts": {
     "landmatch": 48,
-    "processing": 9,
+    "processing": 10,
     "landhub": 22
   },
   "categories": {
@@ -977,6 +977,23 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
+      },
+      {
+        "id": "33b49a17-ea97-813d-b158-d9c32cae196a",
+        "source": "processing",
+        "name": "Блиставиця",
+        "area": "0.113 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "34,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6027736436253,30.169927800307",
+        "notion_url": "https://www.notion.so/33b49a17ea97813db158d9c32cae196a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/12-sotok-blya-ozera-bez-koms-persha-lnya-pd-kivom-tisha-priroda-IDZycma.html",
+        "latitude": 50.6027736436253,
+        "longitude": 30.169927800307,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       }
     ],
     "landhub": [
