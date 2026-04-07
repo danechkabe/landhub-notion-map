@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T14:40:21.436918Z",
+  "generated_at": "2026-04-07T14:45:23.259816Z",
   "counts": {
     "landmatch": 50,
     "processing": 9,
@@ -939,10 +939,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-abo-obmnyayu-na-avto-zemelnu-dlyanku-pd-zabudovu-v-s-vablya-IDSTJAH.html",
         "latitude": 50.5944229899209,
         "longitude": 29.864379331143,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "33849a17-ea97-8136-a00c-ee335232fb6d",
