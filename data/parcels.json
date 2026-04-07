@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T16:45:21.777789Z",
+  "generated_at": "2026-04-07T16:50:21.992387Z",
   "counts": {
     "landmatch": 51,
     "processing": 9,
@@ -990,10 +990,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/starye-bezradichi-s-kapustyana-zemlya-25-sotok-500-sotka-IDLJnmO.html",
         "latitude": 50.16406419885,
         "longitude": 30.5288766215354,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "33a49a17-ea97-81ef-abfa-e91de2ea2dda",
