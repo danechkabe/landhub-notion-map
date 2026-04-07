@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-07T15:15:25.050248Z",
+  "generated_at": "2026-04-07T15:20:19.152003Z",
   "counts": {
-    "landmatch": 50,
+    "landmatch": 51,
     "processing": 9,
     "landhub": 22
   },
@@ -852,6 +852,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zabudovu-ne-dorogo-IDYGc2L.html",
         "latitude": 50.6348908840717,
         "longitude": 29.8759720898845,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "33a49a17-ea97-811b-b115-ebea33baf707",
+        "source": "landmatch",
+        "name": "Нещерів",
+        "area": "0.16 га",
+        "price": "18 000 $",
+        "distance_to_kyiv": "42,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1442558781371,30.6133676655833",
+        "notion_url": "https://www.notion.so/33a49a17ea97811bb115ebea33baf707",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-20sotok-pd-zabudovu-nescherv-IDTSGqF.html",
+        "latitude": 50.1442558781371,
+        "longitude": 30.6133676655833,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
