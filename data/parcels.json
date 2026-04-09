@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-09T20:20:19.585275Z",
+  "generated_at": "2026-04-09T20:25:22.533413Z",
   "counts": {
     "landmatch": 51,
-    "processing": 9,
+    "processing": 10,
     "landhub": 22
   },
   "categories": {
@@ -1028,6 +1028,23 @@
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
         "status_key": "gives_to_sell"
+      },
+      {
+        "id": "33d49a17-ea97-8111-906c-c8faf787f9b8",
+        "source": "processing",
+        "name": "Розаліївка",
+        "area": "0.2442 га",
+        "price": "5 500 $",
+        "distance_to_kyiv": "80,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8988683105052,30.5334355716024",
+        "notion_url": "https://www.notion.so/33d49a17ea978111906cc8faf787f9b8",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-25-sot-blotserkvskiy-r-n-IDTIHOI.html",
+        "latitude": 49.8988683105052,
+        "longitude": 30.5334355716024,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       }
     ],
     "landhub": [
