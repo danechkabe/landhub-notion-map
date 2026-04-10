@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-10T12:40:18.346981Z",
+  "generated_at": "2026-04-10T12:45:23.884251Z",
   "counts": {
     "landmatch": 51,
-    "processing": 10,
+    "processing": 11,
     "landhub": 22
   },
   "categories": {
@@ -1041,6 +1041,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-25-sot-blotserkvskiy-r-n-IDTIHOI.html",
         "latitude": 49.8988683105052,
         "longitude": 30.5334355716024,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "33e49a17-ea97-8123-bc83-c4d6eed123a8",
+        "source": "processing",
+        "name": "Новосілки",
+        "area": "0.178 га",
+        "price": "10 500 $",
+        "distance_to_kyiv": "53,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0938534606899,30.523360965691",
+        "notion_url": "https://www.notion.so/33e49a17ea978123bc83c4d6eed123a8",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-obuhvskiy-rayon-0-178-ga-ID101wXB.html",
+        "latitude": 50.0938534606899,
+        "longitude": 30.523360965691,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
