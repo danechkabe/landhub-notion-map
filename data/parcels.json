@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-11T18:15:19.961293Z",
+  "generated_at": "2026-04-11T18:20:18.267941Z",
   "counts": {
     "landmatch": 51,
-    "processing": 11,
+    "processing": 12,
     "landhub": 22
   },
   "categories": {
@@ -1058,6 +1058,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-obuhvskiy-rayon-0-178-ga-ID101wXB.html",
         "latitude": 50.0938534606899,
         "longitude": 30.523360965691,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "33f49a17-ea97-81ec-9866-f6962e658cda",
+        "source": "processing",
+        "name": "Новосілки",
+        "area": "0.1197 га",
+        "price": "—",
+        "distance_to_kyiv": "35,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5962563262488,30.6296631048372",
+        "notion_url": "https://www.notion.so/33f49a17ea9781ec9866f6962e658cda",
+        "olx_url": "",
+        "latitude": 50.5962563262488,
+        "longitude": 30.6296631048372,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
