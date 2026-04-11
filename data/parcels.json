@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-11T06:50:18.423884Z",
+  "generated_at": "2026-04-11T06:55:18.298998Z",
   "counts": {
     "landmatch": 51,
     "processing": 11,
-    "landhub": 21
+    "landhub": 22
   },
   "categories": {
     "landmatch": [
@@ -1080,6 +1080,23 @@
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "Дає на реалізацію",
+        "status_key": ""
+      },
+      {
+        "id": "2f049a17-ea97-805b-b407-c0486b2e2499",
+        "source": "landhub",
+        "name": "Мала Солтанівка",
+        "area": "0.25 га",
+        "price": "9500$",
+        "distance_to_kyiv": "36 км",
+        "google_maps_url": "https://www.google.com/maps/place/50%C2%B009'52.4%22N+30%C2%B009'16.1%22E/@50.1645476,30.1544633,672m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d50.1645476!4d30.1544633?entry=tts&g_ep=EgoyMDI2MDExOS4wIPu8ASoASAFQAw%3D%3D&skid=aacaa80f-47ce-4943-8666-43edaa68509b",
+        "notion_url": "https://www.notion.so/2f049a17ea97805bb407c0486b2e2499",
+        "olx_url": "https://www.olx.ua/d/obyavlenie/25-sot-zemelna-dlnka-pd-kivom-IDZrne1.html",
+        "latitude": 50.1645476,
+        "longitude": 30.1544633,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": ""
       },
       {
