@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-11T18:30:16.129269Z",
+  "generated_at": "2026-04-11T18:35:17.076892Z",
   "counts": {
     "landmatch": 51,
-    "processing": 14,
+    "processing": 15,
     "landhub": 22
   },
   "categories": {
@@ -1075,6 +1075,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-v-s-suholuchchya-15-sotok-rvniy-pryamokutnik-IDVfpPp.html",
         "latitude": 50.9427550852048,
         "longitude": 30.4353530173058,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "33f49a17-ea97-818a-9e42-cce9e2811a5d",
+        "source": "processing",
+        "name": "Ясногородка",
+        "area": "0.12 га",
+        "price": "5 500 $",
+        "distance_to_kyiv": "57,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8706187015095,30.4073390551705",
+        "notion_url": "https://www.notion.so/33f49a17ea97818a9e42cce9e2811a5d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelnoy-dlyanki-12-sotok-yasnogorodka-vyshgorod-IDYwLg4.html",
+        "latitude": 50.8706187015095,
+        "longitude": 30.4073390551705,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
