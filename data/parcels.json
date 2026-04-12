@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T17:50:17.021789Z",
+  "generated_at": "2026-04-12T17:51:11.968482Z",
   "counts": {
     "landmatch": 51,
     "processing": 15,
@@ -983,7 +983,7 @@
         "source": "processing",
         "name": "Капустяна",
         "area": "0.2498 га",
-        "price": "2 500 $",
+        "price": "15 000 $",
         "distance_to_kyiv": "43,4 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.16406419885,30.5288766215354",
         "notion_url": "https://www.notion.so/33849a17ea9781f38434ec709a3d0d60",
