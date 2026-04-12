@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T18:10:18.332445Z",
+  "generated_at": "2026-04-12T18:15:16.162737Z",
   "counts": {
     "landmatch": 51,
     "processing": 15,
@@ -915,7 +915,7 @@
         "source": "processing",
         "name": "Борова",
         "area": "0.0768 га",
-        "price": "—",
+        "price": "4 000 $",
         "distance_to_kyiv": "56,1 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1502570857657,30.1216703032441",
         "notion_url": "https://www.notion.so/33149a17ea9781d98a74fa3906a9cc48",
