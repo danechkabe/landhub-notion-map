@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-13T10:10:42.088161Z",
+  "generated_at": "2026-04-13T10:15:21.021040Z",
   "counts": {
     "landmatch": 51,
-    "processing": 17,
+    "processing": 18,
     "landhub": 22
   },
   "categories": {
@@ -1160,6 +1160,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-dlyanka-zeml-IDI6dab.html",
         "latitude": 50.2748914310289,
         "longitude": 30.3668789347738,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "34149a17-ea97-81a7-8a28-c34aa4e380cd",
+        "source": "processing",
+        "name": "Мар'янівка",
+        "area": "0.1999 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "68,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0689653369072,30.1688722798481",
+        "notion_url": "https://www.notion.so/34149a17ea9781a78a28c34aa4e380cd",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-IDUK2LM.html",
+        "latitude": 50.0689653369072,
+        "longitude": 30.1688722798481,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
