@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-13T16:20:21.601579Z",
+  "generated_at": "2026-04-13T16:25:24.577905Z",
   "counts": {
     "landmatch": 51,
-    "processing": 18,
+    "processing": 17,
     "landhub": 22
   },
   "categories": {
@@ -1113,23 +1113,6 @@
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
         "status_key": "unprocessed"
-      },
-      {
-        "id": "33f49a17-ea97-81ec-9866-f6962e658cda",
-        "source": "processing",
-        "name": "Новосілки",
-        "area": "0.1197 га",
-        "price": "—",
-        "distance_to_kyiv": "35,0 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5962563262488,30.6296631048372",
-        "notion_url": "https://www.notion.so/33f49a17ea9781ec9866f6962e658cda",
-        "olx_url": "",
-        "latitude": 50.5962563262488,
-        "longitude": 30.6296631048372,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
       },
       {
         "id": "34149a17-ea97-8121-a221-dcbb92af004a",
