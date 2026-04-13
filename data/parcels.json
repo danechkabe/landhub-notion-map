@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-13T05:35:15.973727Z",
+  "generated_at": "2026-04-13T05:40:20.125333Z",
   "counts": {
     "landmatch": 51,
-    "processing": 15,
+    "processing": 16,
     "landhub": 22
   },
   "categories": {
@@ -1130,6 +1130,23 @@
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
         "status_key": "gives_to_sell"
+      },
+      {
+        "id": "34149a17-ea97-8128-8bb7-f0d5fee86c0c",
+        "source": "processing",
+        "name": "Мархалівка",
+        "area": "0.25 га",
+        "price": "4 000 $",
+        "distance_to_kyiv": "30,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2748914310289,30.3668789347738",
+        "notion_url": "https://www.notion.so/34149a17ea9781288bb7f0d5fee86c0c",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-dlyanka-zeml-IDI6dab.html",
+        "latitude": 50.2748914310289,
+        "longitude": 30.3668789347738,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       }
     ],
     "landhub": [
