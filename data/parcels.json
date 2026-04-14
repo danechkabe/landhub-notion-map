@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-14T10:45:18.697354Z",
+  "generated_at": "2026-04-14T10:50:19.726654Z",
   "counts": {
     "landmatch": 51,
-    "processing": 17,
+    "processing": 16,
     "landhub": 22
   },
   "categories": {
@@ -877,23 +877,6 @@
     ],
     "processing": [
       {
-        "id": "33f49a17-ea97-81b6-b897-e3268f3b6273",
-        "source": "processing",
-        "name": "Новосілки",
-        "area": "0.1207 га",
-        "price": "2 100 $",
-        "distance_to_kyiv": "16,7 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3586130560291,30.4316205173002",
-        "notion_url": "https://app.notion.com/p/33f49a17ea9781b6b897e3268f3b6273",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-ID10hr7A.html",
-        "latitude": 50.3586130560291,
-        "longitude": 30.4316205173002,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
-      },
-      {
         "id": "33e49a17-ea97-8123-bc83-c4d6eed123a8",
         "source": "processing",
         "name": "Новосілки",
@@ -905,10 +888,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-obuhvskiy-rayon-0-178-ga-ID101wXB.html",
         "latitude": 50.0938534606899,
         "longitude": 30.523360965691,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "33d49a17-ea97-8111-906c-c8faf787f9b8",
@@ -1160,10 +1143,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-v-s-suholuchchya-15-sotok-rvniy-pryamokutnik-IDVfpPp.html",
         "latitude": 50.9427550852048,
         "longitude": 30.4353530173058,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       }
     ],
     "landhub": [
