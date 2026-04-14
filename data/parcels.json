@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T14:00:32.311048Z",
+  "generated_at": "2026-04-14T14:05:20.411798Z",
   "counts": {
     "landmatch": 51,
     "processing": 14,
@@ -1478,7 +1478,7 @@
         "source": "landhub",
         "name": "Королівка",
         "area": "0.2501 га",
-        "price": "4750 $",
+        "price": "4900 $",
         "distance_to_kyiv": "67,1 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5508928756328,29.752310346544007",
         "notion_url": "https://www.notion.so/32d49a17ea9781ce9719c401f2034e89",
