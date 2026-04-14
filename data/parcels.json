@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-14T17:05:21.984097Z",
+  "generated_at": "2026-04-14T17:10:23.717954Z",
   "counts": {
     "landmatch": 51,
-    "processing": 12,
-    "landhub": 22
+    "processing": 10,
+    "landhub": 23
   },
   "categories": {
     "landmatch": [
@@ -928,23 +928,6 @@
         "status_key": "site_ok_olx_keeps"
       },
       {
-        "id": "33849a17-ea97-8136-a00c-ee335232fb6d",
-        "source": "processing",
-        "name": "Новосілки",
-        "area": "0.1 га",
-        "price": "7 500 $",
-        "distance_to_kyiv": "43,9 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3088613326652,30.0631001467195",
-        "notion_url": "https://app.notion.com/p/33849a17ea978136a00cee335232fb6d",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-s-novoslki-IDYK5ih.html",
-        "latitude": 50.3088613326652,
-        "longitude": 30.0631001467195,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
         "id": "33849a17-ea97-8106-aac9-c9f894c54329",
         "source": "processing",
         "name": "Вабля",
@@ -960,23 +943,6 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
-      },
-      {
-        "id": "33249a17-ea97-816e-8f72-ff9f314efc8b",
-        "source": "processing",
-        "name": "Ясногородка",
-        "area": "0.119 га",
-        "price": "8 400 $",
-        "distance_to_kyiv": "57,7 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8588142838768,30.4166545846668",
-        "notion_url": "https://app.notion.com/p/33249a17ea97816e8f72ff9f314efc8b",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-s-yasnogorodka-IDYHSDl.html",
-        "latitude": 50.8588142838768,
-        "longitude": 30.4166545846668,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "33149a17-ea97-81d9-8a74-fa3906a9cc48",
@@ -1420,6 +1386,23 @@
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": ""
+      },
+      {
+        "id": "33849a17-ea97-8136-a00c-ee335232fb6d",
+        "source": "landhub",
+        "name": "Новосілки",
+        "area": "0.1 га",
+        "price": "7 500 $",
+        "distance_to_kyiv": "43,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3088613326652,30.0631001467195",
+        "notion_url": "https://app.notion.com/p/33849a17ea978136a00cee335232fb6d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-s-novoslki-IDYK5ih.html",
+        "latitude": 50.3088613326652,
+        "longitude": 30.0631001467195,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "Дає на реалізацію",
         "status_key": ""
       },
       {
