@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-15T03:30:20.503383Z",
+  "generated_at": "2026-04-15T03:35:16.247368Z",
   "counts": {
     "landmatch": 51,
-    "processing": 10,
+    "processing": 11,
     "landhub": 23
   },
   "categories": {
@@ -1045,6 +1045,23 @@
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": "site_ok_olx_keeps"
+      },
+      {
+        "id": "34349a17-ea97-81ff-a658-db775c92be56",
+        "source": "processing",
+        "name": "Гаврилівка",
+        "area": "0.12 га",
+        "price": "8 200 $",
+        "distance_to_kyiv": "41,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6791151869119,30.1908720211562",
+        "notion_url": "https://www.notion.so/34349a17ea9781ffa658db775c92be56",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-v-s-gavrilvkabuchanskogo-r-n-IDV9Lmm.html",
+        "latitude": 50.6791151869119,
+        "longitude": 30.1908720211562,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       }
     ],
     "landhub": [
