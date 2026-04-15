@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-15T16:25:20.761505Z",
+  "generated_at": "2026-04-15T16:30:21.884519Z",
   "counts": {
     "landmatch": 51,
-    "processing": 15,
+    "processing": 13,
     "landhub": 23
   },
   "categories": {
@@ -1047,23 +1047,6 @@
         "status_key": "site_ok_olx_keeps"
       },
       {
-        "id": "34249a17-ea97-81ae-b232-d6d11e9937b1",
-        "source": "processing",
-        "name": "Красна Гірка",
-        "area": "0.2453 га",
-        "price": "7 500 $",
-        "distance_to_kyiv": "61,5 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5452526980777,29.8849507511493",
-        "notion_url": "https://www.notion.so/34249a17ea9781aeb232d6d11e9937b1",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-25-sotok-s-chervona-grka-ID10icv0.html",
-        "latitude": 50.5452526980777,
-        "longitude": 29.8849507511493,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
-      },
-      {
         "id": "34349a17-ea97-811c-baf1-d42f2188b13e",
         "source": "processing",
         "name": "Красна Гірка",
@@ -1109,23 +1092,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-yasnogorodka-vishgorodskiy-rayon-IDUPWYM.html",
         "latitude": 50.8577794121859,
         "longitude": 30.4095174697345,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
-      },
-      {
-        "id": "34349a17-ea97-81ff-a658-db775c92be56",
-        "source": "processing",
-        "name": "Гаврилівка",
-        "area": "0.12 га",
-        "price": "8 200 $",
-        "distance_to_kyiv": "41,7 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6791151869119,30.1908720211562",
-        "notion_url": "https://www.notion.so/34349a17ea9781ffa658db775c92be56",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-v-s-gavrilvkabuchanskogo-r-n-IDV9Lmm.html",
-        "latitude": 50.6791151869119,
-        "longitude": 30.1908720211562,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
