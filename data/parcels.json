@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-15T06:05:16.433296Z",
+  "generated_at": "2026-04-15T06:10:19.202202Z",
   "counts": {
     "landmatch": 51,
-    "processing": 12,
+    "processing": 13,
     "landhub": 23
   },
   "categories": {
@@ -1058,6 +1058,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-25-sotok-s-chervona-grka-ID10icv0.html",
         "latitude": 50.5452526980777,
         "longitude": 29.8849507511493,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "34349a17-ea97-81b8-a07b-c5bf93cedb09",
+        "source": "processing",
+        "name": "Ірпінь",
+        "area": "0.135 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "46,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.579442841401,29.9890654925788",
+        "notion_url": "https://www.notion.so/34349a17ea9781b8a07bc5bf93cedb09",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-v-klavdievo-tarasove-ID10i7qb.html",
+        "latitude": 50.579442841401,
+        "longitude": 29.9890654925788,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
