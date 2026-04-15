@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-15T17:25:21.998003Z",
+  "generated_at": "2026-04-15T17:30:19.434981Z",
   "counts": {
     "landmatch": 51,
-    "processing": 11,
+    "processing": 9,
     "landhub": 23
   },
   "categories": {
@@ -928,23 +928,6 @@
         "status_key": "callback"
       },
       {
-        "id": "33849a17-ea97-81f3-8434-ec709a3d0d60",
-        "source": "processing",
-        "name": "Капустяна",
-        "area": "0.2498 га",
-        "price": "15 000 $",
-        "distance_to_kyiv": "43,4 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.16406419885,30.5288766215354",
-        "notion_url": "https://www.notion.so/33849a17ea9781f38434ec709a3d0d60",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/starye-bezradichi-s-kapustyana-zemlya-25-sotok-500-sotka-IDLJnmO.html",
-        "latitude": 50.16406419885,
-        "longitude": 30.5288766215354,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
-      },
-      {
         "id": "33a49a17-ea97-81ef-abfa-e91de2ea2dda",
         "source": "processing",
         "name": "Ярошівка",
@@ -960,23 +943,6 @@
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": "site_ok_olx_keeps"
-      },
-      {
-        "id": "33b49a17-ea97-813d-b158-d9c32cae196a",
-        "source": "processing",
-        "name": "Блиставиця",
-        "area": "0.113 га",
-        "price": "10 000 $",
-        "distance_to_kyiv": "34,8 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6027736436253,30.169927800307",
-        "notion_url": "https://www.notion.so/33b49a17ea97813db158d9c32cae196a",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/12-sotok-blya-ozera-bez-koms-persha-lnya-pd-kivom-tisha-priroda-IDZycma.html",
-        "latitude": 50.6027736436253,
-        "longitude": 30.169927800307,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
       },
       {
         "id": "33f49a17-ea97-816c-bf39-ff68091fe12f",
