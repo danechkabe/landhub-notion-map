@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-15T06:15:16.278800Z",
+  "generated_at": "2026-04-15T06:20:19.702306Z",
   "counts": {
     "landmatch": 51,
-    "processing": 14,
+    "processing": 15,
     "landhub": 23
   },
   "categories": {
@@ -1092,6 +1092,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-v-klavdievo-tarasove-ID10i7qb.html",
         "latitude": 50.579442841401,
         "longitude": 29.9890654925788,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "34349a17-ea97-81d6-b0a1-dcc05a79f0dd",
+        "source": "processing",
+        "name": "Ясногородка",
+        "area": "0.1 га",
+        "price": "7 000 $",
+        "distance_to_kyiv": "56,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8577794121859,30.4095174697345",
+        "notion_url": "https://www.notion.so/34349a17ea9781d6b0a1dcc05a79f0dd",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-yasnogorodka-vishgorodskiy-rayon-IDUPWYM.html",
+        "latitude": 50.8577794121859,
+        "longitude": 30.4095174697345,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
