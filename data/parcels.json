@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-15T03:35:16.247368Z",
+  "generated_at": "2026-04-15T03:40:17.521657Z",
   "counts": {
     "landmatch": 51,
-    "processing": 11,
+    "processing": 12,
     "landhub": 23
   },
   "categories": {
@@ -1045,6 +1045,23 @@
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": "site_ok_olx_keeps"
+      },
+      {
+        "id": "34349a17-ea97-811c-baf1-d42f2188b13e",
+        "source": "processing",
+        "name": "Красна Гірка",
+        "area": "0.2453 га",
+        "price": "7 500 $",
+        "distance_to_kyiv": "61,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5452526980777,29.8849507511493",
+        "notion_url": "https://www.notion.so/34349a17ea97811cbaf1d42f2188b13e",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-25-sotok-s-chervona-grka-ID10icv0.html",
+        "latitude": 50.5452526980777,
+        "longitude": 29.8849507511493,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       },
       {
         "id": "34349a17-ea97-81ff-a658-db775c92be56",
