@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T17:00:23.516991Z",
+  "generated_at": "2026-04-16T17:05:23.008190Z",
   "counts": {
     "landmatch": 51,
     "processing": 11,
@@ -1058,10 +1058,10 @@
         "olx_url": "https://m.olx.ua/d/uk/obyavlenie/prodayu-uchastok-pd-zastroyku-15sot-v-s-suholuche-IDwQGzO.html?search_reason=search%7Corganic",
         "latitude": 50.9450672412461,
         "longitude": 30.4297879541206,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       }
     ],
     "landhub": [
