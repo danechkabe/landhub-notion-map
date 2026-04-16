@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-16T16:40:19.772219Z",
+  "generated_at": "2026-04-16T16:45:19.696381Z",
   "counts": {
     "landmatch": 51,
-    "processing": 10,
+    "processing": 11,
     "landhub": 24
   },
   "categories": {
@@ -1041,6 +1041,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ID10iYSU.html",
         "latitude": 50.6745298227678,
         "longitude": 30.2239614646468,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "34449a17-ea97-81f4-923d-e4ca8816d009",
+        "source": "processing",
+        "name": "Сухолуччя",
+        "area": "0.1537 га",
+        "price": "—",
+        "distance_to_kyiv": "67,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.9450672412461,30.4297879541206",
+        "notion_url": "https://www.notion.so/34449a17ea9781f4923de4ca8816d009",
+        "olx_url": "",
+        "latitude": 50.9450672412461,
+        "longitude": 30.4297879541206,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
