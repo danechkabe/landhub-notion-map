@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-16T09:45:20.032522Z",
+  "generated_at": "2026-04-16T09:46:48.066722Z",
   "counts": {
     "landmatch": 51,
-    "processing": 9,
+    "processing": 10,
     "landhub": 23
   },
   "categories": {
@@ -1028,6 +1028,23 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
+      },
+      {
+        "id": "34449a17-ea97-8109-9ad3-e12b047fed68",
+        "source": "processing",
+        "name": "Толокунь",
+        "area": "0.12 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "61,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8918812210241,30.4265225780629",
+        "notion_url": "https://www.notion.so/34449a17ea9781099ad3e12b047fed68",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-0-12-ga-IDLlcD9.html",
+        "latitude": 50.8918812210241,
+        "longitude": 30.4265225780629,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       }
     ],
     "landhub": [
