@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T08:20:17.352086Z",
+  "generated_at": "2026-04-16T08:25:21.126665Z",
   "counts": {
     "landmatch": 51,
     "processing": 9,
@@ -1024,10 +1024,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-v-klavdievo-tarasove-ID10i7qb.html",
         "latitude": 50.579442841401,
         "longitude": 29.9890654925788,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       }
     ],
     "landhub": [
