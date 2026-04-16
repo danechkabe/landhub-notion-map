@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T17:05:23.008190Z",
+  "generated_at": "2026-04-16T17:10:18.764897Z",
   "counts": {
     "landmatch": 51,
     "processing": 11,
@@ -1041,10 +1041,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ID10iYSU.html",
         "latitude": 50.6745298227678,
         "longitude": 30.2239614646468,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "34449a17-ea97-81f4-923d-e4ca8816d009",
