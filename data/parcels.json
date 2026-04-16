@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-16T09:55:17.606425Z",
+  "generated_at": "2026-04-16T10:00:18.739298Z",
   "counts": {
     "landmatch": 51,
-    "processing": 10,
+    "processing": 11,
     "landhub": 23
   },
   "categories": {
@@ -1041,6 +1041,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-0-12-ga-IDLlcD9.html",
         "latitude": 50.8918812210241,
         "longitude": 30.4265225780629,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "34449a17-ea97-8153-9788-f849b7a8fc3a",
+        "source": "processing",
+        "name": "Гаврилівка",
+        "area": "0.15 га",
+        "price": "8 000 $",
+        "distance_to_kyiv": "41,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6745298227678,30.2239614646468",
+        "notion_url": "https://www.notion.so/34449a17ea9781539788f849b7a8fc3a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ID10iYSU.html",
+        "latitude": 50.6745298227678,
+        "longitude": 30.2239614646468,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
