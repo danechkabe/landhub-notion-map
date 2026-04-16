@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T15:55:24.757697Z",
+  "generated_at": "2026-04-16T16:00:25.494836Z",
   "counts": {
     "landmatch": 51,
     "processing": 11,
@@ -1007,10 +1007,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-25-sotok-s-chervona-grka-ID10icv0.html",
         "latitude": 50.5452526980777,
         "longitude": 29.8849507511493,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "34349a17-ea97-81b8-a07b-c5bf93cedb09",
