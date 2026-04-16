@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-16T16:05:31.369449Z",
+  "generated_at": "2026-04-16T16:10:27.078360Z",
   "counts": {
     "landmatch": 51,
-    "processing": 11,
-    "landhub": 23
+    "processing": 10,
+    "landhub": 24
   },
   "categories": {
     "landmatch": [
@@ -996,23 +996,6 @@
         "status_key": "site_ok_olx_keeps"
       },
       {
-        "id": "34349a17-ea97-811c-baf1-d42f2188b13e",
-        "source": "processing",
-        "name": "Красна Гірка",
-        "area": "0.2453 га",
-        "price": "7 500 $",
-        "distance_to_kyiv": "61,5 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5452526980777,29.8849507511493",
-        "notion_url": "https://www.notion.so/34349a17ea97811cbaf1d42f2188b13e",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-25-sotok-s-chervona-grka-ID10icv0.html",
-        "latitude": 50.5452526980777,
-        "longitude": 29.8849507511493,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
         "id": "34349a17-ea97-81b8-a07b-c5bf93cedb09",
         "source": "processing",
         "name": "Ірпінь",
@@ -1451,6 +1434,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-s-novoslki-IDYK5ih.html",
         "latitude": 50.3088613326652,
         "longitude": 30.0631001467195,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "Дає на реалізацію",
+        "status_key": ""
+      },
+      {
+        "id": "34349a17-ea97-811c-baf1-d42f2188b13e",
+        "source": "landhub",
+        "name": "Красна Гірка",
+        "area": "0.2453 га",
+        "price": "7 500 $",
+        "distance_to_kyiv": "61,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5452526980777,29.8849507511493",
+        "notion_url": "https://www.notion.so/34349a17ea97811cbaf1d42f2188b13e",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-25-sotok-s-chervona-grka-ID10icv0.html",
+        "latitude": 50.5452526980777,
+        "longitude": 29.8849507511493,
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "Дає на реалізацію",
