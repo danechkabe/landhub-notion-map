@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-16T17:30:23.225408Z",
+  "generated_at": "2026-04-16T17:35:19.700544Z",
   "counts": {
     "landmatch": 51,
-    "processing": 10,
+    "processing": 11,
     "landhub": 24
   },
   "categories": {
@@ -1028,6 +1028,23 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
+      },
+      {
+        "id": "34449a17-ea97-817d-942c-ca0cee5e4697",
+        "source": "processing",
+        "name": "Блиставиця",
+        "area": "0.1726 га",
+        "price": "2 700 $",
+        "distance_to_kyiv": "35,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6047035770893,30.1615959260468",
+        "notion_url": "https://www.notion.so/34449a17ea97817d942cca0cee5e4697",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-blistavits-pd-budivnitstvo-ID10j7J8.html",
+        "latitude": 50.6047035770893,
+        "longitude": 30.1615959260468,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       },
       {
         "id": "34449a17-ea97-81ad-a235-d36a05846e3f",
