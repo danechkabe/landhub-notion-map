@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-16T17:10:18.764897Z",
+  "generated_at": "2026-04-16T17:15:22.268160Z",
   "counts": {
     "landmatch": 51,
-    "processing": 11,
+    "processing": 10,
     "landhub": 24
   },
   "categories": {
@@ -1045,23 +1045,6 @@
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
         "status_key": "gives_to_sell"
-      },
-      {
-        "id": "34449a17-ea97-81f4-923d-e4ca8816d009",
-        "source": "processing",
-        "name": "Сухолуччя",
-        "area": "0.1537 га",
-        "price": "—",
-        "distance_to_kyiv": "67,0 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.9450672412461,30.4297879541206",
-        "notion_url": "https://www.notion.so/34449a17ea9781f4923de4ca8816d009",
-        "olx_url": "https://m.olx.ua/d/uk/obyavlenie/prodayu-uchastok-pd-zastroyku-15sot-v-s-suholuche-IDwQGzO.html?search_reason=search%7Corganic",
-        "latitude": 50.9450672412461,
-        "longitude": 30.4297879541206,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
       }
     ],
     "landhub": [
