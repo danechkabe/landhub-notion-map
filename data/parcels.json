@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-19T04:00:20.315853Z",
+  "generated_at": "2026-04-19T04:05:20.484279Z",
   "counts": {
     "landmatch": 51,
-    "processing": 12,
+    "processing": 13,
     "landhub": 24
   },
   "categories": {
@@ -1075,6 +1075,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelna-dlyanka-0-2-ga-kozarovich-nepodalk-vizdu-na-trasu-dimer-kiv-ID10jqW9.html",
         "latitude": 50.7505985360442,
         "longitude": 30.3344183119821,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "34749a17-ea97-8152-a10c-fe998476667b",
+        "source": "processing",
+        "name": "Рудня-Димерська",
+        "area": "0.2288 га",
+        "price": "2 500 $",
+        "distance_to_kyiv": "67,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.869569918914,30.0947747436375",
+        "notion_url": "https://www.notion.so/34749a17ea978152a10cfe998476667b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-ndivdualnu-zabudovu-kivska-obl-IDEwteu.html",
+        "latitude": 50.869569918914,
+        "longitude": 30.0947747436375,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
