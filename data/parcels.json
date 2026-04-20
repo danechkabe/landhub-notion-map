@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-20T16:35:20.893401Z",
+  "generated_at": "2026-04-20T16:40:19.144004Z",
   "counts": {
     "landmatch": 51,
-    "processing": 13,
+    "processing": 12,
     "landhub": 24
   },
   "categories": {
@@ -905,23 +905,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dacha-aktsya-poruch-z-s-borova-dlyanka-v-dachnomu-koop-v-ozerniy-IDYgQYE.html",
         "latitude": 50.1502570857657,
         "longitude": 30.1216703032441,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
-      },
-      {
-        "id": "33849a17-ea97-8106-aac9-c9f894c54329",
-        "source": "processing",
-        "name": "Вабля",
-        "area": "0.0842 га",
-        "price": "6 200 $",
-        "distance_to_kyiv": "59,1 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5944229899209,29.864379331143",
-        "notion_url": "https://www.notion.so/33849a17ea978106aac9c9f894c54329",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-abo-obmnyayu-na-avto-zemelnu-dlyanku-pd-zabudovu-v-s-vablya-IDSTJAH.html",
-        "latitude": 50.5944229899209,
-        "longitude": 29.864379331143,
         "marker_symbol": "📘",
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
