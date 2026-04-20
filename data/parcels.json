@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-20T16:30:22.126654Z",
+  "generated_at": "2026-04-20T16:35:20.893401Z",
   "counts": {
     "landmatch": 51,
-    "processing": 14,
+    "processing": 13,
     "landhub": 24
   },
   "categories": {
@@ -1062,23 +1062,6 @@
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
         "status_key": "gives_to_sell"
-      },
-      {
-        "id": "34549a17-ea97-815e-a478-c2962588e496",
-        "source": "processing",
-        "name": "Козаровичі",
-        "area": "0.2 га",
-        "price": "12 000 $",
-        "distance_to_kyiv": "41,8 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7505985360442,30.3344183119821",
-        "notion_url": "https://www.notion.so/34549a17ea97815ea478c2962588e496",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelna-dlyanka-0-2-ga-kozarovich-nepodalk-vizdu-na-trasu-dimer-kiv-ID10jqW9.html",
-        "latitude": 50.7505985360442,
-        "longitude": 30.3344183119821,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
       },
       {
         "id": "34749a17-ea97-8152-a10c-fe998476667b",
