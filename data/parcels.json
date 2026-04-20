@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T11:20:18.019178Z",
+  "generated_at": "2026-04-20T11:25:18.460199Z",
   "counts": {
     "landmatch": 51,
     "processing": 13,
@@ -1085,17 +1085,17 @@
         "source": "processing",
         "name": "Рудня-Димерська",
         "area": "0.2288 га",
-        "price": "2 500 $",
+        "price": "12 500 $",
         "distance_to_kyiv": "67,0 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.869569918914,30.0947747436375",
         "notion_url": "https://www.notion.so/34749a17ea978152a10cfe998476667b",
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-ndivdualnu-zabudovu-kivska-obl-IDEwteu.html",
         "latitude": 50.869569918914,
         "longitude": 30.0947747436375,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       }
     ],
     "landhub": [
