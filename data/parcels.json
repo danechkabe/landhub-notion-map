@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T16:05:08.298592Z",
+  "generated_at": "2026-04-21T16:05:33.349524Z",
   "counts": {
     "landmatch": 66,
     "processing": 11,
@@ -1262,10 +1262,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-blistavits-pd-budivnitstvo-ID10j7J8.html",
         "latitude": 50.6047035770893,
         "longitude": 30.1615959260468,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "34449a17-ea97-81ad-a235-d36a05846e3f",
@@ -1313,10 +1313,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/bez-prodatsya-zemelniy-uchastok-12-sotok-selo-greben-obuhvskiy-r-n-tk-ID10kA5J.html",
         "latitude": 50.043305666023,
         "longitude": 30.9467055180615,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       }
     ],
     "landhub": [
