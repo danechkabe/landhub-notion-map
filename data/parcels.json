@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T15:55:37.707113Z",
+  "generated_at": "2026-04-21T16:00:23.297881Z",
   "counts": {
     "landmatch": 66,
     "processing": 11,
@@ -1245,10 +1245,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-0-12-ga-IDLlcD9.html",
         "latitude": 50.8918812210241,
         "longitude": 30.4265225780629,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "34449a17-ea97-817d-942c-ca0cee5e4697",
