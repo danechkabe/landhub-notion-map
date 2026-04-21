@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-21T15:50:24.822402Z",
+  "generated_at": "2026-04-21T15:55:37.707113Z",
   "counts": {
     "landmatch": 66,
-    "processing": 12,
+    "processing": 11,
     "landhub": 24
   },
   "categories": {
@@ -1232,23 +1232,6 @@
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": "site_ok_olx_keeps"
-      },
-      {
-        "id": "34349a17-ea97-81b8-a07b-c5bf93cedb09",
-        "source": "processing",
-        "name": "Клавдиево-Тарасове",
-        "area": "0.135 га",
-        "price": "12 000 $",
-        "distance_to_kyiv": "46,6 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.579442841401,29.9890654925788",
-        "notion_url": "https://www.notion.so/34349a17ea9781b8a07bc5bf93cedb09",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-v-klavdievo-tarasove-ID10i7qb.html",
-        "latitude": 50.579442841401,
-        "longitude": 29.9890654925788,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
       },
       {
         "id": "34449a17-ea97-8109-9ad3-e12b047fed68",
