@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-23T07:35:23.606559Z",
+  "generated_at": "2026-04-23T07:40:20.629625Z",
   "counts": {
     "landmatch": 66,
-    "processing": 12,
+    "processing": 13,
     "landhub": 24
   },
   "categories": {
@@ -1330,6 +1330,23 @@
         "olx_url": "",
         "latitude": 50.1064641,
         "longitude": 30.5741221,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "34b49a17-ea97-817f-97fb-d60999e40cf5",
+        "source": "processing",
+        "name": "Мостище",
+        "area": "0.25 га",
+        "price": "4 600 $",
+        "distance_to_kyiv": "47,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2986654488063,30.0252002248825",
+        "notion_url": "https://www.notion.so/34b49a17ea97817f97fbd60999e40cf5",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zabudovu-45-sotok-s-mostische-buchanskiy-r-n-ID10lkLJ.html",
+        "latitude": 50.2986654488063,
+        "longitude": 30.0252002248825,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
