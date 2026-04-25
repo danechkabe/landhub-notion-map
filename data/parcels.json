@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-25T19:20:19.567251Z",
+  "generated_at": "2026-04-25T19:25:18.800761Z",
   "counts": {
     "landmatch": 66,
-    "processing": 13,
+    "processing": 14,
     "landhub": 24
   },
   "categories": {
@@ -1347,6 +1347,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zabudovu-45-sotok-s-mostische-buchanskiy-r-n-ID10lkLJ.html",
         "latitude": 50.2986654488063,
         "longitude": 30.0252002248825,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "34d49a17-ea97-812b-82f0-ff610a705f4c",
+        "source": "processing",
+        "name": "Димер",
+        "area": "0.15 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "44,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7735774367373,30.3213029088339",
+        "notion_url": "https://www.notion.so/34d49a17ea97812b82f0ff610a705f4c",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-blya-ozera-pd-budvnitstvo-v-dimer-IDWPvnM.html",
+        "latitude": 50.7735774367373,
+        "longitude": 30.3213029088339,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
