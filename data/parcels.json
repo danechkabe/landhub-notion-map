@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T16:15:20.960814Z",
+  "generated_at": "2026-04-27T16:20:18.754593Z",
   "counts": {
     "landmatch": 66,
     "processing": 14,
@@ -1338,7 +1338,7 @@
       {
         "id": "34f49a17-ea97-81da-994f-d796405e0201",
         "source": "processing",
-        "name": "Боярка",
+        "name": "Ясногородка",
         "area": "0.1 га",
         "price": "7 000 $",
         "distance_to_kyiv": "57,4 км",
@@ -1347,10 +1347,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-s-yasnogorodka-ID10mVy1.html",
         "latitude": 50.8622136048698,
         "longitude": 30.4148220214872,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "34f49a17-ea97-81dd-a422-e32d6c6066bf",
