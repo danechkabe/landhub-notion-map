@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-27T14:20:27.158592Z",
+  "generated_at": "2026-04-27T14:25:24.627012Z",
   "counts": {
     "landmatch": 66,
-    "processing": 16,
+    "processing": 15,
     "landhub": 24
   },
   "categories": {
@@ -1317,23 +1317,6 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
-      },
-      {
-        "id": "34a49a17-ea97-80d5-b88f-f153d8b5ffc3",
-        "source": "processing",
-        "name": "гудимово",
-        "area": "—",
-        "price": "—",
-        "distance_to_kyiv": "—",
-        "google_maps_url": "https://www.google.com/maps/place/50%C2%B006'18.9%22N+30%C2%B034'16.5%22E/@50.1064641,30.5741221,1185m/data=!3m1!1e3!4m4!3m3!8m2!3d50.1052455!4d30.5712591?entry=tts&g_ep=EgoyMDI2MDQxOS4wIPu8ASoASAFQAw%3D%3D&skid=32d71e6d-1cbb-487e-82fc-f58dd987f498",
-        "notion_url": "https://www.notion.so/34a49a17ea9780d5b88ff153d8b5ffc3",
-        "olx_url": "",
-        "latitude": 50.1064641,
-        "longitude": 30.5741221,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
       },
       {
         "id": "34b49a17-ea97-817f-97fb-d60999e40cf5",
