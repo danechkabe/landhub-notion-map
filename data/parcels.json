@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-27T12:55:20.028216Z",
+  "generated_at": "2026-04-27T12:58:48.922395Z",
   "counts": {
     "landmatch": 66,
-    "processing": 15,
+    "processing": 16,
     "landhub": 24
   },
   "categories": {
@@ -1368,6 +1368,23 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
+      },
+      {
+        "id": "34f49a17-ea97-81da-994f-d796405e0201",
+        "source": "processing",
+        "name": "Боярка",
+        "area": "0.1 га",
+        "price": "7 000 $",
+        "distance_to_kyiv": "57,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8622136048698,30.4148220214872",
+        "notion_url": "https://www.notion.so/34f49a17ea9781da994fd796405e0201",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-s-yasnogorodka-ID10mVy1.html",
+        "latitude": 50.8622136048698,
+        "longitude": 30.4148220214872,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       },
       {
         "id": "34f49a17-ea97-81dd-a422-e32d6c6066bf",
