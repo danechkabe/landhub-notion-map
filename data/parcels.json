@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T17:20:19.557007Z",
+  "generated_at": "2026-04-27T17:25:22.719770Z",
   "counts": {
     "landmatch": 66,
     "processing": 13,
@@ -1347,10 +1347,10 @@
         "olx_url": "https://m.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-2-dlyanki-poruch-po-0-25-ga-ID10mCVG.html",
         "latitude": 50.0748433852061,
         "longitude": 30.4410618109363,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       }
     ],
     "landhub": [
