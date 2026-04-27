@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-27T16:20:18.754593Z",
+  "generated_at": "2026-04-27T16:25:20.727764Z",
   "counts": {
     "landmatch": 66,
-    "processing": 14,
+    "processing": 13,
     "landhub": 24
   },
   "categories": {
@@ -1251,23 +1251,6 @@
         "status_key": "gives_to_sell"
       },
       {
-        "id": "34449a17-ea97-817d-942c-ca0cee5e4697",
-        "source": "processing",
-        "name": "Блиставиця",
-        "area": "0.1726 га",
-        "price": "2 700 $",
-        "distance_to_kyiv": "35,4 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6047035770893,30.1615959260468",
-        "notion_url": "https://www.notion.so/34449a17ea97817d942cca0cee5e4697",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-blistavits-pd-budivnitstvo-ID10j7J8.html",
-        "latitude": 50.6047035770893,
-        "longitude": 30.1615959260468,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
-      },
-      {
         "id": "34449a17-ea97-81ad-a235-d36a05846e3f",
         "source": "processing",
         "name": "Гаврилівка",
@@ -1347,10 +1330,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-s-yasnogorodka-ID10mVy1.html",
         "latitude": 50.8622136048698,
         "longitude": 30.4148220214872,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "34f49a17-ea97-81dd-a422-e32d6c6066bf",
