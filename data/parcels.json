@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T10:35:17.780033Z",
+  "generated_at": "2026-04-27T10:40:20.158316Z",
   "counts": {
     "landmatch": 66,
     "processing": 14,
@@ -1364,10 +1364,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-blya-ozera-pd-budvnitstvo-v-dimer-IDWPvnM.html",
         "latitude": 50.7735774367373,
         "longitude": 30.3213029088339,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       }
     ],
     "landhub": [
