@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-27T12:45:18.368799Z",
+  "generated_at": "2026-04-27T12:50:22.735099Z",
   "counts": {
     "landmatch": 66,
-    "processing": 14,
+    "processing": 15,
     "landhub": 24
   },
   "categories": {
@@ -1368,6 +1368,23 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
+      },
+      {
+        "id": "34f49a17-ea97-81dd-a422-e32d6c6066bf",
+        "source": "processing",
+        "name": "Велика Вільшанка",
+        "area": "0.25 га",
+        "price": "7 000 $",
+        "distance_to_kyiv": "61,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0748433852061,30.4410618109363",
+        "notion_url": "https://www.notion.so/34f49a17ea9781dda422e32d6c6066bf",
+        "olx_url": "https://m.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-2-dlyanki-poruch-po-0-25-ga-ID10mCVG.html",
+        "latitude": 50.0748433852061,
+        "longitude": 30.4410618109363,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       }
     ],
     "landhub": [
