@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T18:00:23.397115Z",
+  "generated_at": "2026-04-28T18:05:21.088958Z",
   "counts": {
     "landmatch": 66,
     "processing": 13,
@@ -1289,7 +1289,7 @@
         "source": "processing",
         "name": "Гребінки",
         "area": "0.12 га",
-        "price": "8 000 $",
+        "price": "10 000 $",
         "distance_to_kyiv": "75,9 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.043305666023,30.9467055180615",
         "notion_url": "https://www.notion.so/34849a17ea9781c68859e80cbbd9069e",
