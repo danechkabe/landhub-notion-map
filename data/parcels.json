@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-28T17:55:19.332689Z",
+  "generated_at": "2026-04-28T18:00:23.397115Z",
   "counts": {
     "landmatch": 66,
     "processing": 13,
-    "landhub": 24
+    "landhub": 21
   },
   "categories": {
     "landmatch": [
@@ -1423,23 +1423,6 @@
         "status_key": ""
       },
       {
-        "id": "30a49a17-ea97-8056-8ac2-cf0473fae513",
-        "source": "landhub",
-        "name": "Стайки",
-        "area": "0.1980",
-        "price": "12000$",
-        "distance_to_kyiv": "37 км",
-        "google_maps_url": "https://google.com/maps?q=50.0652233,30.9128713&entry=gps&shh=CAE&lucs=,94297699,94284454,94231188,94280568,47071704,94266209,94218641,94282134,94286869&g_ep=CAISEjI2LjA2LjIuODY0NDM1MTkzMBgAINeCAypRLDk0Mjk3Njk5LDk0Mjg0NDU0LDk0MjMxMTg4LDk0MjgwNTY4LDQ3MDcxNzA0LDk0MjY2MjA5LDk0MjE4NjQxLDk0MjgyMTM0LDk0Mjg2ODY5QgJUSA%3D%3D&skid=65b3278e-e98f-4e17-8d38-067ec74f2c8c&g_st=ic",
-        "notion_url": "https://www.notion.so/30a49a17ea9780568ac2cf0473fae513",
-        "olx_url": "",
-        "latitude": 50.0652233,
-        "longitude": 30.9128713,
-        "marker_symbol": "📍",
-        "marker_color": "#111111",
-        "status_label": "Not started",
-        "status_key": ""
-      },
-      {
         "id": "32949a17-ea97-8102-a7e9-cc9ae986f8e9",
         "source": "landhub",
         "name": "Забуяння",
@@ -1593,23 +1576,6 @@
         "status_key": ""
       },
       {
-        "id": "32949a17-ea97-81a6-83f5-e6eecd7f6d82",
-        "source": "landhub",
-        "name": "Фасова",
-        "area": "0.2502 га",
-        "price": "9500$",
-        "distance_to_kyiv": "50 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.384115218941,29.8172806607966",
-        "notion_url": "https://www.notion.so/32949a17ea9781a683f5e6eecd7f6d82",
-        "olx_url": "",
-        "latitude": 50.384115218941,
-        "longitude": 29.8172806607966,
-        "marker_symbol": "📍",
-        "marker_color": "#111111",
-        "status_label": "Not started",
-        "status_key": ""
-      },
-      {
         "id": "32949a17-ea97-81cb-8f3f-d04afa1fdbb0",
         "source": "landhub",
         "name": "Дорогинка",
@@ -1740,23 +1706,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-s-novoslki-IDYK5ih.html",
         "latitude": 50.3088613326652,
         "longitude": 30.0631001467195,
-        "marker_symbol": "📍",
-        "marker_color": "#111111",
-        "status_label": "Дає на реалізацію",
-        "status_key": ""
-      },
-      {
-        "id": "34349a17-ea97-811c-baf1-d42f2188b13e",
-        "source": "landhub",
-        "name": "Красна Гірка",
-        "area": "0.2453 га",
-        "price": "7 500 $",
-        "distance_to_kyiv": "61,5 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5452526980777,29.8849507511493",
-        "notion_url": "https://www.notion.so/34349a17ea97811cbaf1d42f2188b13e",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-25-sotok-s-chervona-grka-ID10icv0.html",
-        "latitude": 50.5452526980777,
-        "longitude": 29.8849507511493,
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "Дає на реалізацію",
