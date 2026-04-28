@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-28T19:55:31.305574Z",
+  "generated_at": "2026-04-28T20:00:36.833823Z",
   "counts": {
     "landmatch": 66,
-    "processing": 13,
+    "processing": 14,
     "landhub": 21
   },
   "categories": {
@@ -1351,6 +1351,23 @@
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
         "status_key": "gives_to_sell"
+      },
+      {
+        "id": "35049a17-ea97-81d3-bb2d-ffaf39e9dfd3",
+        "source": "processing",
+        "name": "Мар'янівка",
+        "area": "0.2501 га",
+        "price": "2 300 $",
+        "distance_to_kyiv": "49,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4841606398443,29.9434445508748",
+        "notion_url": "https://www.notion.so/35049a17ea9781d3bb2dffaf39e9dfd3",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnye-uchastki-pod-zastroyku-makarovskiy-r-n-kievskoy-obl-IDKSHRL.html",
+        "latitude": 50.4841606398443,
+        "longitude": 29.9434445508748,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       }
     ],
     "landhub": [
