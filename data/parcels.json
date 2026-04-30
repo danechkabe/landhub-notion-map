@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T12:15:24.922757Z",
+  "generated_at": "2026-04-30T12:20:27.627034Z",
   "counts": {
     "landmatch": 66,
     "processing": 16,
@@ -1392,7 +1392,7 @@
         "name": "Ірпінь",
         "area": "0.135 га",
         "price": "12 000 $",
-        "distance_to_kyiv": "52,2 км",
+        "distance_to_kyiv": "46,6 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.579442841401,29.9890654925788",
         "notion_url": "https://app.notion.com/p/35249a17ea9781f6a228c0d8e5d31d64",
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-v-klavdievo-tarasove-ID10i7qb.html",
