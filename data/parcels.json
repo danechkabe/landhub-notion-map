@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-30T07:55:26.717120Z",
+  "generated_at": "2026-04-30T08:00:29.734238Z",
   "counts": {
-    "landmatch": 65,
-    "processing": 15,
+    "landmatch": 66,
+    "processing": 14,
     "landhub": 21
   },
   "categories": {
@@ -359,6 +359,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-30-sot-s-stavi-IDY0Nal.html",
         "latitude": 49.8635786458911,
         "longitude": 30.6445886132829,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "32c49a17-ea97-8105-9f2b-c157476bf9c3",
+        "source": "landmatch",
+        "name": "Трипілля",
+        "area": "0.0985 га",
+        "price": "13 000 $",
+        "distance_to_kyiv": "49,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1230801367802,30.7472750334106",
+        "notion_url": "https://app.notion.com/p/32c49a17ea9781059f2bc157476bf9c3",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-sel-tripllya-ID109aeZ.html",
+        "latitude": 50.1230801367802,
+        "longitude": 30.7472750334106,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
@@ -1130,23 +1147,6 @@
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
         "status_key": "gives_to_sell"
-      },
-      {
-        "id": "32c49a17-ea97-8105-9f2b-c157476bf9c3",
-        "source": "processing",
-        "name": "Трипілля",
-        "area": "0.0985 га",
-        "price": "13 000 $",
-        "distance_to_kyiv": "49,0 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1230801367802,30.7472750334106",
-        "notion_url": "https://app.notion.com/p/32c49a17ea9781059f2bc157476bf9c3",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-sel-tripllya-ID109aeZ.html",
-        "latitude": 50.1230801367802,
-        "longitude": 30.7472750334106,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
       },
       {
         "id": "33149a17-ea97-81d9-8a74-fa3906a9cc48",
