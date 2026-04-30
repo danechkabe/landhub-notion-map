@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-30T10:00:27.947074Z",
+  "generated_at": "2026-04-30T10:05:31.690203Z",
   "counts": {
     "landmatch": 66,
-    "processing": 14,
+    "processing": 15,
     "landhub": 21
   },
   "categories": {
@@ -1364,6 +1364,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnye-uchastki-pod-zastroyku-makarovskiy-r-n-kievskoy-obl-IDKSHRL.html",
         "latitude": 50.4841606398443,
         "longitude": 29.9434445508748,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "35249a17-ea97-81f4-a7c2-f70fcd71a6db",
+        "source": "processing",
+        "name": "Перше Травня",
+        "area": "0.1665 га",
+        "price": "2 600 $",
+        "distance_to_kyiv": "48,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1157477782053,30.5547750511766",
+        "notion_url": "https://app.notion.com/p/35249a17ea9781f4a7c2f70fcd71a6db",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-17s-z-dok-na-budinok-zaoschadzhuy-na-pdklyuchenn-elektriki-IDTNHd5.html",
+        "latitude": 50.1157477782053,
+        "longitude": 30.5547750511766,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
