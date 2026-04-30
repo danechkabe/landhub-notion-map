@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T14:45:30.750244Z",
+  "generated_at": "2026-04-30T14:50:23.628525Z",
   "counts": {
     "landmatch": 66,
     "processing": 16,
@@ -1381,10 +1381,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-17s-z-dok-na-budinok-zaoschadzhuy-na-pdklyuchenn-elektriki-IDTNHd5.html",
         "latitude": 50.1157477782053,
         "longitude": 30.5547750511766,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "35249a17-ea97-81f6-a228-c0d8e5d31d64",
