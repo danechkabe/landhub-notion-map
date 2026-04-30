@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-30T10:20:26.413875Z",
+  "generated_at": "2026-04-30T10:25:26.666407Z",
   "counts": {
     "landmatch": 66,
-    "processing": 15,
+    "processing": 16,
     "landhub": 21
   },
   "categories": {
@@ -1381,6 +1381,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-17s-z-dok-na-budinok-zaoschadzhuy-na-pdklyuchenn-elektriki-IDTNHd5.html",
         "latitude": 50.1157477782053,
         "longitude": 30.5547750511766,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "35249a17-ea97-81f6-a228-c0d8e5d31d64",
+        "source": "processing",
+        "name": "Ірпінь",
+        "area": "0.135 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "52,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.579442841401,29.9890654925788",
+        "notion_url": "https://app.notion.com/p/35249a17ea9781f6a228c0d8e5d31d64",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-v-klavdievo-tarasove-ID10i7qb.html",
+        "latitude": 50.579442841401,
+        "longitude": 29.9890654925788,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
