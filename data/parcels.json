@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T14:50:23.628525Z",
+  "generated_at": "2026-04-30T14:55:26.211505Z",
   "counts": {
     "landmatch": 66,
     "processing": 16,
@@ -1374,7 +1374,7 @@
         "source": "processing",
         "name": "Перше Травня",
         "area": "0.1665 га",
-        "price": "2 600 $",
+        "price": "11 000 $",
         "distance_to_kyiv": "48,6 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1157477782053,30.5547750511766",
         "notion_url": "https://app.notion.com/p/35249a17ea9781f4a7c2f70fcd71a6db",
