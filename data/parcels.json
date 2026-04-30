@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T13:30:28.575327Z",
+  "generated_at": "2026-04-30T13:35:37.422455Z",
   "counts": {
     "landmatch": 66,
     "processing": 16,
@@ -1364,10 +1364,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnye-uchastki-pod-zastroyku-makarovskiy-r-n-kievskoy-obl-IDKSHRL.html",
         "latitude": 50.4841606398443,
         "longitude": 29.9434445508748,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "35249a17-ea97-81f4-a7c2-f70fcd71a6db",
