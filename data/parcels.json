@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-03T17:05:39.887618Z",
+  "generated_at": "2026-05-03T17:10:21.874672Z",
   "counts": {
     "landmatch": 66,
-    "processing": 20,
+    "processing": 21,
     "landhub": 21
   },
   "categories": {
@@ -1415,6 +1415,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-z-garnim-kravidom-ta-prirodoyu-IDYknbB.html",
         "latitude": 50.0860987445624,
         "longitude": 30.6264471361201,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "35549a17-ea97-8138-90e0-e98ff6a0179c",
+        "source": "processing",
+        "name": "Дудки",
+        "area": "0.1843 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "59,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7725349936294,30.0938135462835",
+        "notion_url": "https://www.notion.so/35549a17ea97813890e0e98ff6a0179c",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-selo-dudki-kivska-oblast-ID10pyvd.html",
+        "latitude": 50.7725349936294,
+        "longitude": 30.0938135462835,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
