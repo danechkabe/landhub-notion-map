@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-03T16:10:19.875198Z",
+  "generated_at": "2026-05-03T16:15:29.071324Z",
   "counts": {
     "landmatch": 66,
-    "processing": 18,
+    "processing": 19,
     "landhub": 21
   },
   "categories": {
@@ -1415,6 +1415,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-5-sotok-ID10pOmN.html",
         "latitude": 50.3848684444166,
         "longitude": 30.1861873069495,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "35549a17-ea97-81a1-ae6b-f82e2a4247c5",
+        "source": "processing",
+        "name": "Мостище",
+        "area": "0.178 га",
+        "price": "5 600 $",
+        "distance_to_kyiv": "49,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3049226642002,30.0093225022357",
+        "notion_url": "https://www.notion.so/35549a17ea9781a1ae6bf82e2a4247c5",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-17-8-sot-kivska-obl-s-mostische-3600-IDQyz2s.html",
+        "latitude": 50.3049226642002,
+        "longitude": 30.0093225022357,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
