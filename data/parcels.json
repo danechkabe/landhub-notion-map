@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-03T18:40:17.520289Z",
+  "generated_at": "2026-05-03T18:45:21.518527Z",
   "counts": {
     "landmatch": 66,
-    "processing": 23,
+    "processing": 24,
     "landhub": 21
   },
   "categories": {
@@ -1500,6 +1500,23 @@
         "olx_url": "",
         "latitude": 50.9432984663615,
         "longitude": 30.4195786009166,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "35549a17-ea97-81c6-a625-c2e42a8dbd4c",
+        "source": "processing",
+        "name": "Ясногородка",
+        "area": "0.1197 га",
+        "price": "6 500 $",
+        "distance_to_kyiv": "54,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8420663885596,30.3881151080903",
+        "notion_url": "https://www.notion.so/35549a17ea9781c6a625c2e42a8dbd4c",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/yasnogorodka-uchastok-12-sotok-pod-zastroyku-IDSS134.html",
+        "latitude": 50.8420663885596,
+        "longitude": 30.3881151080903,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
