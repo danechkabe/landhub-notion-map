@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-03T05:55:21.345511Z",
+  "generated_at": "2026-05-03T06:00:27.154648Z",
   "counts": {
     "landmatch": 66,
-    "processing": 16,
+    "processing": 17,
     "landhub": 21
   },
   "categories": {
@@ -1402,6 +1402,23 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
+      },
+      {
+        "id": "35549a17-ea97-81d2-af3b-f84eb3eb73ce",
+        "source": "processing",
+        "name": "Безп'ятне",
+        "area": "0.09 га",
+        "price": "4 500 $",
+        "distance_to_kyiv": "44,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1592531689916,30.2992986759494",
+        "notion_url": "https://www.notion.so/35549a17ea9781d2af3bf84eb3eb73ce",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/9-sot-do-1-km-pod-vasilkovom-tsena-za-uchastok-IDFLzMl.html",
+        "latitude": 50.1592531689916,
+        "longitude": 30.2992986759494,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       }
     ],
     "landhub": [
