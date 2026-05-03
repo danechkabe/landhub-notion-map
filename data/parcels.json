@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-03T17:00:29.362196Z",
+  "generated_at": "2026-05-03T17:05:19.979835Z",
   "counts": {
     "landmatch": 66,
-    "processing": 19,
+    "processing": 20,
     "landhub": 21
   },
   "categories": {
@@ -1402,6 +1402,23 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
+      },
+      {
+        "id": "35549a17-ea97-812e-b992-c2374c7cb2b4",
+        "source": "processing",
+        "name": "Обухів",
+        "area": "0.1 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "49,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0860987445624,30.6264471361201",
+        "notion_url": "https://www.notion.so/35549a17ea97812eb992c2374c7cb2b4",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-z-garnim-kravidom-ta-prirodoyu-IDYknbB.html",
+        "latitude": 50.0860987445624,
+        "longitude": 30.6264471361201,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       },
       {
         "id": "35549a17-ea97-8190-bb89-e0ba885b8a41",
