@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-03T18:30:23.024044Z",
+  "generated_at": "2026-05-03T18:35:27.455079Z",
   "counts": {
     "landmatch": 66,
-    "processing": 22,
+    "processing": 23,
     "landhub": 21
   },
   "categories": {
@@ -1432,6 +1432,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-selo-dudki-kivska-oblast-ID10pyvd.html",
         "latitude": 50.7725349936294,
         "longitude": 30.0938135462835,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "35549a17-ea97-8150-ac66-f6596b6f101a",
+        "source": "processing",
+        "name": "Сухолуччя",
+        "area": "0.6412 га",
+        "price": "—",
+        "distance_to_kyiv": "67,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.948867757054,30.4229293169264",
+        "notion_url": "https://www.notion.so/35549a17ea978150ac66f6596b6f101a",
+        "olx_url": "",
+        "latitude": 50.948867757054,
+        "longitude": 30.4229293169264,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
