@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-03T18:00:44.938462Z",
+  "generated_at": "2026-05-03T18:05:22.216905Z",
   "counts": {
     "landmatch": 66,
-    "processing": 21,
+    "processing": 22,
     "landhub": 21
   },
   "categories": {
@@ -1385,6 +1385,23 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
+      },
+      {
+        "id": "35549a17-ea97-8107-b242-ed600abf1f47",
+        "source": "processing",
+        "name": "Сухолуччя",
+        "area": "0.1162 га",
+        "price": "3 000 $",
+        "distance_to_kyiv": "66,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.9377822866203,30.4365792176686",
+        "notion_url": "https://www.notion.so/35549a17ea978107b242ed600abf1f47",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-pd-zabudovu-IDS1kl1.html",
+        "latitude": 50.9377822866203,
+        "longitude": 30.4365792176686,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       },
       {
         "id": "35549a17-ea97-812e-b992-c2374c7cb2b4",
