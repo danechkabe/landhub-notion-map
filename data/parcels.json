@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T18:05:23.027566Z",
+  "generated_at": "2026-05-04T18:10:22.319107Z",
   "counts": {
     "landmatch": 53,
     "processing": 26,
@@ -1245,10 +1245,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-17-8-sot-kivska-obl-s-mostische-3600-IDQyz2s.html",
         "latitude": 50.3049226642002,
         "longitude": 30.0093225022357,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "35549a17-ea97-81b7-b838-dd9903a34d92",
