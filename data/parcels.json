@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T13:10:26.796328Z",
+  "generated_at": "2026-05-04T13:15:20.341045Z",
   "counts": {
     "landmatch": 53,
-    "processing": 27,
+    "processing": 26,
     "landhub": 21
   },
   "categories": {
@@ -1160,23 +1160,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-v-klavdievo-tarasove-ID10i7qb.html",
         "latitude": 50.579442841401,
         "longitude": 29.9890654925788,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
-      },
-      {
-        "id": "35549a17-ea97-8107-b242-ed600abf1f47",
-        "source": "processing",
-        "name": "Сухолуччя",
-        "area": "0.1162 га",
-        "price": "15 000 $",
-        "distance_to_kyiv": "66,1 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.9377822866203,30.4365792176686",
-        "notion_url": "https://www.notion.so/35549a17ea978107b242ed600abf1f47",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-pd-zabudovu-IDS1kl1.html",
-        "latitude": 50.9377822866203,
-        "longitude": 30.4365792176686,
         "marker_symbol": "📘",
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
