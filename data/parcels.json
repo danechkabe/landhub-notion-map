@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T05:15:26.896726Z",
+  "generated_at": "2026-05-04T05:20:20.376485Z",
   "counts": {
     "landmatch": 53,
     "processing": 24,
@@ -1225,7 +1225,7 @@
         "distance_to_kyiv": "67,8 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.948867757054,30.4229293169264",
         "notion_url": "https://www.notion.so/35549a17ea978150ac66f6596b6f101a",
-        "olx_url": "",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/yasnogorodka-uchastok-12-sotok-pod-zastroyku-IDSS134.html?reason=ip%7Ccool%3Abase",
         "latitude": 50.948867757054,
         "longitude": 30.4229293169264,
         "marker_symbol": "📓",
