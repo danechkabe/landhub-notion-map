@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T13:05:22.466483Z",
+  "generated_at": "2026-05-04T13:10:26.796328Z",
   "counts": {
     "landmatch": 53,
     "processing": 27,
@@ -1177,10 +1177,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-pd-zabudovu-IDS1kl1.html",
         "latitude": 50.9377822866203,
         "longitude": 30.4365792176686,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "35549a17-ea97-812e-b992-c2374c7cb2b4",
