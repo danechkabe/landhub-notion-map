@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T08:10:21.649877Z",
+  "generated_at": "2026-05-04T08:15:30.986817Z",
   "counts": {
     "landmatch": 53,
-    "processing": 24,
+    "processing": 25,
     "landhub": 21
   },
   "categories": {
@@ -1296,6 +1296,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodayutsya-dlyanki-po-10-sotok-blya-kivskogo-morya-bez-koms-IDLtYYC.html?search_reason=search%7Corganic",
         "latitude": 50.8420663885596,
         "longitude": 30.3881151080903,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "35649a17-ea97-8157-91f8-cccb681bf40b",
+        "source": "processing",
+        "name": "Демидів",
+        "area": "0.1143 га",
+        "price": "11 500 $",
+        "distance_to_kyiv": "41,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7392356088561,30.3079853847469",
+        "notion_url": "https://www.notion.so/35649a17ea97815791f8cccb681bf40b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemlya-pd-zabudovu-blya-kiva-rvna-z-svtlom-IDPgXjf.html",
+        "latitude": 50.7392356088561,
+        "longitude": 30.3079853847469,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
