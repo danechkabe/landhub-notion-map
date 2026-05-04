@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T03:55:18.799758Z",
+  "generated_at": "2026-05-04T04:00:22.700851Z",
   "counts": {
-    "landmatch": 64,
+    "landmatch": 60,
     "processing": 23,
     "landhub": 21
   },
@@ -467,23 +467,6 @@
         "status_key": ""
       },
       {
-        "id": "32f49a17-ea97-80ce-a44a-cf5b22a35b96",
-        "source": "landmatch",
-        "name": "Обухів",
-        "area": "0.0668 га",
-        "price": "7 500 $",
-        "distance_to_kyiv": "44,9 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1059109776159,30.6360950422715",
-        "notion_url": "https://www.notion.so/32f49a17ea9780cea44acf5b22a35b96",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-m-obuhv-IDFMRj7.html",
-        "latitude": 50.1059109776159,
-        "longitude": 30.6360950422715,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
         "id": "32f49a17-ea97-81b9-9e49-d3922b5a261e",
         "source": "landmatch",
         "name": "Волиця",
@@ -654,23 +637,6 @@
         "status_key": ""
       },
       {
-        "id": "33349a17-ea97-81c9-9b22-c998b2edc1f2",
-        "source": "landmatch",
-        "name": "Нещерів",
-        "area": "0.12 га",
-        "price": "5 000 $",
-        "distance_to_kyiv": "39,1 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1499404941072,30.6612433786505",
-        "notion_url": "https://www.notion.so/33349a17ea9781c99b22c998b2edc1f2",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-obuhvskomu-r-n-s-nescherv-IDZqMKh.html",
-        "latitude": 50.1499404941072,
-        "longitude": 30.6612433786505,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
         "id": "33449a17-ea97-81c4-a554-e01f5ca96e68",
         "source": "landmatch",
         "name": "Ярошівка",
@@ -773,23 +739,6 @@
         "status_key": ""
       },
       {
-        "id": "33849a17-ea97-81a3-8b79-ca2f40b8e4fe",
-        "source": "landmatch",
-        "name": "Обухів",
-        "area": "0.0908 га",
-        "price": "12 000 $",
-        "distance_to_kyiv": "44,8 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1223054826681,30.5935777798742",
-        "notion_url": "https://www.notion.so/33849a17ea9781a38b79ca2f40b8e4fe",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDXhypz.html",
-        "latitude": 50.1223054826681,
-        "longitude": 30.5935777798742,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
         "id": "33849a17-ea97-81f3-8434-ec709a3d0d60",
         "source": "landmatch",
         "name": "Капустяна",
@@ -835,23 +784,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zabudovu-ne-dorogo-IDYGc2L.html",
         "latitude": 50.6348908840717,
         "longitude": 29.8759720898845,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "33a49a17-ea97-811b-b115-ebea33baf707",
-        "source": "landmatch",
-        "name": "Нещерів",
-        "area": "0.16 га",
-        "price": "18 000 $",
-        "distance_to_kyiv": "42,0 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1442558781371,30.6133676655833",
-        "notion_url": "https://www.notion.so/33a49a17ea97811bb115ebea33baf707",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-20sotok-pd-zabudovu-nescherv-IDTSGqF.html",
-        "latitude": 50.1442558781371,
-        "longitude": 30.6133676655833,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
