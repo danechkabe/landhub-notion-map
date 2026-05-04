@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T04:05:45.125909Z",
+  "generated_at": "2026-05-04T04:10:31.245678Z",
   "counts": {
-    "landmatch": 58,
+    "landmatch": 57,
     "processing": 23,
     "landhub": 21
   },
@@ -937,23 +937,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDWWYlV.html",
         "latitude": 50.1569079041412,
         "longitude": 30.3026943077234,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "34549a17-ea97-81cc-8f5f-e488f0235594",
-        "source": "landmatch",
-        "name": "Старі Безрадичі",
-        "area": "0.25 га",
-        "price": "23 000 $",
-        "distance_to_kyiv": "45,5 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1481617856418,30.5567378700724",
-        "notion_url": "https://www.notion.so/34549a17ea9781cc8f5fe488f0235594",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-malovniche-mstse-33-sot-st-bezradich-bez-koms-IDUYNFZ.html",
-        "latitude": 50.1481617856418,
-        "longitude": 30.5567378700724,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
