@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T18:45:23.034923Z",
+  "generated_at": "2026-05-04T18:50:31.207877Z",
   "counts": {
     "landmatch": 53,
-    "processing": 27,
+    "processing": 26,
     "landhub": 21
   },
   "categories": {
@@ -1313,23 +1313,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/yasnogorodka-10-sotok-pd-zabudovu-vlna-dlyanka-blya-lsu-100m-ta-kivskogo-morya-1-km-ID10juE4.html",
         "latitude": 50.8601638354682,
         "longitude": 30.4023938295314,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
-      },
-      {
-        "id": "35649a17-ea97-8181-89c0-ef9168739d75",
-        "source": "processing",
-        "name": "Білогородка",
-        "area": "0.4131 га",
-        "price": "4 000 $",
-        "distance_to_kyiv": "31,7 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3762099258817,30.1934456944452",
-        "notion_url": "https://www.notion.so/35649a17ea97818189c0ef9168739d75",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/srochno-tsena-snizhena-eksklyuzivnyy-zemelnyy-uchastok-41-IDUsOZt.html",
-        "latitude": 50.3762099258817,
-        "longitude": 30.1934456944452,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
