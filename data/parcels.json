@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T07:40:21.157019Z",
+  "generated_at": "2026-05-04T07:45:21.279894Z",
   "counts": {
     "landmatch": 53,
-    "processing": 23,
+    "processing": 24,
     "landhub": 21
   },
   "categories": {
@@ -1296,6 +1296,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodayutsya-dlyanki-po-10-sotok-blya-kivskogo-morya-bez-koms-IDLtYYC.html?search_reason=search%7Corganic",
         "latitude": 50.8420663885596,
         "longitude": 30.3881151080903,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "35649a17-ea97-81c6-b0e0-e271b08fc429",
+        "source": "processing",
+        "name": "Нещерів",
+        "area": "0.12 га",
+        "price": "14 800 $",
+        "distance_to_kyiv": "42,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1425460437495,30.6203924911051",
+        "notion_url": "https://www.notion.so/35649a17ea9781c6b0e0e271b08fc429",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-s-nescherv-obuhvskiy-r-n-kivska-oblast-ID1031Dd.html",
+        "latitude": 50.1425460437495,
+        "longitude": 30.6203924911051,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
