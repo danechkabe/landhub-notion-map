@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T13:00:24.507752Z",
+  "generated_at": "2026-05-04T13:02:35.921960Z",
   "counts": {
     "landmatch": 53,
     "processing": 27,
@@ -1194,10 +1194,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-z-garnim-kravidom-ta-prirodoyu-IDYknbB.html",
         "latitude": 50.0860987445624,
         "longitude": 30.6264471361201,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "35549a17-ea97-8138-90e0-e98ff6a0179c",
