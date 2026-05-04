@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T08:15:30.986817Z",
+  "generated_at": "2026-05-04T08:20:23.404820Z",
   "counts": {
     "landmatch": 53,
-    "processing": 25,
+    "processing": 26,
     "landhub": 21
   },
   "categories": {
@@ -1330,6 +1330,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-s-nescherv-obuhvskiy-r-n-kivska-oblast-ID1031Dd.html",
         "latitude": 50.1425460437495,
         "longitude": 30.6203924911051,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "35649a17-ea97-81de-ad83-f03e6e300867",
+        "source": "processing",
+        "name": "Гаврилівка",
+        "area": "0.1336 га",
+        "price": "8 500 $",
+        "distance_to_kyiv": "41,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6739036054379,30.2220300867859",
+        "notion_url": "https://www.notion.so/35649a17ea9781dead83f03e6e300867",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-kivsky-oblast-IDYa8ea.html",
+        "latitude": 50.6739036054379,
+        "longitude": 30.2220300867859,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
