@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T05:20:20.376485Z",
+  "generated_at": "2026-05-04T05:25:21.805609Z",
   "counts": {
     "landmatch": 53,
     "processing": 24,
@@ -1170,7 +1170,7 @@
         "source": "processing",
         "name": "Сухолуччя",
         "area": "0.1162 га",
-        "price": "3 000 $",
+        "price": "15 000 $",
         "distance_to_kyiv": "66,1 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.9377822866203,30.4365792176686",
         "notion_url": "https://www.notion.so/35549a17ea978107b242ed600abf1f47",
