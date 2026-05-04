@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T03:45:24.526299Z",
+  "generated_at": "2026-05-04T03:50:21.104293Z",
   "counts": {
     "landmatch": 66,
-    "processing": 24,
+    "processing": 23,
     "landhub": 21
   },
   "categories": {
@@ -1143,23 +1143,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-budvnitstvo-z-fundamentom-IDUScup.html",
         "latitude": 50.2677259026748,
         "longitude": 29.7686189218558,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
-        "id": "33149a17-ea97-81d9-8a74-fa3906a9cc48",
-        "source": "processing",
-        "name": "Борова",
-        "area": "0.0768 га",
-        "price": "4 000 $",
-        "distance_to_kyiv": "56,1 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1502570857657,30.1216703032441",
-        "notion_url": "https://www.notion.so/33149a17ea9781d98a74fa3906a9cc48",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dacha-aktsya-poruch-z-s-borova-dlyanka-v-dachnomu-koop-v-ozerniy-IDYgQYE.html",
-        "latitude": 50.1502570857657,
-        "longitude": 30.1216703032441,
         "marker_symbol": "📗",
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
