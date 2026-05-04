@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T13:02:35.921960Z",
+  "generated_at": "2026-05-04T13:05:22.466483Z",
   "counts": {
     "landmatch": 53,
     "processing": 27,
@@ -1211,10 +1211,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-selo-dudki-kivska-oblast-ID10pyvd.html",
         "latitude": 50.7725349936294,
         "longitude": 30.0938135462835,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "35549a17-ea97-8150-ac66-f6596b6f101a",
