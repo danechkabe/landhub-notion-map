@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T04:20:21.189242Z",
+  "generated_at": "2026-05-04T04:25:22.527003Z",
   "counts": {
-    "landmatch": 55,
-    "processing": 23,
+    "landmatch": 54,
+    "processing": 24,
     "landhub": 21
   },
   "categories": {
@@ -376,23 +376,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-yasnogorodka-st-slava-vyshgorodskiy-r-n-IDYX6Vi.html",
         "latitude": 50.861385769707,
         "longitude": 30.3651137452405,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "32c49a17-ea97-816e-b173-da1f3c23a4e7",
-        "source": "landmatch",
-        "name": "Борова",
-        "area": "0.0768 га",
-        "price": "3 800 $",
-        "distance_to_kyiv": "56,1 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1502570857657,30.1216703032441",
-        "notion_url": "https://www.notion.so/32c49a17ea97816eb173da1f3c23a4e7",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dacha-aktsya-poruch-z-s-borova-dlyanka-v-dachnomu-koop-v-ozerniy-IDYgQYE.html",
-        "latitude": 50.1502570857657,
-        "longitude": 30.1216703032441,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
@@ -1130,6 +1113,23 @@
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
         "status_key": "gives_to_sell"
+      },
+      {
+        "id": "35049a17-ea97-816a-9884-fe8b5ff48c33",
+        "source": "processing",
+        "name": "Яцьки",
+        "area": "0.25 га",
+        "price": "11 900 $",
+        "distance_to_kyiv": "78,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0119348303575,30.4139416725088",
+        "notion_url": "https://www.notion.so/35049a17ea97816a9884fe8b5ff48c33",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-38-sotok-s-yatski-kiv-obl-IDWUdZl.html",
+        "latitude": 50.0119348303575,
+        "longitude": 30.4139416725088,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       },
       {
         "id": "35049a17-ea97-81d3-bb2d-ffaf39e9dfd3",
