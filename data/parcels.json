@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-05T08:50:26.711200Z",
+  "generated_at": "2026-05-05T08:55:20.354748Z",
   "counts": {
     "landmatch": 52,
-    "processing": 28,
+    "processing": 27,
     "landhub": 20
   },
   "categories": {
@@ -1279,23 +1279,6 @@
         "olx_url": "",
         "latitude": 50.9432984663615,
         "longitude": 30.4195786009166,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
-      },
-      {
-        "id": "35549a17-ea97-81c6-a625-c2e42a8dbd4c",
-        "source": "processing",
-        "name": "Ясногородка",
-        "area": "0.1197 га",
-        "price": "6 500 $",
-        "distance_to_kyiv": "54,6 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8420663885596,30.3881151080903",
-        "notion_url": "https://www.notion.so/35549a17ea9781c6a625c2e42a8dbd4c",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodayutsya-dlyanki-po-10-sotok-blya-kivskogo-morya-bez-koms-IDLtYYC.html?search_reason=search%7Corganic",
-        "latitude": 50.8420663885596,
-        "longitude": 30.3881151080903,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
