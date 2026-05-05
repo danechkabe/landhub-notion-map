@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T12:35:24.495841Z",
+  "generated_at": "2026-05-05T12:40:23.188755Z",
   "counts": {
     "landmatch": 52,
     "processing": 27,
@@ -1330,10 +1330,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-s-nescherv-obuhvskiy-r-n-kivska-oblast-ID1031Dd.html",
         "latitude": 50.1425460437495,
         "longitude": 30.6203924911051,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "35649a17-ea97-81de-ad83-f03e6e300867",
