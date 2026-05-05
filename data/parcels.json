@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-05T05:15:25.575865Z",
+  "generated_at": "2026-05-05T05:20:19.189188Z",
   "counts": {
     "landmatch": 52,
     "processing": 28,
-    "landhub": 21
+    "landhub": 20
   },
   "categories": {
     "landmatch": [
@@ -1641,23 +1641,6 @@
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "Not started",
-        "status_key": ""
-      },
-      {
-        "id": "32c49a17-ea97-8105-8deb-fd574dac7319",
-        "source": "landhub",
-        "name": "Обухів",
-        "area": "0.0668 га",
-        "price": "6 500 $",
-        "distance_to_kyiv": "44,9 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1059109776159,30.6360950422715",
-        "notion_url": "https://www.notion.so/32c49a17ea9781058debfd574dac7319",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-m-obuhv-IDFMRj7.html",
-        "latitude": 50.1059109776159,
-        "longitude": 30.6360950422715,
-        "marker_symbol": "📍",
-        "marker_color": "#111111",
-        "status_label": "Дає на реалізацію",
         "status_key": ""
       },
       {
