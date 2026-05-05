@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T11:55:19.621529Z",
+  "generated_at": "2026-05-05T12:00:30.987997Z",
   "counts": {
     "landmatch": 52,
     "processing": 27,
@@ -1245,10 +1245,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-5-sotok-ID10pOmN.html",
         "latitude": 50.3848684444166,
         "longitude": 30.1861873069495,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "35549a17-ea97-81a1-ae6b-f82e2a4247c5",
