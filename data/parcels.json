@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-06T20:15:33.206631Z",
+  "generated_at": "2026-05-06T20:17:04.987522Z",
   "counts": {
     "landmatch": 52,
     "processing": 13,
-    "landhub": 24
+    "landhub": 25
   },
   "categories": {
     "landmatch": [
@@ -1505,6 +1505,23 @@
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "Дає на реалізацію",
+        "status_key": ""
+      },
+      {
+        "id": "35249a17-ea97-81f4-a7c2-f70fcd71a6db",
+        "source": "landhub",
+        "name": "Перше Травня",
+        "area": "0.1665 га",
+        "price": "11 000 $",
+        "distance_to_kyiv": "48,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1157477782053,30.5547750511766",
+        "notion_url": "https://www.notion.so/35249a17ea9781f4a7c2f70fcd71a6db",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-17s-z-dok-na-budinok-zaoschadzhuy-na-pdklyuchenn-elektriki-IDTNHd5.html",
+        "latitude": 50.1157477782053,
+        "longitude": 30.5547750511766,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": ""
       },
       {
