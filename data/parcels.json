@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-06T19:40:34.502427Z",
+  "generated_at": "2026-05-06T19:45:27.752049Z",
   "counts": {
     "landmatch": 52,
-    "processing": 19,
+    "processing": 17,
     "landhub": 23
   },
   "categories": {
@@ -960,40 +960,6 @@
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
         "status_key": "gives_to_sell"
-      },
-      {
-        "id": "35249a17-ea97-81f4-a7c2-f70fcd71a6db",
-        "source": "processing",
-        "name": "Перше Травня",
-        "area": "0.1665 га",
-        "price": "11 000 $",
-        "distance_to_kyiv": "48,6 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1157477782053,30.5547750511766",
-        "notion_url": "https://www.notion.so/35249a17ea9781f4a7c2f70fcd71a6db",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-17s-z-dok-na-budinok-zaoschadzhuy-na-pdklyuchenn-elektriki-IDTNHd5.html",
-        "latitude": 50.1157477782053,
-        "longitude": 30.5547750511766,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
-      },
-      {
-        "id": "35249a17-ea97-81f6-a228-c0d8e5d31d64",
-        "source": "processing",
-        "name": "Клавдиево-Тарасове",
-        "area": "0.135 га",
-        "price": "12 000 $",
-        "distance_to_kyiv": "46,6 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.579442841401,29.9890654925788",
-        "notion_url": "https://www.notion.so/35249a17ea9781f6a228c0d8e5d31d64",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-v-klavdievo-tarasove-ID10i7qb.html",
-        "latitude": 50.579442841401,
-        "longitude": 29.9890654925788,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
       },
       {
         "id": "35549a17-ea97-812e-b992-c2374c7cb2b4",
