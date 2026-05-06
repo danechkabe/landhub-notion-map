@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-06T18:25:28.656209Z",
+  "generated_at": "2026-05-06T18:30:32.289232Z",
   "counts": {
     "landmatch": 52,
-    "processing": 25,
+    "processing": 26,
     "landhub": 20
   },
   "categories": {
@@ -1313,6 +1313,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDY5qOa.html",
         "latitude": 50.1144603236296,
         "longitude": 30.1392188923193,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "35849a17-ea97-8179-8e90-e549c2f94991",
+        "source": "processing",
+        "name": "Телешівка",
+        "area": "0.32 га",
+        "price": "7 700 $",
+        "distance_to_kyiv": "92,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.764733028898,30.6153439592084",
+        "notion_url": "https://www.notion.so/35849a17ea9781798e90e549c2f94991",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dm-zemelna-dlyanka-s-teleshvka-ID10rgUO.html",
+        "latitude": 49.764733028898,
+        "longitude": 30.6153439592084,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
