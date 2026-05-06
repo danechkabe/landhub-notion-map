@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T14:45:39.708870Z",
+  "generated_at": "2026-05-06T14:50:35.818506Z",
   "counts": {
     "landmatch": 52,
     "processing": 26,
@@ -1092,10 +1092,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-38-sotok-s-yatski-kiv-obl-IDWUdZl.html",
         "latitude": 50.0119348303575,
         "longitude": 30.4139416725088,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "35049a17-ea97-81d3-bb2d-ffaf39e9dfd3",
