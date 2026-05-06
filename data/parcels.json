@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-06T17:25:26.102501Z",
+  "generated_at": "2026-05-06T17:30:29.245970Z",
   "counts": {
     "landmatch": 52,
-    "processing": 25,
+    "processing": 26,
     "landhub": 20
   },
   "categories": {
@@ -1317,6 +1317,23 @@
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": "site_ok_olx_keeps"
+      },
+      {
+        "id": "35849a17-ea97-8125-aa92-d9b339a7e679",
+        "source": "processing",
+        "name": "Оленівка",
+        "area": "0.34 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "56,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1144603236296,30.1392188923193",
+        "notion_url": "https://www.notion.so/35849a17ea978125aa92d9b339a7e679",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDY5qOa.html",
+        "latitude": 50.1144603236296,
+        "longitude": 30.1392188923193,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       }
     ],
     "landhub": [
