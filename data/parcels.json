@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-06T19:30:25.327009Z",
+  "generated_at": "2026-05-06T19:35:33.513988Z",
   "counts": {
     "landmatch": 52,
-    "processing": 26,
-    "landhub": 20
+    "processing": 23,
+    "landhub": 22
   },
   "categories": {
     "landmatch": [
@@ -894,23 +894,6 @@
     ],
     "processing": [
       {
-        "id": "31949a17-ea97-8040-9f5e-ec88a2d98ab4",
-        "source": "processing",
-        "name": "Козичанка",
-        "area": "0.25 га",
-        "price": "7500$",
-        "distance_to_kyiv": "48 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2677259026748,29.7686189218558",
-        "notion_url": "https://www.notion.so/31949a17ea9780409f5eec88a2d98ab4",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-budvnitstvo-z-fundamentom-IDUScup.html",
-        "latitude": 50.2677259026748,
-        "longitude": 29.7686189218558,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
         "id": "33149a17-ea97-8126-af8c-e197fa5cf881",
         "source": "processing",
         "name": "Ясногородка",
@@ -926,23 +909,6 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
-      },
-      {
-        "id": "33f49a17-ea97-816c-bf39-ff68091fe12f",
-        "source": "processing",
-        "name": "Сухолуччя",
-        "area": "0.15 га",
-        "price": "10 000 $",
-        "distance_to_kyiv": "67,1 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.9427550852048,30.4353530173058",
-        "notion_url": "https://www.notion.so/33f49a17ea97816cbf39ff68091fe12f",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-v-s-suholuchchya-15-sotok-rvniy-pryamokutnik-IDVfpPp.html",
-        "latitude": 50.9427550852048,
-        "longitude": 30.4353530173058,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "34149a17-ea97-81a7-8a28-c34aa4e380cd",
@@ -973,23 +939,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-0-12-ga-IDLlcD9.html",
         "latitude": 50.8918812210241,
         "longitude": 30.4265225780629,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
-        "id": "34449a17-ea97-81ad-a235-d36a05846e3f",
-        "source": "processing",
-        "name": "Гаврилівка",
-        "area": "0.15 га",
-        "price": "8 000 $",
-        "distance_to_kyiv": "41,5 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6745298227678,30.2239614646468",
-        "notion_url": "https://www.notion.so/34449a17ea9781ada235d36a05846e3f",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ID10iYSU.html",
-        "latitude": 50.6745298227678,
-        "longitude": 30.2239614646468,
         "marker_symbol": "📗",
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
@@ -1406,6 +1355,23 @@
         "status_key": ""
       },
       {
+        "id": "31949a17-ea97-8040-9f5e-ec88a2d98ab4",
+        "source": "landhub",
+        "name": "Козичанка",
+        "area": "0.25 га",
+        "price": "7500$",
+        "distance_to_kyiv": "48 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2677259026748,29.7686189218558",
+        "notion_url": "https://www.notion.so/31949a17ea9780409f5eec88a2d98ab4",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-budvnitstvo-z-fundamentom-IDUScup.html",
+        "latitude": 50.2677259026748,
+        "longitude": 29.7686189218558,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "Дає на реалізацію",
+        "status_key": ""
+      },
+      {
         "id": "32949a17-ea97-8102-a7e9-cc9ae986f8e9",
         "source": "landhub",
         "name": "Забуяння",
@@ -1675,6 +1641,23 @@
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "Дає на реалізацію",
+        "status_key": ""
+      },
+      {
+        "id": "33f49a17-ea97-816c-bf39-ff68091fe12f",
+        "source": "landhub",
+        "name": "Сухолуччя",
+        "area": "0.15 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "67,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.9427550852048,30.4353530173058",
+        "notion_url": "https://www.notion.so/33f49a17ea97816cbf39ff68091fe12f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-v-s-suholuchchya-15-sotok-rvniy-pryamokutnik-IDVfpPp.html",
+        "latitude": 50.9427550852048,
+        "longitude": 30.4353530173058,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": ""
       }
     ]
