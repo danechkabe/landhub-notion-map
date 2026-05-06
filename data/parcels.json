@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-06T19:35:33.513988Z",
+  "generated_at": "2026-05-06T19:40:34.502427Z",
   "counts": {
     "landmatch": 52,
-    "processing": 23,
-    "landhub": 22
+    "processing": 19,
+    "landhub": 23
   },
   "categories": {
     "landmatch": [
@@ -928,74 +928,6 @@
         "status_key": "site_ok_olx_keeps"
       },
       {
-        "id": "34449a17-ea97-8109-9ad3-e12b047fed68",
-        "source": "processing",
-        "name": "Толокунь",
-        "area": "0.12 га",
-        "price": "6 000 $",
-        "distance_to_kyiv": "61,1 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8918812210241,30.4265225780629",
-        "notion_url": "https://www.notion.so/34449a17ea9781099ad3e12b047fed68",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-0-12-ga-IDLlcD9.html",
-        "latitude": 50.8918812210241,
-        "longitude": 30.4265225780629,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
-        "id": "34749a17-ea97-8152-a10c-fe998476667b",
-        "source": "processing",
-        "name": "Рудня-Димерська",
-        "area": "0.2288 га",
-        "price": "12 500 $",
-        "distance_to_kyiv": "67,0 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.869569918914,30.0947747436375",
-        "notion_url": "https://www.notion.so/34749a17ea978152a10cfe998476667b",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-ndivdualnu-zabudovu-kivska-obl-IDEwteu.html",
-        "latitude": 50.869569918914,
-        "longitude": 30.0947747436375,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
-        "id": "34d49a17-ea97-812b-82f0-ff610a705f4c",
-        "source": "processing",
-        "name": "Димер",
-        "area": "0.15 га",
-        "price": "12 000 $",
-        "distance_to_kyiv": "44,0 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7735774367373,30.3213029088339",
-        "notion_url": "https://www.notion.so/34d49a17ea97812b82f0ff610a705f4c",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-blya-ozera-pd-budvnitstvo-v-dimer-IDWPvnM.html",
-        "latitude": 50.7735774367373,
-        "longitude": 30.3213029088339,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
-      },
-      {
-        "id": "34f49a17-ea97-81da-994f-d796405e0201",
-        "source": "processing",
-        "name": "Ясногородка",
-        "area": "0.1 га",
-        "price": "7 000 $",
-        "distance_to_kyiv": "57,4 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8622136048698,30.4148220214872",
-        "notion_url": "https://www.notion.so/34f49a17ea9781da994fd796405e0201",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-s-yasnogorodka-ID10mVy1.html",
-        "latitude": 50.8622136048698,
-        "longitude": 30.4148220214872,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
-      },
-      {
         "id": "35049a17-ea97-816a-9884-fe8b5ff48c33",
         "source": "processing",
         "name": "Яцьки",
@@ -1658,6 +1590,23 @@
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": ""
+      },
+      {
+        "id": "34449a17-ea97-8109-9ad3-e12b047fed68",
+        "source": "landhub",
+        "name": "Толокунь",
+        "area": "0.12 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "61,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8918812210241,30.4265225780629",
+        "notion_url": "https://www.notion.so/34449a17ea9781099ad3e12b047fed68",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-0-12-ga-IDLlcD9.html",
+        "latitude": 50.8918812210241,
+        "longitude": 30.4265225780629,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "Дає на реалізацію",
         "status_key": ""
       }
     ]
