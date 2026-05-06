@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T14:05:33.911931Z",
+  "generated_at": "2026-05-06T14:10:26.143971Z",
   "counts": {
     "landmatch": 52,
     "processing": 26,
@@ -1279,10 +1279,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemlya-pd-zabudovu-blya-kiva-rvna-z-svtlom-IDPgXjf.html",
         "latitude": 50.7392356088561,
         "longitude": 30.3079853847469,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "35649a17-ea97-816e-a318-d27e258ff4c6",
