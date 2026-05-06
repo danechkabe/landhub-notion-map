@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-06T19:45:27.752049Z",
+  "generated_at": "2026-05-06T19:50:24.771212Z",
   "counts": {
     "landmatch": 52,
-    "processing": 17,
-    "landhub": 23
+    "processing": 15,
+    "landhub": 24
   },
   "categories": {
     "landmatch": [
@@ -962,23 +962,6 @@
         "status_key": "gives_to_sell"
       },
       {
-        "id": "35549a17-ea97-812e-b992-c2374c7cb2b4",
-        "source": "processing",
-        "name": "Обухів",
-        "area": "0.1 га",
-        "price": "10 000 $",
-        "distance_to_kyiv": "49,0 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0860987445624,30.6264471361201",
-        "notion_url": "https://www.notion.so/35549a17ea97812eb992c2374c7cb2b4",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-z-garnim-kravidom-ta-prirodoyu-IDYknbB.html",
-        "latitude": 50.0860987445624,
-        "longitude": 30.6264471361201,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
         "id": "35549a17-ea97-8138-90e0-e98ff6a0179c",
         "source": "processing",
         "name": "Дудки",
@@ -1041,23 +1024,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-5-sotok-ID10pOmN.html",
         "latitude": 50.3848684444166,
         "longitude": 30.1861873069495,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
-      },
-      {
-        "id": "35549a17-ea97-81a1-ae6b-f82e2a4247c5",
-        "source": "processing",
-        "name": "Мостище",
-        "area": "0.178 га",
-        "price": "5 600 $",
-        "distance_to_kyiv": "49,3 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3049226642002,30.0093225022357",
-        "notion_url": "https://www.notion.so/35549a17ea9781a1ae6bf82e2a4247c5",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-17-8-sot-kivska-obl-s-mostische-3600-IDQyz2s.html",
-        "latitude": 50.3049226642002,
-        "longitude": 30.0093225022357,
         "marker_symbol": "📗",
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
@@ -1570,6 +1536,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-0-12-ga-IDLlcD9.html",
         "latitude": 50.8918812210241,
         "longitude": 30.4265225780629,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "Дає на реалізацію",
+        "status_key": ""
+      },
+      {
+        "id": "35549a17-ea97-812e-b992-c2374c7cb2b4",
+        "source": "landhub",
+        "name": "Обухів",
+        "area": "0.1 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "49,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0860987445624,30.6264471361201",
+        "notion_url": "https://www.notion.so/35549a17ea97812eb992c2374c7cb2b4",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-z-garnim-kravidom-ta-prirodoyu-IDYknbB.html",
+        "latitude": 50.0860987445624,
+        "longitude": 30.6264471361201,
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "Дає на реалізацію",
