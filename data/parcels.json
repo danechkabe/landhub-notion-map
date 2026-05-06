@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T14:25:30.523120Z",
+  "generated_at": "2026-05-06T14:30:24.232705Z",
   "counts": {
     "landmatch": 52,
     "processing": 26,
@@ -1296,10 +1296,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/yasnogorodka-10-sotok-pd-zabudovu-vlna-dlyanka-blya-lsu-100m-ta-kivskogo-morya-1-km-ID10juE4.html",
         "latitude": 50.8601638354682,
         "longitude": 30.4023938295314,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "35649a17-ea97-81de-ad83-f03e6e300867",
