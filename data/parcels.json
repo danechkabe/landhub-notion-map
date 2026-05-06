@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T14:30:24.232705Z",
+  "generated_at": "2026-05-06T14:35:28.834387Z",
   "counts": {
     "landmatch": 52,
     "processing": 26,
@@ -1330,10 +1330,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-ID10cP3C.html",
         "latitude": 49.7468320147477,
         "longitude": 30.6027765283835,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       }
     ],
     "landhub": [
