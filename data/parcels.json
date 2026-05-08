@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-08T10:40:27.888447Z",
+  "generated_at": "2026-05-08T10:45:25.347484Z",
   "counts": {
     "landmatch": 52,
-    "processing": 13,
+    "processing": 14,
     "landhub": 25
   },
   "categories": {
@@ -1109,6 +1109,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dm-zemelna-dlyanka-s-teleshvka-ID10rgUO.html",
         "latitude": 49.764733028898,
         "longitude": 30.6153439592084,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "35a49a17-ea97-8199-a75b-e7d932bbb9de",
+        "source": "processing",
+        "name": "Буча",
+        "area": "0.041 га",
+        "price": "7 500 $",
+        "distance_to_kyiv": "36,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.573258896855,30.1987098220102",
+        "notion_url": "https://www.notion.so/35a49a17ea978199a75be7d932bbb9de",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-0-055ga-ID10rmMe.html",
+        "latitude": 50.573258896855,
+        "longitude": 30.1987098220102,
         "marker_symbol": "📓",
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
