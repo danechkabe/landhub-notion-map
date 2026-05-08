@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T17:16:21.931798Z",
+  "generated_at": "2026-05-08T17:20:27.426646Z",
   "counts": {
     "landmatch": 52,
     "processing": 14,
@@ -1092,10 +1092,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDY5qOa.html",
         "latitude": 50.1144603236296,
         "longitude": 30.1392188923193,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "35849a17-ea97-8179-8e90-e549c2f94991",
@@ -1126,10 +1126,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-0-055ga-ID10rmMe.html",
         "latitude": 50.573258896855,
         "longitude": 30.1987098220102,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       }
     ],
     "landhub": [
