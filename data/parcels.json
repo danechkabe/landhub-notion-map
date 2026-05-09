@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T20:10:20.852172Z",
+  "generated_at": "2026-05-09T20:15:19.875406Z",
   "counts": {
     "landmatch": 52,
-    "processing": 15,
+    "processing": 16,
     "landhub": 25
   },
   "categories": {
@@ -1130,6 +1130,23 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
+      },
+      {
+        "id": "35b49a17-ea97-8172-bb13-d9739d688c72",
+        "source": "processing",
+        "name": "Перегонівка",
+        "area": "0.118 га",
+        "price": "7 500 $",
+        "distance_to_kyiv": "62,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.9833941683209,30.4967663417046",
+        "notion_url": "https://www.notion.so/35b49a17ea978172bb13d9739d688c72",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/s-peregonovka-kievskaya-obl-obuhovskiy-r-n-uchastok-12sotok-IDIRXuc.html",
+        "latitude": 49.9833941683209,
+        "longitude": 30.4967663417046,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       },
       {
         "id": "35b49a17-ea97-81b3-9881-c2625f315230",
