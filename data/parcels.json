@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T19:55:17.855627Z",
+  "generated_at": "2026-05-09T20:00:24.404745Z",
   "counts": {
     "landmatch": 52,
-    "processing": 14,
+    "processing": 15,
     "landhub": 25
   },
   "categories": {
@@ -1130,6 +1130,23 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
+      },
+      {
+        "id": "35b49a17-ea97-81b3-9881-c2625f315230",
+        "source": "processing",
+        "name": "Ксаверівка",
+        "area": "0.346 га",
+        "price": "2 700 $",
+        "distance_to_kyiv": "65,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0584787704038,30.1661009771966",
+        "notion_url": "https://www.notion.so/35b49a17ea9781b39881c2625f315230",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-vidovo-dlyanki-z-panoramoyu-blya-stavka-pd-zabudovu-ta-osg-IDWeelj.html",
+        "latitude": 50.0584787704038,
+        "longitude": 30.1661009771966,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       }
     ],
     "landhub": [
