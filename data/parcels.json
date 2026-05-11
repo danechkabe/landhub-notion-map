@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T11:00:21.514858Z",
+  "generated_at": "2026-05-11T11:05:22.357034Z",
   "counts": {
     "landmatch": 52,
     "processing": 16,
@@ -1160,10 +1160,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-vidovo-dlyanki-z-panoramoyu-blya-stavka-pd-zabudovu-ta-osg-IDWeelj.html",
         "latitude": 50.0584787704038,
         "longitude": 30.1661009771966,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       }
     ],
     "landhub": [
