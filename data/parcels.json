@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-11T16:40:34.702658Z",
+  "generated_at": "2026-05-11T16:44:00.403186Z",
   "counts": {
     "landmatch": 52,
-    "processing": 14,
+    "processing": 13,
     "landhub": 25
   },
   "categories": {
@@ -947,7 +947,7 @@
       {
         "id": "35049a17-ea97-81d3-bb2d-ffaf39e9dfd3",
         "source": "processing",
-        "name": "Мар'янівка",
+        "name": "Мар'янівка (макарівська)",
         "area": "0.2501 га",
         "price": "2 300 $",
         "distance_to_kyiv": "49,9 км",
@@ -977,23 +977,6 @@
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
         "status_key": "gives_to_sell"
-      },
-      {
-        "id": "35549a17-ea97-8172-be2f-cfc1a7362a71",
-        "source": "processing",
-        "name": "Ясногородка",
-        "area": "0.1197 га",
-        "price": "6 500 $",
-        "distance_to_kyiv": "54,6 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8420663885596,30.3881151080903",
-        "notion_url": "https://www.notion.so/35549a17ea978172be2fcfc1a7362a71",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/yasnogorodka-uchastok-12-sotok-pod-zastroyku-IDSS134.html",
-        "latitude": 50.8420663885596,
-        "longitude": 30.3881151080903,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
       },
       {
         "id": "35549a17-ea97-8190-bb89-e0ba885b8a41",
