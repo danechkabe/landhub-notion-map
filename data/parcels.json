@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T08:45:20.576751Z",
+  "generated_at": "2026-05-11T08:50:20.554550Z",
   "counts": {
     "landmatch": 52,
     "processing": 16,
@@ -1126,10 +1126,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-0-055ga-ID10rmMe.html",
         "latitude": 50.573258896855,
         "longitude": 30.1987098220102,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "35b49a17-ea97-8172-bb13-d9739d688c72",
