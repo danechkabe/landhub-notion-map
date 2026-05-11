@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T08:55:18.685963Z",
+  "generated_at": "2026-05-11T09:00:21.608861Z",
   "counts": {
     "landmatch": 52,
     "processing": 16,
@@ -1058,10 +1058,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-kivsky-oblast-IDYa8ea.html",
         "latitude": 50.6739036054379,
         "longitude": 30.2220300867859,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "35749a17-ea97-8156-96ac-dde9e36d2faa",
