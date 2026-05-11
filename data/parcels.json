@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T09:15:23.792589Z",
+  "generated_at": "2026-05-11T09:20:28.678179Z",
   "counts": {
     "landmatch": 52,
     "processing": 16,
@@ -1143,10 +1143,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/s-peregonovka-kievskaya-obl-obuhovskiy-r-n-uchastok-12sotok-IDIRXuc.html",
         "latitude": 49.9833941683209,
         "longitude": 30.4967663417046,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "35b49a17-ea97-81b3-9881-c2625f315230",
