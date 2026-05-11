@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-11T16:25:29.991514Z",
+  "generated_at": "2026-05-11T16:30:29.434903Z",
   "counts": {
     "landmatch": 52,
-    "processing": 16,
+    "processing": 14,
     "landhub": 25
   },
   "categories": {
@@ -1079,40 +1079,6 @@
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": "site_ok_olx_keeps"
-      },
-      {
-        "id": "35849a17-ea97-8125-aa92-d9b339a7e679",
-        "source": "processing",
-        "name": "Оленівка",
-        "area": "0.34 га",
-        "price": "12 000 $",
-        "distance_to_kyiv": "56,9 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1144603236296,30.1392188923193",
-        "notion_url": "https://www.notion.so/35849a17ea978125aa92d9b339a7e679",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDY5qOa.html",
-        "latitude": 50.1144603236296,
-        "longitude": 30.1392188923193,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
-      },
-      {
-        "id": "35849a17-ea97-8179-8e90-e549c2f94991",
-        "source": "processing",
-        "name": "Телешівка",
-        "area": "0.32 га",
-        "price": "7 700 $",
-        "distance_to_kyiv": "92,0 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.764733028898,30.6153439592084",
-        "notion_url": "https://www.notion.so/35849a17ea9781798e90e549c2f94991",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dm-zemelna-dlyanka-s-teleshvka-ID10rgUO.html",
-        "latitude": 49.764733028898,
-        "longitude": 30.6153439592084,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
       },
       {
         "id": "35a49a17-ea97-8199-a75b-e7d932bbb9de",
