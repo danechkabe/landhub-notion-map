@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-11T19:15:26.740736Z",
+  "generated_at": "2026-05-11T19:20:24.842804Z",
   "counts": {
     "landmatch": 52,
-    "processing": 13,
+    "processing": 14,
     "landhub": 25
   },
   "categories": {
@@ -1113,6 +1113,23 @@
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": "site_ok_olx_keeps"
+      },
+      {
+        "id": "35d49a17-ea97-81cd-a520-cc3c8bacb561",
+        "source": "processing",
+        "name": "Дерев'яна",
+        "area": "0.0731 га",
+        "price": "5 500 $",
+        "distance_to_kyiv": "45,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1191405016202,30.6968975122772",
+        "notion_url": "https://www.notion.so/35d49a17ea9781cda520cc3c8bacb561",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemenlna-dlyanka-kivska-oblast-obuhvskiy-rayon-s-derevyana-IDZwV77.html",
+        "latitude": 50.1191405016202,
+        "longitude": 30.6968975122772,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
       }
     ],
     "landhub": [
