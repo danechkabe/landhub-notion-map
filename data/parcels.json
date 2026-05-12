@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T15:25:22.707651Z",
+  "generated_at": "2026-05-12T15:30:23.698049Z",
   "counts": {
     "landmatch": 52,
     "processing": 14,
@@ -905,10 +905,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-dlya-budvnitstva-kivska-oblast-ID10t8Ba.html",
         "latitude": 50.1241542646756,
         "longitude": 30.6015817690557,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "35b49a17-ea97-8172-bb13-d9739d688c72",
