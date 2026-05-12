@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-12T03:55:18.705984Z",
+  "generated_at": "2026-05-12T04:00:24.582335Z",
   "counts": {
     "landmatch": 52,
-    "processing": 14,
+    "processing": 15,
     "landhub": 25
   },
   "categories": {
@@ -893,6 +893,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "35e49a17-ea97-8185-9094-e8805511180b",
+        "source": "processing",
+        "name": "Обухів",
+        "area": "0.1 га",
+        "price": "2 100 $",
+        "distance_to_kyiv": "44,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1241542646756,30.6015817690557",
+        "notion_url": "https://www.notion.so/35e49a17ea9781859094e8805511180b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-dlya-budvnitstva-kivska-oblast-ID10t8Ba.html",
+        "latitude": 50.1241542646756,
+        "longitude": 30.6015817690557,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "35d49a17-ea97-81cd-a520-cc3c8bacb561",
         "source": "processing",
