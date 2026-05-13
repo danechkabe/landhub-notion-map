@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-13T17:00:34.775041Z",
+  "generated_at": "2026-05-13T17:05:36.530618Z",
   "counts": {
     "landmatch": 52,
-    "processing": 17,
+    "processing": 16,
     "landhub": 25
   },
   "categories": {
@@ -1024,23 +1024,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-ID10cP3C.html",
         "latitude": 49.7468320147477,
         "longitude": 30.6027765283835,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
-      },
-      {
-        "id": "35649a17-ea97-816e-a318-d27e258ff4c6",
-        "source": "processing",
-        "name": "Ясногородка",
-        "area": "0.1 га",
-        "price": "6 900 $",
-        "distance_to_kyiv": "56,5 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8601638354682,30.4023938295314",
-        "notion_url": "https://www.notion.so/35649a17ea97816ea318d27e258ff4c6",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/yasnogorodka-10-sotok-pd-zabudovu-vlna-dlyanka-blya-lsu-100m-ta-kivskogo-morya-1-km-ID10juE4.html",
-        "latitude": 50.8601638354682,
-        "longitude": 30.4023938295314,
         "marker_symbol": "📙",
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
