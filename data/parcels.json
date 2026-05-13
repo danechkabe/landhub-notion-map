@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T12:50:26.391378Z",
+  "generated_at": "2026-05-13T12:55:34.889631Z",
   "counts": {
     "landmatch": 52,
     "processing": 17,
@@ -922,10 +922,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodam-zemelnu-dlyanku-v-s-severinvka-0-15-ga-IDZ6qur.html",
         "latitude": 50.4186338717814,
         "longitude": 29.9811737928078,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "35f49a17-ea97-81a5-b86d-cf26abbe39fc",
