@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-13T11:35:32.435754Z",
+  "generated_at": "2026-05-13T11:40:28.243401Z",
   "counts": {
     "landmatch": 52,
-    "processing": 15,
+    "processing": 16,
     "landhub": 25
   },
   "categories": {
@@ -893,6 +893,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "35f49a17-ea97-811b-b374-ee9a10640b22",
+        "source": "processing",
+        "name": "Северинівка",
+        "area": "0.15 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "41,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4186338717814,29.9811737928078",
+        "notion_url": "https://www.notion.so/35f49a17ea97811bb374ee9a10640b22",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodam-zemelnu-dlyanku-v-s-severinvka-0-15-ga-IDZ6qur.html",
+        "latitude": 50.4186338717814,
+        "longitude": 29.9811737928078,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "35f49a17-ea97-81a5-b86d-cf26abbe39fc",
         "source": "processing",
