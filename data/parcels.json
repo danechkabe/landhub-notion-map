@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-13T08:35:28.833807Z",
+  "generated_at": "2026-05-13T08:40:20.001652Z",
   "counts": {
     "landmatch": 52,
-    "processing": 14,
+    "processing": 15,
     "landhub": 25
   },
   "categories": {
@@ -893,6 +893,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "35f49a17-ea97-81a5-b86d-cf26abbe39fc",
+        "source": "processing",
+        "name": "Устимівка",
+        "area": "0.25 га",
+        "price": "2 300 $",
+        "distance_to_kyiv": "79,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.9733799906686,29.9944464011306",
+        "notion_url": "https://www.notion.so/35f49a17ea9781a5b86dcf26abbe39fc",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-blya-stavka-IDHPCv9.html",
+        "latitude": 49.9733799906686,
+        "longitude": 29.9944464011306,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "35e49a17-ea97-8185-9094-e8805511180b",
         "source": "processing",
