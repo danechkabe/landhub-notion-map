@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T12:55:34.889631Z",
+  "generated_at": "2026-05-13T13:00:29.412903Z",
   "counts": {
     "landmatch": 52,
     "processing": 17,
@@ -905,10 +905,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-glbvka-vishgorodskiy-r-n-ID10tshi.html",
         "latitude": 50.7821291377352,
         "longitude": 30.3578867987797,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "35f49a17-ea97-811b-b374-ee9a10640b22",
