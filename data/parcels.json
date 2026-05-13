@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-13T11:50:19.320826Z",
+  "generated_at": "2026-05-13T11:55:28.286928Z",
   "counts": {
     "landmatch": 52,
-    "processing": 16,
+    "processing": 17,
     "landhub": 25
   },
   "categories": {
@@ -893,6 +893,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "35f49a17-ea97-816c-abcd-fb14b13215ea",
+        "source": "processing",
+        "name": "Глібівка",
+        "area": "0.1567 га",
+        "price": "7 500 $",
+        "distance_to_kyiv": "49,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7821291377352,30.3578867987797",
+        "notion_url": "https://www.notion.so/35f49a17ea97816cabcdfb14b13215ea",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-glbvka-vishgorodskiy-r-n-ID10tshi.html",
+        "latitude": 50.7821291377352,
+        "longitude": 30.3578867987797,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "35f49a17-ea97-811b-b374-ee9a10640b22",
         "source": "processing",
