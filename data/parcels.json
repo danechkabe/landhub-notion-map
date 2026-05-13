@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T12:25:20.558036Z",
+  "generated_at": "2026-05-13T12:30:21.872466Z",
   "counts": {
     "landmatch": 52,
     "processing": 17,
@@ -1177,10 +1177,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-v-st-12-sotok-ID10aYBf.html",
         "latitude": 50.861266696317,
         "longitude": 30.3689450599272,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       }
     ],
     "landhub": [
