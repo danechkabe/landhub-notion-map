@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T12:30:21.872466Z",
+  "generated_at": "2026-05-13T12:30:59.454805Z",
   "counts": {
     "landmatch": 52,
     "processing": 17,
@@ -939,10 +939,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-blya-stavka-IDHPCv9.html",
         "latitude": 49.9733799906686,
         "longitude": 29.9944464011306,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "35e49a17-ea97-8185-9094-e8805511180b",
