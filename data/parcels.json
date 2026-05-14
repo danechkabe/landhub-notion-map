@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-14T11:45:23.323404Z",
+  "generated_at": "2026-05-14T11:50:19.427859Z",
   "counts": {
     "landmatch": 41,
-    "processing": 15,
+    "processing": 14,
     "landhub": 24
   },
   "categories": {
@@ -722,23 +722,6 @@
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": "site_ok_olx_keeps"
-      },
-      {
-        "id": "35f49a17-ea97-811b-b374-ee9a10640b22",
-        "source": "processing",
-        "name": "Северинівка",
-        "area": "0.15 га",
-        "price": "10 000 $",
-        "distance_to_kyiv": "41,4 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4186338717814,29.9811737928078",
-        "notion_url": "https://www.notion.so/35f49a17ea97811bb374ee9a10640b22",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodam-zemelnu-dlyanku-v-s-severinvka-0-15-ga-IDZ6qur.html",
-        "latitude": 50.4186338717814,
-        "longitude": 29.9811737928078,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
       },
       {
         "id": "35f49a17-ea97-81a5-b86d-cf26abbe39fc",
