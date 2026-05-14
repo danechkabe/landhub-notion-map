@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-14T11:50:19.427859Z",
+  "generated_at": "2026-05-14T11:55:25.738331Z",
   "counts": {
     "landmatch": 41,
-    "processing": 14,
+    "processing": 13,
     "landhub": 24
   },
   "categories": {
@@ -735,23 +735,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-blya-stavka-IDHPCv9.html",
         "latitude": 49.9733799906686,
         "longitude": 29.9944464011306,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
-      },
-      {
-        "id": "35e49a17-ea97-8185-9094-e8805511180b",
-        "source": "processing",
-        "name": "Обухів",
-        "area": "0.1 га",
-        "price": "2 100 $",
-        "distance_to_kyiv": "44,0 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1241542646756,30.6015817690557",
-        "notion_url": "https://www.notion.so/35e49a17ea9781859094e8805511180b",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-dlya-budvnitstva-kivska-oblast-ID10t8Ba.html",
-        "latitude": 50.1241542646756,
-        "longitude": 30.6015817690557,
         "marker_symbol": "📘",
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
