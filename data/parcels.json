@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-14T15:00:27.557446Z",
+  "generated_at": "2026-05-14T15:02:40.434511Z",
   "counts": {
-    "landmatch": 41,
+    "landmatch": 40,
     "processing": 12,
     "landhub": 24
   },
@@ -172,23 +172,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/starye-bezradichi-s-kapustyana-zemlya-25-sotok-500-sotka-IDLJnmO.html",
         "latitude": 50.16406419885,
         "longitude": 30.5288766215354,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "33849a17-ea97-818d-a915-ecf5e45b778e",
-        "source": "landmatch",
-        "name": "Катюжанка",
-        "area": "0.15 га",
-        "price": "5 500 $",
-        "distance_to_kyiv": "60,3 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7916815633255,30.1478202611648",
-        "notion_url": "https://www.notion.so/33849a17ea97818da915ecf5e45b778e",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/srochno-uchastok-v-katyuzhanke-15-sotok-IDKHPx5.html",
-        "latitude": 50.7916815633255,
-        "longitude": 30.1478202611648,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
