@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-14T11:40:24.519941Z",
+  "generated_at": "2026-05-14T11:45:23.323404Z",
   "counts": {
     "landmatch": 41,
     "processing": 15,
-    "landhub": 25
+    "landhub": 24
   },
   "categories": {
     "landmatch": [
@@ -1012,23 +1012,6 @@
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "Дає на реалізацію",
-        "status_key": ""
-      },
-      {
-        "id": "33f49a17-ea97-816c-bf39-ff68091fe12f",
-        "source": "landhub",
-        "name": "Сухолуччя",
-        "area": "0.15 га",
-        "price": "10 000 $",
-        "distance_to_kyiv": "67,1 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.9427550852048,30.4353530173058",
-        "notion_url": "https://www.notion.so/33f49a17ea97816cbf39ff68091fe12f",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-v-s-suholuchchya-15-sotok-rvniy-pryamokutnik-IDVfpPp.html",
-        "latitude": 50.9427550852048,
-        "longitude": 30.4353530173058,
-        "marker_symbol": "📍",
-        "marker_color": "#111111",
-        "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": ""
       },
       {
