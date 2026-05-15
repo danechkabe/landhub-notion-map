@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T23:35:40.571140Z",
+  "generated_at": "2026-05-15T23:40:21.377841Z",
   "counts": {
     "landmatch": 88,
     "processing": 13,
@@ -214,13 +214,13 @@
       {
         "id": "36049a17-ea97-8143-ad80-c05dd927f1d7",
         "source": "landmatch",
-        "name": "Білогородка",
+        "name": "Святопетрівське",
         "area": "1.7956 га",
         "price": "4 600 $",
         "distance_to_kyiv": "24,3 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3827490722497,30.2714823431767",
         "notion_url": "https://www.notion.so/36049a17ea978143ad80c05dd927f1d7",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-pd-zabudovu-90-sotok-2600-za-sotku-ID10b44P.html",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-2-gektara-pd-budvnitstvo-02-01-bez-koms-10-km-vd-kiva-ID10cIrW.html",
         "latitude": 50.3827490722497,
         "longitude": 30.2714823431767,
         "marker_symbol": "💛",
