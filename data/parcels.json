@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T21:10:22.351219Z",
+  "generated_at": "2026-05-15T21:15:24.517639Z",
   "counts": {
     "landmatch": 88,
     "processing": 13,
@@ -1320,12 +1320,12 @@
         "id": "30c49a17-ea97-8029-a9da-cf056b4f3021",
         "source": "landmatch",
         "name": "Дорогинка",
-        "area": "0.2611 га",
-        "price": "8500$",
-        "distance_to_kyiv": "55 км",
+        "area": "0.2611 га",
+        "price": "9 500 $",
+        "distance_to_kyiv": "75,3 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1774531163544,29.9238747524102",
         "notion_url": "https://www.notion.so/30c49a17ea978029a9dacf056b4f3021",
-        "olx_url": "",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/chudova-dlyanka-pd-zabudovu-50-km-vd-kiva-navkolo-ls-ta-ozera-IDY4M6S.html",
         "latitude": 50.1774531163544,
         "longitude": 29.9238747524102,
         "marker_symbol": "💛",
