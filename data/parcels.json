@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T16:15:23.126747Z",
+  "generated_at": "2026-05-15T16:20:30.967773Z",
   "counts": {
     "landmatch": 88,
     "processing": 13,
@@ -214,13 +214,13 @@
       {
         "id": "36049a17-ea97-8143-ad80-c05dd927f1d7",
         "source": "landmatch",
-        "name": "Софіївська Борщагівка",
+        "name": "Білогородка",
         "area": "1.7956 га",
         "price": "4 600 $",
-        "distance_to_kyiv": "23,3 км",
+        "distance_to_kyiv": "23,5 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3827490722497,30.2714823431767",
         "notion_url": "https://www.notion.so/36049a17ea978143ad80c05dd927f1d7",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemlya-dlya-budvnitstva-90-sot-500-metrv-vd-bishevsko-trasi-ID10cUC9.html",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-90-sot-pd-budvnitstvo-02-01-bez-komsy-10-km-vd-kiva-ID10byjv.html",
         "latitude": 50.3827490722497,
         "longitude": 30.2714823431767,
         "marker_symbol": "💛",
