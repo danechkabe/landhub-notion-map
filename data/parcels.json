@@ -1,12 +1,29 @@
 {
-  "generated_at": "2026-05-15T10:25:22.577909Z",
+  "generated_at": "2026-05-15T10:30:22.904807Z",
   "counts": {
-    "landmatch": 40,
+    "landmatch": 41,
     "processing": 12,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "36149a17-ea97-8130-ba31-d8e3f3996138",
+        "source": "landmatch",
+        "name": "Вабля",
+        "area": "0.1858 га",
+        "price": "9 000 $",
+        "distance_to_kyiv": "60,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5917284546879,29.8730166325998",
+        "notion_url": "https://www.notion.so/36149a17ea978130ba31d8e3f3996138",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemlya-18-5-sotok-v-s-vablya-pd-budvnitstvo-ID10m9Ee.html",
+        "latitude": 50.5917284546879,
+        "longitude": 29.8730166325998,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "34849a17-ea97-812a-877b-e9cf931fe12a",
         "source": "landmatch",
