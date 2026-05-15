@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-15T13:10:25.007470Z",
+  "generated_at": "2026-05-15T13:15:28.903622Z",
   "counts": {
     "landmatch": 90,
-    "processing": 12,
+    "processing": 13,
     "landhub": 24
   },
   "categories": {
@@ -1539,6 +1539,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "36149a17-ea97-81a9-9568-d0ba8fe1239f",
+        "source": "processing",
+        "name": "Демидів",
+        "area": "0.12 га",
+        "price": "2 100 $",
+        "distance_to_kyiv": "41,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7281513986321,30.2987956193903",
+        "notion_url": "https://www.notion.so/36149a17ea9781a99568d0ba8fe1239f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodam-zemelnu-dlyanku-pd-zabudovu-ID10rIDR.html",
+        "latitude": 50.7281513986321,
+        "longitude": 30.2987956193903,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "35f49a17-ea97-816c-abcd-fb14b13215ea",
         "source": "processing",
