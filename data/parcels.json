@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-15T15:00:24.699507Z",
+  "generated_at": "2026-05-15T15:05:24.889569Z",
   "counts": {
-    "landmatch": 90,
+    "landmatch": 88,
     "processing": 13,
     "landhub": 24
   },
@@ -892,23 +892,6 @@
         "status_key": ""
       },
       {
-        "id": "34349a17-ea97-8106-a0d7-c650fb9c7549",
-        "source": "landmatch",
-        "name": "Колонщина",
-        "area": "0.11 га",
-        "price": "11 500 $",
-        "distance_to_kyiv": "40,4 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4452164415565,30.0193342260772",
-        "notion_url": "https://www.notion.so/34349a17ea978106a0d7c650fb9c7549",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dl-makarvskiy-r-n-s-t-lsova-polyana-IDXvb04.html",
-        "latitude": 50.4452164415565,
-        "longitude": 30.0193342260772,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
         "id": "34349a17-ea97-81d6-b0a1-dcc05a79f0dd",
         "source": "landmatch",
         "name": "Ясногородка",
@@ -920,23 +903,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-yasnogorodka-vishgorodskiy-rayon-IDUPWYM.html",
         "latitude": 50.8577794121859,
         "longitude": 30.4095174697345,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "33f49a17-ea97-816c-bf39-ff68091fe12f",
-        "source": "landmatch",
-        "name": "Сухолуччя",
-        "area": "0.15 га",
-        "price": "10 000 $",
-        "distance_to_kyiv": "67,1 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.9427550852048,30.4353530173058",
-        "notion_url": "https://www.notion.so/33f49a17ea97816cbf39ff68091fe12f",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-v-s-suholuchchya-15-sotok-rvniy-pryamokutnik-IDVfpPp.html",
-        "latitude": 50.9427550852048,
-        "longitude": 30.4353530173058,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
