@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T01:40:21.791322Z",
+  "generated_at": "2026-05-16T01:45:23.476658Z",
   "counts": {
     "landmatch": 88,
     "processing": 13,
@@ -471,8 +471,8 @@
         "source": "landmatch",
         "name": "Копилів",
         "area": "0.14 га",
-        "price": "18 800 $",
-        "distance_to_kyiv": "46,9 км",
+        "price": "3 200 $",
+        "distance_to_kyiv": "47,2 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4175864000877,29.8981649689787",
         "notion_url": "https://www.notion.so/35c49a17ea978195a7cce894ed900b87",
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDQxBEX.html",
