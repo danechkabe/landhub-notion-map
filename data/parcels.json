@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T04:20:22.961493Z",
+  "generated_at": "2026-05-16T04:25:19.326327Z",
   "counts": {
     "landmatch": 88,
     "processing": 13,
@@ -1287,11 +1287,11 @@
         "source": "landmatch",
         "name": "Мирча",
         "area": "0.25 га",
-        "price": "4 800 $",
+        "price": "8 100 $",
         "distance_to_kyiv": "72,6 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7503512980953,29.8337063557667",
         "notion_url": "https://www.notion.so/30c49a17ea97806e9434cba302090504",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDUd1Xq.html",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/25-sot-pd-zabudovu-s-mircha-tsentr-ls-ta-ozero-49km-kiv-ID100PKy.html",
         "latitude": 50.7503512980953,
         "longitude": 29.8337063557667,
         "marker_symbol": "💛",
