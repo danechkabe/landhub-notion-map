@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T19:50:18.063834Z",
+  "generated_at": "2026-05-16T19:55:19.466608Z",
   "counts": {
     "landmatch": 88,
-    "processing": 16,
+    "processing": 17,
     "landhub": 24
   },
   "categories": {
@@ -1505,6 +1505,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "36249a17-ea97-814a-b2c2-ddb98a2a92b4",
+        "source": "processing",
+        "name": "Тростинська Новоселиця",
+        "area": "0.25 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "69,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.9955516454081,30.2753181494399",
+        "notion_url": "https://www.notion.so/36249a17ea97814ab2c2ddb98a2a92b4",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-pd-zabudovu-IDXVKIb.html",
+        "latitude": 49.9955516454081,
+        "longitude": 30.2753181494399,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36249a17-ea97-814c-afe4-f0139cd7911b",
         "source": "processing",
