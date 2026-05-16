@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T19:30:22.855795Z",
+  "generated_at": "2026-05-16T19:35:19.753186Z",
   "counts": {
     "landmatch": 88,
-    "processing": 15,
+    "processing": 16,
     "landhub": 24
   },
   "categories": {
@@ -1505,6 +1505,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "36249a17-ea97-814c-afe4-f0139cd7911b",
+        "source": "processing",
+        "name": "Мотижин",
+        "area": "0.2498 га",
+        "price": "9 500 $",
+        "distance_to_kyiv": "51,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3675727467033,29.9391146712053",
+        "notion_url": "https://www.notion.so/36249a17ea97814cafe4f0139cd7911b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/31-sot-v-30-km-vd-kiva-po-zhitomirsky-tras-s-motizhin-dlyanka-IDVfzfu.html",
+        "latitude": 50.3675727467033,
+        "longitude": 29.9391146712053,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36249a17-ea97-81aa-9b1e-caeff8cb2d08",
         "source": "processing",
