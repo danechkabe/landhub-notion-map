@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T20:05:19.967742Z",
+  "generated_at": "2026-05-16T20:10:19.619298Z",
   "counts": {
     "landmatch": 88,
-    "processing": 17,
+    "processing": 18,
     "landhub": 24
   },
   "categories": {
@@ -1505,6 +1505,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "36249a17-ea97-81de-bc04-fa65f1c8c4a0",
+        "source": "processing",
+        "name": "Обухів",
+        "area": "0.1244 га",
+        "price": "13 000 $",
+        "distance_to_kyiv": "43,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.111280421713,30.6404024640589",
+        "notion_url": "https://www.notion.so/36249a17ea9781debc04fa65f1c8c4a0",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-v-obuhov-ID106ctC.html",
+        "latitude": 50.111280421713,
+        "longitude": 30.6404024640589,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36249a17-ea97-814a-b2c2-ddb98a2a92b4",
         "source": "processing",
