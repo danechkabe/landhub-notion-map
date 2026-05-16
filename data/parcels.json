@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T20:26:20.991186Z",
+  "generated_at": "2026-05-16T20:30:24.039264Z",
   "counts": {
     "landmatch": 88,
-    "processing": 19,
+    "processing": 20,
     "landhub": 24
   },
   "categories": {
@@ -1505,6 +1505,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "36249a17-ea97-8132-b77b-c157d3ee1af5",
+        "source": "processing",
+        "name": "Горенка",
+        "area": "0.097 га",
+        "price": "4 500 $",
+        "distance_to_kyiv": "24,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5713419374089,30.2955437180618",
+        "notion_url": "https://www.notion.so/36249a17ea978132b77bc157d3ee1af5",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-10sot-v-malovnichomu-msts-poryad-z-ozerom-ID102LqM.html",
+        "latitude": 50.5713419374089,
+        "longitude": 30.2955437180618,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36249a17-ea97-8115-b0c4-dc2346097455",
         "source": "processing",
