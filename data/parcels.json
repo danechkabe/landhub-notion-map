@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T20:20:20.344965Z",
+  "generated_at": "2026-05-16T20:26:20.991186Z",
   "counts": {
     "landmatch": 88,
-    "processing": 18,
+    "processing": 19,
     "landhub": 24
   },
   "categories": {
@@ -1505,6 +1505,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "36249a17-ea97-8115-b0c4-dc2346097455",
+        "source": "processing",
+        "name": "Фастів",
+        "area": "0.1175 га",
+        "price": "5 400 $",
+        "distance_to_kyiv": "80,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1023934349598,29.9213774359204",
+        "notion_url": "https://www.notion.so/36249a17ea978115b0c4dc2346097455",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dilyanku-m-fastv-IDpBMYs.html",
+        "latitude": 50.1023934349598,
+        "longitude": 29.9213774359204,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36249a17-ea97-81de-bc04-fa65f1c8c4a0",
         "source": "processing",
