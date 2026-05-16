@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T01:30:22.754884Z",
+  "generated_at": "2026-05-16T01:35:25.997460Z",
   "counts": {
     "landmatch": 88,
     "processing": 13,
@@ -777,8 +777,8 @@
         "source": "landmatch",
         "name": "Гребінки",
         "area": "0.12 га",
-        "price": "10 000 $",
-        "distance_to_kyiv": "75,9 км",
+        "price": "8 000 $",
+        "distance_to_kyiv": "64,3 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.043305666023,30.9467055180615",
         "notion_url": "https://www.notion.so/34849a17ea9781c68859e80cbbd9069e",
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/bez-prodatsya-zemelniy-uchastok-12-sotok-selo-greben-obuhvskiy-r-n-tk-ID10kA5J.html",
