@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T04:00:23.730967Z",
+  "generated_at": "2026-05-16T04:05:23.414485Z",
   "counts": {
     "landmatch": 88,
     "processing": 13,
@@ -1286,12 +1286,12 @@
         "id": "30c49a17-ea97-806e-9434-cba302090504",
         "source": "landmatch",
         "name": "Мирча",
-        "area": "0.25 га",
-        "price": "7900$",
-        "distance_to_kyiv": "49 км",
+        "area": "0.25 га",
+        "price": "4 800 $",
+        "distance_to_kyiv": "72,6 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7503512980953,29.8337063557667",
         "notion_url": "https://www.notion.so/30c49a17ea97806e9434cba302090504",
-        "olx_url": "",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDUd1Xq.html",
         "latitude": 50.7503512980953,
         "longitude": 29.8337063557667,
         "marker_symbol": "💛",
