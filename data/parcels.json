@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T19:25:22.448864Z",
+  "generated_at": "2026-05-16T19:30:22.855795Z",
   "counts": {
     "landmatch": 88,
-    "processing": 13,
+    "processing": 15,
     "landhub": 24
   },
   "categories": {
@@ -1505,6 +1505,40 @@
       }
     ],
     "processing": [
+      {
+        "id": "36249a17-ea97-81aa-9b1e-caeff8cb2d08",
+        "source": "processing",
+        "name": "Горбовичі",
+        "area": "0.1 га",
+        "price": "5 200 $",
+        "distance_to_kyiv": "33,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4053498718896,30.1490958688682",
+        "notion_url": "https://www.notion.so/36249a17ea9781aa9b1ecaeff8cb2d08",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/gorbovich-zemelna-dlyanka-20-sotok-IDPTXCe.html",
+        "latitude": 50.4053498718896,
+        "longitude": 30.1490958688682,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "36249a17-ea97-818a-ade1-e28651bb90ad",
+        "source": "processing",
+        "name": "Мостище",
+        "area": "0.178 га",
+        "price": "5 600 $",
+        "distance_to_kyiv": "47,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3049226642002,30.0093225022357",
+        "notion_url": "https://www.notion.so/36249a17ea97818aade1e28651bb90ad",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-17-8-sot-kivska-obl-s-mostische-3600-IDQyz2s.html",
+        "latitude": 50.3049226642002,
+        "longitude": 30.0093225022357,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36149a17-ea97-81a9-9568-d0ba8fe1239f",
         "source": "processing",
