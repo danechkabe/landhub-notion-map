@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-17T16:50:21.067559Z",
+  "generated_at": "2026-05-17T16:55:20.792006Z",
   "counts": {
     "landmatch": 84,
-    "processing": 22,
+    "processing": 23,
     "landhub": 24
   },
   "categories": {
@@ -1437,6 +1437,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "36349a17-ea97-81d9-8637-ddfce894302e",
+        "source": "processing",
+        "name": "Калинівка",
+        "area": "0.1225 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "42,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2236841950171,30.2472368136583",
+        "notion_url": "https://www.notion.so/36349a17ea9781d98637ddfce894302e",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-smt-kalinvka-noviy-masiv-ID104Xnm.html",
+        "latitude": 50.2236841950171,
+        "longitude": 30.2472368136583,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36349a17-ea97-81d6-bef4-d6aa545a80ca",
         "source": "processing",
