@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-17T07:30:19.964120Z",
+  "generated_at": "2026-05-17T07:35:18.323678Z",
   "counts": {
     "landmatch": 84,
-    "processing": 20,
+    "processing": 21,
     "landhub": 24
   },
   "categories": {
@@ -1437,6 +1437,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "36349a17-ea97-8182-a68f-ee296a0daa33",
+        "source": "processing",
+        "name": "Германівка",
+        "area": "0.15 га",
+        "price": "5 300 $",
+        "distance_to_kyiv": "60,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0003242754377,30.5562393050897",
+        "notion_url": "https://www.notion.so/36349a17ea978182a68fee296a0daa33",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-germanovka-pod-zastroyku-15-sotok-obuhovskiy-rayon-IDGEZqZ.html",
+        "latitude": 50.0003242754377,
+        "longitude": 30.5562393050897,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36249a17-ea97-8132-b77b-c157d3ee1af5",
         "source": "processing",
