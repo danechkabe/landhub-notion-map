@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T21:05:21.974882Z",
+  "generated_at": "2026-05-17T21:10:18.127112Z",
   "counts": {
     "landmatch": 84,
     "processing": 23,
@@ -896,11 +896,11 @@
         "source": "landmatch",
         "name": "Капустяна",
         "area": "0.2498 га",
-        "price": "2 500 $",
+        "price": "2 700 $",
         "distance_to_kyiv": "43,4 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.16406419885,30.5288766215354",
         "notion_url": "https://www.notion.so/33849a17ea9781f38434ec709a3d0d60",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/starye-bezradichi-s-kapustyana-zemelnyy-uchvstok-25-sotok-IDLJnmO.html",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/starye-bezradichi-s-kapustyana-zemelnyy-uchastok-25-sotok-IDLJnmO.html",
         "latitude": 50.16406419885,
         "longitude": 30.5288766215354,
         "marker_symbol": "💛",
