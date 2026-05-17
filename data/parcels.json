@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-17T07:55:22.305726Z",
+  "generated_at": "2026-05-17T08:00:21.249461Z",
   "counts": {
     "landmatch": 84,
-    "processing": 21,
+    "processing": 22,
     "landhub": 24
   },
   "categories": {
@@ -1437,6 +1437,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "36349a17-ea97-81d6-bef4-d6aa545a80ca",
+        "source": "processing",
+        "name": "Перевіз",
+        "area": "0.2 га",
+        "price": "8 700 $",
+        "distance_to_kyiv": "53,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2449503941263,30.0165494486964",
+        "notion_url": "https://www.notion.so/36349a17ea9781d6bef4d6aa545a80ca",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnyy-uchastok-v-s-perevoz-sobstvennik-IDKnwQp.html",
+        "latitude": 50.2449503941263,
+        "longitude": 30.0165494486964,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36349a17-ea97-8182-a68f-ee296a0daa33",
         "source": "processing",
