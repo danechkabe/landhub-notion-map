@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T10:40:23.586036Z",
+  "generated_at": "2026-05-18T10:45:20.832656Z",
   "counts": {
     "landmatch": 84,
     "processing": 22,
@@ -1500,10 +1500,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dilyanku-m-fastv-IDpBMYs.html",
         "latitude": 50.1023934349598,
         "longitude": 29.9213774359204,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "36249a17-ea97-81de-bc04-fa65f1c8c4a0",
