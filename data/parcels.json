@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T11:05:23.236801Z",
+  "generated_at": "2026-05-18T11:10:28.392817Z",
   "counts": {
     "landmatch": 84,
     "processing": 22,
@@ -1602,10 +1602,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodam-zemelnu-dlyanku-pd-zabudovu-ID10rIDR.html",
         "latitude": 50.7281513986321,
         "longitude": 30.2987956193903,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "35f49a17-ea97-816c-abcd-fb14b13215ea",
