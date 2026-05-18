@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T10:15:21.215175Z",
+  "generated_at": "2026-05-18T10:20:22.201070Z",
   "counts": {
     "landmatch": 84,
     "processing": 22,
@@ -1568,10 +1568,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/gorbovich-zemelna-dlyanka-20-sotok-IDPTXCe.html",
         "latitude": 50.4053498718896,
         "longitude": 30.1490958688682,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "36249a17-ea97-818a-ade1-e28651bb90ad",
