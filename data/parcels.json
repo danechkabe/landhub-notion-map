@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T10:50:18.303628Z",
+  "generated_at": "2026-05-18T10:55:22.269460Z",
   "counts": {
     "landmatch": 84,
     "processing": 22,
@@ -1517,10 +1517,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-v-obuhov-ID106ctC.html",
         "latitude": 50.111280421713,
         "longitude": 30.6404024640589,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "36249a17-ea97-814a-b2c2-ddb98a2a92b4",
