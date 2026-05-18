@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T13:25:28.923647Z",
+  "generated_at": "2026-05-18T13:30:27.292822Z",
   "counts": {
     "landmatch": 84,
     "processing": 22,
@@ -1235,12 +1235,12 @@
         "id": "30c49a17-ea97-80e3-a9dc-e15f5ef33d48",
         "source": "landmatch",
         "name": "Мирча",
-        "area": "0.233 га",
-        "price": "8500$",
-        "distance_to_kyiv": "49 км",
+        "area": "0.233 га",
+        "price": "9 500 $",
+        "distance_to_kyiv": "72,4 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7504962308444,29.8369492739424",
         "notion_url": "https://www.notion.so/30c49a17ea9780e3a9dce15f5ef33d48",
-        "olx_url": "",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/23-sot-pd-budvnitstvo-s-mircha-100m-ls-ta-ozero-49-km-kiv-ID100Omh.html",
         "latitude": 50.7504962308444,
         "longitude": 29.8369492739424,
         "marker_symbol": "💛",
