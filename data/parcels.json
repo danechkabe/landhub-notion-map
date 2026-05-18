@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T09:55:24.795495Z",
+  "generated_at": "2026-05-18T10:00:27.333740Z",
   "counts": {
     "landmatch": 84,
     "processing": 23,
@@ -1442,7 +1442,7 @@
         "source": "processing",
         "name": "Калинівка",
         "area": "0.1225 га",
-        "price": "6 000 $",
+        "price": "50 000 $",
         "distance_to_kyiv": "42,5 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2236841950171,30.2472368136583",
         "notion_url": "https://www.notion.so/36349a17ea9781d98637ddfce894302e",
