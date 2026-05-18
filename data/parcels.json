@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T10:55:22.269460Z",
+  "generated_at": "2026-05-18T11:00:22.397095Z",
   "counts": {
     "landmatch": 84,
     "processing": 22,
@@ -1551,10 +1551,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/31-sot-v-30-km-vd-kiva-po-zhitomirsky-tras-s-motizhin-dlyanka-IDVfzfu.html",
         "latitude": 50.3675727467033,
         "longitude": 29.9391146712053,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "36249a17-ea97-81aa-9b1e-caeff8cb2d08",
