@@ -1,12 +1,63 @@
 {
-  "generated_at": "2026-05-20T13:10:34.981014Z",
+  "generated_at": "2026-05-20T13:15:26.891655Z",
   "counts": {
-    "landmatch": 76,
+    "landmatch": 79,
     "processing": 22,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "36149a17-ea97-81fc-b94e-c96fb1556b00",
+        "source": "landmatch",
+        "name": "Нижча Дубечня",
+        "area": "0.1 га",
+        "price": "9 300 $",
+        "distance_to_kyiv": "39,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6830711622036,30.6392526204952",
+        "notion_url": "https://www.notion.so/36149a17ea9781fcb94ec96fb1556b00",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-10-sotok-u-s-nizhcha-dubechnya-vishgorodskiy-rayon-ID10sg1X.html",
+        "latitude": 50.6830711622036,
+        "longitude": 30.6392526204952,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36149a17-ea97-81b2-8195-ff6b46255a24",
+        "source": "landmatch",
+        "name": "Плесецьке",
+        "area": "0.1502 га",
+        "price": "7 000 $",
+        "distance_to_kyiv": "49,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2171202698595,30.1479235674225",
+        "notion_url": "https://www.notion.so/36149a17ea9781b28195ff6b46255a24",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodam-zemelnu-dlyanku-15sot-ID10si10.html",
+        "latitude": 50.2171202698595,
+        "longitude": 30.1479235674225,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36149a17-ea97-8154-9495-db62fc2bb5ba",
+        "source": "landmatch",
+        "name": "Личанка",
+        "area": "0.125 га",
+        "price": "9 500 $",
+        "distance_to_kyiv": "35,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3857648530612,30.1102931401707",
+        "notion_url": "https://www.notion.so/36149a17ea9781549495db62fc2bb5ba",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-36-65-sotok-blya-kiva-pd-nvestitsyu-abo-budinok-lichanka-IDZZH1z.html",
+        "latitude": 50.3857648530612,
+        "longitude": 30.1102931401707,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "36149a17-ea97-8130-ba31-d8e3f3996138",
         "source": "landmatch",
