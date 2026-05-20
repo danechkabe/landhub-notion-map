@@ -1,12 +1,63 @@
 {
-  "generated_at": "2026-05-20T13:20:26.133503Z",
+  "generated_at": "2026-05-20T13:25:26.140978Z",
   "counts": {
-    "landmatch": 80,
+    "landmatch": 83,
     "processing": 22,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "36149a17-ea97-81c7-9c56-caf6f21869d5",
+        "source": "landmatch",
+        "name": "Бородянка",
+        "area": "0.06 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "57,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6505596663372,29.9053964070159",
+        "notion_url": "https://www.notion.so/36149a17ea9781c79c56caf6f21869d5",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-kvadratno-dlyanki-v-borodyants-fasadna-gaz-elektrika-poruch-tiha-vulitsya-shvidkiy-vizd-na-varshavku-ID10oJBn.html",
+        "latitude": 50.6505596663372,
+        "longitude": 29.9053964070159,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36149a17-ea97-812b-af50-ddbd5faf8e20",
+        "source": "landmatch",
+        "name": "Лісне",
+        "area": "0.12 га",
+        "price": "29 100 $",
+        "distance_to_kyiv": "37,3 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4474016652491,30.1051637598984",
+        "notion_url": "https://www.notion.so/36149a17ea97812baf50ddbd5faf8e20",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/budvnitstvo-12-sot-lsne-15-km-do-kiva-vlasnik-a-ID10sG0A.html",
+        "latitude": 50.4474016652491,
+        "longitude": 30.1051637598984,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36149a17-ea97-81c1-99d1-e8bf21453c9d",
+        "source": "landmatch",
+        "name": "Плюти",
+        "area": "0.15 га",
+        "price": "7 000 $",
+        "distance_to_kyiv": "40,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1653503191824,30.7265104756182",
+        "notion_url": "https://www.notion.so/36149a17ea9781c199d1e8bf21453c9d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-bez-koms-s-plyuti-obuhvskiy-r-n-kozin-20-sotok-IDZUz4y.html",
+        "latitude": 50.1653503191824,
+        "longitude": 30.7265104756182,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "36149a17-ea97-816c-9553-f4f023ffc931",
         "source": "landmatch",
