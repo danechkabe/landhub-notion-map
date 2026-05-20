@@ -1,29 +1,12 @@
 {
-  "generated_at": "2026-05-20T13:35:27.271165Z",
+  "generated_at": "2026-05-20T13:40:24.838922Z",
   "counts": {
-    "landmatch": 87,
+    "landmatch": 86,
     "processing": 22,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
-      {
-        "id": "36149a17-ea97-81cb-992b-e6eb645051d4",
-        "source": "landmatch",
-        "name": "Толокунь",
-        "area": "0.0984 га",
-        "price": "25 000 $",
-        "distance_to_kyiv": "62,2 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8847211175515,30.4349936911921",
-        "notion_url": "https://www.notion.so/36149a17ea9781cb992be6eb645051d4",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-s-tolokun-IDYXigp.html",
-        "latitude": 50.8847211175515,
-        "longitude": 30.4349936911921,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
       {
         "id": "36149a17-ea97-8180-aef8-edcee97dc1a8",
         "source": "landmatch",
