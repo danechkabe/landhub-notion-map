@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T13:05:24.442650Z",
+  "generated_at": "2026-05-20T13:10:34.981014Z",
   "counts": {
     "landmatch": 76,
     "processing": 22,
@@ -1313,10 +1313,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-3-15-sotki-blya-buchanskogo-parku-gostomel-IDYT2T9.html",
         "latitude": 50.5701922948484,
         "longitude": 30.2112233539179,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "36649a17-ea97-8144-b21d-de7cec532169",
