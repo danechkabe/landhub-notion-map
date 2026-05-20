@@ -1,12 +1,29 @@
 {
-  "generated_at": "2026-05-20T14:30:33.739229Z",
+  "generated_at": "2026-05-20T14:35:32.655721Z",
   "counts": {
-    "landmatch": 86,
+    "landmatch": 87,
     "processing": 22,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "36149a17-ea97-8119-b99e-f04654dced76",
+        "source": "landmatch",
+        "name": "Расавка",
+        "area": "0.2306 га",
+        "price": "6 600 $",
+        "distance_to_kyiv": "80,6 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.9618496963489,30.8244492994693",
+        "notion_url": "https://www.notion.so/36149a17ea978119b99ef04654dced76",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-23-sotki-v-malovnichomu-sel-rasavka-obuhvskiy-r-n-IDBMmpg.html",
+        "latitude": 49.9618496963489,
+        "longitude": 30.8244492994693,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "36149a17-ea97-8180-aef8-edcee97dc1a8",
         "source": "landmatch",
