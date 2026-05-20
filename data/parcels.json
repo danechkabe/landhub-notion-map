@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-05-20T18:20:24.690762Z",
+  "generated_at": "2026-05-20T18:25:24.038229Z",
   "counts": {
-    "landmatch": 120,
+    "landmatch": 122,
     "processing": 22,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "36149a17-ea97-811d-8b46-d8b1737f02a3",
+        "source": "landmatch",
+        "name": "Демидів",
+        "area": "0.12 га",
+        "price": "15 000 $",
+        "distance_to_kyiv": "41,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7281513986321,30.2987956193903",
+        "notion_url": "https://www.notion.so/36149a17ea97811d8b46d8b1737f02a3",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zabudovu-ID10tD23.html",
+        "latitude": 50.7281513986321,
+        "longitude": 30.2987956193903,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36149a17-ea97-8160-8e33-c801ac02309f",
+        "source": "landmatch",
+        "name": "Вишгород",
+        "area": "0.1136 га",
+        "price": "7 000 $",
+        "distance_to_kyiv": "53,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7064672074454,30.0905481702257",
+        "notion_url": "https://www.notion.so/36149a17ea9781608e33c801ac02309f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-dlya-ndivdualnogo-sadvnitstva-ID10uAgF.html",
+        "latitude": 50.7064672074454,
+        "longitude": 30.0905481702257,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "36149a17-ea97-8154-9ce6-d682ce906ce8",
         "source": "landmatch",
