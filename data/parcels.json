@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-20T09:50:21.130914Z",
+  "generated_at": "2026-05-20T09:55:21.602556Z",
   "counts": {
     "landmatch": 76,
-    "processing": 20,
+    "processing": 21,
     "landhub": 24
   },
   "categories": {
@@ -1301,6 +1301,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "36649a17-ea97-818f-9223-cfe2e6a3e788",
+        "source": "processing",
+        "name": "Гута-Межигірська",
+        "area": "0.15 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "39,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.679303032129,30.3090588715114",
+        "notion_url": "https://www.notion.so/36649a17ea97818f9223cfe2e6a3e788",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-15-sotok-pd-zabudovu-guta-mezhigrska-ID103GDh.html",
+        "latitude": 50.679303032129,
+        "longitude": 30.3090588715114,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36349a17-ea97-81d6-bef4-d6aa545a80ca",
         "source": "processing",
