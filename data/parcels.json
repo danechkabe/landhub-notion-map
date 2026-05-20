@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-20T10:20:21.559823Z",
+  "generated_at": "2026-05-20T10:25:24.861312Z",
   "counts": {
     "landmatch": 76,
-    "processing": 21,
+    "processing": 22,
     "landhub": 24
   },
   "categories": {
@@ -1301,6 +1301,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "36649a17-ea97-8144-b21d-de7cec532169",
+        "source": "processing",
+        "name": "Гостомель",
+        "area": "0.06 га",
+        "price": "9 000 $",
+        "distance_to_kyiv": "30,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5814250687535,30.2061478725627",
+        "notion_url": "https://www.notion.so/36649a17ea978144b21dde7cec532169",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-6-sotok-poryad-z-ozerom-povna-vartst-7000-ID10vI2J.html",
+        "latitude": 50.5814250687535,
+        "longitude": 30.2061478725627,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36649a17-ea97-818f-9223-cfe2e6a3e788",
         "source": "processing",
