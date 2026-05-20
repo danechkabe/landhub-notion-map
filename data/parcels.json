@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T11:33:47.074840Z",
+  "generated_at": "2026-05-20T11:35:21.578299Z",
   "counts": {
     "landmatch": 76,
     "processing": 22,
@@ -1330,10 +1330,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-6-sotok-poryad-z-ozerom-povna-vartst-7000-ID10vI2J.html",
         "latitude": 50.5814250687535,
         "longitude": 30.2061478725627,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "36649a17-ea97-818f-9223-cfe2e6a3e788",
