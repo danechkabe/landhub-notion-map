@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-20T10:30:21.151166Z",
+  "generated_at": "2026-05-20T10:35:24.144283Z",
   "counts": {
     "landmatch": 76,
-    "processing": 22,
+    "processing": 23,
     "landhub": 24
   },
   "categories": {
@@ -1301,6 +1301,23 @@
       }
     ],
     "processing": [
+      {
+        "id": "36649a17-ea97-81e4-aa27-fd6353ad2bb3",
+        "source": "processing",
+        "name": "Гостомель",
+        "area": "0.0316 га",
+        "price": "3 000 $",
+        "distance_to_kyiv": "34,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5701922948484,30.2112233539179",
+        "notion_url": "https://www.notion.so/36649a17ea9781e4aa27fd6353ad2bb3",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-3-15-sotki-blya-buchanskogo-parku-gostomel-IDYT2T9.html",
+        "latitude": 50.5701922948484,
+        "longitude": 30.2112233539179,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36649a17-ea97-8144-b21d-de7cec532169",
         "source": "processing",
