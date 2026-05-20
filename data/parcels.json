@@ -1,12 +1,29 @@
 {
-  "generated_at": "2026-05-20T13:15:26.891655Z",
+  "generated_at": "2026-05-20T13:20:26.133503Z",
   "counts": {
-    "landmatch": 79,
+    "landmatch": 80,
     "processing": 22,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "36149a17-ea97-816c-9553-f4f023ffc931",
+        "source": "landmatch",
+        "name": "Юрівка",
+        "area": "0.0736 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "25,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3353391868755,30.3638650869955",
+        "notion_url": "https://www.notion.so/36149a17ea97816c9553f4f023ffc931",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodtsya-chudova-zemelna-dlyanka-pd-zabudovu-22-5-sotok-yurvka-vta-poshtova-ID10rQFk.html",
+        "latitude": 50.3353391868755,
+        "longitude": 30.3638650869955,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "36149a17-ea97-81fc-b94e-c96fb1556b00",
         "source": "landmatch",
