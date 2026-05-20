@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-20T10:35:24.144283Z",
+  "generated_at": "2026-05-20T10:40:19.607706Z",
   "counts": {
     "landmatch": 76,
-    "processing": 23,
+    "processing": 22,
     "landhub": 24
   },
   "categories": {
@@ -1500,23 +1500,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodam-zemelnu-dlyanku-pd-zabudovu-ID10rIDR.html",
         "latitude": 50.7281513986321,
         "longitude": 30.2987956193903,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
-      },
-      {
-        "id": "35f49a17-ea97-816c-abcd-fb14b13215ea",
-        "source": "processing",
-        "name": "Глібівка",
-        "area": "0.1567 га",
-        "price": "7 500 $",
-        "distance_to_kyiv": "49,4 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7821291377352,30.3578867987797",
-        "notion_url": "https://www.notion.so/35f49a17ea97816cabcdfb14b13215ea",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-glbvka-vishgorodskiy-r-n-ID10tshi.html",
-        "latitude": 50.7821291377352,
-        "longitude": 30.3578867987797,
         "marker_symbol": "📙",
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
