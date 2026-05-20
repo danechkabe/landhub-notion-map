@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T11:25:25.804703Z",
+  "generated_at": "2026-05-20T11:30:25.464880Z",
   "counts": {
     "landmatch": 76,
     "processing": 22,
@@ -1347,10 +1347,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-15-sotok-pd-zabudovu-guta-mezhigrska-ID103GDh.html",
         "latitude": 50.679303032129,
         "longitude": 30.3090588715114,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "36349a17-ea97-81d6-bef4-d6aa545a80ca",
