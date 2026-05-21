@@ -1,12 +1,63 @@
 {
-  "generated_at": "2026-05-21T11:45:26.088760Z",
+  "generated_at": "2026-05-21T11:50:24.606884Z",
   "counts": {
-    "landmatch": 223,
+    "landmatch": 226,
     "processing": 22,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "36249a17-ea97-815a-8a59-df20d746af61",
+        "source": "landmatch",
+        "name": "Трипілля",
+        "area": "0.1 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "49,9 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.111398519672,30.793605644189",
+        "notion_url": "https://www.notion.so/36249a17ea97815a8a59df20d746af61",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-v-sel-tripllya-IDZTcGE.html",
+        "latitude": 50.111398519672,
+        "longitude": 30.793605644189,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36249a17-ea97-81ed-9785-dbfda9715b29",
+        "source": "landmatch",
+        "name": "Мироцьке",
+        "area": "0.0803 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "37,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.578966523979,30.1432702942507",
+        "notion_url": "https://www.notion.so/36249a17ea9781ed9785dbfda9715b29",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-dlyanka-v-s-mirotske-8-sot-zabudova-ID10whh6.html",
+        "latitude": 50.578966523979,
+        "longitude": 30.1432702942507,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36249a17-ea97-8187-879b-e7134efd6cf2",
+        "source": "landmatch",
+        "name": "Личанка",
+        "area": "0.1 га",
+        "price": "13 000 $",
+        "distance_to_kyiv": "38,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4125290182619,30.0854277731063",
+        "notion_url": "https://www.notion.so/36249a17ea978187879be7134efd6cf2",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-dlyanka-v-lichants-IDIqNEC.html",
+        "latitude": 50.4125290182619,
+        "longitude": 30.0854277731063,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "36249a17-ea97-814c-804d-f4297f2881e7",
         "source": "landmatch",
