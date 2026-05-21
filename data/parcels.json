@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-05-21T10:45:20.851617Z",
+  "generated_at": "2026-05-21T10:50:25.564170Z",
   "counts": {
-    "landmatch": 146,
+    "landmatch": 148,
     "processing": 22,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "36149a17-ea97-8181-806e-ee65f46be574",
+        "source": "landmatch",
+        "name": "Перше Травня",
+        "area": "0.12 га",
+        "price": "9 000 $",
+        "distance_to_kyiv": "47,4 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.105245516385,30.5712591366402",
+        "notion_url": "https://www.notion.so/36149a17ea978181806eee65f46be574",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-ID10s2Di.html",
+        "latitude": 50.105245516385,
+        "longitude": 30.5712591366402,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36149a17-ea97-81c6-805b-ca81d5a3af71",
+        "source": "landmatch",
+        "name": "Піщана",
+        "area": "0.1526 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "90,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8201496997569,30.2152163653559",
+        "notion_url": "https://www.notion.so/36149a17ea9781c6805bca81d5a3af71",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-pd-zabudovu-s-pschana-poryad-m-bla-tserkva-ID10unNG.html",
+        "latitude": 49.8201496997569,
+        "longitude": 30.2152163653559,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "36149a17-ea97-8189-8731-fe8e056249e8",
         "source": "landmatch",
