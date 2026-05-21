@@ -1,12 +1,29 @@
 {
-  "generated_at": "2026-05-21T12:50:31.691221Z",
+  "generated_at": "2026-05-21T12:55:30.338474Z",
   "counts": {
-    "landmatch": 368,
+    "landmatch": 369,
     "processing": 22,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "36749a17-ea97-819c-a8a6-e133a9c8d4c3",
+        "source": "landmatch",
+        "name": "Старі Петрівці",
+        "area": "0.1 га",
+        "price": "4 200 $",
+        "distance_to_kyiv": "28,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6383321405095,30.3888652013526",
+        "notion_url": "https://www.notion.so/36749a17ea97819ca8a6e133a9c8d4c3",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-uchastok-IDGZyse.html",
+        "latitude": 50.6383321405095,
+        "longitude": 30.3888652013526,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "36749a17-ea97-814e-a6ec-fd9ad0a60061",
         "source": "landmatch",
