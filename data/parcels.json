@@ -1,12 +1,63 @@
 {
-  "generated_at": "2026-05-21T12:20:24.004681Z",
+  "generated_at": "2026-05-21T12:25:30.026507Z",
   "counts": {
-    "landmatch": 310,
+    "landmatch": 313,
     "processing": 22,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "36449a17-ea97-8161-a37d-e393ffaf8996",
+        "source": "landmatch",
+        "name": "Лісники",
+        "area": "0.1217 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "24,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3108922155867,30.4952616636037",
+        "notion_url": "https://www.notion.so/36449a17ea978161a37de393ffaf8996",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-poruch-z-ozerom-lsom-v-s-lsniki-ID10p5qG.html",
+        "latitude": 50.3108922155867,
+        "longitude": 30.4952616636037,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36449a17-ea97-8188-bec3-eaf2a3781dc2",
+        "source": "landmatch",
+        "name": "Гвоздів",
+        "area": "0.06 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "30,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2585693377304,30.4613951773924",
+        "notion_url": "https://www.notion.so/36449a17ea978188bec3eaf2a3781dc2",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-v-st-mrya-gvozdvska-slska-rada-ID10qd3N.html",
+        "latitude": 50.2585693377304,
+        "longitude": 30.4613951773924,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36449a17-ea97-81fb-beb5-fad810bf4e3a",
+        "source": "landmatch",
+        "name": "Дзвінкове",
+        "area": "0.1008 га",
+        "price": "9 200 $",
+        "distance_to_kyiv": "49,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2801471886776,30.0471011515093",
+        "notion_url": "https://www.notion.so/36449a17ea9781fbbeb5fad810bf4e3a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-v-malovnichomu-ta-perspektivnomu-msts-s-dzvnkove-ID10v8L9.html",
+        "latitude": 50.2801471886776,
+        "longitude": 30.0471011515093,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "36449a17-ea97-817e-9986-cc6e87b15370",
         "source": "landmatch",
