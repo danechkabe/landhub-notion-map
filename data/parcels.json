@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-05-21T11:10:29.924560Z",
+  "generated_at": "2026-05-21T11:15:27.156907Z",
   "counts": {
-    "landmatch": 184,
+    "landmatch": 186,
     "processing": 22,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "36249a17-ea97-81bb-a1ba-e81bcdb2fe7d",
+        "source": "landmatch",
+        "name": "Нове",
+        "area": "0.2202 га",
+        "price": "6 800 $",
+        "distance_to_kyiv": "30,8 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3159661753066,30.3232881856119",
+        "notion_url": "https://www.notion.so/36249a17ea9781bba1bae81bcdb2fe7d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-45-sotok-blya-lsu-pd-kotedzhne-mstechko-nove-ID109zpU.html",
+        "latitude": 50.3159661753066,
+        "longitude": 30.3232881856119,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36249a17-ea97-8192-84cc-cea81b1bb275",
+        "source": "landmatch",
+        "name": "Лебедівка",
+        "area": "0.129 га",
+        "price": "30 000 $",
+        "distance_to_kyiv": "39,7 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7254048154349,30.5409320126483",
+        "notion_url": "https://www.notion.so/36249a17ea97819284cccea81b1bb275",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazha-uchastka-v-vyshgorodskom-r-ne-s-lebedevka-kievskoe-more-IDMStxK.html",
+        "latitude": 50.7254048154349,
+        "longitude": 30.5409320126483,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "36249a17-ea97-8180-9879-e43ef09f3624",
         "source": "landmatch",
