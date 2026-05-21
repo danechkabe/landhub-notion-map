@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-21T15:00:36.849897Z",
+  "generated_at": "2026-05-21T15:05:36.240882Z",
   "counts": {
-    "landmatch": 378,
+    "landmatch": 379,
     "processing": 22,
     "landhub": 24
   },
@@ -1549,6 +1549,23 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-zemlya-mikulich-mezha-z-nemshavo-uchastok-vd-1ga-15ga-zabudovu-ID10fqC9.html",
         "latitude": 50.5604120670407,
         "longitude": 30.0658130588775,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36449a17-ea97-81a2-98d4-c2ad1c751c90",
+        "source": "landmatch",
+        "name": "Вишгород",
+        "area": "0.1 га",
+        "price": "5 700 $",
+        "distance_to_kyiv": "38,0 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6836460315793,30.6346352799348",
+        "notion_url": "https://www.notion.so/36449a17ea9781a298d4c2ad1c751c90",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ID10k41C.html",
+        "latitude": 50.6836460315793,
+        "longitude": 30.6346352799348,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
