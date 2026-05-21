@@ -1,12 +1,63 @@
 {
-  "generated_at": "2026-05-21T11:40:24.793106Z",
+  "generated_at": "2026-05-21T11:45:26.088760Z",
   "counts": {
-    "landmatch": 220,
+    "landmatch": 223,
     "processing": 22,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "36249a17-ea97-814c-804d-f4297f2881e7",
+        "source": "landmatch",
+        "name": "Макарів",
+        "area": "0.1 га",
+        "price": "2 300 $",
+        "distance_to_kyiv": "55,5 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.476609327574,29.8202900169984",
+        "notion_url": "https://www.notion.so/36249a17ea97814c804df4297f2881e7",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-makarov-10-sotok-ID10wchS.html",
+        "latitude": 50.476609327574,
+        "longitude": 29.8202900169984,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36249a17-ea97-8143-a115-cc7b10ed411b",
+        "source": "landmatch",
+        "name": "Діброва",
+        "area": "0.1498 га",
+        "price": "10 500 $",
+        "distance_to_kyiv": "43,1 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2030467460029,30.2136577883379",
+        "notion_url": "https://www.notion.so/36249a17ea978143a115cc7b10ed411b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/25-km-vd-kiva-zemelna-dlyanka-15-sotok-pd-budvnitstvo-s-dbrova-fastvskiy-rayon-ID10ulOn.html",
+        "latitude": 50.2030467460029,
+        "longitude": 30.2136577883379,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36249a17-ea97-81ba-8cc1-e3dee9023306",
+        "source": "landmatch",
+        "name": "Дмитрівка",
+        "area": "0.12 га",
+        "price": "6 500 $",
+        "distance_to_kyiv": "100 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0375939603393,29.7497857419243",
+        "notion_url": "https://www.notion.so/36249a17ea9781ba8cc1e3dee9023306",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-12-sotok-u-fastvskomu-rayon-kivsko-oblast-IDXD2XA.html",
+        "latitude": 50.0375939603393,
+        "longitude": 29.7497857419243,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "36249a17-ea97-81bf-9617-d76e55d14d60",
         "source": "landmatch",
