@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T14:40:32.570195Z",
+  "generated_at": "2026-05-21T14:45:30.918346Z",
   "counts": {
     "landmatch": 378,
     "processing": 22,
@@ -1338,7 +1338,7 @@
         "source": "landmatch",
         "name": "Святопетрівське",
         "area": "1 га",
-        "price": "5 200 $",
+        "price": "50 200 $",
         "distance_to_kyiv": "22,2 км",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4028220267728,30.3034174515271",
         "notion_url": "https://www.notion.so/36449a17ea97819d8612fd12f4708b65",
