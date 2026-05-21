@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-21T15:40:29.819797Z",
+  "generated_at": "2026-05-21T15:45:32.757437Z",
   "counts": {
-    "landmatch": 379,
+    "landmatch": 378,
     "processing": 22,
     "landhub": 24
   },
@@ -6377,23 +6377,6 @@
         "olx_url": "",
         "latitude": 50.553601,
         "longitude": 29.620871,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "30a49a17-ea97-80f0-b27f-d415c9a82f14",
-        "source": "landmatch",
-        "name": "Стайки",
-        "area": "0.1980",
-        "price": "12000$",
-        "distance_to_kyiv": "37 км",
-        "google_maps_url": "https://www.google.com/maps/place/50%C2%B003'56.6%22N+30%C2%B054'45.2%22E/@50.065728,30.912547,1391m/data=!3m1!1e3!4m4!3m3!8m2!3d50.0657222!4d30.9125556?hl=ru&entry=ttu&g_ep=EgoyMDI2MDIyNC4wIKXMDSoASAFQAw%3D%3D",
-        "notion_url": "https://www.notion.so/30a49a17ea9780f0b27fd415c9a82f14",
-        "olx_url": "",
-        "latitude": 50.065728,
-        "longitude": 30.912547,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
