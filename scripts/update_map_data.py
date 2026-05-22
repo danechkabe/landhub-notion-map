@@ -44,6 +44,7 @@ OLX_STATUS_META = {
 }
 LANDMATCH_META = {"symbol": "💛", "color": "#e0b21b"}
 LANDHUB_META = {"symbol": "📍", "color": "#111111"}
+BIG_MAP_BASE_URL = "https://danechkabe.github.io/landhub-big-map/"
 
 
 @dataclass(frozen=True)
@@ -260,6 +261,7 @@ def normalize_page(
     area = extract_rich_text(properties.get("Площа")) or "—"
     price = extract_rich_text(properties.get("Наша ціна")) or "—"
     distance = extract_rich_text(properties.get("до Києва")) or "—"
+    cadastral = extract_rich_text(properties.get("Кадастровий номер"))
     notion_url = str(page.get("url") or "").strip()
     olx_url = extract_url(properties.get("Посилання на OLX"))
 
@@ -270,6 +272,8 @@ def normalize_page(
         "area": area.strip(),
         "price": price.strip(),
         "distance_to_kyiv": distance.strip(),
+        "cadastral": cadastral.strip(),
+        "big_map_url": f"{BIG_MAP_BASE_URL}?cad={quote_cad(cadastral)}" if source_key == "landmatch" and cadastral.strip() else "",
         "google_maps_url": resolved_map_url,
         "notion_url": notion_url,
         "olx_url": olx_url,
@@ -281,6 +285,12 @@ def normalize_page(
         "status_key": marker.get("key", ""),
     }
     return payload
+
+
+def quote_cad(value: str) -> str:
+    from urllib.parse import quote
+
+    return quote(value.strip(), safe="")
 
 
 def extract_notion_database_id(value: str) -> str:

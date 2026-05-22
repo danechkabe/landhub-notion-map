@@ -64,6 +64,21 @@ function actionButton({ href, icon, label, modifier }) {
   `;
 }
 
+function heartButton(href) {
+  const normalizedHref = normalizeUrl(href);
+  if (!normalizedHref) return "";
+  return `
+    <a
+      class="action-link action-link--big-map"
+      href="${escapeHtml(normalizedHref)}"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="LandHub map"
+      title="LandHub map"
+    >💛</a>
+  `;
+}
+
 function popupMarkup(item) {
   return `
     <article class="parcel-popup">
@@ -101,6 +116,7 @@ function popupMarkup(item) {
           label: "OLX",
           modifier: "olx",
         })}
+        ${heartButton(item.big_map_url)}
       </div>
     </article>
   `;
