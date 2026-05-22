@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-22T15:40:58.993180Z",
+  "generated_at": "2026-05-22T15:45:32.671455Z",
   "counts": {
-    "landmatch": 359,
+    "landmatch": 358,
     "processing": 22,
     "landhub": 24
   },
@@ -6728,25 +6728,6 @@
         "olx_url": "",
         "latitude": 50.3042772,
         "longitude": 30.0270283,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "30b49a17-ea97-8023-969c-e0b288376888",
-        "source": "landmatch",
-        "name": "Фасова",
-        "area": "0.2502 га",
-        "price": "9500$",
-        "distance_to_kyiv": "50 км",
-        "cadastral": "3222788001:01:006:0073",
-        "big_map_url": "https://danechkabe.github.io/landhub-big-map/?cad=3222788001%3A01%3A006%3A0073",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.384115218941,29.8172806607966",
-        "notion_url": "https://www.notion.so/30b49a17ea978023969ce0b288376888",
-        "olx_url": "",
-        "latitude": 50.384115218941,
-        "longitude": 29.8172806607966,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
