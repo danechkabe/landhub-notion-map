@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T00:35:25.980518Z",
+  "generated_at": "2026-05-22T00:40:26.432132Z",
   "counts": {
     "landmatch": 359,
     "processing": 22,
@@ -7,6 +7,23 @@
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "36749a17-ea97-81cc-b0f9-f604883d2ced",
+        "source": "landmatch",
+        "name": "Забуяння",
+        "area": "0.1 га",
+        "price": "7 000 $",
+        "distance_to_kyiv": "78,2 км",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5635078371268,29.6611804138751",
+        "notion_url": "https://www.notion.so/36749a17ea9781ccb0f9f604883d2ced",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-z-vsma-komunkatsyami-36-sotok-IDZ6bvn.html",
+        "latitude": 50.5635078371268,
+        "longitude": 29.6611804138751,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "36749a17-ea97-819b-b21a-f2b35f9e385e",
         "source": "landmatch",
@@ -6037,23 +6054,6 @@
         "olx_url": "",
         "latitude": 50.4296795673376,
         "longitude": 29.8148192769181,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "30b49a17-ea97-803e-8a51-d642e9d3670b",
-        "source": "landmatch",
-        "name": "Забуяння",
-        "area": "0.1495 га",
-        "price": "5700$",
-        "distance_to_kyiv": "53 км",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=google.com/maps?ll=50.553601,29.620871&z=14&t=h&hl=uk&gl=UA&mapclient=embed&q=50°33%2702.2\"N+29°38%2736.8\"E+50.550611,+29.643556@50.5506111,29.6435556",
-        "notion_url": "https://www.notion.so/30b49a17ea97803e8a51d642e9d3670b",
-        "olx_url": "",
-        "latitude": 50.553601,
-        "longitude": 29.620871,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
