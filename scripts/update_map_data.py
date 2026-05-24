@@ -44,7 +44,7 @@ OLX_STATUS_META = {
 }
 LANDMATCH_META = {"symbol": "💛", "color": "#e0b21b"}
 LANDHUB_META = {"symbol": "📍", "color": "#111111"}
-BIG_MAP_BASE_URL = "https://danechkabe.github.io/landhub-big-map/"
+BIG_MAP_BASE_URL = "https://map.landhub.com.ua/"
 
 
 @dataclass(frozen=True)
