@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T13:35:18.829407Z",
+  "generated_at": "2026-05-25T13:40:22.131199Z",
   "counts": {
     "landmatch": 48,
-    "processing": 24,
+    "processing": 25,
     "landhub": 24
   },
   "categories": {
@@ -921,6 +921,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-814d-a3c1-f1c093c3138f",
+        "source": "processing",
+        "name": "Кожухівка",
+        "area": "0.0624 га",
+        "price": "7 500 $",
+        "distance_to_kyiv": "43,4 км",
+        "cadastral": "3221482000:05:011:0070",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2505799528404,30.2766521476368",
+        "notion_url": "https://www.notion.so/36b49a17ea97814da3c1f1c093c3138f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-st-kalinoviy-gay-kozhuhvka-glevaha-IDZJdcg.html",
+        "latitude": 50.2505799528404,
+        "longitude": 30.2766521476368,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-8149-9d46-c4de65d2c73d",
         "source": "processing",
