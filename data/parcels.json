@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T12:30:22.602958Z",
+  "generated_at": "2026-05-25T12:35:20.108168Z",
   "counts": {
     "landmatch": 48,
-    "processing": 43,
+    "processing": 44,
     "landhub": 24
   },
   "categories": {
@@ -921,6 +921,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-8189-9a8c-ef44f3b5a8e8",
+        "source": "processing",
+        "name": "Пашківка",
+        "area": "0.2 га",
+        "price": "3 200 $",
+        "distance_to_kyiv": "64,4 км",
+        "cadastral": "3222786500:04:021:0114",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3213521832949,29.8573994213854",
+        "notion_url": "https://www.notion.so/36b49a17ea9781899a8cef44f3b5a8e8",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-vlasnu-zemlyu-osg-blya-pashkvki-kivska-obl-IDZz1i0.html",
+        "latitude": 50.3213521832949,
+        "longitude": 29.8573994213854,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-8134-8fcd-efe86708ad62",
         "source": "processing",
