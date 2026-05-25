@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T09:00:32.232012Z",
+  "generated_at": "2026-05-25T09:10:49.012203Z",
   "counts": {
     "landmatch": 351,
-    "processing": 37,
+    "processing": 38,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-8183-bb0b-f288352387dd",
+        "source": "processing",
+        "name": "Старі Петрівці",
+        "area": "0.0997 га",
+        "price": "8 000 $",
+        "distance_to_kyiv": "28,0 км",
+        "cadastral": "3221887801:03:126:0129",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6431204233158,30.4081924546904",
+        "notion_url": "https://www.notion.so/36b49a17ea978183bb0bf288352387dd",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-star-petrvts-IDXOuwa.html",
+        "latitude": 50.6431204233158,
+        "longitude": 30.4081924546904,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-8150-8e78-ffba91094c7a",
         "source": "processing",
