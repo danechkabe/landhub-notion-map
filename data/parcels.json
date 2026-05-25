@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T13:45:18.939637Z",
+  "generated_at": "2026-05-25T13:50:20.914050Z",
   "counts": {
     "landmatch": 48,
-    "processing": 25,
+    "processing": 27,
     "landhub": 24
   },
   "categories": {
@@ -921,6 +921,44 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-81aa-a587-d6d527aa7eba",
+        "source": "processing",
+        "name": "Демидів",
+        "area": "0.1048 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "40,8 км",
+        "cadastral": "3221882400:07:314:0820",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7409183372949,30.3213074004104",
+        "notion_url": "https://www.notion.so/36b49a17ea9781aaa587d6d527aa7eba",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-v-s-demidv-IDZWLpE.html",
+        "latitude": 50.7409183372949,
+        "longitude": 30.3213074004104,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "36b49a17-ea97-8194-8a89-e6c7eae4fac5",
+        "source": "processing",
+        "name": "Дмитрівка",
+        "area": "0.1 га",
+        "price": "13 000 $",
+        "distance_to_kyiv": "31,7 км",
+        "cadastral": "3222484400:09:004:5335",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4597817403389,30.1419632455123",
+        "notion_url": "https://www.notion.so/36b49a17ea9781948a89e6c7eae4fac5",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/10-sotok-pd-zabudovu-dmitrvska-slska-rada-kivska-obl-IDY7PBH.html",
+        "latitude": 50.4597817403389,
+        "longitude": 30.1419632455123,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-814d-a3c1-f1c093c3138f",
         "source": "processing",
