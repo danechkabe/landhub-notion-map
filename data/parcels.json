@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T12:40:21.152942Z",
+  "generated_at": "2026-05-25T12:45:19.368974Z",
   "counts": {
     "landmatch": 48,
-    "processing": 45,
+    "processing": 46,
     "landhub": 24
   },
   "categories": {
@@ -921,6 +921,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-815f-b531-d2e6bb296de7",
+        "source": "processing",
+        "name": "Вища Дубечня",
+        "area": "0.125 га",
+        "price": "11 600 $",
+        "distance_to_kyiv": "45,3 км",
+        "cadastral": "3221881601:32:142:0165",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7415919802109,30.6396119466089",
+        "notion_url": "https://www.notion.so/36b49a17ea97815fb531d2e6bb296de7",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazha-uchastka-12-sotok-vysshaya-dubechnya-IDLFA4D.html",
+        "latitude": 50.7415919802109,
+        "longitude": 30.6396119466089,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-81e4-b211-dbb1017afcac",
         "source": "processing",
