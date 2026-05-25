@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T11:25:25.179259Z",
+  "generated_at": "2026-05-25T11:30:20.550502Z",
   "counts": {
     "landmatch": 48,
     "processing": 41,
@@ -1591,13 +1591,13 @@
         "source": "processing",
         "name": "Гаврилівка",
         "area": "0.1336 га",
-        "price": "8 500 $",
-        "distance_to_kyiv": "41,3 км",
+        "price": "11 500 $",
+        "distance_to_kyiv": "47,0 км",
         "cadastral": "3221882001:06:137:0220",
         "big_map_url": "",
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6739036054379,30.2220300867859",
         "notion_url": "https://www.notion.so/35649a17ea9781dead83f03e6e300867",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-kivsky-oblast-IDYa8ea.html",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/13-sotok-pd-zabudovu-ls-ta-ozero-s-gavrilvka-buchanskiy-r-n-ID10yI4S.html",
         "latitude": 50.6739036054379,
         "longitude": 30.2220300867859,
         "marker_symbol": "📗",
