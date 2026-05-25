@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T07:20:28.273876Z",
+  "generated_at": "2026-05-25T07:25:27.504762Z",
   "counts": {
     "landmatch": 351,
-    "processing": 31,
+    "processing": 32,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-812e-9696-dc1bd4dba8da",
+        "source": "processing",
+        "name": "Плахтянка",
+        "area": "0.24 га",
+        "price": "2 600 $",
+        "distance_to_kyiv": "57,2 км",
+        "cadastral": "3222786800:02:026:0076",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5106749921065,29.9039950351726",
+        "notion_url": "https://www.notion.so/36b49a17ea97812e9696dc1bd4dba8da",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/privatizovana-dlyanka-24-sotok-poruch-komunkats-ta-priroda-ID10m51N.html",
+        "latitude": 50.5106749921065,
+        "longitude": 29.9039950351726,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-8104-9933-c44e0fcdaf81",
         "source": "processing",
