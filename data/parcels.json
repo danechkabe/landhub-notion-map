@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T06:45:27.434511Z",
+  "generated_at": "2026-05-25T06:50:28.494966Z",
   "counts": {
     "landmatch": 351,
-    "processing": 27,
+    "processing": 28,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-8104-9910-da517039c078",
+        "source": "processing",
+        "name": "Мар'янівка",
+        "area": "0.1499 га",
+        "price": "7 000 $",
+        "distance_to_kyiv": "70,9 км",
+        "cadastral": "3221485401:01:029:0024",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0522382187427,30.1544677942673",
+        "notion_url": "https://www.notion.so/36b49a17ea9781049910da517039c078",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-selo-maryanvka-IDZyecT.html",
+        "latitude": 50.0522382187427,
+        "longitude": 30.1544677942673,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-81a1-b638-e27628435034",
         "source": "processing",
