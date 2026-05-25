@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T06:16:29.138377Z",
+  "generated_at": "2026-05-25T06:20:28.995062Z",
   "counts": {
     "landmatch": 351,
-    "processing": 25,
+    "processing": 26,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-81be-8e60-ffd90eb4b085",
+        "source": "processing",
+        "name": "Пінчуки",
+        "area": "0.2504 га",
+        "price": "13 000 $",
+        "distance_to_kyiv": "65,3 км",
+        "cadastral": "3221486001:01:021:0015",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0102058379321,30.224882237813",
+        "notion_url": "https://www.notion.so/36b49a17ea9781be8e60ffd90eb4b085",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-s-pnchuki-IDYqwWV.html",
+        "latitude": 50.0102058379321,
+        "longitude": 30.224882237813,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-81e9-8e80-f708b6c90a1c",
         "source": "processing",
