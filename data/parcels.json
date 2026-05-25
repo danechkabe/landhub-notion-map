@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T08:40:26.853284Z",
+  "generated_at": "2026-05-25T08:45:29.348357Z",
   "counts": {
     "landmatch": 351,
-    "processing": 36,
+    "processing": 37,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-8150-8e78-ffba91094c7a",
+        "source": "processing",
+        "name": "Гореничі",
+        "area": "1.1045 га",
+        "price": "6 500 $",
+        "distance_to_kyiv": "29,0 км",
+        "cadastral": "3222482001:01:001:0106",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4057621011147,30.188478010924",
+        "notion_url": "https://www.notion.so/36b49a17ea9781508e78ffba91094c7a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-neymovrno-dlyanki-v-s-gorenich-1ga-IDYVMpB.html",
+        "latitude": 50.4057621011147,
+        "longitude": 30.188478010924,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-81cc-8863-d996bd64253b",
         "source": "processing",
