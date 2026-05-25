@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T06:50:28.494966Z",
+  "generated_at": "2026-05-25T06:55:28.523927Z",
   "counts": {
     "landmatch": 351,
-    "processing": 28,
+    "processing": 30,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,44 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-8182-a5ba-d5ba1c736671",
+        "source": "processing",
+        "name": "Васильків",
+        "area": "0.1111 га",
+        "price": "9 500 $",
+        "distance_to_kyiv": "49,0 км",
+        "cadastral": "3221486502:02:004:0068",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1471371274332,30.4063643830872",
+        "notion_url": "https://www.notion.so/36b49a17ea978182a5bad5ba1c736671",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-pd-zabudovu-v-tihomu-msts-IDTGfHd.html",
+        "latitude": 50.1471371274332,
+        "longitude": 30.4063643830872,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "36b49a17-ea97-8149-9d46-c4de65d2c73d",
+        "source": "processing",
+        "name": "Жуківці",
+        "area": "0.12 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "52,7 км",
+        "cadastral": "3223183800:05:003:0007",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0737998608186,30.7878339684886",
+        "notion_url": "https://www.notion.so/36b49a17ea9781499d46c4de65d2c73d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-v-60-km-vd-kivaobuhvskiy-rayon-prodazh-abo-obmn-na-avto-IDHprhv.html",
+        "latitude": 50.0737998608186,
+        "longitude": 30.7878339684886,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-8104-9910-da517039c078",
         "source": "processing",
