@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T11:20:27.334564Z",
+  "generated_at": "2026-05-25T11:25:25.179259Z",
   "counts": {
     "landmatch": 48,
-    "processing": 40,
+    "processing": 41,
     "landhub": 24
   },
   "categories": {
@@ -921,6 +921,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-8171-823f-eb29ef4a7cc0",
+        "source": "processing",
+        "name": "Петрушки",
+        "area": "0.0908 га",
+        "price": "11 100 $",
+        "distance_to_kyiv": "28,9 км",
+        "cadastral": "3222486001:01:003:5029",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4275993962018,30.1609671053479",
+        "notion_url": "https://www.notion.so/36b49a17ea978171823feb29ef4a7cc0",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ploscheyu-0-0908-ga-v-sel-petrushki-IDZDTvd.html",
+        "latitude": 50.4275993962018,
+        "longitude": 30.1609671053479,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-8104-a93e-ca86e76659ce",
         "source": "processing",
