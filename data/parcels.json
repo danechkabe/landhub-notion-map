@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T05:45:29.309489Z",
+  "generated_at": "2026-05-25T05:50:51.663234Z",
   "counts": {
     "landmatch": 351,
-    "processing": 24,
+    "processing": 25,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-81e9-8e80-f708b6c90a1c",
+        "source": "processing",
+        "name": "Страхоліcся",
+        "area": "2 га",
+        "price": "2 400 $",
+        "distance_to_kyiv": "43,3 км",
+        "cadastral": "3222783200:05:011:0054",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4126921680383,29.9600678752074",
+        "notion_url": "https://www.notion.so/c-36b49a17ea9781e98e80f708b6c90a1c",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-s-severinvka-makarvskiy-rn-kivska-obl-IDZFL7V.html",
+        "latitude": 50.4126921680383,
+        "longitude": 29.9600678752074,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-81b1-9a90-debac68ea5ed",
         "source": "processing",
