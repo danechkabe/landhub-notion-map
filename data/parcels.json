@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T10:15:32.943712Z",
+  "generated_at": "2026-05-25T10:20:26.894648Z",
   "counts": {
     "landmatch": 351,
-    "processing": 39,
+    "processing": 40,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-8104-a93e-ca86e76659ce",
+        "source": "processing",
+        "name": "Велика Бугаївка",
+        "area": "0.193 га",
+        "price": "3 200 $",
+        "distance_to_kyiv": "45,9 км",
+        "cadastral": "3221480501:01:039:0040",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1947576374049,30.4337944402878",
+        "notion_url": "https://www.notion.so/36b49a17ea978104a93eca86e76659ce",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-30-sotok-kievskaya-oblast-s-velika-bugaevka-IDHVJ5b.html",
+        "latitude": 50.1947576374049,
+        "longitude": 30.4337944402878,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-8156-b25c-fcb6b6d3bf20",
         "source": "processing",
