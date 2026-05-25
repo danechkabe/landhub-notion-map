@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T07:10:28.179781Z",
+  "generated_at": "2026-05-25T07:15:28.699831Z",
   "counts": {
     "landmatch": 351,
-    "processing": 30,
+    "processing": 31,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-8104-9933-c44e0fcdaf81",
+        "source": "processing",
+        "name": "Іванків",
+        "area": "2.3103 га",
+        "price": "4 800 $",
+        "distance_to_kyiv": "113 км",
+        "cadastral": "3222080800:01:002:0009",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.071389911729,30.1832947317347",
+        "notion_url": "https://www.notion.so/36b49a17ea9781049933c44e0fcdaf81",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemlyu-2-31-ga-v-s-zorin-vishgorodskogo-r-nu-kivsko-obl-IDZWlNQ.html",
+        "latitude": 51.071389911729,
+        "longitude": 30.1832947317347,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-8182-a5ba-d5ba1c736671",
         "source": "processing",
