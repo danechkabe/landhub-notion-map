@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T07:55:26.385929Z",
+  "generated_at": "2026-05-25T08:00:29.882800Z",
   "counts": {
     "landmatch": 351,
-    "processing": 32,
+    "processing": 35,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,63 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-81f5-b16c-d731098cb3ba",
+        "source": "processing",
+        "name": "Колонщина",
+        "area": "0.2497 га",
+        "price": "2 500 $",
+        "distance_to_kyiv": "42,1 км",
+        "cadastral": "3222782600:07:012:0163",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4469640565432,29.9893529534697",
+        "notion_url": "https://www.notion.so/36b49a17ea9781f5b16cd731098cb3ba",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-kolonschina-zemlya-10-12-25-sotok-100-sotok-IDWOhwu.html",
+        "latitude": 50.4469640565432,
+        "longitude": 29.9893529534697,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "36b49a17-ea97-8159-bd36-dcd338759d7a",
+        "source": "processing",
+        "name": "Фастів",
+        "area": "0.1 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "80,7 км",
+        "cadastral": "3211200000:03:001:0380",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0937036229923,29.8718128901191",
+        "notion_url": "https://www.notion.so/36b49a17ea978159bd36dcd338759d7a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zabudovu-IDVKjTQ.html",
+        "latitude": 50.0937036229923,
+        "longitude": 29.8718128901191,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "36b49a17-ea97-81a6-b905-d52da1fc94da",
+        "source": "processing",
+        "name": "Катюжанка",
+        "area": "0.2096 га",
+        "price": "9 000 $",
+        "distance_to_kyiv": "58,1 км",
+        "cadastral": "3221883201:08:074:0101",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7903527458471,30.1319829627058",
+        "notion_url": "https://www.notion.so/36b49a17ea9781a6b905d52da1fc94da",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-sel-katyuzhanka-pershiy-vd-lsu-21-sotka-IDWByxa.html",
+        "latitude": 50.7903527458471,
+        "longitude": 30.1319829627058,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-812e-9696-dc1bd4dba8da",
         "source": "processing",
