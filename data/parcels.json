@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T14:15:22.342532Z",
+  "generated_at": "2026-05-25T14:20:19.190626Z",
   "counts": {
     "landmatch": 48,
-    "processing": 27,
+    "processing": 28,
     "landhub": 24
   },
   "categories": {
@@ -921,6 +921,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-8165-afaa-e500cabc337e",
+        "source": "processing",
+        "name": "Обухів",
+        "area": "0.25 га",
+        "price": "2 300 $",
+        "distance_to_kyiv": "55,1 км",
+        "cadastral": "3223184201:01:001:0025",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1278516144756,30.5002113808192",
+        "notion_url": "https://www.notion.so/36b49a17ea978165afaae500cabc337e",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-80-sotok-v-s-kopachv-z-tskavim-landshaftom-IDUYMc2.html",
+        "latitude": 50.1278516144756,
+        "longitude": 30.5002113808192,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-81aa-a587-d6d527aa7eba",
         "source": "processing",
