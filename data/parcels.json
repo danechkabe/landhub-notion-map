@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T10:00:33.379755Z",
+  "generated_at": "2026-05-25T10:05:31.547686Z",
   "counts": {
     "landmatch": 351,
-    "processing": 38,
+    "processing": 39,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-8156-b25c-fcb6b6d3bf20",
+        "source": "processing",
+        "name": "Козинці",
+        "area": "0.25 га",
+        "price": "2 200 $",
+        "distance_to_kyiv": "52,8 км",
+        "cadastral": "3221083500:03:002:0031",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5213451028639,30.0182652308891",
+        "notion_url": "https://www.notion.so/36b49a17ea978156b25cfcb6b6d3bf20",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-zemelnyy-uchastok-pod-kievom-kozints-kozintsy-25-s-IDDzyYu.html",
+        "latitude": 50.5213451028639,
+        "longitude": 30.0182652308891,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-8183-bb0b-f288352387dd",
         "source": "processing",
