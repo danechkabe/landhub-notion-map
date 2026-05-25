@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T08:05:26.472954Z",
+  "generated_at": "2026-05-25T08:10:31.483147Z",
   "counts": {
     "landmatch": 351,
-    "processing": 35,
+    "processing": 36,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-81cc-8863-d996bd64253b",
+        "source": "processing",
+        "name": "Запруддя",
+        "area": "0.1263 га",
+        "price": "2 500 $",
+        "distance_to_kyiv": "87,0 км",
+        "cadastral": "3223782001:02:016:0087",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.7941455119113,30.6298831920818",
+        "notion_url": "https://www.notion.so/36b49a17ea9781cc8863d996bd64253b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-pd-zastroyku-IDXDpfL.html",
+        "latitude": 49.7941455119113,
+        "longitude": 30.6298831920818,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-81f5-b16c-d731098cb3ba",
         "source": "processing",
