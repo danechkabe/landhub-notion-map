@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T06:30:28.480823Z",
+  "generated_at": "2026-05-25T06:35:33.456965Z",
   "counts": {
     "landmatch": 351,
-    "processing": 26,
+    "processing": 27,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-81a1-b638-e27628435034",
+        "source": "processing",
+        "name": "Бортники",
+        "area": "0.0543 га",
+        "price": "4 000 $",
+        "distance_to_kyiv": "82,4 км",
+        "cadastral": "3211200000:10:001:0333",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0459276305819,29.885022616372",
+        "notion_url": "https://www.notion.so/36b49a17ea9781a1b638e27628435034",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-dlya-sadvnitstva-ID10yzv7.html",
+        "latitude": 50.0459276305819,
+        "longitude": 29.885022616372,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-81be-8e60-ffd90eb4b085",
         "source": "processing",
