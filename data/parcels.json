@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T12:35:20.108168Z",
+  "generated_at": "2026-05-25T12:40:21.152942Z",
   "counts": {
     "landmatch": 48,
-    "processing": 44,
+    "processing": 45,
     "landhub": 24
   },
   "categories": {
@@ -921,6 +921,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-81e4-b211-dbb1017afcac",
+        "source": "processing",
+        "name": "Луб'янка",
+        "area": "0.12 га",
+        "price": "9 200 $",
+        "distance_to_kyiv": "46,4 км",
+        "cadastral": "3221084000:03:003:0303",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6556599367249,30.1672463291839",
+        "notion_url": "https://www.notion.so/36b49a17ea9781e4b211dbb1017afcac",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-zemli-12-sotok-s-lubyanka-pod-kievom-vozmozhen-obmn-ID100DK3.html",
+        "latitude": 50.6556599367249,
+        "longitude": 30.1672463291839,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-8189-9a8c-ef44f3b5a8e8",
         "source": "processing",
