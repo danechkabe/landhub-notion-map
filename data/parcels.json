@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T05:30:37.358279Z",
+  "generated_at": "2026-05-25T05:35:30.930519Z",
   "counts": {
     "landmatch": 351,
-    "processing": 22,
+    "processing": 23,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-81f7-82ec-e1155f4e647f",
+        "source": "processing",
+        "name": "Трипілля",
+        "area": "0.0985 га",
+        "price": "3 100 $",
+        "distance_to_kyiv": "47,9 км",
+        "cadastral": "3223188000:02:012:0032",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1230801367802,30.7472750334106",
+        "notion_url": "https://www.notion.so/36b49a17ea9781f782ece1155f4e647f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-sel-tripllya-ID109aeZ.html",
+        "latitude": 50.1230801367802,
+        "longitude": 30.7472750334106,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36649a17-ea97-81e4-aa27-fd6353ad2bb3",
         "source": "processing",
