@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T12:05:20.704955Z",
+  "generated_at": "2026-05-25T12:10:21.177373Z",
   "counts": {
     "landmatch": 48,
-    "processing": 41,
+    "processing": 43,
     "landhub": 24
   },
   "categories": {
@@ -921,6 +921,44 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-8134-8fcd-efe86708ad62",
+        "source": "processing",
+        "name": "Ходосівка",
+        "area": "0.1004 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "27,1 км",
+        "cadastral": "3222487000:03:001:5064",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2636976903683,30.5606455415583",
+        "notion_url": "https://www.notion.so/36b49a17ea9781348fcdefe86708ad62",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/10-sotok-st-nadya-s-hodosvka-kivo-svyatoshinskiy-r-n-vlasnik-IDUQUDM.html",
+        "latitude": 50.2636976903683,
+        "longitude": 30.5606455415583,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "36b49a17-ea97-81eb-92ea-dcb90db7a9c3",
+        "source": "processing",
+        "name": "Рославичі",
+        "area": "2 га",
+        "price": "2 700 $",
+        "distance_to_kyiv": "38,8 км",
+        "cadastral": "3221487300:02:015:0113",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2290519177341,30.4085158481927",
+        "notion_url": "https://www.notion.so/36b49a17ea9781eb92eadcb90db7a9c3",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-u-malovnichy-mstsevost-roslavich-tskavo-dlya-zabudovnika-IDObl1z.html",
+        "latitude": 50.2290519177341,
+        "longitude": 30.4085158481927,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-8171-823f-eb29ef4a7cc0",
         "source": "processing",
