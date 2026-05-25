@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T05:40:27.439000Z",
+  "generated_at": "2026-05-25T05:45:29.309489Z",
   "counts": {
     "landmatch": 351,
-    "processing": 23,
+    "processing": 24,
     "landhub": 24
   },
   "categories": {
@@ -6678,6 +6678,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36b49a17-ea97-81b1-9a90-debac68ea5ed",
+        "source": "processing",
+        "name": "Ясногородка",
+        "area": "0.1196 га",
+        "price": "11 500 $",
+        "distance_to_kyiv": "58,0 км",
+        "cadastral": "3221889000:18:094:0134",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.861385769707,30.3651137452405",
+        "notion_url": "https://www.notion.so/36b49a17ea9781b19a90debac68ea5ed",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-yasnogorodka-st-slava-vyshgorodskiy-r-n-IDYX6Vi.html",
+        "latitude": 50.861385769707,
+        "longitude": 30.3651137452405,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36b49a17-ea97-81f7-82ec-e1155f4e647f",
         "source": "processing",
