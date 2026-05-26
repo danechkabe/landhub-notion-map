@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-26T17:40:23.421264Z",
+  "generated_at": "2026-05-26T17:45:21.730864Z",
   "counts": {
     "landmatch": 48,
-    "processing": 22,
+    "processing": 23,
     "landhub": 24
   },
   "categories": {
@@ -921,6 +921,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "36c49a17-ea97-8162-8fe8-e5fff5c4d141",
+        "source": "processing",
+        "name": "Хмільна",
+        "area": "0.12 га",
+        "price": "8 500 $",
+        "distance_to_kyiv": "49,1 км",
+        "cadastral": "3222480800:06:009:5074",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4912363990755,30.0273157573766",
+        "notion_url": "https://www.notion.so/36c49a17ea9781628fe8e5fff5c4d141",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-selo-hmlna-vul-kucherova-ID10zevZ.html",
+        "latitude": 50.4912363990755,
+        "longitude": 30.0273157573766,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36649a17-ea97-81e4-aa27-fd6353ad2bb3",
         "source": "processing",
