@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T12:15:24.383892Z",
+  "generated_at": "2026-05-28T12:20:21.955402Z",
   "counts": {
     "landmatch": 72,
     "processing": 22,
@@ -31,7 +31,7 @@
         "source": "landmatch",
         "name": "Рославичі",
         "area": "0.25 га",
-        "price": "2 700 $",
+        "price": "20 700 $",
         "distance_to_kyiv": "38,2 км",
         "cadastral": "3221487301:01:034:0135",
         "big_map_url": "https://map.landhub.com.ua/?cad=3221487301%3A01%3A034%3A0135",
