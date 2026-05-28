@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-28T08:20:21.058822Z",
+  "generated_at": "2026-05-28T08:25:21.373048Z",
   "counts": {
     "landmatch": 41,
-    "processing": 23,
+    "processing": 22,
     "landhub": 24
   },
   "categories": {
@@ -977,25 +977,6 @@
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": "site_ok_olx_keeps"
-      },
-      {
-        "id": "36249a17-ea97-81aa-9b1e-caeff8cb2d08",
-        "source": "processing",
-        "name": "Горбовичі",
-        "area": "0.1 га",
-        "price": "5 200 $",
-        "distance_to_kyiv": "33,0 км",
-        "cadastral": "3222488200:06:002:0622",
-        "big_map_url": "",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4053498718896,30.1490958688682",
-        "notion_url": "https://www.notion.so/36249a17ea9781aa9b1ecaeff8cb2d08",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/gorbovich-zemelna-dlyanka-20-sotok-IDPTXCe.html",
-        "latitude": 50.4053498718896,
-        "longitude": 30.1490958688682,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
       },
       {
         "id": "36249a17-ea97-818a-ade1-e28651bb90ad",
