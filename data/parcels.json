@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T09:00:22.188060Z",
+  "generated_at": "2026-05-29T09:05:28.201489Z",
   "counts": {
     "landmatch": 72,
     "processing": 24,
@@ -240,7 +240,7 @@
         "source": "landmatch",
         "name": "Гостомель",
         "area": "0.0316 га",
-        "price": "3 000 $",
+        "price": "5 000 $",
         "distance_to_kyiv": "34,8 км",
         "cadastral": "3210945900:01:073:4180",
         "big_map_url": "https://map.landhub.com.ua/?cad=3210945900%3A01%3A073%3A4180",
