@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T13:55:21.718356Z",
+  "generated_at": "2026-05-29T14:00:30.509202Z",
   "counts": {
     "landmatch": 72,
     "processing": 24,
@@ -1391,10 +1391,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-sinyak-vishgorodskiy-r-n-ID10uUHA.html",
         "latitude": 50.6354520995422,
         "longitude": 30.3934241514195,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "36e49a17-ea97-812c-93ec-f60eb49f6f93",
@@ -1410,10 +1410,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-yasnogorodka-vishgorodskiy-rayon-ID10zUfa.html",
         "latitude": 50.8622447901537,
         "longitude": 30.3819122410535,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "36c49a17-ea97-8162-8fe8-e5fff5c4d141",
