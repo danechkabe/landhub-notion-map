@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-30T21:12:58.382355Z",
+  "generated_at": "2026-05-30T21:15:20.069828Z",
   "counts": {
     "landmatch": 72,
-    "processing": 24,
+    "processing": 25,
     "landhub": 24
   },
   "categories": {
@@ -1377,6 +1377,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "37049a17-ea97-816f-b70d-eba255cd72a4",
+        "source": "processing",
+        "name": "Рославичі",
+        "area": "0.12 га",
+        "price": "12 500 $",
+        "distance_to_kyiv": "37,5 км",
+        "cadastral": "3221487300:02:015:0165",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2218306386677,30.40880780066",
+        "notion_url": "https://www.notion.so/37049a17ea97816fb70deba255cd72a4",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-roslavichi-dlya-vedennya-sadvnitstva-ploscheyu-0-12-ga-IDd0uut.html",
+        "latitude": 50.2218306386677,
+        "longitude": 30.40880780066,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "37049a17-ea97-819c-a0bc-e22f52abdc44",
         "source": "processing",
