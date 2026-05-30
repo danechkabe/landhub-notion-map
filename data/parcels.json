@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-30T20:30:21.891544Z",
+  "generated_at": "2026-05-30T20:35:19.600145Z",
   "counts": {
     "landmatch": 72,
-    "processing": 24,
+    "processing": 23,
     "landhub": 24
   },
   "categories": {
@@ -1638,25 +1638,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodam-zemelnu-dlyanku-pd-zabudovu-ID10rIDR.html",
         "latitude": 50.7281513986321,
         "longitude": 30.2987956193903,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
-      },
-      {
-        "id": "35f49a17-ea97-81a5-b86d-cf26abbe39fc",
-        "source": "processing",
-        "name": "Устимівка",
-        "area": "0.25 га",
-        "price": "2 300 $",
-        "distance_to_kyiv": "79,3 км",
-        "cadastral": "3221488101:01:033:0021",
-        "big_map_url": "",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.9733799906686,29.9944464011306",
-        "notion_url": "https://www.notion.so/35f49a17ea9781a5b86dcf26abbe39fc",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-blya-stavka-IDHPCv9.html",
-        "latitude": 49.9733799906686,
-        "longitude": 29.9944464011306,
         "marker_symbol": "📙",
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
