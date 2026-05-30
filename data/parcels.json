@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-30T21:10:20.782465Z",
+  "generated_at": "2026-05-30T21:12:58.382355Z",
   "counts": {
     "landmatch": 72,
-    "processing": 23,
+    "processing": 24,
     "landhub": 24
   },
   "categories": {
@@ -1377,6 +1377,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "37049a17-ea97-819c-a0bc-e22f52abdc44",
+        "source": "processing",
+        "name": "Пилиповичі",
+        "area": "0.25 га",
+        "price": "3 700 $",
+        "distance_to_kyiv": "56,3 км",
+        "cadastral": "3221087501:01:005:0106",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6010146840683,29.9649187777416",
+        "notion_url": "https://www.notion.so/37049a17ea97819ca0bce22f52abdc44",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemeln-dlyanki-nepodalk-kiva-25-sotok-IDWXSLt.html",
+        "latitude": 50.6010146840683,
+        "longitude": 29.9649187777416,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "36e49a17-ea97-8119-9bb4-f8b6ba6d802b",
         "source": "processing",
