@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-31T22:45:23.252318Z",
+  "generated_at": "2026-05-31T22:47:32.093188Z",
   "counts": {
     "landmatch": 72,
     "processing": 25,
-    "landhub": 24
+    "landhub": 23
   },
   "categories": {
     "landmatch": [
@@ -2289,25 +2289,6 @@
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": ""
-      },
-      {
-        "id": "2ef49a17-ea97-80c9-9afa-f125a2315558",
-        "source": "landhub",
-        "name": "Оленівка",
-        "area": "0.1201 га",
-        "price": "3000$",
-        "distance_to_kyiv": "43 км",
-        "cadastral": "3224984800:02:001:0025",
-        "big_map_url": "",
-        "google_maps_url": "https://www.google.com/maps?q=50.1264291,30.1168598&entry=gps&shh=CAE&lucs=,94297699,94275415,94284454,94231188,94280568,47071704,94266209,94218641,94282134,94286869&g_ep=CAISEjI2LjAyLjQuODUyMzYyMzU0MRgAINeCAypaLDk0Mjk3Njk5LDk0Mjc1NDE1LDk0Mjg0NDU0LDk0MjMxMTg4LDk0MjgwNTY4LDQ3MDcxNzA0LDk0MjY2MjA5LDk0MjE4NjQxLDk0MjgyMTM0LDk0Mjg2ODY5QgJVQQ%3D%3D&skid=7ed6d495-5106-4420-8e71-919d9ce14b60&g_st=ic",
-        "notion_url": "https://www.notion.so/2ef49a17ea9780c99afaf125a2315558",
-        "olx_url": "",
-        "latitude": 50.1264291,
-        "longitude": 30.1168598,
-        "marker_symbol": "📍",
-        "marker_color": "#111111",
-        "status_label": "Дає на реалізацію",
         "status_key": ""
       }
     ]
