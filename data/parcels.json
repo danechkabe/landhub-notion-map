@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-01T12:45:27.127863Z",
+  "generated_at": "2026-06-01T12:50:24.821500Z",
   "counts": {
     "landmatch": 67,
-    "processing": 23,
+    "processing": 24,
     "landhub": 24
   },
   "categories": {
@@ -1282,6 +1282,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "37249a17-ea97-81fa-8991-cc96a248756f",
+        "source": "processing",
+        "name": "Стоянка",
+        "area": "0.1164 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "25,7 км",
+        "cadastral": "3222482000:12:001:0050",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4649227089171,30.2367759321747",
+        "notion_url": "https://www.notion.so/37249a17ea9781fa8991cc96a248756f",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-go-st-rpn-stoyanka-ID10B3my.html",
+        "latitude": 50.4649227089171,
+        "longitude": 30.2367759321747,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "37049a17-ea97-816f-b70d-eba255cd72a4",
         "source": "processing",
