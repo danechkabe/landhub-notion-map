@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-01T09:40:22.602340Z",
+  "generated_at": "2026-06-01T09:45:26.396796Z",
   "counts": {
     "landmatch": 67,
-    "processing": 25,
+    "processing": 23,
     "landhub": 24
   },
   "categories": {
@@ -1319,44 +1319,6 @@
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
         "status_key": "unprocessed"
-      },
-      {
-        "id": "36e49a17-ea97-8119-9bb4-f8b6ba6d802b",
-        "source": "processing",
-        "name": "Синяк",
-        "area": "0.12 га",
-        "price": "6 000 $",
-        "distance_to_kyiv": "28,2 км",
-        "cadastral": "3221887800:03:072:0166",
-        "big_map_url": "",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6354520995422,30.3934241514195",
-        "notion_url": "https://www.notion.so/36e49a17ea9781199bb4f8b6ba6d802b",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-sinyak-vishgorodskiy-r-n-ID10uUHA.html",
-        "latitude": 50.6354520995422,
-        "longitude": 30.3934241514195,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
-      },
-      {
-        "id": "36e49a17-ea97-812c-93ec-f60eb49f6f93",
-        "source": "processing",
-        "name": "Ясногородка",
-        "area": "0.2012 га",
-        "price": "5 500 $",
-        "distance_to_kyiv": "57,5 км",
-        "cadastral": "3221889000:18:162:0001",
-        "big_map_url": "",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8622447901537,30.3819122410535",
-        "notion_url": "https://www.notion.so/36e49a17ea97812c93ecf60eb49f6f93",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-yasnogorodka-vishgorodskiy-rayon-ID10zUfa.html",
-        "latitude": 50.8622447901537,
-        "longitude": 30.3819122410535,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
       },
       {
         "id": "36c49a17-ea97-8162-8fe8-e5fff5c4d141",
