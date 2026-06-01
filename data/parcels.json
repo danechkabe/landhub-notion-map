@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-01T03:00:26.895323Z",
+  "generated_at": "2026-06-01T03:05:20.739131Z",
   "counts": {
-    "landmatch": 72,
+    "landmatch": 70,
     "processing": 25,
     "landhub": 24
   },
@@ -597,25 +597,6 @@
         "status_key": ""
       },
       {
-        "id": "35749a17-ea97-812c-928a-f555af9db165",
-        "source": "landmatch",
-        "name": "Димер",
-        "area": "0.12 га",
-        "price": "8 500 $",
-        "distance_to_kyiv": "45,5 км",
-        "cadastral": "3221855300:07:271:0310",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221855300%3A07%3A271%3A0310",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7714556002622,30.3140579960675",
-        "notion_url": "https://www.notion.so/35749a17ea97812c928af555af9db165",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-12-sotok-dimer-blya-ozer-elektroenergya-pdklyuchena-ID10ixYv.html",
-        "latitude": 50.7714556002622,
-        "longitude": 30.3140579960675,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
         "id": "35649a17-ea97-816f-bf49-c3a04ca57c9d",
         "source": "landmatch",
         "name": "Мала Вільшанка",
@@ -724,25 +705,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-v-klavdievo-tarasove-ID10i7qb.html",
         "latitude": 50.579442841401,
         "longitude": 29.9890654925788,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "35249a17-ea97-81c2-a720-ea0177361844",
-        "source": "landmatch",
-        "name": "Димер",
-        "area": "0.15 га",
-        "price": "8 400 $",
-        "distance_to_kyiv": "46,7 км",
-        "cadastral": "3221855300:19:069:0181",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221855300%3A19%3A069%3A0181",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7921102976568,30.3073790219301",
-        "notion_url": "https://www.notion.so/35249a17ea9781c2a720ea0177361844",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kupuyte-dlyanku-v-dimer-garne-mstse-dlya-vashogo-maybutnogo-budinku-IDXN9LQ.html",
-        "latitude": 50.7921102976568,
-        "longitude": 30.3073790219301,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
