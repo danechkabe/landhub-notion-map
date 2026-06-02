@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T17:50:28.079015Z",
+  "generated_at": "2026-06-02T17:55:29.379470Z",
   "counts": {
     "landmatch": 67,
     "processing": 24,
@@ -1296,10 +1296,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-go-st-rpn-stoyanka-ID10B3my.html",
         "latitude": 50.4649227089171,
         "longitude": 30.2367759321747,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "37049a17-ea97-816f-b70d-eba255cd72a4",
@@ -1315,10 +1315,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-roslavichi-dlya-vedennya-sadvnitstva-ploscheyu-0-12-ga-IDd0uut.html",
         "latitude": 50.2218306386677,
         "longitude": 30.40880780066,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "37049a17-ea97-819c-a0bc-e22f52abdc44",
@@ -1334,10 +1334,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemeln-dlyanki-nepodalk-kiva-25-sotok-IDWXSLt.html",
         "latitude": 50.6010146840683,
         "longitude": 29.9649187777416,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📘",
+        "marker_color": "#5a8dee",
+        "status_label": "Передзвонити",
+        "status_key": "callback"
       },
       {
         "id": "36c49a17-ea97-8162-8fe8-e5fff5c4d141",
