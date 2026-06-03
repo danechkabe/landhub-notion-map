@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T17:35:26.471522Z",
+  "generated_at": "2026-06-03T17:40:31.150509Z",
   "counts": {
     "landmatch": 67,
     "processing": 24,
@@ -1334,10 +1334,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemeln-dlyanki-nepodalk-kiva-25-sotok-IDWXSLt.html",
         "latitude": 50.6010146840683,
         "longitude": 29.9649187777416,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "36c49a17-ea97-8162-8fe8-e5fff5c4d141",
