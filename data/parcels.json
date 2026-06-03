@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T20:05:29.421966Z",
+  "generated_at": "2026-06-03T20:10:28.341517Z",
   "counts": {
     "landmatch": 67,
     "processing": 24,
@@ -88,7 +88,7 @@
         "source": "landmatch",
         "name": "Гореничі",
         "area": "0.1126 га",
-        "price": "4 600 $",
+        "price": "30 000 $",
         "distance_to_kyiv": "28,5 км",
         "cadastral": "3222482000:07:001:0112",
         "big_map_url": "https://map.landhub.com.ua/?cad=3222482000%3A07%3A001%3A0112",
