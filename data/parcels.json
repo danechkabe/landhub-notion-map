@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-04T03:00:33.261732Z",
+  "generated_at": "2026-06-04T03:05:19.724137Z",
   "counts": {
-    "landmatch": 67,
+    "landmatch": 66,
     "processing": 24,
     "landhub": 24
   },
@@ -230,25 +230,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDZP9XH.html",
         "latitude": 49.9178208225926,
         "longitude": 30.0962794217384,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "36649a17-ea97-81d5-9be2-e0edf598cdbb",
-        "source": "landmatch",
-        "name": "Гостомель",
-        "area": "0.0316 га",
-        "price": "5 000 $",
-        "distance_to_kyiv": "34,8 км",
-        "cadastral": "3210945900:01:073:4180",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3210945900%3A01%3A073%3A4180",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5701922948484,30.2112233539179",
-        "notion_url": "https://app.notion.com/p/36649a17ea9781d59be2e0edf598cdbb",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-3-15-sotki-blya-buchanskogo-parku-gostomel-IDYT2T9.html",
-        "latitude": 50.5701922948484,
-        "longitude": 30.2112233539179,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
