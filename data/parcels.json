@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T09:05:26.726594Z",
+  "generated_at": "2026-06-04T09:10:25.416241Z",
   "counts": {
     "landmatch": 66,
     "processing": 24,
@@ -373,7 +373,7 @@
         "source": "landmatch",
         "name": "Устимівка",
         "area": "0.25 га",
-        "price": "2 300 $",
+        "price": "10 300 $",
         "distance_to_kyiv": "79,3 км",
         "cadastral": "3221488101:01:033:0021",
         "big_map_url": "https://map.landhub.com.ua/?cad=3221488101%3A01%3A033%3A0021",
