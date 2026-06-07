@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-07T17:30:23.044353Z",
+  "generated_at": "2026-06-07T17:35:19.966041Z",
   "counts": {
     "landmatch": 79,
-    "processing": 24,
+    "processing": 23,
     "landhub": 24
   },
   "categories": {
@@ -1547,25 +1547,6 @@
         "marker_color": "#5a8dee",
         "status_label": "Передзвонити",
         "status_key": "callback"
-      },
-      {
-        "id": "37049a17-ea97-819c-a0bc-e22f52abdc44",
-        "source": "processing",
-        "name": "Пилиповичі",
-        "area": "0.25 га",
-        "price": "3 700 $",
-        "distance_to_kyiv": "56,3 км",
-        "cadastral": "3221087501:01:005:0106",
-        "big_map_url": "",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6010146840683,29.9649187777416",
-        "notion_url": "https://app.notion.com/p/37049a17ea97819ca0bce22f52abdc44",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemeln-dlyanki-nepodalk-kiva-25-sotok-IDWXSLt.html",
-        "latitude": 50.6010146840683,
-        "longitude": 29.9649187777416,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "36c49a17-ea97-8162-8fe8-e5fff5c4d141",
