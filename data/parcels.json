@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-07T17:55:21.505182Z",
+  "generated_at": "2026-06-07T18:00:28.137071Z",
   "counts": {
     "landmatch": 79,
-    "processing": 20,
+    "processing": 19,
     "landhub": 24
   },
   "categories": {
@@ -1642,25 +1642,6 @@
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": "site_ok_olx_keeps"
-      },
-      {
-        "id": "36249a17-ea97-814a-b2c2-ddb98a2a92b4",
-        "source": "processing",
-        "name": "Тростинська Новоселиця",
-        "area": "0.25 га",
-        "price": "10 000 $",
-        "distance_to_kyiv": "69,4 км",
-        "cadastral": "3221488001:01:005:0012",
-        "big_map_url": "",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.9955516454081,30.2753181494399",
-        "notion_url": "https://app.notion.com/p/36249a17ea97814ab2c2ddb98a2a92b4",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-pd-zabudovu-IDXVKIb.html",
-        "latitude": 49.9955516454081,
-        "longitude": 30.2753181494399,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
       },
       {
         "id": "36249a17-ea97-814c-afe4-f0139cd7911b",
