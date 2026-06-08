@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T16:20:29.154677Z",
+  "generated_at": "2026-06-08T16:25:25.641848Z",
   "counts": {
     "landmatch": 79,
     "processing": 19,
@@ -1543,10 +1543,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-v-s-derevyana-nedorogo-ID10zPlk.html",
         "latitude": 50.1250123977913,
         "longitude": 30.7012723077108,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "37049a17-ea97-816f-b70d-eba255cd72a4",
