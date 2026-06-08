@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-08T11:35:23.839917Z",
+  "generated_at": "2026-06-08T11:40:21.970226Z",
   "counts": {
     "landmatch": 79,
-    "processing": 17,
+    "processing": 18,
     "landhub": 24
   },
   "categories": {
@@ -1510,6 +1510,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "37949a17-ea97-8114-9431-f17a426181ea",
+        "source": "processing",
+        "name": "Дерев'яна",
+        "area": "0.1008 га",
+        "price": "2 400 $",
+        "distance_to_kyiv": "45,8 км",
+        "cadastral": "3223182500:02:005:0022",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1250123977913,30.7012723077108",
+        "notion_url": "https://app.notion.com/p/37949a17ea9781149431f17a426181ea",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-v-s-derevyana-nedorogo-ID10zPlk.html",
+        "latitude": 50.1250123977913,
+        "longitude": 30.7012723077108,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "37049a17-ea97-816f-b70d-eba255cd72a4",
         "source": "processing",
