@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T16:45:32.607571Z",
+  "generated_at": "2026-06-08T16:50:23.899717Z",
   "counts": {
     "landmatch": 79,
     "processing": 19,
@@ -1524,10 +1524,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-9-sotok-fastovskiy-rayon-IDEbsrd.html",
         "latitude": 50.1646684207659,
         "longitude": 30.0295750203161,
-        "marker_symbol": "📘",
-        "marker_color": "#5a8dee",
-        "status_label": "Передзвонити",
-        "status_key": "callback"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "37949a17-ea97-8114-9431-f17a426181ea",
