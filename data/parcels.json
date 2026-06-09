@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-09T18:21:01.850264Z",
+  "generated_at": "2026-06-09T18:25:27.363712Z",
   "counts": {
     "landmatch": 74,
-    "processing": 18,
+    "processing": 21,
     "landhub": 25
   },
   "categories": {
@@ -1415,6 +1415,63 @@
       }
     ],
     "processing": [
+      {
+        "id": "37a49a17-ea97-8131-812e-e11d831c6000",
+        "source": "processing",
+        "name": "Забуяння",
+        "area": "0.1 га",
+        "price": "7 000 $",
+        "distance_to_kyiv": "72,5 км",
+        "cadastral": "3222782301:01:001:0022",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5635078371268,29.6611804138751",
+        "notion_url": "https://app.notion.com/p/37a49a17ea978131812ee11d831c6000",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-z-vsma-komunkatsyami-36-sotok-IDZ6bvn.html",
+        "latitude": 50.5635078371268,
+        "longitude": 29.6611804138751,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "37a49a17-ea97-8130-b356-fd2c31168217",
+        "source": "processing",
+        "name": "Забуччя",
+        "area": "0.0762 га",
+        "price": "10 500 $",
+        "distance_to_kyiv": "34,1 км",
+        "cadastral": "3222485200:05:005:5408",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4924422588191,30.1576433387966",
+        "notion_url": "https://app.notion.com/p/37a49a17ea978130b356fd2c31168217",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-ID10Ez77.html",
+        "latitude": 50.4924422588191,
+        "longitude": 30.1576433387966,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "37a49a17-ea97-8107-adbe-e1c5ad64892e",
+        "source": "processing",
+        "name": "Толокунь",
+        "area": "0.12 га",
+        "price": "8 000 $",
+        "distance_to_kyiv": "61,1 км",
+        "cadastral": "3221888600:21:138:0057",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8918812210241,30.4265225780629",
+        "notion_url": "https://app.notion.com/p/37a49a17ea978107adbee1c5ad64892e",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/tolokun-12-sotok-sosni-kivske-more-50-km-vd-kiva-ID10vrYL.html",
+        "latitude": 50.8918812210241,
+        "longitude": 30.4265225780629,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "37a49a17-ea97-8157-8843-de91b67bf9a9",
         "source": "processing",
