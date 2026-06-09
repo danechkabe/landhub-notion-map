@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-09T05:05:23.114180Z",
+  "generated_at": "2026-06-09T05:10:23.480052Z",
   "counts": {
     "landmatch": 74,
-    "processing": 19,
-    "landhub": 24
+    "processing": 17,
+    "landhub": 25
   },
   "categories": {
     "landmatch": [
@@ -1473,25 +1473,6 @@
         "status_key": "callback"
       },
       {
-        "id": "36649a17-ea97-8144-b21d-de7cec532169",
-        "source": "processing",
-        "name": "Гостомель",
-        "area": "0.06 га",
-        "price": "9 000 $",
-        "distance_to_kyiv": "30,9 км",
-        "cadastral": "3210945900:01:078:4728",
-        "big_map_url": "",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5814250687535,30.2061478725627",
-        "notion_url": "https://app.notion.com/p/36649a17ea978144b21dde7cec532169",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-6-sotok-poryad-z-ozerom-povna-vartst-7000-ID10vI2J.html",
-        "latitude": 50.5814250687535,
-        "longitude": 30.2061478725627,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
-      },
-      {
         "id": "36649a17-ea97-818f-9223-cfe2e6a3e788",
         "source": "processing",
         "name": "Гута-Межигірська",
@@ -1739,25 +1720,6 @@
         "status_key": "gives_to_sell"
       },
       {
-        "id": "34149a17-ea97-81a7-8a28-c34aa4e380cd",
-        "source": "processing",
-        "name": "Мар'янівка",
-        "area": "0.1999 га",
-        "price": "6 000 $",
-        "distance_to_kyiv": "68,6 км",
-        "cadastral": "3221485401:01:022:0022",
-        "big_map_url": "",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0689653369072,30.1688722798481",
-        "notion_url": "https://app.notion.com/p/34149a17ea9781a78a28c34aa4e380cd",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-IDUK2LM.html",
-        "latitude": 50.0689653369072,
-        "longitude": 30.1688722798481,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
-      },
-      {
         "id": "33149a17-ea97-8126-af8c-e197fa5cf881",
         "source": "processing",
         "name": "Ясногородка",
@@ -1833,6 +1795,25 @@
         "marker_symbol": "📍",
         "marker_color": "#111111",
         "status_label": "Дає на реалізацію",
+        "status_key": ""
+      },
+      {
+        "id": "34149a17-ea97-81a7-8a28-c34aa4e380cd",
+        "source": "landhub",
+        "name": "Мар'янівка",
+        "area": "0.1999 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "68,6 км",
+        "cadastral": "3221485401:01:022:0022",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0689653369072,30.1688722798481",
+        "notion_url": "https://app.notion.com/p/34149a17ea9781a78a28c34aa4e380cd",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-IDUK2LM.html",
+        "latitude": 50.0689653369072,
+        "longitude": 30.1688722798481,
+        "marker_symbol": "📍",
+        "marker_color": "#111111",
+        "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": ""
       },
       {
