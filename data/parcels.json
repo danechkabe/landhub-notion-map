@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-09T18:45:28.048697Z",
+  "generated_at": "2026-06-09T18:50:31.382365Z",
   "counts": {
     "landmatch": 74,
-    "processing": 18,
+    "processing": 17,
     "landhub": 25
   },
   "categories": {
@@ -1415,25 +1415,6 @@
       }
     ],
     "processing": [
-      {
-        "id": "37a49a17-ea97-8163-a459-f65e54683ae3",
-        "source": "processing",
-        "name": "Святопетрівське",
-        "area": "1.7956 га",
-        "price": "4 600 $",
-        "distance_to_kyiv": "24,3 км",
-        "cadastral": "3222480400:06:008:0183",
-        "big_map_url": "",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3827490722497,30.2714823431767",
-        "notion_url": "https://app.notion.com/p/37a49a17ea978163a459f65e54683ae3",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-0-9-ga-pd-zabudovu-02-01-10-km-vd-kiva-bez-koms-ID10byyy.html",
-        "latitude": 50.3827490722497,
-        "longitude": 30.2714823431767,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
-      },
       {
         "id": "37949a17-ea97-818c-9a02-d823ed7e1617",
         "source": "processing",
