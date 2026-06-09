@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-09T18:15:27.451752Z",
+  "generated_at": "2026-06-09T18:20:24.592017Z",
   "counts": {
     "landmatch": 74,
-    "processing": 17,
+    "processing": 18,
     "landhub": 25
   },
   "categories": {
@@ -1415,6 +1415,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "37a49a17-ea97-8157-8843-de91b67bf9a9",
+        "source": "processing",
+        "name": "Верем'я",
+        "area": "0.12 га",
+        "price": "13 000 $",
+        "distance_to_kyiv": "58,8 км",
+        "cadastral": "3223181000:04:001:0063",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0259203516573,30.8111766911464",
+        "notion_url": "https://app.notion.com/p/37a49a17ea9781578843de91b67bf9a9",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-s-veremya-obuhvskiy-rayon-kivska-oblast-ID10vubz.html",
+        "latitude": 50.0259203516573,
+        "longitude": 30.8111766911464,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "37949a17-ea97-818c-9a02-d823ed7e1617",
         "source": "processing",
