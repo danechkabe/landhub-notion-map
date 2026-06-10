@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-10T18:00:28.464748Z",
+  "generated_at": "2026-06-10T18:05:22.796921Z",
   "counts": {
-    "landmatch": 74,
+    "landmatch": 73,
     "processing": 17,
     "landhub": 25
   },
@@ -857,25 +857,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-s-nescherv-obuhvskiy-r-n-kivska-oblast-ID1031Dd.html",
         "latitude": 50.1425460437495,
         "longitude": 30.6203924911051,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "35549a17-ea97-81a1-ae6b-f82e2a4247c5",
-        "source": "landmatch",
-        "name": "Мостище",
-        "area": "0.178 га",
-        "price": "5 600 $",
-        "distance_to_kyiv": "47,7 км",
-        "cadastral": "3222784701:01:002:0013",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222784701%3A01%3A002%3A0013",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3049226642002,30.0093225022357",
-        "notion_url": "https://app.notion.com/p/35549a17ea9781a1ae6bf82e2a4247c5",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-17-8-sot-kivska-obl-s-mostische-3600-IDQyz2s.html",
-        "latitude": 50.3049226642002,
-        "longitude": 30.0093225022357,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
