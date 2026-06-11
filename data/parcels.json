@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-11T03:25:25.947897Z",
+  "generated_at": "2026-06-11T03:30:21.397904Z",
   "counts": {
     "landmatch": 72,
-    "processing": 17,
+    "processing": 18,
     "landhub": 25
   },
   "categories": {
@@ -1377,6 +1377,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "37c49a17-ea97-81f2-a2fd-f1fc475b261e",
+        "source": "processing",
+        "name": "Ірпінь",
+        "area": "0.06 га",
+        "price": "7 000 $",
+        "distance_to_kyiv": "28,2 км",
+        "cadastral": "3210900000:02:012:0133",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5151221167277,30.2617805381082",
+        "notion_url": "https://app.notion.com/p/37c49a17ea9781f2a2fdf1fc475b261e",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-6-sotok-blya-rpnsko-naberezhno-ID10aWf9.html",
+        "latitude": 50.5151221167277,
+        "longitude": 30.2617805381082,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "37949a17-ea97-818c-9a02-d823ed7e1617",
         "source": "processing",
