@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-11T03:00:25.042149Z",
+  "generated_at": "2026-06-11T03:05:26.937815Z",
   "counts": {
-    "landmatch": 73,
+    "landmatch": 72,
     "processing": 17,
     "landhub": 25
   },
@@ -21,25 +21,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-10-sotok-blya-golf-klubu-IDWBVwa.html",
         "latitude": 50.4962082292286,
         "longitude": 29.8488564430334,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "37449a17-ea97-8191-b276-d7cc1cacd396",
-        "source": "landmatch",
-        "name": "Гурівщина",
-        "area": "0.1 га",
-        "price": "12 000 $",
-        "distance_to_kyiv": "36,0 км",
-        "cadastral": "3222480800:08:002:0398",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222480800%3A08%3A002%3A0398",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4420814418227,30.0668281551486",
-        "notion_url": "https://app.notion.com/p/37449a17ea978191b276d7cc1cacd396",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-s-bucha-buchanskiy-rayon-ID10CsLT.html",
-        "latitude": 50.4420814418227,
-        "longitude": 30.0668281551486,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
