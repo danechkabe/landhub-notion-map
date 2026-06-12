@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-12T14:31:01.283871Z",
+  "generated_at": "2026-06-12T17:25:45.489279Z",
   "counts": {
-    "landmatch": 69,
+    "landmatch": 68,
     "processing": 19,
     "landhub": 25
   },
@@ -591,25 +591,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-yasnogorodka-vishgorodskiy-r-n-ID10uUsJ.html",
         "latitude": 50.8622136048698,
         "longitude": 30.4148220214872,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "36249a17-ea97-81d0-924b-ce90027e06de",
-        "source": "landmatch",
-        "name": "Устимівка",
-        "area": "0.25 га",
-        "price": "10 300 $",
-        "distance_to_kyiv": "79,3 км",
-        "cadastral": "3221488101:01:033:0021",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221488101%3A01%3A033%3A0021",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.9733799906686,29.9944464011306",
-        "notion_url": "https://app.notion.com/p/36249a17ea9781d0924bce90027e06de",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-blya-stavka-IDHPCv9.html",
-        "latitude": 49.9733799906686,
-        "longitude": 29.9944464011306,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
