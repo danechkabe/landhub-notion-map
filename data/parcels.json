@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-12T08:10:49.006084Z",
+  "generated_at": "2026-06-12T11:51:04.856047Z",
   "counts": {
     "landmatch": 69,
-    "processing": 18,
+    "processing": 19,
     "landhub": 25
   },
   "categories": {
@@ -1321,6 +1321,25 @@
     ],
     "processing": [
       {
+        "id": "37d49a17-ea97-8185-94d3-c0e8a8eab8ab",
+        "source": "processing",
+        "name": "Небрат",
+        "area": "0.25 га",
+        "price": "—",
+        "distance_to_kyiv": "60,1 км",
+        "cadastral": "3221086301:04:001:0046",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7006498722056,29.9493913980556",
+        "notion_url": "https://app.notion.com/p/37d49a17ea97818594d3c0e8a8eab8ab",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/35-sotok-vozle-ozera-prodam-uchastok-s-nebrat-borodyanskiy-r-n-IDJ35jt.html",
+        "latitude": 50.7006498722056,
+        "longitude": 29.9493913980556,
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
+      },
+      {
         "id": "37c49a17-ea97-81f2-a2fd-f1fc475b261e",
         "source": "processing",
         "name": "Ірпінь",
@@ -1334,10 +1353,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-6-sotok-blya-rpnsko-naberezhno-ID10aWf9.html",
         "latitude": 50.5151221167277,
         "longitude": 30.2617805381082,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "37949a17-ea97-818c-9a02-d823ed7e1617",
