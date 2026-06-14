@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-14T14:27:44.840403Z",
+  "generated_at": "2026-06-14T16:03:17.314717Z",
   "counts": {
-    "landmatch": 68,
+    "landmatch": 67,
     "processing": 19,
     "landhub": 25
   },
@@ -534,25 +534,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-15-sotih-gruzke-60km-vd-kiva-IDY36cq.html",
         "latitude": 50.2898936334748,
         "longitude": 29.7674421288336,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "36349a17-ea97-810d-ad3c-cb2840ea0000",
-        "source": "landmatch",
-        "name": "Кищинці",
-        "area": "0.25 га",
-        "price": "4 900 $",
-        "distance_to_kyiv": "80,5 км",
-        "cadastral": "3224983501:01:003:0003",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3224983501%3A01%3A003%3A0003",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.9977113697078,29.9453085550893",
-        "notion_url": "https://app.notion.com/p/36349a17ea97810dad3ccb2840ea0000",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-ID10uxXw.html",
-        "latitude": 49.9977113697078,
-        "longitude": 29.9453085550893,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
