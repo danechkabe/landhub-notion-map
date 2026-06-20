@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-20T13:24:32.934618Z",
+  "generated_at": "2026-06-20T15:19:47.219588Z",
   "counts": {
-    "landmatch": 68,
+    "landmatch": 67,
     "processing": 19,
     "landhub": 25
   },
@@ -458,25 +458,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDZP9XH.html",
         "latitude": 49.9178208225926,
         "longitude": 30.0962794217384,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "36649a17-ea97-8158-ab90-c9db19054da9",
-        "source": "landmatch",
-        "name": "Немішаєве",
-        "area": "0.08 га",
-        "price": "14 000 $",
-        "distance_to_kyiv": "45,8 км",
-        "cadastral": "3221055900:02:002:0304",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221055900%3A02%3A002%3A0304",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5460461744913,30.0775764975231",
-        "notion_url": "https://app.notion.com/p/36649a17ea978158ab90c9db19054da9",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/fasadna-dlyanka-8-sotok-tsentr-nemshavogo-svtlo-poruch-IDYfiHL.html",
-        "latitude": 50.5460461744913,
-        "longitude": 30.0775764975231,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
