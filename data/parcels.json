@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-22T02:08:42.713625Z",
+  "generated_at": "2026-06-22T07:38:48.909166Z",
   "counts": {
-    "landmatch": 61,
+    "landmatch": 62,
     "processing": 19,
     "landhub": 25
   },
@@ -344,6 +344,25 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-pd-zabudovu-star-petrvts-13-sotok-masiv-bukavitsya-IDYXKPd.html",
         "latitude": 50.6365716616566,
         "longitude": 30.4052369974057,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36849a17-ea97-8119-bbf5-ff6e8d321919",
+        "source": "landmatch",
+        "name": "Липовий Скиток",
+        "area": "0.0943 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "44,0 км",
+        "cadastral": "3221482002:04:004:0047",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3221482002%3A04%3A004%3A0047",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2805777274893,30.2194923461083",
+        "notion_url": "https://app.notion.com/p/36849a17ea978119bbf5ff6e8d321919",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-pd-zabudovu-IDXoBcv.html",
+        "latitude": 50.2805777274893,
+        "longitude": 30.2194923461083,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
