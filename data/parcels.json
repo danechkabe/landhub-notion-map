@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T05:37:12.992384Z",
+  "generated_at": "2026-06-24T08:41:42.275347Z",
   "counts": {
     "landmatch": 62,
     "processing": 19,
@@ -1188,6 +1188,25 @@
     ],
     "processing": [
       {
+        "id": "38949a17-ea97-81e2-90aa-d61dcc5d9e9a",
+        "source": "processing",
+        "name": "Кодаки",
+        "area": "0.12 га",
+        "price": "8 500 $",
+        "distance_to_kyiv": "56,8 км",
+        "cadastral": "3221483800:03:045:0009",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0914992257922,30.258852030282",
+        "notion_url": "https://app.notion.com/p/38949a17ea9781e290aad61dcc5d9e9a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnoviy-prodazh-dlyanka-12-sotok-blya-ozera-po-odesky-tras-ID10lSxx.html",
+        "latitude": 50.0914992257922,
+        "longitude": 30.258852030282,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
         "id": "37d49a17-ea97-8185-94d3-c0e8a8eab8ab",
         "source": "processing",
         "name": "Небрат",
@@ -1224,25 +1243,6 @@
         "marker_color": "#e49a42",
         "status_label": "На сайт ок. Але з олх не прибере",
         "status_key": "site_ok_olx_keeps"
-      },
-      {
-        "id": "37949a17-ea97-818c-9a02-d823ed7e1617",
-        "source": "processing",
-        "name": "Мотовилівка",
-        "area": "0.0895 га",
-        "price": "4 700 $",
-        "distance_to_kyiv": "71,1 км",
-        "cadastral": "3224987200:02:005:0581",
-        "big_map_url": "",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1646684207659,30.0295750203161",
-        "notion_url": "https://app.notion.com/p/37949a17ea97818c9a02d823ed7e1617",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-9-sotok-fastovskiy-rayon-IDEbsrd.html",
-        "latitude": 50.1646684207659,
-        "longitude": 30.0295750203161,
-        "marker_symbol": "📗",
-        "marker_color": "#54b66d",
-        "status_label": "Дає на реалізацію",
-        "status_key": "gives_to_sell"
       },
       {
         "id": "37949a17-ea97-8114-9431-f17a426181ea",
