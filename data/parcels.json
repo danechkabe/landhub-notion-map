@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-24T13:34:54.076040Z",
+  "generated_at": "2026-06-24T15:59:16.288647Z",
   "counts": {
-    "landmatch": 62,
+    "landmatch": 61,
     "processing": 19,
     "landhub": 25
   },
@@ -230,25 +230,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-10-sot-selo-kozhuhvka-fastvskiy-ra-n-vul-skfska-100metrv-do-lsu-IDYlPP2.html",
         "latitude": 50.2581816738489,
         "longitude": 30.2507177853843,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "36b49a17-ea97-81dd-9903-e281dcd4004c",
-        "source": "landmatch",
-        "name": "Бортники",
-        "area": "0.0543 га",
-        "price": "4 000 $",
-        "distance_to_kyiv": "82,4 км",
-        "cadastral": "3211200000:10:001:0333",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3211200000%3A10%3A001%3A0333",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0459276305819,29.885022616372",
-        "notion_url": "https://app.notion.com/p/36b49a17ea9781dd9903e281dcd4004c",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-dlya-sadvnitstva-ID10yzv7.html",
-        "latitude": 50.0459276305819,
-        "longitude": 29.885022616372,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
