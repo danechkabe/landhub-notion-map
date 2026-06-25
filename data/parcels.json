@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T02:07:12.191062Z",
+  "generated_at": "2026-06-25T06:17:53.251895Z",
   "counts": {
-    "landmatch": 61,
+    "landmatch": 60,
     "processing": 19,
     "landhub": 25
   },
@@ -211,25 +211,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDYinFM.html",
         "latitude": 50.2015546401725,
         "longitude": 30.2119240398396,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "36c49a17-ea97-8104-83a4-dabbb4cbaaa9",
-        "source": "landmatch",
-        "name": "Кожухівка",
-        "area": "0.0988 га",
-        "price": "13 000 $",
-        "distance_to_kyiv": "39,3 км",
-        "cadastral": "3221482003:02:030:0053",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221482003%3A02%3A030%3A0053",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2581816738489,30.2507177853843",
-        "notion_url": "https://app.notion.com/p/36c49a17ea97810483a4dabbb4cbaaa9",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-10-sot-selo-kozhuhvka-fastvskiy-ra-n-vul-skfska-100metrv-do-lsu-IDYlPP2.html",
-        "latitude": 50.2581816738489,
-        "longitude": 30.2507177853843,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
