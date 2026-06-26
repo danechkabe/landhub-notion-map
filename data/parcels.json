@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T23:58:05.964250Z",
+  "generated_at": "2026-06-26T03:22:42.037323Z",
   "counts": {
-    "landmatch": 60,
+    "landmatch": 59,
     "processing": 19,
     "landhub": 25
   },
@@ -192,25 +192,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ID1097bN.html",
         "latitude": 50.8004400239444,
         "longitude": 30.2812021145509,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "36d49a17-ea97-8164-bf91-c7b6fa001e1a",
-        "source": "landmatch",
-        "name": "Діброва",
-        "area": "0.1309 га",
-        "price": "8 300 $",
-        "distance_to_kyiv": "45,6 км",
-        "cadastral": "3221482101:01:007:0027",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221482101%3A01%3A007%3A0027",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2015546401725,30.2119240398396",
-        "notion_url": "https://app.notion.com/p/36d49a17ea978164bf91c7b6fa001e1a",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDYinFM.html",
-        "latitude": 50.2015546401725,
-        "longitude": 30.2119240398396,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
