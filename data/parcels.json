@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T14:55:31.124032Z",
+  "generated_at": "2026-06-28T16:01:48.691688Z",
   "counts": {
-    "landmatch": 54,
+    "landmatch": 53,
     "processing": 19,
     "landhub": 25
   },
@@ -116,25 +116,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-dimer-pd-zabudovu-IDXIYi1.html",
         "latitude": 50.7766393014945,
         "longitude": 30.310154816158,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "37049a17-ea97-812b-8b4d-e40f977de3d7",
-        "source": "landmatch",
-        "name": "Миколаївка",
-        "area": "0.1123 га",
-        "price": "7 000 $",
-        "distance_to_kyiv": "50,4 км",
-        "cadastral": "3221884400:08:269:0640",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221884400%3A08%3A269%3A0640",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7318502174113,30.2062826198553",
-        "notion_url": "https://app.notion.com/p/37049a17ea97812b8b4de40f977de3d7",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDITlTm.html",
-        "latitude": 50.7318502174113,
-        "longitude": 30.2062826198553,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
