@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29T01:54:20.573916Z",
+  "generated_at": "2026-06-29T06:27:24.699349Z",
   "counts": {
-    "landmatch": 53,
+    "landmatch": 54,
     "processing": 19,
     "landhub": 25
   },
@@ -306,6 +306,25 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemlyu-pd-zabudovu-v-malovnichomu-sel-salivonki-ID106xqe.html",
         "latitude": 49.9316400048887,
         "longitude": 30.2153870452598,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36449a17-ea97-8196-99ae-e0c6ebaa1bd4",
+        "source": "landmatch",
+        "name": "Перевіз",
+        "area": "0.1527 га",
+        "price": "10 500 $",
+        "distance_to_kyiv": "51,7 км",
+        "cadastral": "3221482202:02:016:0014",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3221482202%3A02%3A016%3A0014",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.247590050634,30.0084017290694",
+        "notion_url": "https://app.notion.com/p/36449a17ea97819699aee0c6ebaa1bd4",
+        "olx_url": "https://www.olx.ua/d/obyavlenie/zemelna-dlyanka-IDW5I77.html",
+        "latitude": 50.247590050634,
+        "longitude": 30.0084017290694,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
