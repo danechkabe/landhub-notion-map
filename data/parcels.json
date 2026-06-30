@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-30T05:53:21.784478Z",
+  "generated_at": "2026-06-30T08:53:38.389739Z",
   "counts": {
     "landmatch": 52,
-    "processing": 19,
+    "processing": 21,
     "landhub": 25
   },
   "categories": {
@@ -997,6 +997,44 @@
       }
     ],
     "processing": [
+      {
+        "id": "38f49a17-ea97-81c2-a300-e0521ed0b4b9",
+        "source": "processing",
+        "name": "Жорнівка",
+        "area": "0.0992 га",
+        "price": "9 000 $",
+        "distance_to_kyiv": "38,5 км",
+        "cadastral": "3222483600:04:017:5054",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3222010404904,30.1434274994254",
+        "notion_url": "https://app.notion.com/p/38f49a17ea9781c2a300e0521ed0b4b9",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-fastvskiy-kivo-svyatoshiskiy-rayon-s-knyazhich-10-sotok-IDQi9gq.html",
+        "latitude": 50.3222010404904,
+        "longitude": 30.1434274994254,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "38f49a17-ea97-8145-b7bd-d3c953562e38",
+        "source": "processing",
+        "name": "Колонщина",
+        "area": "0.2 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "45,4 км",
+        "cadastral": "3222782600:06:005:0017",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4608683097481,29.9520908354844",
+        "notion_url": "https://app.notion.com/p/38f49a17ea978145b7bdd3c953562e38",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ID10McGZ.html",
+        "latitude": 50.4608683097481,
+        "longitude": 29.9520908354844,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "38949a17-ea97-81e2-90aa-d61dcc5d9e9a",
         "source": "processing",
