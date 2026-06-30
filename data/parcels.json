@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-30T01:35:12.140137Z",
+  "generated_at": "2026-06-30T05:53:21.784478Z",
   "counts": {
-    "landmatch": 53,
+    "landmatch": 52,
     "processing": 19,
     "landhub": 25
   },
@@ -59,25 +59,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-6-sot-s-tomashvka-fastvskiy-r-n-kivska-obl-IDLqxPc.html",
         "latitude": 50.1898289176871,
         "longitude": 29.8541565032097,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "37049a17-ea97-811e-aa6a-f710bf684c36",
-        "source": "landmatch",
-        "name": "Забуччя",
-        "area": "0.1 га",
-        "price": "28 600 $",
-        "distance_to_kyiv": "31,8 км",
-        "cadastral": "3222484401:02:002:5102",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222484401%3A02%3A002%3A5102",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4786416123965,30.1994015247789",
-        "notion_url": "https://app.notion.com/p/37049a17ea97811eaa6af710bf684c36",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-10-sotok-u-dmitrvts-masiv-kuba-25-000-pd-zhitlovu-zabudovu-pravilna-forma-elektrika-poruch-oformlennya-1-ID10AMZc.html",
-        "latitude": 50.4786416123965,
-        "longitude": 30.1994015247789,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
