@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T00:19:09.477047Z",
+  "generated_at": "2026-07-01T04:59:31.379665Z",
   "counts": {
-    "landmatch": 52,
+    "landmatch": 53,
     "processing": 21,
     "landhub": 25
   },
@@ -135,6 +135,25 @@
         "olx_url": "https://www.olx.ua/d/obyavlenie/gorbovich-12-sotok-bez-koms-IDIpGQS.html",
         "latitude": 50.3918387923691,
         "longitude": 30.1724385915261,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36949a17-ea97-81a1-bc97-de6bf4db64d4",
+        "source": "landmatch",
+        "name": "Гореничі",
+        "area": "0.1126 га",
+        "price": "30 000 $",
+        "distance_to_kyiv": "28,5 км",
+        "cadastral": "3222482000:07:001:0112",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222482000%3A07%3A001%3A0112",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3958676099952,30.2034619098631",
+        "notion_url": "https://app.notion.com/p/36949a17ea9781a1bc97de6bf4db64d4",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-pod-zastroyku-IDYBkWG.html",
+        "latitude": 50.3958676099952,
+        "longitude": 30.2034619098631,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
