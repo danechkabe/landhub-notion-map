@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T14:04:17.303860Z",
+  "generated_at": "2026-07-01T16:37:56.511833Z",
   "counts": {
-    "landmatch": 53,
+    "landmatch": 52,
     "processing": 21,
     "landhub": 25
   },
@@ -344,25 +344,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-yasnogorodka-vishgorodskiy-r-n-ID10uUsJ.html",
         "latitude": 50.8622136048698,
         "longitude": 30.4148220214872,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "36149a17-ea97-8171-99ad-cd53a84e6c65",
-        "source": "landmatch",
-        "name": "Берестянка",
-        "area": "0.2 га",
-        "price": "2 500 $",
-        "distance_to_kyiv": "51,7 км",
-        "cadastral": "3221086302:03:002:0029",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221086302%3A03%3A002%3A0029",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6917788247567,29.9815555768035",
-        "notion_url": "https://app.notion.com/p/36149a17ea97817199adcd53a84e6c65",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-v-s-berestyanka-buchanskogo-r-n-IDWktvl.html",
-        "latitude": 50.6917788247567,
-        "longitude": 29.9815555768035,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
