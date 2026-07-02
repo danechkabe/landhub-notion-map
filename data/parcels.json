@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-02T14:35:31.715738Z",
+  "generated_at": "2026-07-02T16:24:34.475549Z",
   "counts": {
-    "landmatch": 52,
+    "landmatch": 51,
     "processing": 21,
     "landhub": 25
   },
@@ -331,6 +331,25 @@
         "status_key": ""
       },
       {
+        "id": "36349a17-ea97-810d-ad3c-cb2840ea0000",
+        "source": "landmatch",
+        "name": "Кищинці",
+        "area": "0.25 га",
+        "price": "4 900 $",
+        "distance_to_kyiv": "80,5 км",
+        "cadastral": "3224983501:01:003:0003",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3224983501%3A01%3A003%3A0003",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.9977113697078,29.9453085550893",
+        "notion_url": "https://app.notion.com/p/36349a17ea97810dad3ccb2840ea0000",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-ID10uxXw.html",
+        "latitude": 49.9977113697078,
+        "longitude": 29.9453085550893,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
         "id": "36249a17-ea97-8186-8ea9-d388df8724ee",
         "source": "landmatch",
         "name": "Ясногородка",
@@ -521,25 +540,6 @@
         "status_key": ""
       },
       {
-        "id": "35249a17-ea97-812a-a04f-ec0efecfd043",
-        "source": "landmatch",
-        "name": "Осиково",
-        "area": "0.1 га",
-        "price": "7 000 $",
-        "distance_to_kyiv": "48,4 км",
-        "cadastral": "3222784200:04:010:0055",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222784200%3A04%3A010%3A0055",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.32490237027,29.9974153331447",
-        "notion_url": "https://app.notion.com/p/35249a17ea97812aa04fec0efecfd043",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-zhivopisnomu-msts-s-osikove-fastvskiy-ray-IDY6IRw.html",
-        "latitude": 50.32490237027,
-        "longitude": 29.9974153331447,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
         "id": "35249a17-ea97-81c2-a720-ea0177361844",
         "source": "landmatch",
         "name": "Димер",
@@ -648,25 +648,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-v-sosnovomu-ls-gaz-svtlo-9-sotok-70-km-vd-kiva-ID10cBUF.html",
         "latitude": 50.1518630366238,
         "longitude": 29.9695720509134,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "33249a17-ea97-8197-bedd-ee74c8d79881",
-        "source": "landmatch",
-        "name": "Тарасівщина",
-        "area": "0.15 га",
-        "price": "8 000 $",
-        "distance_to_kyiv": "44,8 км",
-        "cadastral": "3221882002:08:262:0160",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221882002%3A08%3A262%3A0160",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7143486163161,30.2183335193918",
-        "notion_url": "https://app.notion.com/p/33249a17ea978197beddee74c8d79881",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-15-sotok-s-tarasvschina-IDYqD1P.html",
-        "latitude": 50.7143486163161,
-        "longitude": 30.2183335193918,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
