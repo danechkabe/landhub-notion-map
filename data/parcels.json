@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T00:07:31.380732Z",
+  "generated_at": "2026-07-03T04:05:11.708669Z",
   "counts": {
-    "landmatch": 51,
+    "landmatch": 50,
     "processing": 21,
     "landhub": 25
   },
@@ -21,25 +21,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-10-sotok-blya-golf-klubu-IDWBVwa.html",
         "latitude": 50.4962082292286,
         "longitude": 29.8488564430334,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "37449a17-ea97-8142-a617-ebaa8b354edd",
-        "source": "landmatch",
-        "name": "Михайлівка-Рубежівка",
-        "area": "0.1 га",
-        "price": "13 000 $",
-        "distance_to_kyiv": "36,1 км",
-        "cadastral": "3222485200:05:001:5170",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222485200%3A05%3A001%3A5170",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4714696295276,30.1210280078159",
-        "notion_url": "https://app.notion.com/p/37449a17ea978142a617ebaa8b354edd",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-10-sot-blya-vodoshovischa-rubezhvka-lsne-ID10C2Bm.html",
-        "latitude": 50.4714696295276,
-        "longitude": 30.1210280078159,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
