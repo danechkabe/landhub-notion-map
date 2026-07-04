@@ -1,31 +1,12 @@
 {
-  "generated_at": "2026-07-04T14:12:27.765160Z",
+  "generated_at": "2026-07-04T15:20:56.988168Z",
   "counts": {
-    "landmatch": 50,
+    "landmatch": 49,
     "processing": 21,
     "landhub": 25
   },
   "categories": {
     "landmatch": [
-      {
-        "id": "37549a17-ea97-8150-a7a0-eb3dc44e3f98",
-        "source": "landmatch",
-        "name": "Гавронщина",
-        "area": "0.13 га",
-        "price": "7 000 $",
-        "distance_to_kyiv": "54,2 км",
-        "cadastral": "3222781800:02:008:0019",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222781800%3A02%3A008%3A0019",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4962082292286,29.8488564430334",
-        "notion_url": "https://app.notion.com/p/37549a17ea978150a7a0eb3dc44e3f98",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-10-sotok-blya-golf-klubu-IDWBVwa.html",
-        "latitude": 50.4962082292286,
-        "longitude": 29.8488564430334,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
       {
         "id": "37049a17-ea97-8185-8789-e1c1940c2ff1",
         "source": "landmatch",
