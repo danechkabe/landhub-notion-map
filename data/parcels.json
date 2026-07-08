@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T12:59:57.354390Z",
+  "generated_at": "2026-07-08T15:22:33.318527Z",
   "counts": {
     "landmatch": 50,
     "processing": 21,
@@ -7,6 +7,25 @@
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "39749a17-ea97-8110-be93-fc2c4df44b1c",
+        "source": "landmatch",
+        "name": "Ясногородка",
+        "area": "0.1486 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "55,7 км",
+        "cadastral": "3221889001:21:065:0506",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3221889001%3A21%3A065%3A0506",
+        "google_maps_url": "https://google.com/maps/search/?api=1&query=50.8548589654851,30.3995461700808",
+        "notion_url": "https://app.notion.com/p/39749a17ea978110be93fc2c4df44b1c",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazha-zemelnogo-uchastka-30-sotok-v-yasnogorodke-sobstvennik-IDKjh77.html",
+        "latitude": 50.8548589654851,
+        "longitude": 30.3995461700808,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "39649a17-ea97-8112-87b6-e87143f685e6",
         "source": "landmatch",
@@ -40,25 +59,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-dimer-pd-zabudovu-IDXIYi1.html",
         "latitude": 50.7766393014945,
         "longitude": 30.310154816158,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "36d49a17-ea97-81c6-8279-f9c93bebc4fb",
-        "source": "landmatch",
-        "name": "Бабинці",
-        "area": "0.2109 га",
-        "price": "13 000 $",
-        "distance_to_kyiv": "56,2 км",
-        "cadastral": "3221055300:02:027:0051",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221055300%3A02%3A027%3A0051",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6476917669097,30.0152199420759",
-        "notion_url": "https://app.notion.com/p/36d49a17ea9781c68279f9c93bebc4fb",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-21-sotka-pd-budvnitstvo-poryad-elektrika-gaz-ID10zuKz.html",
-        "latitude": 50.6476917669097,
-        "longitude": 30.0152199420759,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
