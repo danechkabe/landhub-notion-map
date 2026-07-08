@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T07:04:04.267042Z",
+  "generated_at": "2026-07-08T09:33:41.888345Z",
   "counts": {
     "landmatch": 50,
     "processing": 21,
@@ -354,7 +354,7 @@
         "source": "landmatch",
         "name": "Ясногородка",
         "area": "0.1 га",
-        "price": "5 000 $",
+        "price": "7 000 $",
         "distance_to_kyiv": "57,4 км",
         "cadastral": "3221889000:21:087:0347",
         "big_map_url": "https://map.landhub.com.ua/?cad=3221889000%3A21%3A087%3A0347",
