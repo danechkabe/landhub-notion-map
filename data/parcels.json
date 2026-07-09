@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-09T00:09:43.451433Z",
+  "generated_at": "2026-07-09T04:10:36.641136Z",
   "counts": {
-    "landmatch": 50,
+    "landmatch": 51,
     "processing": 21,
     "landhub": 25
   },
@@ -667,6 +667,25 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-v-sosnovomu-ls-gaz-svtlo-9-sotok-70-km-vd-kiva-ID10cBUF.html",
         "latitude": 50.1518630366238,
         "longitude": 29.9695720509134,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "33149a17-ea97-8197-bfed-ff09f4d9c1c4",
+        "source": "landmatch",
+        "name": "Вільшаниця",
+        "area": "0.4 га",
+        "price": "5 000 $",
+        "distance_to_kyiv": "109 км",
+        "cadastral": "3223784001:04:014:0004",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3223784001%3A04%3A014%3A0004",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.6840842830731,30.6100034748443",
+        "notion_url": "https://app.notion.com/p/33149a17ea978197bfedff09f4d9c1c4",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-40sot-z-teplitseyu-pd-akvaponku-IDT2tqu.html",
+        "latitude": 49.6840842830731,
+        "longitude": 30.6100034748443,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
