@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-12T14:46:01.702988Z",
+  "generated_at": "2026-07-12T15:47:52.938697Z",
   "counts": {
-    "landmatch": 50,
+    "landmatch": 51,
     "processing": 21,
     "landhub": 25
   },
@@ -59,6 +59,25 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-dimer-pd-zabudovu-IDXIYi1.html",
         "latitude": 50.7766393014945,
         "longitude": 30.310154816158,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36e49a17-ea97-810a-b1bc-d7cb3bef2e32",
+        "source": "landmatch",
+        "name": "Бузова",
+        "area": "0.12 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "39,9 км",
+        "cadastral": "3222480801:01:007:0118",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222480801%3A01%3A007%3A0118",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4012760527848,30.0421065185296",
+        "notion_url": "https://app.notion.com/p/36e49a17ea97810ab1bcd7cb3bef2e32",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-0-1200ga-IDXlNYQ.html",
+        "latitude": 50.4012760527848,
+        "longitude": 30.0421065185296,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
