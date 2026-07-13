@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T00:10:09.673045Z",
+  "generated_at": "2026-07-13T03:55:56.178028Z",
   "counts": {
-    "landmatch": 51,
+    "landmatch": 50,
     "processing": 21,
     "landhub": 25
   },
@@ -40,25 +40,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-yasnogorodts-vd-vlasnika-IDMJMdf.html?search_reason=search%7Corganic",
         "latitude": 50.8607365325324,
         "longitude": 30.4117632579448,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "37049a17-ea97-8185-8789-e1c1940c2ff1",
-        "source": "landmatch",
-        "name": "Димер",
-        "area": "0.0941 га",
-        "price": "7 500 $",
-        "distance_to_kyiv": "46,2 км",
-        "cadastral": "3221855300:07:271:6031",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221855300%3A07%3A271%3A6031",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7766393014945,30.310154816158",
-        "notion_url": "https://app.notion.com/p/37049a17ea9781858789e1c1940c2ff1",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-dimer-pd-zabudovu-IDXIYi1.html",
-        "latitude": 50.7766393014945,
-        "longitude": 30.310154816158,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
