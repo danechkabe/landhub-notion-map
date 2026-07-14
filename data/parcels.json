@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T00:04:03.228946Z",
+  "generated_at": "2026-07-14T03:29:16.165427Z",
   "counts": {
-    "landmatch": 50,
+    "landmatch": 49,
     "processing": 21,
     "landhub": 25
   },
@@ -477,25 +477,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-pd-zabudovu-dokumenti-na-rukah-IDWdVk7.html",
         "latitude": 50.0154243768438,
         "longitude": 29.745020179342,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "35c49a17-ea97-8195-a7cc-e894ed900b87",
-        "source": "landmatch",
-        "name": "Копилів",
-        "area": "0.14 га",
-        "price": "3 200 $",
-        "distance_to_kyiv": "47,2 км",
-        "cadastral": "3222783201:01:004:0136",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222783201%3A01%3A004%3A0136",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4175864000877,29.8981649689787",
-        "notion_url": "https://app.notion.com/p/35c49a17ea978195a7cce894ed900b87",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDQxBEX.html",
-        "latitude": 50.4175864000877,
-        "longitude": 29.8981649689787,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
