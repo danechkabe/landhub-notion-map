@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T00:58:14.449985Z",
+  "generated_at": "2026-07-15T03:55:53.652776Z",
   "counts": {
-    "landmatch": 77,
+    "landmatch": 76,
     "processing": 21,
     "landhub": 25
   },
@@ -306,25 +306,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-za-6500-u-e-16sot-IDYaSxN.html",
         "latitude": 50.5113462291521,
         "longitude": 30.0663116238602,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "38049a17-ea97-81c2-9146-f552d5901aee",
-        "source": "landmatch",
-        "name": "Германівка",
-        "area": "0.2253 га",
-        "price": "7 500 $",
-        "distance_to_kyiv": "62,2 км",
-        "cadastral": "3223184601:01:038:0091",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3223184601%3A01%3A038%3A0091",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.9932561101631,30.5339026955501",
-        "notion_url": "https://app.notion.com/p/38049a17ea9781c29146f552d5901aee",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-IDYaIjj.html",
-        "latitude": 49.9932561101631,
-        "longitude": 30.5339026955501,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
