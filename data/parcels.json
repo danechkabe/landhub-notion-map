@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T18:52:40.553806Z",
+  "generated_at": "2026-07-15T20:00:42.673938Z",
   "counts": {
     "landmatch": 77,
-    "processing": 21,
+    "processing": 22,
     "landhub": 25
   },
   "categories": {
@@ -1472,6 +1472,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "39e49a17-ea97-819e-8680-fca566bcfede",
+        "source": "processing",
+        "name": "Великі Дмитровичі",
+        "area": "0.25 га",
+        "price": "4 000 $",
+        "distance_to_kyiv": "39,3 км",
+        "cadastral": "3223180500:06:012:0031",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2149962845652,30.5776551414631",
+        "notion_url": "https://app.notion.com/p/39e49a17ea97819e8680fca566bcfede",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-bez-koms-ID105P67.html",
+        "latitude": 50.2149962845652,
+        "longitude": 30.5776551414631,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "38f49a17-ea97-81c2-a300-e0521ed0b4b9",
         "source": "processing",
