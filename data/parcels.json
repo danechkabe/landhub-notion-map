@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T01:09:21.935281Z",
+  "generated_at": "2026-07-17T04:21:09.235799Z",
   "counts": {
-    "landmatch": 77,
+    "landmatch": 76,
     "processing": 22,
     "landhub": 25
   },
@@ -920,25 +920,6 @@
         "status_key": ""
       },
       {
-        "id": "35f49a17-ea97-815c-976e-f142dd5b890c",
-        "source": "landmatch",
-        "name": "Запруддя",
-        "area": "0.25 га",
-        "price": "6 700 $",
-        "distance_to_kyiv": "86,4 км",
-        "cadastral": "3223782001:02:014:0071",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3223782001%3A02%3A014%3A0071",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8004978407221,30.6317157552615",
-        "notion_url": "https://app.notion.com/p/35f49a17ea97815c976ef142dd5b890c",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zeml-pd-zabudovu-sad-teplits-IDZYvHS.html",
-        "latitude": 49.8004978407221,
-        "longitude": 30.6317157552615,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
         "id": "35f49a17-ea97-811b-b374-ee9a10640b22",
         "source": "landmatch",
         "name": "Северинівка",
@@ -1072,6 +1053,25 @@
         "status_key": ""
       },
       {
+        "id": "33d49a17-ea97-8193-8a86-d230cf6bda91",
+        "source": "landmatch",
+        "name": "Жуківці",
+        "area": "0.12 га",
+        "price": "11 000 $",
+        "distance_to_kyiv": "52,5 км",
+        "cadastral": "3223183800:05:003:0010",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3223183800%3A05%3A003%3A0010",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0738863416033,30.7868637879817",
+        "notion_url": "https://app.notion.com/p/33d49a17ea9781938a86d230cf6bda91",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/12-sot-pd-sadvnitstvo-zhukvts-obuhvskiy-rayon-garniy-kravid-IDZiqJT.html",
+        "latitude": 50.0738863416033,
+        "longitude": 30.7868637879817,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
         "id": "33a49a17-ea97-810c-b330-c8323be117c2",
         "source": "landmatch",
         "name": "Вишеград",
@@ -1104,25 +1104,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/starye-bezradichi-s-kapustyana-zemelnyy-uchastok-25-sotok-IDLJnmO.html",
         "latitude": 50.16406419885,
         "longitude": 30.5288766215354,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "33849a17-ea97-814e-a4a2-ccc30b02c75d",
-        "source": "landmatch",
-        "name": "Рови",
-        "area": "0.25 га",
-        "price": "7 500 $",
-        "distance_to_kyiv": "74,3 км",
-        "cadastral": "3221887001:17:129:0153",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221887001%3A17%3A129%3A0153",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8805809592698,30.3230501320616",
-        "notion_url": "https://app.notion.com/p/33849a17ea97814ea4a2ccc30b02c75d",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/selo-rovi-25-sotok-IDLVQbZ.html",
-        "latitude": 50.8805809592698,
-        "longitude": 30.3230501320616,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
