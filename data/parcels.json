@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17T14:44:22.703449Z",
+  "generated_at": "2026-07-17T16:02:16.659364Z",
   "counts": {
-    "landmatch": 76,
-    "processing": 22,
+    "landmatch": 75,
+    "processing": 24,
     "landhub": 25
   },
   "categories": {
@@ -21,25 +21,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazha-zemelnogo-uchastka-30-sotok-v-yasnogorodke-sobstvennik-IDKjh77.html",
         "latitude": 50.8548589654851,
         "longitude": 30.3995461700808,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "39649a17-ea97-8112-87b6-e87143f685e6",
-        "source": "landmatch",
-        "name": "Ясногородка",
-        "area": "0.1 га",
-        "price": "10 000$",
-        "distance_to_kyiv": "57,1 км",
-        "cadastral": "3221889000:21:087:6387",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221889000%3A21%3A087%3A6387",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8607365325324,30.4117632579448",
-        "notion_url": "https://app.notion.com/p/39649a17ea97811287b6e87143f685e6",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-yasnogorodts-vd-vlasnika-IDMJMdf.html?search_reason=search%7Corganic",
-        "latitude": 50.8607365325324,
-        "longitude": 30.4117632579448,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
@@ -1453,6 +1434,44 @@
       }
     ],
     "processing": [
+      {
+        "id": "3a049a17-ea97-8184-a38a-d5e185a2afe8",
+        "source": "processing",
+        "name": "Музичі",
+        "area": "0.2 га",
+        "price": "24 000 $",
+        "distance_to_kyiv": "37,3 км",
+        "cadastral": "3222485502:01:003:0020",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.354710033238,30.1333124693263",
+        "notion_url": "https://app.notion.com/p/3a049a17ea978184a38ad5e185a2afe8",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-20-sot-muzich-pd-zabudovu-asfalt-ozero-kiv-30-km-ID10F09B.html",
+        "latitude": 50.354710033238,
+        "longitude": 30.1333124693263,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "3a049a17-ea97-81c4-acb8-c8dab1bb0fcf",
+        "source": "processing",
+        "name": "Фастів",
+        "area": "0.0752 га",
+        "price": "4 700 $",
+        "distance_to_kyiv": "71,9 км",
+        "cadastral": "3224984500:01:002:0440",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1247820279958,30.0170300473734",
+        "notion_url": "https://app.notion.com/p/3a049a17ea9781c4acb8c8dab1bb0fcf",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-motovilovskaya-slobodka-fastovskiy-rayon-7-5-sotok-IDYpPUH.html",
+        "latitude": 50.1247820279958,
+        "longitude": 30.0170300473734,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "39e49a17-ea97-819e-8680-fca566bcfede",
         "source": "processing",
