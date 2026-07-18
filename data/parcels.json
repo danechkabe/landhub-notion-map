@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T00:08:27.207563Z",
+  "generated_at": "2026-07-18T03:27:14.325181Z",
   "counts": {
-    "landmatch": 75,
+    "landmatch": 76,
     "processing": 24,
     "landhub": 25
   },
@@ -838,6 +838,25 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-ID10uxXw.html",
         "latitude": 49.9977113697078,
         "longitude": 29.9453085550893,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36349a17-ea97-81fa-bfed-c9a566bc5f13",
+        "source": "landmatch",
+        "name": "Узин",
+        "area": "0.1 га",
+        "price": "5 500 $",
+        "distance_to_kyiv": "80,8 км",
+        "cadastral": "3220410500:03:019:0011",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3220410500%3A03%3A019%3A0011",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8613781572099,30.4453198253831",
+        "notion_url": "https://app.notion.com/p/36349a17ea9781fabfedc9a566bc5f13",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-abo-obmnyayu-zemelnu-dlyanku-10-sotok-m-uzin-IDXqsLQ.html",
+        "latitude": 49.8613781572099,
+        "longitude": 30.4453198253831,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
