@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T01:11:21.297784Z",
+  "generated_at": "2026-07-20T04:49:37.995123Z",
   "counts": {
-    "landmatch": 73,
+    "landmatch": 72,
     "processing": 24,
     "landhub": 25
   },
@@ -711,25 +711,6 @@
         "status_key": ""
       },
       {
-        "id": "36649a17-ea97-8103-873d-c6f334536d9b",
-        "source": "landmatch",
-        "name": "Пологи",
-        "area": "0.25 га",
-        "price": "7 100 $",
-        "distance_to_kyiv": "81,8 км",
-        "cadastral": "3221486701:01:007:0007",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221486701%3A01%3A007%3A0007",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.9178208225926,30.0962794217384",
-        "notion_url": "https://app.notion.com/p/36649a17ea978103873dc6f334536d9b",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-IDZP9XH.html",
-        "latitude": 49.9178208225926,
-        "longitude": 30.0962794217384,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
         "id": "36649a17-ea97-81d5-9be2-e0edf598cdbb",
         "source": "landmatch",
         "name": "Гостомель",
@@ -863,6 +844,25 @@
         "status_key": ""
       },
       {
+        "id": "36149a17-ea97-8147-93df-de5bed56d612",
+        "source": "landmatch",
+        "name": "Велика Бугаївка",
+        "area": "0.1195 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "43,5 км",
+        "cadastral": "3221480500:05:002:0199",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3221480500%3A05%3A002%3A0199",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1917642341065,30.4161245786492",
+        "notion_url": "https://app.notion.com/p/36149a17ea97814793dfde5bed56d612",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-uchastok-zemlya-24-sotki-velika-bugavka-IDUU7xO.html",
+        "latitude": 50.1917642341065,
+        "longitude": 30.4161245786492,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
         "id": "36149a17-ea97-81d5-926b-ce16c34b4827",
         "source": "landmatch",
         "name": "Ясногородка",
@@ -876,25 +876,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/yasnogorodka-uchastok-12-sotok-pod-zastroyku-IDSS134.html",
         "latitude": 50.8420663885596,
         "longitude": 30.3881151080903,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "35f49a17-ea97-811b-b374-ee9a10640b22",
-        "source": "landmatch",
-        "name": "Северинівка",
-        "area": "0.15 га",
-        "price": "9 000 $",
-        "distance_to_kyiv": "44,2 км",
-        "cadastral": "3222783202:04:007:0059",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222783202%3A04%3A007%3A0059",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4186338717814,29.9811737928078",
-        "notion_url": "https://app.notion.com/p/35f49a17ea97811bb374ee9a10640b22",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodam-zemelnu-dlyanku-v-s-severinvka-0-15-ga-IDZ6qur.html",
-        "latitude": 50.4186338717814,
-        "longitude": 29.9811737928078,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
