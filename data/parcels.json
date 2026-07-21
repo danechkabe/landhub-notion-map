@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T00:57:28.953767Z",
+  "generated_at": "2026-07-21T04:11:55.291877Z",
   "counts": {
-    "landmatch": 73,
+    "landmatch": 75,
     "processing": 24,
     "landhub": 25
   },
@@ -901,6 +901,25 @@
         "status_key": ""
       },
       {
+        "id": "35f49a17-ea97-811b-b374-ee9a10640b22",
+        "source": "landmatch",
+        "name": "Северинівка",
+        "area": "0.15 га",
+        "price": "9 000 $",
+        "distance_to_kyiv": "44,2 км",
+        "cadastral": "3222783202:04:007:0059",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222783202%3A04%3A007%3A0059",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4186338717814,29.9811737928078",
+        "notion_url": "https://app.notion.com/p/35f49a17ea97811bb374ee9a10640b22",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodam-zemelnu-dlyanku-v-s-severinvka-0-15-ga-IDZ6qur.html",
+        "latitude": 50.4186338717814,
+        "longitude": 29.9811737928078,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
         "id": "35e49a17-ea97-81c8-8ba2-eff2af98e428",
         "source": "landmatch",
         "name": "Синяк",
@@ -1104,6 +1123,25 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnovo-prodatsya-zemelna-dlyanka-pd-zabudovu-IDUzC0L.html",
         "latitude": 50.1218159178426,
         "longitude": 30.2283811758446,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "32d49a17-ea97-81b3-9651-ccb4f7abd553",
+        "source": "landmatch",
+        "name": "Ірпінь",
+        "area": "0.12 га",
+        "price": "8 000 $",
+        "distance_to_kyiv": "29,9 км",
+        "cadastral": "3210945900:01:086:7670",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3210945900%3A01%3A086%3A7670",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.6064367438169,30.2663260134458",
+        "notion_url": "https://app.notion.com/p/32d49a17ea9781b39651ccb4f7abd553",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-kivska-obl-m-rpn-ssch-rada-gostomelskatsna-IDWwGn3.html",
+        "latitude": 50.6064367438169,
+        "longitude": 30.2663260134458,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
