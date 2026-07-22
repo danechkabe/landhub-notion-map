@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-22T15:00:15.139175Z",
+  "generated_at": "2026-07-22T16:20:47.764200Z",
   "counts": {
-    "landmatch": 75,
+    "landmatch": 73,
     "processing": 24,
     "landhub": 25
   },
@@ -616,25 +616,6 @@
         "status_key": ""
       },
       {
-        "id": "36949a17-ea97-818f-9673-f33431b10057",
-        "source": "landmatch",
-        "name": "Горбовичі",
-        "area": "0.12 га",
-        "price": "18 000 $",
-        "distance_to_kyiv": "33,2 км",
-        "cadastral": "3222488200:07:002:5138",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222488200%3A07%3A002%3A5138",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3918387923691,30.1724385915261",
-        "notion_url": "https://app.notion.com/p/36949a17ea97818f9673f33431b10057",
-        "olx_url": "https://www.olx.ua/d/obyavlenie/gorbovich-12-sotok-bez-koms-IDIpGQS.html",
-        "latitude": 50.3918387923691,
-        "longitude": 30.1724385915261,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
         "id": "36949a17-ea97-81a1-bc97-de6bf4db64d4",
         "source": "landmatch",
         "name": "Гореничі",
@@ -648,25 +629,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-pod-zastroyku-IDYBkWG.html",
         "latitude": 50.3958676099952,
         "longitude": 30.2034619098631,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "36849a17-ea97-8165-94a5-efab628dd763",
-        "source": "landmatch",
-        "name": "Червоне",
-        "area": "0.1241 га",
-        "price": "10 400 $",
-        "distance_to_kyiv": "48,6 км",
-        "cadastral": "3221482805:04:009:0015",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221482805%3A04%3A009%3A0015",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.1700283978879,30.2739347439023",
-        "notion_url": "https://app.notion.com/p/36849a17ea97816594a5efab628dd763",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-s-chervone-vasilkvskiy-r-on-IDYpgil.html",
-        "latitude": 50.1700283978879,
-        "longitude": 30.2739347439023,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
