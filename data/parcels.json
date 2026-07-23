@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-23T15:08:09.648882Z",
+  "generated_at": "2026-07-23T16:43:20.859134Z",
   "counts": {
-    "landmatch": 70,
+    "landmatch": 71,
     "processing": 24,
     "landhub": 25
   },
@@ -914,6 +914,25 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-s-nescherv-obuhvskiy-r-n-kivska-oblast-ID1031Dd.html",
         "latitude": 50.1425460437495,
         "longitude": 30.6203924911051,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "34449a17-ea97-81ed-9dfe-d11ccc1aa5b3",
+        "source": "landmatch",
+        "name": "Немішаєве",
+        "area": "0.08 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "44,8 км",
+        "cadastral": "3221055900:02:002:0151",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3221055900%3A02%3A002%3A0151",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.542683797961,30.0670751918517",
+        "notion_url": "https://app.notion.com/p/34449a17ea9781ed9dfed11ccc1aa5b3",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-IDZeucK.html",
+        "latitude": 50.542683797961,
+        "longitude": 30.0670751918517,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
