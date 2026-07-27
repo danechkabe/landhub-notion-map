@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-27T14:21:27.216872Z",
+  "generated_at": "2026-07-27T16:36:52.718448Z",
   "counts": {
-    "landmatch": 72,
+    "landmatch": 73,
     "processing": 24,
     "landhub": 25
   },
@@ -933,6 +933,25 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-s-nescherv-obuhvskiy-r-n-kivska-oblast-ID1031Dd.html",
         "latitude": 50.1425460437495,
         "longitude": 30.6203924911051,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "35249a17-ea97-81c2-a720-ea0177361844",
+        "source": "landmatch",
+        "name": "Димер",
+        "area": "0.15 га",
+        "price": "8 400 $",
+        "distance_to_kyiv": "46,7 км",
+        "cadastral": "3221855300:19:069:0181",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3221855300%3A19%3A069%3A0181",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7921102976568,30.3073790219301",
+        "notion_url": "https://app.notion.com/p/35249a17ea9781c2a720ea0177361844",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kupuyte-dlyanku-v-dimer-garne-mstse-dlya-vashogo-maybutnogo-budinku-IDXN9LQ.html",
+        "latitude": 50.7921102976568,
+        "longitude": 30.3073790219301,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
