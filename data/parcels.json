@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30T01:00:41.201354Z",
+  "generated_at": "2026-07-30T04:16:23.799444Z",
   "counts": {
-    "landmatch": 71,
+    "landmatch": 70,
     "processing": 24,
     "landhub": 25
   },
@@ -154,25 +154,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-vasilkv-msto-20sotok-IDVuh9q.html",
         "latitude": 50.1924371192099,
         "longitude": 30.3397363384641,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "38f49a17-ea97-81b5-8358-f3dcd2f552de",
-        "source": "landmatch",
-        "name": "Ходосівка",
-        "area": "0.1168 га",
-        "price": "15 000 $",
-        "distance_to_kyiv": "27,9 км",
-        "cadastral": "3222487000:04:001:5105",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222487000%3A04%3A001%3A5105",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.251392737244,30.5040831196937",
-        "notion_url": "https://app.notion.com/p/38f49a17ea9781b58358f3dcd2f552de",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-v-s-hodosvka-ID10AkAy.html",
-        "latitude": 50.251392737244,
-        "longitude": 30.5040831196937,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
