@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T14:20:29.261585Z",
+  "generated_at": "2026-08-01T15:33:28.244464Z",
   "counts": {
-    "landmatch": 84,
+    "landmatch": 82,
     "processing": 24,
     "landhub": 25
   },
@@ -521,25 +521,6 @@
         "status_key": ""
       },
       {
-        "id": "36a49a17-ea97-8180-afe9-ca7cf936629e",
-        "source": "landmatch",
-        "name": "Біла Церква",
-        "area": "0.0079 га",
-        "price": "7 000 $",
-        "distance_to_kyiv": "95,8 км",
-        "cadastral": "3220488300:05:008:0375",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3220488300%3A05%3A008%3A0375",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8095653535469,30.041459731525",
-        "notion_url": "https://app.notion.com/p/36a49a17ea978180afe9ca7cf936629e",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/privatizovana-dlyanka-pd-garazh-u-mst-ID10yt61.html",
-        "latitude": 49.8095653535469,
-        "longitude": 30.041459731525,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
         "id": "36a49a17-ea97-815c-bde7-cadb2f846f7e",
         "source": "landmatch",
         "name": "Ярошівка",
@@ -914,25 +895,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-15-sotih-gruzke-60km-vd-kiva-IDY36cq.html",
         "latitude": 50.2898936334748,
         "longitude": 29.7674421288336,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "36349a17-ea97-810d-ad3c-cb2840ea0000",
-        "source": "landmatch",
-        "name": "Кищинці",
-        "area": "0.25 га",
-        "price": "4 900 $",
-        "distance_to_kyiv": "80,5 км",
-        "cadastral": "3224983501:01:003:0003",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3224983501%3A01%3A003%3A0003",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.9977113697078,29.9453085550893",
-        "notion_url": "https://app.notion.com/p/36349a17ea97810dad3ccb2840ea0000",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-ID10uxXw.html",
-        "latitude": 49.9977113697078,
-        "longitude": 29.9453085550893,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
