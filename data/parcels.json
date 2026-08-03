@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T14:12:24.461536Z",
+  "generated_at": "2026-08-03T16:39:40.094348Z",
   "counts": {
-    "landmatch": 82,
+    "landmatch": 83,
     "processing": 24,
     "landhub": 25
   },
@@ -306,6 +306,25 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ID10M198.html",
         "latitude": 50.4610684645482,
         "longitude": 29.9514260821742,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "38949a17-ea97-81e7-9209-ca0610d9f727",
+        "source": "landmatch",
+        "name": "Козинці",
+        "area": "0.1579 га",
+        "price": "8 500 $",
+        "distance_to_kyiv": "51,3 км",
+        "cadastral": "3221083501:01:010:0095",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3221083501%3A01%3A010%3A0095",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5113462291521,30.0663116238602",
+        "notion_url": "https://app.notion.com/p/38949a17ea9781e79209ca0610d9f727",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-za-6500-u-e-16sot-IDYaSxN.html",
+        "latitude": 50.5113462291521,
+        "longitude": 30.0663116238602,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
