@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T00:54:14.570769Z",
+  "generated_at": "2026-08-05T03:52:04.883836Z",
   "counts": {
     "landmatch": 87,
     "processing": 24,
@@ -255,25 +255,6 @@
         "status_key": ""
       },
       {
-        "id": "39549a17-ea97-81d9-b94d-def8ab18f348",
-        "source": "landmatch",
-        "name": "Хмільна",
-        "area": "0.12 га",
-        "price": "5 000 $",
-        "distance_to_kyiv": "49,4 км",
-        "cadastral": "3222480800:06:010:5135",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222480800%3A06%3A010%3A5135",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4863126286601,30.020475086488",
-        "notion_url": "https://app.notion.com/p/39549a17ea9781d9b94ddef8ab18f348",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/srochno-prodam-uchastok-kievo-svyatoshinskiy-r-n-s-hmelnaya-IDlRKA2.html",
-        "latitude": 50.4863126286601,
-        "longitude": 30.020475086488,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
         "id": "39549a17-ea97-8170-9d25-e053660f876f",
         "source": "landmatch",
         "name": "Ясногородка",
@@ -363,6 +344,25 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-ID10M198.html",
         "latitude": 50.4610684645482,
         "longitude": 29.9514260821742,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "38f49a17-ea97-8138-b3c6-d6bdfb79a051",
+        "source": "landmatch",
+        "name": "Ясногородка",
+        "area": "0.24 га",
+        "price": "6 500 $",
+        "distance_to_kyiv": "55,1 км",
+        "cadastral": "3221889001:19:277:0153",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3221889001%3A19%3A277%3A0153",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.8462269841605,30.3910750569515",
+        "notion_url": "https://app.notion.com/p/38f49a17ea978138b3c6d6bdfb79a051",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-yasnogorodka-vishgorodskogo-r-nu-ID10zUvT.html",
+        "latitude": 50.8462269841605,
+        "longitude": 30.3910750569515,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
