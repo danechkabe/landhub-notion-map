@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T06:17:55.728788Z",
+  "generated_at": "2026-08-05T09:15:31.313278Z",
   "counts": {
     "landmatch": 87,
-    "processing": 24,
+    "processing": 25,
     "landhub": 25
   },
   "categories": {
@@ -1662,6 +1662,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "3b349a17-ea97-819b-9cd4-ea32a05aaa59",
+        "source": "processing",
+        "name": "Ніжиловичі",
+        "area": "0.25 га",
+        "price": "2 200 $",
+        "distance_to_kyiv": "76,0 км",
+        "cadastral": "3222785801:01:003:0092",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4992939295952,29.6269411268209",
+        "notion_url": "https://app.notion.com/p/3b349a17ea97819b9cd4ea32a05aaa59",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-pd-zabudovu-25-sotok-ID10ZWXX.html",
+        "latitude": 50.4992939295952,
+        "longitude": 29.6269411268209,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "3a049a17-ea97-8184-a38a-d5e185a2afe8",
         "source": "processing",
