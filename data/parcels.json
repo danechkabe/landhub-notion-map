@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T13:41:26.459890Z",
+  "generated_at": "2026-08-07T00:35:17.350621Z",
   "counts": {
     "landmatch": 87,
     "processing": 25,
@@ -977,6 +977,25 @@
         "status_key": ""
       },
       {
+        "id": "36349a17-ea97-810d-ad3c-cb2840ea0000",
+        "source": "landmatch",
+        "name": "Кищинці",
+        "area": "0.25 га",
+        "price": "4 900 $",
+        "distance_to_kyiv": "80,5 км",
+        "cadastral": "3224983501:01:003:0003",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3224983501%3A01%3A003%3A0003",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.9977113697078,29.9453085550893",
+        "notion_url": "https://app.notion.com/p/36349a17ea97810dad3ccb2840ea0000",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-ID10uxXw.html",
+        "latitude": 49.9977113697078,
+        "longitude": 29.9453085550893,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
         "id": "36349a17-ea97-81fa-bfed-c9a566bc5f13",
         "source": "landmatch",
         "name": "Узин",
@@ -1199,25 +1218,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/kupuyte-dlyanku-v-dimer-garne-mstse-dlya-vashogo-maybutnogo-budinku-IDXN9LQ.html",
         "latitude": 50.7921102976568,
         "longitude": 30.3073790219301,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "34449a17-ea97-81ed-9dfe-d11ccc1aa5b3",
-        "source": "landmatch",
-        "name": "Немішаєве",
-        "area": "0.08 га",
-        "price": "6 000 $",
-        "distance_to_kyiv": "44,8 км",
-        "cadastral": "3221055900:02:002:0151",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221055900%3A02%3A002%3A0151",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.542683797961,30.0670751918517",
-        "notion_url": "https://app.notion.com/p/34449a17ea9781ed9dfed11ccc1aa5b3",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-IDZeucK.html",
-        "latitude": 50.542683797961,
-        "longitude": 30.0670751918517,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
