@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T00:35:17.350621Z",
+  "generated_at": "2026-08-07T03:36:49.801438Z",
   "counts": {
-    "landmatch": 87,
+    "landmatch": 86,
     "processing": 25,
     "landhub": 25
   },
@@ -629,25 +629,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-v-garny-lokats-z-asfaltovanim-pdzdom-IDZaQ4U.html",
         "latitude": 50.3243059115095,
         "longitude": 30.4732214981078,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "36a49a17-ea97-813f-8f7a-ee699491f0d5",
-        "source": "landmatch",
-        "name": "Ходосівка",
-        "area": "0.1133 га",
-        "price": "11 500 $",
-        "distance_to_kyiv": "23,6 км",
-        "cadastral": "3222487001:01:009:5278",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222487001%3A01%3A009%3A5278",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2766051415948,30.5208097502841",
-        "notion_url": "https://app.notion.com/p/36a49a17ea97813f8f7aee699491f0d5",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-v-tsentr-hodosvki-ID10m5yG.html",
-        "latitude": 50.2766051415948,
-        "longitude": 30.5208097502841,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
