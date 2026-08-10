@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T08:01:25.389240Z",
+  "generated_at": "2026-08-10T09:44:47.022668Z",
   "counts": {
     "landmatch": 87,
-    "processing": 26,
+    "processing": 24,
     "landhub": 25
   },
   "categories": {
@@ -1794,44 +1794,6 @@
         "marker_color": "#7c6ee6",
         "status_label": "Не опрацьована",
         "status_key": "unprocessed"
-      },
-      {
-        "id": "38949a17-ea97-81e2-90aa-d61dcc5d9e9a",
-        "source": "processing",
-        "name": "Кодаки",
-        "area": "0.12 га",
-        "price": "8 500 $",
-        "distance_to_kyiv": "56,8 км",
-        "cadastral": "3221483800:03:045:0009",
-        "big_map_url": "",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0914992257922,30.258852030282",
-        "notion_url": "https://app.notion.com/p/38949a17ea9781e290aad61dcc5d9e9a",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnoviy-prodazh-dlyanka-12-sotok-blya-ozera-po-odesky-tras-ID10lSxx.html",
-        "latitude": 50.0914992257922,
-        "longitude": 30.258852030282,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
-      },
-      {
-        "id": "37d49a17-ea97-8185-94d3-c0e8a8eab8ab",
-        "source": "processing",
-        "name": "Небрат",
-        "area": "0.25 га",
-        "price": "—",
-        "distance_to_kyiv": "60,1 км",
-        "cadastral": "3221086301:04:001:0046",
-        "big_map_url": "",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.7006498722056,29.9493913980556",
-        "notion_url": "https://app.notion.com/p/37d49a17ea97818594d3c0e8a8eab8ab",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/35-sotok-vozle-ozera-prodam-uchastok-s-nebrat-borodyanskiy-r-n-IDJ35jt.html",
-        "latitude": 50.7006498722056,
-        "longitude": 29.9493913980556,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "37c49a17-ea97-81f2-a2fd-f1fc475b261e",
