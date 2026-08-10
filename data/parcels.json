@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T06:05:24.742476Z",
+  "generated_at": "2026-08-10T08:01:25.389240Z",
   "counts": {
     "landmatch": 87,
-    "processing": 25,
+    "processing": 26,
     "landhub": 25
   },
   "categories": {
@@ -1662,6 +1662,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "3b849a17-ea97-8173-9293-c8192fc59abf",
+        "source": "processing",
+        "name": "Васильків",
+        "area": "0.1 га",
+        "price": "6 500 $",
+        "distance_to_kyiv": "48,5 км",
+        "cadastral": "3210700000:06:004:0009",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.141469450001,30.384063706159",
+        "notion_url": "https://app.notion.com/p/3b849a17ea9781739293c8192fc59abf",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-10-sotok-pd-budvnitstvo-v-m-vasilkv-prov-o-kobilyansko-ID111QeE.html",
+        "latitude": 50.141469450001,
+        "longitude": 30.384063706159,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "3b349a17-ea97-819b-9cd4-ea32a05aaa59",
         "source": "processing",
