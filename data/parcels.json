@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T00:52:28.796601Z",
+  "generated_at": "2026-08-10T03:05:18.344649Z",
   "counts": {
-    "landmatch": 86,
+    "landmatch": 87,
     "processing": 25,
     "landhub": 25
   },
@@ -553,6 +553,25 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-zeml-6-8-sotki-dzyubvka-molodzhna-obuhv-IDLmldx.html",
         "latitude": 50.1180086605162,
         "longitude": 30.6105963629318,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36a49a17-ea97-8187-9c7c-e739e65af1e5",
+        "source": "landmatch",
+        "name": "Личанка",
+        "area": "0.1339 га",
+        "price": "15 100 $",
+        "distance_to_kyiv": "35,4 км",
+        "cadastral": "3222484601:01:002:0321",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222484601%3A01%3A002%3A0321",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4055531242473,30.0896273970595",
+        "notion_url": "https://app.notion.com/p/36a49a17ea9781879c7ce739e65af1e5",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-s-lichanka-13-4-sotok-pd-budvnitstvo-IDZwaOO.html",
+        "latitude": 50.4055531242473,
+        "longitude": 30.0896273970595,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
