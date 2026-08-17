@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T16:18:54.541806Z",
+  "generated_at": "2026-08-17T16:51:40.715029Z",
   "counts": {
-    "landmatch": 93,
+    "landmatch": 94,
     "processing": 23,
     "landhub": 25
   },
@@ -1218,6 +1218,25 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/yasnogorodka-uchastok-12-sotok-pod-zastroyku-IDSS134.html",
         "latitude": 50.8420663885596,
         "longitude": 30.3881151080903,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "36149a17-ea97-8180-aef8-edcee97dc1a8",
+        "source": "landmatch",
+        "name": "Мостище",
+        "area": "0.2 га",
+        "price": "12 100 $",
+        "distance_to_kyiv": "48,4 км",
+        "cadastral": "3222784701:01:009:0047",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222784701%3A01%3A009%3A0047",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2895779671887,30.0218001015321",
+        "notion_url": "https://app.notion.com/p/36149a17ea978180aef8edcee97dc1a8",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-40-sot-kivska-obl-s-mostische-10000-IDQxUNh.html",
+        "latitude": 50.2895779671887,
+        "longitude": 30.0218001015321,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
