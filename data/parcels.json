@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17T18:20:46.624525Z",
+  "generated_at": "2026-08-17T19:04:34.989565Z",
   "counts": {
     "landmatch": 94,
-    "processing": 23,
+    "processing": 25,
     "landhub": 25
   },
   "categories": {
@@ -1795,6 +1795,44 @@
       }
     ],
     "processing": [
+      {
+        "id": "3bf49a17-ea97-81ea-9928-ff9893d0d6bd",
+        "source": "processing",
+        "name": "Маковище",
+        "area": "0.15 га",
+        "price": "—",
+        "distance_to_kyiv": "52,7 км",
+        "cadastral": "3222784600:06:002:0110",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4550977686012,29.8485779652953",
+        "notion_url": "https://app.notion.com/p/3bf49a17ea9781ea9928ff9893d0d6bd",
+        "olx_url": "",
+        "latitude": 50.4550977686012,
+        "longitude": 29.8485779652953,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
+      {
+        "id": "3bf49a17-ea97-817d-a437-fd2b073897aa",
+        "source": "processing",
+        "name": "Забуяння",
+        "area": "0.15 га",
+        "price": "5 800 $",
+        "distance_to_kyiv": "79,5 км",
+        "cadastral": "3222782302:03:005:0010",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.57377235489,29.6720769782715",
+        "notion_url": "https://app.notion.com/p/3bf49a17ea97817da437fd2b073897aa",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-bez-zemelno-dlyanki-v-s-zabuyannya-ID113wik.html",
+        "latitude": 50.57377235489,
+        "longitude": 29.6720769782715,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "3b349a17-ea97-819b-9cd4-ea32a05aaa59",
         "source": "processing",
