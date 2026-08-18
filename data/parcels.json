@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T06:22:18.214233Z",
+  "generated_at": "2026-08-18T07:11:51.507911Z",
   "counts": {
-    "landmatch": 98,
+    "landmatch": 99,
     "processing": 25,
     "landhub": 25
   },
@@ -274,6 +274,25 @@
         "status_key": ""
       },
       {
+        "id": "3a149a17-ea97-816c-80c3-e674c6d21cc2",
+        "source": "landmatch",
+        "name": "Музичі",
+        "area": "0.1501 га",
+        "price": "13 000 $",
+        "distance_to_kyiv": "39,2 км",
+        "cadastral": "3222485501:01:009:0319",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222485501%3A01%3A009%3A0319",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3655442856184,30.1024463561639",
+        "notion_url": "https://app.notion.com/p/3a149a17ea97816c80c3e674c6d21cc2",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-15-sotok-u-s-muzich-kivska-oblast-vlasnik-ID10OZ7s.html",
+        "latitude": 50.3655442856184,
+        "longitude": 30.1024463561639,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
         "id": "3a149a17-ea97-8123-973d-d43183972e89",
         "source": "landmatch",
         "name": "Червоне",
@@ -316,7 +335,7 @@
         "source": "landmatch",
         "name": "Нові Петрівці",
         "area": "0.1215 га",
-        "price": "3 200 $",
+        "price": "17 200 $",
         "distance_to_kyiv": "24,5 км",
         "cadastral": "3221886001:02:112:0008",
         "big_map_url": "https://map.landhub.com.ua/?cad=3221886001%3A02%3A112%3A0008",
