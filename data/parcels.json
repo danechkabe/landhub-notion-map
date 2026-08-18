@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T05:52:01.626399Z",
+  "generated_at": "2026-08-18T06:22:18.214233Z",
   "counts": {
     "landmatch": 98,
     "processing": 25,
@@ -7,6 +7,25 @@
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "3c049a17-ea97-813c-8224-c271aa8dd569",
+        "source": "landmatch",
+        "name": "Бузова",
+        "area": "0.1449 га",
+        "price": "20 500 $",
+        "distance_to_kyiv": "39,6 км",
+        "cadastral": "3222480801:01:002:5540",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222480801%3A01%3A002%3A5540",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4021349334481,30.0326292922821",
+        "notion_url": "https://app.notion.com/p/3c049a17ea97813c8224c271aa8dd569",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/termnoviy-prodazh-zemelna-dlyanka-14-5-sot-s-buzova-ID1133Yw.html",
+        "latitude": 50.4021349334481,
+        "longitude": 30.0326292922821,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "3bf49a17-ea97-81ca-b087-e2d2307dc729",
         "source": "landmatch",
@@ -135,25 +154,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-10-sotok-pd-budvnitstvo-v-m-vasilkv-prov-o-kobilyansko-ID111QeE.html",
         "latitude": 50.141469450001,
         "longitude": 30.384063706159,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "3b849a17-ea97-8124-aee1-e1e92e40ffd5",
-        "source": "landmatch",
-        "name": "Фастівець",
-        "area": "0.242 га",
-        "price": "22 000 $",
-        "distance_to_kyiv": "65,0 км",
-        "cadastral": "3224986901:01:001:0068",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3224986901%3A01%3A001%3A0068",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0628270668396,30.0295256129755",
-        "notion_url": "https://app.notion.com/p/3b849a17ea978124aee1e1e92e40ffd5",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-na-berez-ozera-mstse-dlya-budinku-vasho-mr-ID10ULc5.html",
-        "latitude": 50.0628270668396,
-        "longitude": 30.0295256129755,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
