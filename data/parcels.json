@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T17:49:44.642290Z",
+  "generated_at": "2026-08-18T18:20:06.278532Z",
   "counts": {
     "landmatch": 89,
-    "processing": 25,
+    "processing": 24,
     "landhub": 24
   },
   "categories": {
@@ -2155,25 +2155,6 @@
         "marker_color": "#54b66d",
         "status_label": "Дає на реалізацію",
         "status_key": "gives_to_sell"
-      },
-      {
-        "id": "33149a17-ea97-8126-af8c-e197fa5cf881",
-        "source": "processing",
-        "name": "Ясногородка",
-        "area": "0.12 га",
-        "price": "12 000 $",
-        "distance_to_kyiv": "57,9 км",
-        "cadastral": "3221889000:18:121:0021",
-        "big_map_url": "",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.861266696317,30.3689450599272",
-        "notion_url": "https://app.notion.com/p/33149a17ea978126af8ce197fa5cf881",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-v-st-12-sotok-ID10aYBf.html",
-        "latitude": 50.861266696317,
-        "longitude": 30.3689450599272,
-        "marker_symbol": "📙",
-        "marker_color": "#e49a42",
-        "status_label": "На сайт ок. Але з олх не прибере",
-        "status_key": "site_ok_olx_keeps"
       }
     ],
     "landhub": [
