@@ -1,12 +1,31 @@
 {
-  "generated_at": "2026-08-19T15:19:48.913948Z",
+  "generated_at": "2026-08-19T15:53:20.545736Z",
   "counts": {
-    "landmatch": 90,
+    "landmatch": 93,
     "processing": 24,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "3c149a17-ea97-8100-8f83-f619f63c1ec4",
+        "source": "landmatch",
+        "name": "Мостище",
+        "area": "0.2 га",
+        "price": "8 000 $",
+        "distance_to_kyiv": "48,4 км",
+        "cadastral": "3222784701:01:009:0047",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222784701%3A01%3A009%3A0047",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2895779671887,30.0218001015321",
+        "notion_url": "https://app.notion.com/p/3c149a17ea9781008f83f619f63c1ec4",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-40-sot-kivska-obl-s-mostische-10000-IDQxUNh.html",
+        "latitude": 50.2895779671887,
+        "longitude": 30.0218001015321,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "3c149a17-ea97-81ef-97a2-fd03d81b625d",
         "source": "landmatch",
@@ -1091,6 +1110,25 @@
         "status_key": ""
       },
       {
+        "id": "36349a17-ea97-8173-87db-f0e8c22c813b",
+        "source": "landmatch",
+        "name": "Мостище",
+        "area": "0.25 га",
+        "price": "7 500 $",
+        "distance_to_kyiv": "47,9 км",
+        "cadastral": "3222784701:01:002:0074",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222784701%3A01%3A002%3A0074",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3020624069843,30.0058325473569",
+        "notion_url": "https://app.notion.com/p/36349a17ea97817387dbf0e8c22c813b",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnyy-uchastok-25-s-v-mostysche-IDKMZvJ.html",
+        "latitude": 50.3020624069843,
+        "longitude": 30.0058325473569,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
         "id": "36249a17-ea97-8186-8ea9-d388df8724ee",
         "source": "landmatch",
         "name": "Ясногородка",
@@ -1275,6 +1313,25 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-s-nescherv-obuhvskiy-r-n-kivska-oblast-ID1031Dd.html",
         "latitude": 50.1425460437495,
         "longitude": 30.6203924911051,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "35549a17-ea97-81a1-ae6b-f82e2a4247c5",
+        "source": "landmatch",
+        "name": "Мостище",
+        "area": "0.178 га",
+        "price": "7 000 $",
+        "distance_to_kyiv": "49,6 км",
+        "cadastral": "3222784701:01:002:0013",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222784701%3A01%3A002%3A0013",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.3049226642002,30.0093225022357",
+        "notion_url": "https://app.notion.com/p/35549a17ea9781a1ae6bf82e2a4247c5",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-zemelno-dlyanki-17-8-sot-kivska-obl-s-mostische-5000-IDQyz2s.html",
+        "latitude": 50.3049226642002,
+        "longitude": 30.0093225022357,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
