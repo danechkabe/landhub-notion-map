@@ -1,12 +1,31 @@
 {
-  "generated_at": "2026-08-19T11:58:10.110184Z",
+  "generated_at": "2026-08-19T12:38:08.762014Z",
   "counts": {
-    "landmatch": 89,
+    "landmatch": 90,
     "processing": 24,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "3c149a17-ea97-81ef-97a2-fd03d81b625d",
+        "source": "landmatch",
+        "name": "Маковище",
+        "area": "0.15 га",
+        "price": "6 000 $",
+        "distance_to_kyiv": "52,7 км",
+        "cadastral": "3222784600:06:002:0110",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222784600%3A06%3A002%3A0110",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4550977686012,29.8485779652953",
+        "notion_url": "https://app.notion.com/p/3c149a17ea9781ef97a2fd03d81b625d",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-bez-zemelno-dlyanki-v-s-makovische-makarvskty-r-n-ID113D9E.html",
+        "latitude": 50.4550977686012,
+        "longitude": 29.8485779652953,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "3c049a17-ea97-813c-8224-c271aa8dd569",
         "source": "landmatch",
