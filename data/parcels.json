@@ -1,12 +1,31 @@
 {
-  "generated_at": "2026-08-19T15:53:20.545736Z",
+  "generated_at": "2026-08-19T16:17:48.119335Z",
   "counts": {
-    "landmatch": 93,
+    "landmatch": 94,
     "processing": 24,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "3c149a17-ea97-8171-aff7-f07e3da2c8de",
+        "source": "landmatch",
+        "name": "Козичанка",
+        "area": "0.25 га",
+        "price": "8 000 $",
+        "distance_to_kyiv": "67,7 км",
+        "cadastral": "3222782401:02:001:0011",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222782401%3A02%3A001%3A0011",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2677259026748,29.7686189218558",
+        "notion_url": "https://app.notion.com/p/3c149a17ea978171aff7f07e3da2c8de",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/ls-rchka-poruch-dlyanka-25-9-sotok-s-kozichanka-50-km-vd-kiva-ID10uNQk.html",
+        "latitude": 50.2677259026748,
+        "longitude": 29.7686189218558,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "3c149a17-ea97-8100-8f83-f619f63c1ec4",
         "source": "landmatch",
