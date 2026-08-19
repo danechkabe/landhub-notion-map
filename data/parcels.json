@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:51:36.850689Z",
+  "generated_at": "2026-08-19T11:14:36.780314Z",
   "counts": {
     "landmatch": 89,
     "processing": 24,
@@ -905,7 +905,7 @@
         "source": "landmatch",
         "name": "Фастів",
         "area": "0.12 га",
-        "price": "2 500 $",
+        "price": "7000 $",
         "distance_to_kyiv": "81,2 км",
         "cadastral": "3224984200:02:006:0892",
         "big_map_url": "https://map.landhub.com.ua/?cad=3224984200%3A02%3A006%3A0892",
