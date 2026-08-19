@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:49:42.118218Z",
+  "generated_at": "2026-08-19T15:19:48.913948Z",
   "counts": {
     "landmatch": 90,
     "processing": 24,
@@ -69,7 +69,7 @@
         "source": "landmatch",
         "name": "Забуяння",
         "area": "0.15 га",
-        "price": "5 800 $",
+        "price": "6 000 $",
         "distance_to_kyiv": "79,5 км",
         "cadastral": "3222782302:03:005:0010",
         "big_map_url": "https://map.landhub.com.ua/?cad=3222782302%3A03%3A005%3A0010",
