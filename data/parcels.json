@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T18:16:56.932924Z",
+  "generated_at": "2026-08-19T18:59:13.374876Z",
   "counts": {
     "landmatch": 98,
-    "processing": 24,
+    "processing": 25,
     "landhub": 24
   },
   "categories": {
@@ -1871,6 +1871,25 @@
       }
     ],
     "processing": [
+      {
+        "id": "3c149a17-ea97-81bb-9593-df32da6300dc",
+        "source": "processing",
+        "name": "Колонщина",
+        "area": "0.1302 га",
+        "price": "10 100 $",
+        "distance_to_kyiv": "42,0 км",
+        "cadastral": "3222782601:01:001:0062",
+        "big_map_url": "",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4476504997672,29.9810210792095",
+        "notion_url": "https://app.notion.com/p/3c149a17ea9781bb9593df32da6300dc",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-selo-kolonschina-buchanskiy-rayon-ID1152GX.html",
+        "latitude": 50.4476504997672,
+        "longitude": 29.9810210792095,
+        "marker_symbol": "📓",
+        "marker_color": "#7c6ee6",
+        "status_label": "Не опрацьована",
+        "status_key": "unprocessed"
+      },
       {
         "id": "3bf49a17-ea97-81ea-9928-ff9893d0d6bd",
         "source": "processing",
