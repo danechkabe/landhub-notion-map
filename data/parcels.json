@@ -1,12 +1,50 @@
 {
-  "generated_at": "2026-08-22T19:34:37.504442Z",
+  "generated_at": "2026-08-22T19:53:31.283107Z",
   "counts": {
-    "landmatch": 107,
+    "landmatch": 109,
     "processing": 25,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "3c449a17-ea97-8162-ae58-d836ecb26009",
+        "source": "landmatch",
+        "name": "Шпитьки",
+        "area": "0.095 га",
+        "price": "6 600 $",
+        "distance_to_kyiv": "33,5 км",
+        "cadastral": "3222488200:06:002:5108",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222488200%3A06%3A002%3A5108",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4031941981646,30.134655450676",
+        "notion_url": "https://app.notion.com/p/3c449a17ea978162ae58d836ecb26009",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-pd-zabudovu-ID112toD.html",
+        "latitude": 50.4031941981646,
+        "longitude": 30.134655450676,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "3c449a17-ea97-81a7-acb5-ff32567aae2e",
+        "source": "landmatch",
+        "name": "Острійки",
+        "area": "0.25 га",
+        "price": "12 100 $",
+        "distance_to_kyiv": "89,7 км",
+        "cadastral": "3220484601:02:001:0008",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3220484601%3A02%3A001%3A0008",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49.8304072344049,30.3274563685302",
+        "notion_url": "https://app.notion.com/p/3c449a17ea9781a7acb5ff32567aae2e",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-s-ostryki-60-sotok-ID116rS5.html",
+        "latitude": 49.8304072344049,
+        "longitude": 30.3274563685302,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "3c349a17-ea97-81b5-a972-c15328222cff",
         "source": "landmatch",
