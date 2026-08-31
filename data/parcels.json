@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:39:41.903939Z",
+  "generated_at": "2026-08-31T19:39:02.646852Z",
   "counts": {
     "landmatch": 131,
     "processing": 25,
@@ -88,7 +88,7 @@
         "source": "landmatch",
         "name": "Кулібаба",
         "area": "0.0839 га",
-        "price": "8500",
+        "price": "8 500 $",
         "distance_to_kyiv": "48,0 км",
         "cadastral": "3221480201:01:037:0014",
         "big_map_url": "https://map.landhub.com.ua/?cad=3221480201%3A01%3A037%3A0014",
