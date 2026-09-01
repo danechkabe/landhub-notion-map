@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T16:39:34.950883Z",
+  "generated_at": "2026-09-01T19:34:34.384343Z",
   "counts": {
     "landmatch": 135,
     "processing": 30,
@@ -297,7 +297,7 @@
         "source": "landmatch",
         "name": "Трипілля",
         "area": "12",
-        "price": "12 500 $",
+        "price": "14 000 $",
         "distance_to_kyiv": "52,9 км",
         "cadastral": "3223188000:03:012:0025",
         "big_map_url": "https://map.landhub.com.ua/?cad=3223188000%3A03%3A012%3A0025",
@@ -335,7 +335,7 @@
         "source": "landmatch",
         "name": "Трипілля",
         "area": "0.12 га",
-        "price": "12 100 $",
+        "price": "13 000 $",
         "distance_to_kyiv": "47,3 км",
         "cadastral": "3223188000:02:009:0044",
         "big_map_url": "https://map.landhub.com.ua/?cad=3223188000%3A02%3A009%3A0044",
@@ -2006,8 +2006,8 @@
         "id": "36149a17-ea97-8147-93df-de5bed56d612",
         "source": "landmatch",
         "name": "Велика Бугаївка",
-        "area": "0.1195 га",
-        "price": "12 000 $",
+        "area": "24 сотки",
+        "price": "16 000 $",
         "distance_to_kyiv": "43,5 км",
         "cadastral": "3221480500:05:002:0199",
         "big_map_url": "https://map.landhub.com.ua/?cad=3221480500%3A05%3A002%3A0199",
@@ -2588,10 +2588,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-zeml-pd-zabudovu-zhitlovogo-budinku-IDnjl32.html",
         "latitude": 50.1619205880577,
         "longitude": 30.200555859919,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📙",
+        "marker_color": "#e49a42",
+        "status_label": "На сайт ок. Але з олх не прибере",
+        "status_key": "site_ok_olx_keeps"
       },
       {
         "id": "3ce49a17-ea97-81ac-a4dc-c378cff50070",
@@ -2607,10 +2607,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dlyanka-uchastok-zemlya-24-sotki-velika-bugavka-IDUU7xO.html",
         "latitude": 50.1917642341065,
         "longitude": 30.4161245786492,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "3ce49a17-ea97-80de-9491-fe4c24461958",
@@ -2626,10 +2626,10 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-0-12-ga-u-s-tripllya-kivsko-obl-ID10DMk0.html",
         "latitude": 50.1062076954441,
         "longitude": 30.7692702831422,
-        "marker_symbol": "📓",
-        "marker_color": "#7c6ee6",
-        "status_label": "Не опрацьована",
-        "status_key": "unprocessed"
+        "marker_symbol": "📗",
+        "marker_color": "#54b66d",
+        "status_label": "Дає на реалізацію",
+        "status_key": "gives_to_sell"
       },
       {
         "id": "3ce49a17-ea97-8007-8f19-c35c35ad7d3e",
@@ -2655,7 +2655,7 @@
         "source": "processing",
         "name": "Красне перше",
         "area": "0.1224 га",
-        "price": "7 100 $",
+        "price": "8 500 $",
         "distance_to_kyiv": "54,5 км",
         "cadastral": "3223182500:06:005:0021",
         "big_map_url": "",
