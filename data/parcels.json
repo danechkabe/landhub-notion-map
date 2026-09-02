@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T18:49:38.952102Z",
+  "generated_at": "2026-09-02T21:25:18.327902Z",
   "counts": {
-    "landmatch": 135,
+    "landmatch": 136,
     "processing": 30,
     "landhub": 24
   },
@@ -21,6 +21,25 @@
         "olx_url": "https://www.olx.ua/d/obyavlenie/zemelna-dlyanka-pd-zabudovu-IDVUfLH.html",
         "latitude": 50.0854185981255,
         "longitude": 30.6724274039377,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "3ce49a17-ea97-8106-bc9a-e33bb878b3ea",
+        "source": "landmatch",
+        "name": "Красна Гірка",
+        "area": "0.1443 га",
+        "price": "13 500 $",
+        "distance_to_kyiv": "62,3 км",
+        "cadastral": "3222780202:02:006:0013",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222780202%3A02%3A006%3A0013",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5490715375833,29.8762954833868",
+        "notion_url": "https://app.notion.com/p/3ce49a17ea978106bc9ae33bb878b3ea",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-budvnitstvo-selo-chervona-grka-makarvkiy-rayon-makarv-andrvka-ID110zzQ.html",
+        "latitude": 50.5490715375833,
+        "longitude": 29.8762954833868,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
