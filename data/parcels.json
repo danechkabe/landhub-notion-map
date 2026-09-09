@@ -1,12 +1,50 @@
 {
-  "generated_at": "2026-09-09T09:45:51.001938Z",
+  "generated_at": "2026-09-09T14:00:23.889282Z",
   "counts": {
-    "landmatch": 116,
+    "landmatch": 118,
     "processing": 32,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "3d649a17-ea97-8165-86ce-f23f6ef734a8",
+        "source": "landmatch",
+        "name": "Ферма",
+        "area": "0.1412 га",
+        "price": "12000",
+        "distance_to_kyiv": "71,6 км",
+        "cadastral": "3222783503:02:004:0003",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222783503%3A02%3A004%3A0003",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.5264108473398,29.6897109072988",
+        "notion_url": "https://app.notion.com/p/3d649a17ea97816586cef23f6ef734a8",
+        "olx_url": "https://www.olx.ua/uk/924600947/",
+        "latitude": 50.5264108473398,
+        "longitude": 29.6897109072988,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "3d549a17-ea97-810b-9331-c1d5ec6be251",
+        "source": "landmatch",
+        "name": "Велика Снітинка",
+        "area": "0.12 га",
+        "price": "18 000 $",
+        "distance_to_kyiv": "69,1 км",
+        "cadastral": "3224981201:01:008:0074",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3224981201%3A01%3A008%3A0074",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.0753276650519,30.0115054083761",
+        "notion_url": "https://app.notion.com/p/3d549a17ea97810b9331c1d5ec6be251",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-nad-ozerom-12-sot-stroitelstvo-eksklyuziv-IDxKCQ2.html",
+        "latitude": 50.0753276650519,
+        "longitude": 30.0115054083761,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "3d549a17-ea97-81eb-a889-ea08a206d28d",
         "source": "landmatch",
