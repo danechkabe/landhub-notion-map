@@ -1,18 +1,37 @@
 {
-  "generated_at": "2026-09-09T14:00:23.889282Z",
+  "generated_at": "2026-09-09T17:39:50.048408Z",
   "counts": {
-    "landmatch": 118,
+    "landmatch": 119,
     "processing": 32,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
       {
+        "id": "3d649a17-ea97-8111-9230-ee99c50fb1cb",
+        "source": "landmatch",
+        "name": "Лишня",
+        "area": "0.2498 га",
+        "price": "10 000 $",
+        "distance_to_kyiv": "51,8 км",
+        "cadastral": "3222784201:01:013:0075",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222784201%3A01%3A013%3A0075",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.2989437560233,29.9483448607496",
+        "notion_url": "https://app.notion.com/p/3d649a17ea9781119230ee99c50fb1cb",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-uchastok-pod-stroitelstvo-s-lishnya-IDKjP4T.html",
+        "latitude": 50.2989437560233,
+        "longitude": 29.9483448607496,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
         "id": "3d649a17-ea97-8165-86ce-f23f6ef734a8",
         "source": "landmatch",
         "name": "Ферма",
         "area": "0.1412 га",
-        "price": "12000",
+        "price": "12 000 $",
         "distance_to_kyiv": "71,6 км",
         "cadastral": "3222783503:02:004:0003",
         "big_map_url": "https://map.landhub.com.ua/?cad=3222783503%3A02%3A004%3A0003",
