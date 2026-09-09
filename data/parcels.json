@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T22:37:01.114301Z",
+  "generated_at": "2026-09-09T00:35:52.945233Z",
   "counts": {
-    "landmatch": 119,
+    "landmatch": 118,
     "processing": 32,
     "landhub": 24
   },
@@ -1370,25 +1370,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-0-09-ga-IDLEiTd.html",
         "latitude": 50.631791258645,
         "longitude": 30.0144339162023,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "36a49a17-ea97-8187-9c7c-e739e65af1e5",
-        "source": "landmatch",
-        "name": "Личанка",
-        "area": "0.1339 га",
-        "price": "15 100 $",
-        "distance_to_kyiv": "35,4 км",
-        "cadastral": "3222484601:01:002:0321",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222484601%3A01%3A002%3A0321",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4055531242473,30.0896273970595",
-        "notion_url": "https://app.notion.com/p/36a49a17ea9781879c7ce739e65af1e5",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-v-s-lichanka-13-4-sotok-pd-budvnitstvo-IDZwaOO.html",
-        "latitude": 50.4055531242473,
-        "longitude": 30.0896273970595,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
