@@ -1,12 +1,31 @@
 {
-  "generated_at": "2026-09-10T05:14:27.736243Z",
+  "generated_at": "2026-09-10T09:44:12.964829Z",
   "counts": {
-    "landmatch": 114,
+    "landmatch": 115,
     "processing": 32,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "3d749a17-ea97-81c9-9928-cc596fc0f1bb",
+        "source": "landmatch",
+        "name": "Буча",
+        "area": "0.1 га",
+        "price": "12 000 $",
+        "distance_to_kyiv": "34,6 км",
+        "cadastral": "3222488200:05:002:5134",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222488200%3A05%3A002%3A5134",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.444349760758,30.0884236545788",
+        "notion_url": "https://app.notion.com/p/3d749a17ea9781c99928cc596fc0f1bb",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-dlyanku-10-sot-lsne-zhitomirska-trasa-12-km-mezha-kiva-ID112MtD.html?isPreviewActive=0&reason=ip%7Ccool%3Abase",
+        "latitude": 50.444349760758,
+        "longitude": 30.0884236545788,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "3d649a17-ea97-8111-9230-ee99c50fb1cb",
         "source": "landmatch",
