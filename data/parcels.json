@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T23:39:29.509760Z",
+  "generated_at": "2026-09-12T01:31:45.370735Z",
   "counts": {
-    "landmatch": 113,
+    "landmatch": 110,
     "processing": 32,
     "landhub": 24
   },
@@ -863,25 +863,6 @@
         "status_key": ""
       },
       {
-        "id": "3bf49a17-ea97-81ca-b087-e2d2307dc729",
-        "source": "landmatch",
-        "name": "Миколаївка",
-        "area": "0.06 га",
-        "price": "10 500 $",
-        "distance_to_kyiv": "43,4 км",
-        "cadastral": "3222782600:05:033:0015",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222782600%3A05%3A033%3A0015",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4610799019398,30.0172231851595",
-        "notion_url": "https://app.notion.com/p/3bf49a17ea9781cab087e2d2307dc729",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/dachna-dlyanka-6-sotok-z-elektrikoyu-ta-sverdlovinoyu-selo-mikolavka-ID11301a.html",
-        "latitude": 50.4610799019398,
-        "longitude": 30.0172231851595,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
         "id": "3bf49a17-ea97-8125-b8eb-d5471f7aa541",
         "source": "landmatch",
         "name": "Фасівочка",
@@ -1262,25 +1243,6 @@
         "status_key": ""
       },
       {
-        "id": "36e49a17-ea97-810a-b1bc-d7cb3bef2e32",
-        "source": "landmatch",
-        "name": "Бузова",
-        "area": "0.12 га",
-        "price": "12 000 $",
-        "distance_to_kyiv": "39,9 км",
-        "cadastral": "3222480801:01:007:0118",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222480801%3A01%3A007%3A0118",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4012760527848,30.0421065185296",
-        "notion_url": "https://app.notion.com/p/36e49a17ea97810ab1bcd7cb3bef2e32",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodam-zemelnu-dlyanku-0-1200ga-IDXlNYQ.html",
-        "latitude": 50.4012760527848,
-        "longitude": 30.0421065185296,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
         "id": "36d49a17-ea97-81c6-8279-f9c93bebc4fb",
         "source": "landmatch",
         "name": "Бабинці",
@@ -1408,25 +1370,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-10-sotok-dlya-ndivdualnogo-salvnitstva-IDZuVcZ.html",
         "latitude": 50.0037280578598,
         "longitude": 29.900325417237,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "36949a17-ea97-8126-b08e-d3cb231dba67",
-        "source": "landmatch",
-        "name": "Димер",
-        "area": "0.1463 га",
-        "price": "7 500 $",
-        "distance_to_kyiv": "46,6 км",
-        "cadastral": "3221855300:19:069:0435",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3221855300%3A19%3A069%3A0435",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.791389113148,30.308178522533",
-        "notion_url": "https://app.notion.com/p/36949a17ea978126b08ed3cb231dba67",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/uchastok-pod-stroitelstvo-15-IDqqZUU.html",
-        "latitude": 50.791389113148,
-        "longitude": 30.308178522533,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
