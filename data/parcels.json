@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T23:19:34.665327Z",
+  "generated_at": "2026-09-13T01:12:46.252240Z",
   "counts": {
-    "landmatch": 110,
+    "landmatch": 109,
     "processing": 32,
     "landhub": 24
   },
@@ -458,25 +458,6 @@
         "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-kivska-oblast-veprik-IDWM15q.html",
         "latitude": 50.1060867039303,
         "longitude": 29.7992514730443,
-        "marker_symbol": "💛",
-        "marker_color": "#e0b21b",
-        "status_label": "active",
-        "status_key": ""
-      },
-      {
-        "id": "3c949a17-ea97-81e8-98d1-dcd12538681c",
-        "source": "landmatch",
-        "name": "Макарів",
-        "area": "0.15 га",
-        "price": "8 100 $",
-        "distance_to_kyiv": "71,1 км",
-        "cadastral": "3222755100:01:005:0022",
-        "big_map_url": "https://map.landhub.com.ua/?cad=3222755100%3A01%3A005%3A0022",
-        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4768637252544,29.8321343040195",
-        "notion_url": "https://app.notion.com/p/3c949a17ea9781e898d1dcd12538681c",
-        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/zemelna-dlyanka-pd-zhitlovu-zabudovu-ID10hDAw.html",
-        "latitude": 50.4768637252544,
-        "longitude": 29.8321343040195,
         "marker_symbol": "💛",
         "marker_color": "#e0b21b",
         "status_label": "active",
