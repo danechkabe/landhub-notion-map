@@ -1,12 +1,50 @@
 {
-  "generated_at": "2026-09-14T05:12:30.573343Z",
+  "generated_at": "2026-09-14T10:36:35.230656Z",
   "counts": {
-    "landmatch": 103,
+    "landmatch": 105,
     "processing": 32,
     "landhub": 24
   },
   "categories": {
     "landmatch": [
+      {
+        "id": "3db49a17-ea97-817f-8071-fb19d130567a",
+        "source": "landmatch",
+        "name": "Васильків",
+        "area": "0.099 га",
+        "price": "15 000 $",
+        "distance_to_kyiv": "41,9 км",
+        "cadastral": "3210700000:05:003:0002",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3210700000%3A05%3A003%3A0002",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.166075365055,30.3525912301798",
+        "notion_url": "https://app.notion.com/p/3db49a17ea97817f8071fb19d130567a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dlyanki-na-pochatku-lsu-10-sot-m-vasilkv-IDZXPdV.html",
+        "latitude": 50.166075365055,
+        "longitude": 30.3525912301798,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
+      {
+        "id": "3db49a17-ea97-8101-9028-df6174b67b0a",
+        "source": "landmatch",
+        "name": "Макарів",
+        "area": "0.25 га",
+        "price": "25 000 $",
+        "distance_to_kyiv": "53,0 км",
+        "cadastral": "3222781801:02:002:0024",
+        "big_map_url": "https://map.landhub.com.ua/?cad=3222781801%3A02%3A002%3A0024",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.4881073066694,29.8487127125879",
+        "notion_url": "https://app.notion.com/p/3db49a17ea9781019028df6174b67b0a",
+        "olx_url": "https://www.olx.ua/d/uk/obyavlenie/prodatsya-zemelna-dlyanka-pd-zabudovu-0-50-ga-s-gavronschina-IDUAiMN.html",
+        "latitude": 50.4881073066694,
+        "longitude": 29.8487127125879,
+        "marker_symbol": "💛",
+        "marker_color": "#e0b21b",
+        "status_label": "active",
+        "status_key": ""
+      },
       {
         "id": "3d749a17-ea97-81c9-9928-cc596fc0f1bb",
         "source": "landmatch",
