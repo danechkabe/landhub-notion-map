@@ -1,18 +1,27 @@
 #!/usr/bin/env python3
-"""Fetch map data from Notion and write a unified JSON payload for the site."""
+"""Fetch active LandMatch Parcels from Notion for LandHub map."""
 
 from __future__ import annotations
 
 import argparse
 from dataclasses import dataclass
+from datetime import datetime, timezone
+from hashlib import sha256
+from html import escape
 import json
-import time
 import re
+import time
 from pathlib import Path
 from typing import Any
-from urllib.parse import parse_qs, unquote, urlparse
+from urllib.parse import parse_qs, unquote, urlencode, urlparse, urlunparse
 
 import requests
+
+try:
+    from PIL import Image, ImageOps
+except ImportError:  # pragma: no cover - GitHub Actions installs Pillow.
+    Image = None
+    ImageOps = None
 
 NOTION_API_BASE = "https://api.notion.com/v1"
 NOTION_VERSION = "2026-03-11"
@@ -32,19 +41,16 @@ LANDHUB_URL = (
     "https://www.notion.so/2ef49a17ea97807b9204d95797898034"
     "?v=2ef49a17ea978095af81000cdf80f39a&source=copy_link"
 )
-OLX_STATUS_META = {
-    "Дає на реалізацію": {"symbol": "📗", "color": "#54b66d", "key": "gives_to_sell"},
-    "На сайт ок. Але з олх не прибере": {
-        "symbol": "📙",
-        "color": "#e49a42",
-        "key": "site_ok_olx_keeps",
-    },
-    "Передзвонити": {"symbol": "📘", "color": "#5a8dee", "key": "callback"},
-    "Не опрацьована": {"symbol": "📓", "color": "#7c6ee6", "key": "unprocessed"},
-}
+OLX_STATUS_NAMES = (
+    "Дає на реалізацію",
+    "На сайт ок. Але з олх не прибере",
+    "Передзвонити",
+    "Не опрацьована",
+)
 LANDMATCH_META = {"symbol": "💛", "color": "#e0b21b"}
-LANDHUB_META = {"symbol": "📍", "color": "#111111"}
-BIG_MAP_BASE_URL = "https://map.landhub.com.ua/"
+PHOTO_MAX_SIDE = 1600
+PHOTO_JPEG_QUALITY = 82
+LANDHUB_MAP_BASE_URL = "https://mymap.landhub.com.ua/"
 
 
 @dataclass(frozen=True)
@@ -63,6 +69,21 @@ def parse_args() -> argparse.Namespace:
         default=str(Path(__file__).resolve().parents[1] / "data" / "parcels.json"),
         help="Output JSON path",
     )
+    parser.add_argument(
+        "--photo-dir",
+        default=str(Path(__file__).resolve().parents[1] / "assets" / "generated-photos"),
+        help="Directory for optimized watermarked site photos.",
+    )
+    parser.add_argument(
+        "--photo-manifest",
+        default=str(Path(__file__).resolve().parents[1] / "data" / "photo_manifest.json"),
+        help="Manifest mapping Notion file URLs to generated local photos.",
+    )
+    parser.add_argument(
+        "--watermark",
+        default=str(Path(__file__).resolve().parents[1] / "assets" / "watermark_overlay.png"),
+        help="Watermark image path.",
+    )
     return parser.parse_args()
 
 
@@ -74,55 +95,108 @@ def main() -> int:
         "Notion-Version": NOTION_VERSION,
         "Content-Type": "application/json",
     }
+    photo_processor = PhotoProcessor(
+        photo_dir=Path(args.photo_dir),
+        manifest_path=Path(args.photo_manifest),
+        watermark_path=Path(args.watermark),
+        session=session,
+    )
 
     sources = [
         NotionSource(
-            key="landmatch",
-            label="LandMatch",
-            database_url=LANDMATCH_URL,
-            filter_payload={"property": "Status", "select": {"equals": "active"}},
+            key="realization",
+            label="Ділянки на реалізацію",
+            database_url=LANDHUB_URL,
         ),
         NotionSource(
-            key="processing",
-            label="В обробці",
+            key="candidates",
+            label="Кандидати/OLX",
             database_url=OLX_URL,
             filter_payload={
                 "or": [
                     {"property": "Status Даня", "status": {"equals": status}}
-                    for status in OLX_STATUS_META
+                    for status in OLX_STATUS_NAMES
                 ]
             },
         ),
         NotionSource(
-            key="landhub",
-            label="LandHub",
-            database_url=LANDHUB_URL,
+            key="landmatch",
+            label="LandMatch Parcels",
+            database_url=LANDMATCH_URL,
+            filter_payload={
+                "or": [
+                    {"property": "Status", "select": {"equals": "active"}},
+                    {"property": "Status", "select": {"equals": "exclusive"}},
+                ]
+            },
         ),
     ]
-
-    categories: dict[str, list[dict[str, Any]]] = {}
-    counts: dict[str, int] = {}
-    for source in sources:
-        pages = fetch_database_pages(source, headers=headers, session=session)
-        items = []
-        for page in pages:
-            item = normalize_page(source.key, page, session=session)
-            if item is not None:
-                items.append(item)
-        categories[source.key] = items
-        counts[source.key] = len(items)
+    items = dedupe_by_cadastral(
+        [
+            item
+            for source in sources
+            for page in fetch_database_pages(source, headers=headers, session=session)
+            if (item := normalize_page(source.key, page, session=session, photo_processor=photo_processor)) is not None
+        ]
+    )
+    items.sort(key=lambda item: (str(item.get("name") or "").lower(), str(item.get("id") or "")))
 
     payload = {
-        "generated_at": __import__("datetime").datetime.utcnow().isoformat() + "Z",
-        "counts": counts,
-        "categories": categories,
+        "generated_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+        "source": "LandMatch Parcels + Кандидати/OLX + Ділянки на реалізацію",
+        "filter": {
+            "dedupe": "cadastral",
+            "priority": [
+                "Rows with Фотографії",
+                "Ділянки на реалізацію",
+                "Кандидати/OLX",
+                "LandMatch Parcels",
+            ],
+        },
+        "counts": {"landmatch": len(items)},
+        "categories": {"landmatch": items},
     }
 
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Wrote {sum(counts.values())} markers to {output_path}")
+    photo_processor.save()
+    write_share_pages(items, output_path.parent.parent)
+    print(f"Wrote {len(items)} LandMatch markers to {output_path}")
     return 0
+
+
+def dedupe_by_cadastral(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    result: list[dict[str, Any]] = []
+    best_by_cadastral: dict[str, dict[str, Any]] = {}
+    source_rank = {"realization": 0, "candidates": 1, "landmatch": 2}
+    for item in items:
+        cadastral = str(item.get("cadastral") or "").strip()
+        if not cadastral:
+            result.append(item)
+            continue
+        current = best_by_cadastral.get(cadastral)
+        if current is None or dedupe_rank(item, source_rank) < dedupe_rank(current, source_rank):
+            best_by_cadastral[cadastral] = item
+
+    seen: set[str] = set()
+    for item in items:
+        cadastral = str(item.get("cadastral") or "").strip()
+        if not cadastral:
+            continue
+        if cadastral in seen:
+            continue
+        seen.add(cadastral)
+        result.append(best_by_cadastral[cadastral])
+    return result
+
+
+def dedupe_rank(item: dict[str, Any], source_rank: dict[str, int]) -> tuple[int, int]:
+    has_extra_photos = bool(item.get("has_verified_photos"))
+    return (
+        0 if has_extra_photos else 1,
+        source_rank.get(str(item.get("source") or ""), 99),
+    )
 
 
 def fetch_database_pages(
@@ -176,6 +250,7 @@ def notion_request(
     json: dict[str, Any] | None = None,
 ) -> requests.Response:
     last_error: Exception | None = None
+    response: requests.Response | None = None
     for attempt in range(1, NOTION_MAX_ATTEMPTS + 1):
         try:
             response = session.request(
@@ -235,6 +310,7 @@ def normalize_page(
     page: dict[str, Any],
     *,
     session: requests.Session,
+    photo_processor: "PhotoProcessor",
 ) -> dict[str, Any] | None:
     properties = page.get("properties") or {}
     map_url = extract_url(properties.get("Мапа"))
@@ -247,50 +323,182 @@ def normalize_page(
     except ValueError:
         return None
 
-    if source_key == "landmatch":
-        name = extract_title(properties.get("Name"))
-        status_value = extract_select_name(properties.get("Status"))
-        marker = LANDMATCH_META
-    else:
+    marker = LANDMATCH_META
+    main_photo_url = extract_file_url(properties.get("Photo"))
+    extra_photo_urls = extract_file_urls(properties.get("Фотографії"))
+    source_photo_urls = ([main_photo_url] if main_photo_url else []) + [
+        url for url in extra_photo_urls if url and url != main_photo_url
+    ]
+    photo_urls = [
+        photo_processor.process(url, page_id=str(page.get("id") or ""), index=index)
+        for index, url in enumerate(source_photo_urls)
+    ]
+    photo_urls = [url for url in photo_urls if url]
+    plan_photo_url = photo_processor.process(
+        extract_file_url(properties.get("План ділянки")),
+        page_id=str(page.get("id") or ""),
+        index=1000,
+        watermark=False,
+    )
+    name = extract_title(properties.get("Name"))
+    if not name:
         name = extract_title(properties.get("Назва села/ділянки"))
-        status_value = extract_status_name(properties.get("Status Даня"))
-        marker = OLX_STATUS_META.get(status_value, LANDHUB_META)
-        if source_key == "landhub":
-            marker = LANDHUB_META
+    price_text = extract_rich_text(properties.get("Наша ціна")) or extract_rich_text(properties.get("Ціна"))
+    area_text = extract_rich_text(properties.get("Площа"))
+    area_sotky = extract_number_value(properties.get("Area Sotky"))
+    if area_sotky is None:
+        area_sotky = parse_area_sotky(area_text)
+    parcel_id = extract_property_text(properties.get("Parcel ID"))
+    cadastral = extract_rich_text(properties.get("Кадастровий номер")).strip()
 
-    area = extract_rich_text(properties.get("Площа")) or "—"
-    price = extract_rich_text(properties.get("Наша ціна")) or "—"
-    distance = extract_rich_text(properties.get("до Києва")) or "—"
-    cadastral = extract_rich_text(properties.get("Кадастровий номер"))
-    notion_url = str(page.get("url") or "").strip()
-    olx_url = extract_url(properties.get("Посилання на OLX"))
-
-    payload = {
+    return {
         "id": str(page.get("id") or ""),
         "source": source_key,
         "name": (name or "Без назви").strip(),
-        "area": area.strip(),
-        "price": price.strip(),
-        "distance_to_kyiv": distance.strip(),
-        "cadastral": cadastral.strip(),
-        "big_map_url": f"{BIG_MAP_BASE_URL}?cad={quote_cad(cadastral)}" if source_key == "landmatch" and cadastral.strip() else "",
+        "parcel_id": parcel_id,
+        "cadastral": cadastral,
+        "area": (area_text or "—").strip(),
+        "area_sotky": area_sotky,
+        "purpose": (extract_rich_text(properties.get("Цільове призначення")) or "—").strip(),
+        "distance_to_kyiv": (extract_rich_text(properties.get("до Києва")) or "—").strip(),
+        "photo_url": main_photo_url,
+        "extra_photo_urls": extra_photo_urls,
+        "photo_urls": photo_urls,
+        "plan_photo_url": plan_photo_url,
+        "perimeter": (extract_rich_text(properties.get("Периметр")) or "—").strip(),
+        "sides": (extract_rich_text(properties.get("Сторони")) or "—").strip(),
+        "has_verified_photos": bool(extra_photo_urls),
+        "price": (price_text or "—").strip(),
+        "price_usd": parse_price_usd(price_text),
         "google_maps_url": resolved_map_url,
-        "notion_url": notion_url,
-        "olx_url": olx_url,
+        "landhub_map_url": build_landhub_map_url(parcel_id, cadastral) or extract_url(properties.get("map.landhub")),
+        "notion_url": str(page.get("url") or "").strip(),
+        "olx_url": extract_url(properties.get("Посилання на OLX")),
         "latitude": latitude,
         "longitude": longitude,
         "marker_symbol": marker["symbol"],
         "marker_color": marker["color"],
-        "status_label": status_value or "",
-        "status_key": marker.get("key", ""),
     }
-    return payload
 
 
-def quote_cad(value: str) -> str:
-    from urllib.parse import quote
+def parse_area_sotky(value: str) -> float | None:
+    number = parse_float(value)
+    if number is None:
+        return None
+    text = str(value or "").lower()
+    if "га" in text or "гект" in text:
+        return number * 100
+    return number
 
-    return quote(value.strip(), safe="")
+
+class PhotoProcessor:
+    def __init__(
+        self,
+        *,
+        photo_dir: Path,
+        manifest_path: Path,
+        watermark_path: Path,
+        session: requests.Session,
+    ) -> None:
+        self.photo_dir = photo_dir
+        self.manifest_path = manifest_path
+        self.watermark_path = watermark_path
+        self.session = session
+        self.manifest = self._load_manifest()
+
+    def process(self, url: str, *, page_id: str, index: int, watermark: bool = True) -> str:
+        normalized = str(url or "").strip()
+        if not normalized:
+            return ""
+        if Image is None or ImageOps is None:
+            return normalized
+
+        stable_source = self._stable_source_url(normalized)
+        cache_source = (
+            f"{page_id}:{index}:{stable_source}"
+            if watermark
+            else f"{page_id}:{index}:no-watermark:{stable_source}"
+        )
+        key = sha256(cache_source.encode("utf-8")).hexdigest()[:24]
+        cached = self.manifest.get(key)
+        if isinstance(cached, dict):
+            local_path = str(cached.get("local_path") or "")
+            if local_path and (self.photo_dir.parent.parent / local_path).is_file():
+                return f"./{local_path}"
+
+        safe_page = re.sub(r"[^0-9a-zA-Z-]+", "", page_id.replace("-", ""))[:16] or "parcel"
+        filename = f"{safe_page}-{index}-{key}.jpg"
+        output_path = self.photo_dir / filename
+        local_path = str(output_path.relative_to(self.photo_dir.parent.parent))
+
+        try:
+            self.photo_dir.mkdir(parents=True, exist_ok=True)
+            response = self.session.get(normalized, timeout=45)
+            response.raise_for_status()
+            self._write_optimized(response.content, output_path, watermark=watermark)
+        except Exception as exc:  # noqa: BLE001
+            print(f"Could not prepare photo for {page_id}: {exc}", flush=True)
+            return normalized
+
+        self.manifest[key] = {
+            "cache_key": key,
+            "source_url_stable": stable_source,
+            "local_path": local_path,
+            "created_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+        }
+        return f"./{local_path}"
+
+    def save(self) -> None:
+        self.manifest_path.parent.mkdir(parents=True, exist_ok=True)
+        self.manifest_path.write_text(
+            json.dumps(self.manifest, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+            encoding="utf-8",
+        )
+
+    def _load_manifest(self) -> dict[str, Any]:
+        if not self.manifest_path.is_file():
+            return {}
+        try:
+            value = json.loads(self.manifest_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            return {}
+        return value if isinstance(value, dict) else {}
+
+    def _write_optimized(self, content: bytes, output_path: Path, *, watermark: bool = True) -> None:
+        from io import BytesIO
+
+        with Image.open(BytesIO(content)) as image:
+            base = ImageOps.exif_transpose(image).convert("RGBA")
+            base.thumbnail((PHOTO_MAX_SIDE, PHOTO_MAX_SIDE), Image.Resampling.LANCZOS)
+            if watermark and self.watermark_path.is_file():
+                with Image.open(self.watermark_path) as watermark_image:
+                    watermark = watermark_image.convert("RGBA")
+                    target_width = max(1, int(base.width * 0.16))
+                    scale = target_width / max(1, watermark.width)
+                    watermark = watermark.resize(
+                        (target_width, max(1, int(watermark.height * scale))),
+                        Image.Resampling.LANCZOS,
+                    )
+                    margin = max(8, int(base.width * 0.035))
+                    base.alpha_composite(
+                        watermark,
+                        dest=(
+                            max(0, base.width - watermark.width - margin),
+                            max(0, base.height - watermark.height - margin),
+                        ),
+                    )
+            if not watermark:
+                background = Image.new("RGBA", base.size, "#f4f0e6")
+                background.alpha_composite(base)
+                base = background
+            output_path.parent.mkdir(parents=True, exist_ok=True)
+            base.convert("RGB").save(output_path, "JPEG", quality=PHOTO_JPEG_QUALITY, optimize=True)
+
+    def _stable_source_url(self, url: str) -> str:
+        parsed = urlparse(url)
+        if not parsed.scheme or not parsed.netloc:
+            return url
+        return urlunparse(parsed._replace(query="", fragment=""))
 
 
 def extract_notion_database_id(value: str) -> str:
@@ -317,24 +525,186 @@ def extract_rich_text(property_value: dict[str, Any] | None) -> str:
     return "".join(item.get("plain_text", "") for item in property_value.get("rich_text", []))
 
 
+def extract_property_text(property_value: dict[str, Any] | None) -> str:
+    if not property_value:
+        return ""
+    kind = property_value.get("type")
+    if kind == "title":
+        return extract_title(property_value)
+    if kind == "rich_text":
+        return extract_rich_text(property_value)
+    if kind in {"select", "status"}:
+        value = property_value.get(kind) or {}
+        return str(value.get("name") or "").strip()
+    if kind == "formula":
+        value = property_value.get("formula") or {}
+        if value.get("type") == "string":
+            return str(value.get("string") or "").strip()
+        if value.get("type") == "number":
+            number = value.get("number")
+            return str(number) if isinstance(number, (int, float)) else ""
+        return ""
+    if kind == "rollup":
+        value = property_value.get("rollup") or {}
+        if value.get("type") == "array":
+            return "".join(str(item.get("plain_text") or "") for item in value.get("array") or []).strip()
+        if value.get("type") == "number":
+            number = value.get("number")
+            return str(number) if isinstance(number, (int, float)) else ""
+    return ""
+
+
 def extract_url(property_value: dict[str, Any] | None) -> str:
     if not property_value:
         return ""
     return str(property_value.get("url") or "").strip()
 
 
-def extract_select_name(property_value: dict[str, Any] | None) -> str:
+def extract_number_value(property_value: dict[str, Any] | None) -> float | None:
     if not property_value:
-        return ""
-    select = property_value.get("select") or {}
-    return str(select.get("name") or "").strip()
+        return None
+    if property_value.get("type") == "number":
+        value = property_value.get("number")
+        return float(value) if isinstance(value, (int, float)) else None
+    if property_value.get("type") == "formula":
+        formula = property_value.get("formula") or {}
+        if formula.get("type") == "number":
+            value = formula.get("number")
+            return float(value) if isinstance(value, (int, float)) else None
+        if formula.get("type") == "string":
+            return parse_float(formula.get("string"))
+    if property_value.get("type") == "rollup":
+        rollup = property_value.get("rollup") or {}
+        if rollup.get("type") == "number":
+            value = rollup.get("number")
+            return float(value) if isinstance(value, (int, float)) else None
+    text = extract_rich_text(property_value)
+    return parse_float(text)
 
 
-def extract_status_name(property_value: dict[str, Any] | None) -> str:
-    if not property_value:
+def parse_float(value: Any) -> float | None:
+    raw = str(value or "").strip().replace(",", ".")
+    match = re.search(r"\d+(?:\.\d+)?", raw)
+    return float(match.group(0)) if match else None
+
+
+def parse_price_usd(value: str) -> int | None:
+    raw = str(value or "")
+    match = re.search(r"\d[\d\s\u00a0.,]*", raw)
+    if not match:
+        return None
+    digits = re.sub(r"[^\d]", "", match.group(0))
+    return int(digits) if digits else None
+
+
+def build_landhub_map_url(parcel_id: str, cadastral: str = "") -> str:
+    normalized_id = re.sub(r"[^A-Za-z0-9_-]", "", str(parcel_id or "").strip())
+    if normalized_id:
+        return f"{LANDHUB_MAP_BASE_URL.rstrip('/')}/property/{normalized_id}/"
+    value = str(cadastral or "").strip()
+    if not value:
         return ""
-    status = property_value.get("status") or {}
-    return str(status.get("name") or "").strip()
+    return f"{LANDHUB_MAP_BASE_URL}?{urlencode({'cad': value})}"
+
+
+def site_asset_url(value: str) -> str:
+    raw = str(value or "").strip()
+    return f"/{raw[2:]}" if raw.startswith("./") else raw
+
+
+def write_share_pages(items: list[dict[str, Any]], site_root: Path) -> None:
+    pages_root = site_root / "property"
+    pages_root.mkdir(parents=True, exist_ok=True)
+    current_ids: set[str] = set()
+
+    for item in items:
+        parcel_id = re.sub(r"[^A-Za-z0-9_-]", "", str(item.get("parcel_id") or "").strip())
+        if not parcel_id:
+            continue
+        current_ids.add(parcel_id)
+        page_dir = pages_root / parcel_id
+        page_dir.mkdir(parents=True, exist_ok=True)
+        page_url = f"{LANDHUB_MAP_BASE_URL.rstrip('/')}/property/{parcel_id}/"
+        redirect_url = f"../../?parcel={urlencode({'value': parcel_id})[6:]}"
+        name = str(item.get("name") or "").strip()
+        area = str(item.get("area") or "").strip()
+        price = str(item.get("price") or "").strip()
+        title_parts = [f"Ділянка в {name}" if name and name != "Без назви" else "Ділянка"]
+        title_parts.extend(value for value in (area, price) if value and value != "—")
+        title = " · ".join(title_parts)
+        description = " · ".join(value for value in (area, price) if value and value != "—")
+        image_path = str((item.get("photo_urls") or [""])[0] or "").strip()
+        if image_path.startswith("./"):
+            image_url = f"{LANDHUB_MAP_BASE_URL.rstrip('/')}/{image_path[2:]}"
+        elif image_path.startswith("/"):
+            image_url = f"{LANDHUB_MAP_BASE_URL.rstrip('/')}{image_path}"
+        elif image_path.startswith("http"):
+            image_url = image_path
+        else:
+            image_url = f"{LANDHUB_MAP_BASE_URL.rstrip('/')}/assets/landhub-hearts.png"
+
+        html = f'''<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8">
+  <title>{escape(title)}</title>
+  <meta name="description" content="{escape(description, quote=True)}">
+  <link rel="canonical" href="{escape(page_url, quote=True)}">
+  <meta property="og:title" content="{escape(title, quote=True)}">
+  <meta property="og:description" content="{escape(description, quote=True)}">
+  <meta property="og:image" content="{escape(image_url, quote=True)}">
+  <meta property="og:url" content="{escape(page_url, quote=True)}">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{escape(title, quote=True)}">
+  <meta name="twitter:image" content="{escape(image_url, quote=True)}">
+  <meta http-equiv="refresh" content="0;url={escape(redirect_url, quote=True)}">
+  <script>location.replace({json.dumps(redirect_url)});</script>
+</head>
+<body><a href="{escape(redirect_url, quote=True)}">Відкрити ділянку</a></body>
+</html>
+'''
+        (page_dir / "index.html").write_text(html, encoding="utf-8")
+
+    manifest_path = pages_root / ".generated-pages.json"
+    previous_ids: list[str] = []
+    if manifest_path.exists():
+        try:
+            previous_ids = json.loads(manifest_path.read_text(encoding="utf-8"))
+        except (OSError, ValueError, TypeError):
+            previous_ids = []
+    for stale_id in previous_ids:
+        if stale_id not in current_ids:
+            stale_dir = pages_root / str(stale_id)
+            if stale_dir.is_dir():
+                for child in stale_dir.iterdir():
+                    child.unlink()
+                stale_dir.rmdir()
+    manifest_path.write_text(json.dumps(sorted(current_ids), ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def extract_file_url(property_value: dict[str, Any] | None) -> str:
+    urls = extract_file_urls(property_value)
+    return urls[0] if urls else ""
+
+
+def extract_file_urls(property_value: dict[str, Any] | None) -> list[str]:
+    if not property_value:
+        return []
+    files = property_value.get("files") or []
+    urls: list[str] = []
+    for item in files:
+        if not isinstance(item, dict):
+            continue
+        if item.get("type") == "external":
+            url = (item.get("external") or {}).get("url")
+        elif item.get("type") == "file":
+            url = (item.get("file") or {}).get("url")
+        else:
+            url = ""
+        if url:
+            urls.append(str(url).strip())
+    return urls
 
 
 def resolve_maps_url(url: str, *, session: requests.Session) -> str:

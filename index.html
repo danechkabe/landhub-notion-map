@@ -23,52 +23,87 @@
       integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
       crossorigin=""
     />
-    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="./styles.css?v=20260915-1" />
   </head>
   <body>
     <div class="page-shell">
       <header class="hero">
         <div class="hero-bar">
-          <h1>РОБОЧА Land Hub Notion</h1>
-          <nav class="category-tabs" aria-label="Категорії карти">
-            <button class="category-tab is-active" data-category="landmatch" type="button">
-              <span class="tab-symbol">💛</span>
-              <span>LandMatch</span>
+          <div class="hero-title">
+            <h1>
+              <img class="hero-logo" src="./assets/landhub-hearts.png" alt="" />
+              <span>РОБОЧА Land Hub Notion</span>
+            </h1>
+            <p id="map-counts" class="map-counts">Завантажуємо ділянки...</p>
+          </div>
+          <section class="filters" aria-label="Фільтри карти">
+            <button id="verified-toggle" class="verified-toggle" type="button" aria-pressed="false">
+              <span class="verified-toggle-text">
+                <span>Тільки перевірені</span>
+                <span>ділянки з фото</span>
+              </span>
+              <span class="verified-toggle-mark">▢</span>
             </button>
-            <button class="category-tab" data-category="processing" type="button">
-              <span class="tab-symbol">📚</span>
-              <span>В обробці</span>
-            </button>
-            <button class="category-tab" data-category="landhub" type="button">
-              <span class="tab-symbol">📍</span>
-              <span>LandHub</span>
-            </button>
-          </nav>
+            <div class="range-filter" data-filter="area">
+              <div class="filter-title">Площа ділянки</div>
+              <div class="range-values">
+                <span id="area-min-label">1 сотка</span>
+                <span id="area-max-label">100 соток</span>
+              </div>
+              <div class="range-slider">
+                <div id="area-range-fill" class="range-fill"></div>
+                <input id="area-min" type="range" min="1" max="100" step="1" value="1" aria-label="Мінімальна площа" />
+                <input id="area-max" type="range" min="1" max="100" step="1" value="100" aria-label="Максимальна площа" />
+              </div>
+            </div>
+            <div class="range-filter" data-filter="price">
+              <div class="filter-title">Ціна (за всю ділянку)</div>
+              <div class="range-values">
+                <span id="price-min-label">1000$</span>
+                <span id="price-max-label">100 000$</span>
+              </div>
+              <div class="range-slider">
+                <div id="price-range-fill" class="range-fill"></div>
+                <input id="price-min" type="range" min="1000" max="100000" step="1000" value="1000" aria-label="Мінімальна ціна" />
+                <input id="price-max" type="range" min="1000" max="100000" step="1000" value="100000" aria-label="Максимальна ціна" />
+              </div>
+            </div>
+          </section>
         </div>
       </header>
 
-      <section id="processing-filters" class="processing-filters is-hidden" aria-label="Фільтри статусів">
-        <button class="status-chip is-active" data-status-key="gives_to_sell" type="button">
-          <span class="chip-symbol">📗</span>
-          <span>Дає на реалізацію</span>
-        </button>
-        <button class="status-chip is-active" data-status-key="site_ok_olx_keeps" type="button">
-          <span class="chip-symbol">📙</span>
-          <span>На сайт OK, але OLX не прибере</span>
-        </button>
-        <button class="status-chip is-active" data-status-key="callback" type="button">
-          <span class="chip-symbol">📘</span>
-          <span>Передзвонити</span>
-        </button>
-        <button class="status-chip is-active" data-status-key="unprocessed" type="button">
-          <span class="chip-symbol">📓</span>
-          <span>Не опрацьована</span>
-        </button>
-      </section>
+      <main id="map-layout" class="map-layout">
+        <section class="map-card" aria-label="Карта ділянок">
+          <div id="map"></div>
+        </section>
 
-      <main class="map-card">
-        <div id="map" aria-label="Карта ділянок"></div>
+        <aside id="parcel-panel" class="parcel-panel" aria-live="polite" aria-hidden="true">
+          <button id="panel-close" class="panel-close" type="button" aria-label="Закрити">
+            ×
+          </button>
+          <div id="panel-content" class="panel-content">
+            <div class="panel-empty">Оберіть ділянку на мапі.</div>
+          </div>
+        </aside>
       </main>
+    </div>
+
+    <div id="photo-lightbox" class="photo-lightbox" aria-hidden="true">
+      <button id="lightbox-close" class="lightbox-close" type="button" aria-label="Закрити">
+        ×
+      </button>
+      <div class="lightbox-tools" aria-label="Керування фото">
+        <button id="lightbox-zoom-in" type="button" aria-label="Наблизити">+</button>
+        <button id="lightbox-zoom-out" type="button" aria-label="Віддалити">−</button>
+        <button id="lightbox-zoom-reset" type="button" aria-label="Скинути масштаб">100%</button>
+      </div>
+      <div id="lightbox-stage" class="lightbox-stage">
+        <button id="lightbox-prev" class="lightbox-arrow lightbox-arrow--prev" type="button" aria-label="Попереднє фото">‹</button>
+        <img id="lightbox-image" alt="" />
+        <button id="lightbox-next" class="lightbox-arrow lightbox-arrow--next" type="button" aria-label="Наступне фото">›</button>
+      </div>
     </div>
 
     <script
@@ -76,6 +111,7 @@
       integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
       crossorigin=""
     ></script>
-    <script src="./app.js" defer></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="./app.js?v=20260915-1" defer></script>
   </body>
 </html>

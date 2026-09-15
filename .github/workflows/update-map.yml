@@ -25,7 +25,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: python -m pip install --upgrade pip requests
+        run: python -m pip install --upgrade pip requests pillow
 
       - name: Refresh parcels data
         env:
@@ -47,12 +47,12 @@ jobs:
 
             python scripts/update_map_data.py --token "$NOTION_TOKEN"
 
-            if git diff --quiet -- data/parcels.json; then
+            if git diff --quiet -- data/parcels.json data/photo_manifest.json assets/generated-photos property; then
               echo "No map changes"
               exit 0
             fi
 
-            git add data/parcels.json
+            git add data/parcels.json data/photo_manifest.json assets/generated-photos property
             git commit -m "Update map data"
 
             if git push origin HEAD:"$BRANCH"; then
