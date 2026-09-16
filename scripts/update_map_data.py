@@ -47,7 +47,9 @@ OLX_STATUS_NAMES = (
     "Передзвонити",
     "Не опрацьована",
 )
+CADASTRAL_META = {"symbol": "📚", "color": "#e98272"}
 LANDMATCH_META = {"symbol": "💛", "color": "#e0b21b"}
+REALIZATION_META = {"symbol": "📍", "color": "#111111"}
 PHOTO_MAX_SIDE = 1600
 PHOTO_JPEG_QUALITY = 82
 LANDHUB_MAP_BASE_URL = "https://mymap.landhub.com.ua/"
@@ -104,13 +106,8 @@ def main() -> int:
 
     sources = [
         NotionSource(
-            key="realization",
-            label="Ділянки на реалізацію",
-            database_url=LANDHUB_URL,
-        ),
-        NotionSource(
-            key="candidates",
-            label="Кандидати/OLX",
+            key="cadastral",
+            label="Кадастровий",
             database_url=OLX_URL,
             filter_payload={
                 "or": [
@@ -120,8 +117,13 @@ def main() -> int:
             },
         ),
         NotionSource(
+            key="realization",
+            label="Ділянки на реалізацію",
+            database_url=LANDHUB_URL,
+        ),
+        NotionSource(
             key="landmatch",
-            label="LandMatch Parcels",
+            label="LandMatch Parcel",
             database_url=LANDMATCH_URL,
             filter_payload={
                 "or": [
@@ -131,38 +133,36 @@ def main() -> int:
             },
         ),
     ]
-    items = dedupe_by_cadastral(
-        [
+    categories: dict[str, list[dict[str, Any]]] = {}
+    counts: dict[str, int] = {}
+    for source in sources:
+        items = [
             item
-            for source in sources
             for page in fetch_database_pages(source, headers=headers, session=session)
             if (item := normalize_page(source.key, page, session=session, photo_processor=photo_processor)) is not None
         ]
-    )
-    items.sort(key=lambda item: (str(item.get("name") or "").lower(), str(item.get("id") or "")))
+        items.sort(key=lambda item: (str(item.get("name") or "").lower(), str(item.get("id") or "")))
+        categories[source.key] = items
+        counts[source.key] = len(items)
+    all_items = [item for items in categories.values() for item in items]
 
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
-        "source": "LandMatch Parcels + Кандидати/OLX + Ділянки на реалізацію",
+        "source": "Кадастровий + LandMatch Parcel + Ділянки на реалізацію",
         "filter": {
-            "dedupe": "cadastral",
-            "priority": [
-                "Rows with Фотографії",
-                "Ділянки на реалізацію",
-                "Кандидати/OLX",
-                "LandMatch Parcels",
-            ],
+            "folders": ["Кадастровий", "LandMatch Parcel", "Ділянки на реалізацію"],
+            "age_field": "created_time",
         },
-        "counts": {"landmatch": len(items)},
-        "categories": {"landmatch": items},
+        "counts": counts,
+        "categories": categories,
     }
 
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     photo_processor.save()
-    write_share_pages(items, output_path.parent.parent)
-    print(f"Wrote {len(items)} LandMatch markers to {output_path}")
+    write_share_pages(all_items, output_path.parent.parent)
+    print(f"Wrote {sum(counts.values())} markers to {output_path}")
     return 0
 
 
@@ -323,7 +323,11 @@ def normalize_page(
     except ValueError:
         return None
 
-    marker = LANDMATCH_META
+    marker = {
+        "cadastral": CADASTRAL_META,
+        "landmatch": LANDMATCH_META,
+        "realization": REALIZATION_META,
+    }.get(source_key, LANDMATCH_META)
     main_photo_url = extract_file_url(properties.get("Photo"))
     extra_photo_urls = extract_file_urls(properties.get("Фотографії"))
     source_photo_urls = ([main_photo_url] if main_photo_url else []) + [
@@ -354,6 +358,7 @@ def normalize_page(
     return {
         "id": str(page.get("id") or ""),
         "source": source_key,
+        "created_time": str(page.get("created_time") or "").strip(),
         "name": (name or "Без назви").strip(),
         "parcel_id": parcel_id,
         "cadastral": cadastral,

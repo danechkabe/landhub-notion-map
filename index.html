@@ -25,85 +25,52 @@
     />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
-    <link rel="stylesheet" href="./styles.css?v=20260915-1" />
+    <link rel="stylesheet" href="./styles.css?v=20260916-1" />
   </head>
   <body>
     <div class="page-shell">
       <header class="hero">
         <div class="hero-bar">
-          <div class="hero-title">
-            <h1>
-              <img class="hero-logo" src="./assets/landhub-hearts.png" alt="" />
-              <span>РОБОЧА Land Hub Notion</span>
-            </h1>
-            <p id="map-counts" class="map-counts">Завантажуємо ділянки...</p>
-          </div>
-          <section class="filters" aria-label="Фільтри карти">
-            <button id="verified-toggle" class="verified-toggle" type="button" aria-pressed="false">
-              <span class="verified-toggle-text">
-                <span>Тільки перевірені</span>
-                <span>ділянки з фото</span>
-              </span>
-              <span class="verified-toggle-mark">▢</span>
+          <h1>РОБОЧА Land Hub Notion</h1>
+          <nav class="category-tabs" aria-label="Категорії карти">
+            <button class="category-tab is-active" data-category="cadastral" type="button">
+              <span class="tab-symbol">📚</span>
+              <span>Кадастровий</span>
             </button>
-            <div class="range-filter" data-filter="area">
-              <div class="filter-title">Площа ділянки</div>
-              <div class="range-values">
-                <span id="area-min-label">1 сотка</span>
-                <span id="area-max-label">100 соток</span>
-              </div>
-              <div class="range-slider">
-                <div id="area-range-fill" class="range-fill"></div>
-                <input id="area-min" type="range" min="1" max="100" step="1" value="1" aria-label="Мінімальна площа" />
-                <input id="area-max" type="range" min="1" max="100" step="1" value="100" aria-label="Максимальна площа" />
-              </div>
-            </div>
-            <div class="range-filter" data-filter="price">
-              <div class="filter-title">Ціна (за всю ділянку)</div>
-              <div class="range-values">
-                <span id="price-min-label">1000$</span>
-                <span id="price-max-label">100 000$</span>
-              </div>
-              <div class="range-slider">
-                <div id="price-range-fill" class="range-fill"></div>
-                <input id="price-min" type="range" min="1000" max="100000" step="1000" value="1000" aria-label="Мінімальна ціна" />
-                <input id="price-max" type="range" min="1000" max="100000" step="1000" value="100000" aria-label="Максимальна ціна" />
-              </div>
-            </div>
-          </section>
+            <button class="category-tab is-active" data-category="landmatch" type="button">
+              <span class="tab-symbol">💛</span>
+              <span>LandMatch Parcel</span>
+            </button>
+            <button class="category-tab is-active" data-category="realization" type="button">
+              <span class="tab-symbol">📍</span>
+              <span>Ділянки на реалізацію</span>
+            </button>
+          </nav>
         </div>
       </header>
 
-      <main id="map-layout" class="map-layout">
-        <section class="map-card" aria-label="Карта ділянок">
-          <div id="map"></div>
-        </section>
+      <section id="age-filters" class="processing-filters" aria-label="Фільтри за датою додавання">
+        <button class="age-chip" data-age-days="3" type="button">
+          <span class="chip-check">▢</span>
+          <span>3 дні</span>
+        </button>
+        <button class="age-chip" data-age-days="7" type="button">
+          <span class="chip-check">▢</span>
+          <span>1 тиждень</span>
+        </button>
+        <button class="age-chip" data-age-days="14" type="button">
+          <span class="chip-check">▢</span>
+          <span>2 тижні</span>
+        </button>
+        <button class="age-chip" data-age-days="21" type="button">
+          <span class="chip-check">▢</span>
+          <span>3 тижні</span>
+        </button>
+      </section>
 
-        <aside id="parcel-panel" class="parcel-panel" aria-live="polite" aria-hidden="true">
-          <button id="panel-close" class="panel-close" type="button" aria-label="Закрити">
-            ×
-          </button>
-          <div id="panel-content" class="panel-content">
-            <div class="panel-empty">Оберіть ділянку на мапі.</div>
-          </div>
-        </aside>
+      <main class="map-card">
+        <div id="map" aria-label="Карта ділянок"></div>
       </main>
-    </div>
-
-    <div id="photo-lightbox" class="photo-lightbox" aria-hidden="true">
-      <button id="lightbox-close" class="lightbox-close" type="button" aria-label="Закрити">
-        ×
-      </button>
-      <div class="lightbox-tools" aria-label="Керування фото">
-        <button id="lightbox-zoom-in" type="button" aria-label="Наблизити">+</button>
-        <button id="lightbox-zoom-out" type="button" aria-label="Віддалити">−</button>
-        <button id="lightbox-zoom-reset" type="button" aria-label="Скинути масштаб">100%</button>
-      </div>
-      <div id="lightbox-stage" class="lightbox-stage">
-        <button id="lightbox-prev" class="lightbox-arrow lightbox-arrow--prev" type="button" aria-label="Попереднє фото">‹</button>
-        <img id="lightbox-image" alt="" />
-        <button id="lightbox-next" class="lightbox-arrow lightbox-arrow--next" type="button" aria-label="Наступне фото">›</button>
-      </div>
     </div>
 
     <script
@@ -112,6 +79,6 @@
       crossorigin=""
     ></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
-    <script src="./app.js?v=20260915-1" defer></script>
+    <script src="./app.js?v=20260916-1" defer></script>
   </body>
 </html>
