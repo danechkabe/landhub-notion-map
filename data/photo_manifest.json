@@ -665,6 +665,12 @@
     "local_path": "assets/generated-photos/3dc49a17ea97811e-1000-1efca6f9a0cff8383a095c8c.jpg",
     "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/f89d923a-b8bc-4831-866a-998cc7d01363/land_plan_3222784200_04_009_0089.png"
   },
+  "1f12d3b989ee2103f8bb302c": {
+    "cache_key": "1f12d3b989ee2103f8bb302c",
+    "created_at": "2026-10-24T19:08:09.296976Z",
+    "local_path": "assets/generated-photos/40349a17ea9781cf-1000-1f12d3b989ee2103f8bb302c.jpg",
+    "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/92c93705-cf9a-45df-ac31-81316d32624a/land_plan_3222781801_00_008_0009_a646d0ce.png"
+  },
   "1f2eda9f0c308c072077cd56": {
     "cache_key": "1f2eda9f0c308c072077cd56",
     "created_at": "2026-09-15T14:35:19.744604Z",
@@ -1288,6 +1294,12 @@
     "created_at": "2026-09-15T14:35:58.325833Z",
     "local_path": "assets/generated-photos/36d49a17ea9781ea-0-3fe513991f350a9830ca24c1.jpg",
     "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/85feb5c7-ac0e-4b6d-a0cb-9ad7b10e3248/7264488860_5e4a96ed03f44787.png"
+  },
+  "4016d6f3554b42a3c76b88c5": {
+    "cache_key": "4016d6f3554b42a3c76b88c5",
+    "created_at": "2026-10-24T19:08:10.450647Z",
+    "local_path": "assets/generated-photos/40349a17ea9781e1-1000-4016d6f3554b42a3c76b88c5.jpg",
+    "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/0bd53849-060b-4715-a4cc-8d2af6e3e536/land_plan_3222787701_01_001_1069_51c5459f.png"
   },
   "41b1f8985c813e1e03287a64": {
     "cache_key": "41b1f8985c813e1e03287a64",
@@ -2915,6 +2927,12 @@
     "local_path": "assets/generated-photos/35f49a17ea97815c-1000-8e40ff80caff2fd953cbd628.jpg",
     "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/1d525dde-ff3a-47e1-a7ff-4b9d933d9577/land_plan_3223782001_02_014_0071.png"
   },
+  "8e6fa3d75afaa1f872e93d4e": {
+    "cache_key": "8e6fa3d75afaa1f872e93d4e",
+    "created_at": "2026-10-24T19:08:10.957769Z",
+    "local_path": "assets/generated-photos/40349a17ea97810d-0-8e6fa3d75afaa1f872e93d4e.jpg",
+    "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/f54704d6-6ebf-4eaa-b2bc-90e11e4b61b2/7264488860_d771b9aed45b4462.png"
+  },
   "8e78bf44b0482bbacd6a8fe2": {
     "cache_key": "8e78bf44b0482bbacd6a8fe2",
     "created_at": "2026-09-18T09:55:50.395992Z",
@@ -3028,6 +3046,12 @@
     "created_at": "2026-09-15T14:36:12.917549Z",
     "local_path": "assets/generated-photos/36149a17ea978171-0-94e94841a0601d5cb7c35b4a.jpg",
     "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/cea764d4-fcb1-4744-ba7c-8c80cfb9488f/7264488860_9c254712d8864721.png"
+  },
+  "95398d1506b10175f416867f": {
+    "cache_key": "95398d1506b10175f416867f",
+    "created_at": "2026-10-24T19:08:09.888917Z",
+    "local_path": "assets/generated-photos/40349a17ea97814f-1000-95398d1506b10175f416867f.jpg",
+    "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/7c181199-bf1e-4595-84da-84a9ec04ab28/land_plan_3223184201_01_004_0057_ea1c0a62.png"
   },
   "95e1af4ff68d268e029a4c99": {
     "cache_key": "95e1af4ff68d268e029a4c99",
@@ -3407,6 +3431,12 @@
     "local_path": "assets/generated-photos/30c49a17ea9780e3-0-a5c7799018dec1359975e191.jpg",
     "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/4aad7bc6-265e-4725-a2c4-f2c66e92509a/kadastr-map.png"
   },
+  "a608c7a08b48d67b8c29eb90": {
+    "cache_key": "a608c7a08b48d67b8c29eb90",
+    "created_at": "2026-10-24T19:08:10.358711Z",
+    "local_path": "assets/generated-photos/40349a17ea9781e1-0-a608c7a08b48d67b8c29eb90.jpg",
+    "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/44854783-7187-41c1-8fd2-012ffc4890a6/7264488860_11f1d34d96f94fe9.png"
+  },
   "a6748295d17d91a96e894ad2": {
     "cache_key": "a6748295d17d91a96e894ad2",
     "created_at": "2026-09-15T14:36:49.712927Z",
@@ -3742,6 +3772,12 @@
     "created_at": "2026-10-07T13:22:03.001091Z",
     "local_path": "assets/generated-photos/3f249a17ea9781f8-0-b912cfe71c1bd4ad16b1f6f8.jpg",
     "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/b56735f6-dc1a-49fc-8095-15bc7931f505/7264488860_598a0d15346e473c.png"
+  },
+  "b96551c37883234f78dbb9ab": {
+    "cache_key": "b96551c37883234f78dbb9ab",
+    "created_at": "2026-10-24T19:08:09.789526Z",
+    "local_path": "assets/generated-photos/40349a17ea97814f-0-b96551c37883234f78dbb9ab.jpg",
+    "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/ee77cc5e-240f-45c7-afbd-9182da57099a/7264488860_48902cec848b4dc1.png"
   },
   "b9cb53f3eaef2bf96247266c": {
     "cache_key": "b9cb53f3eaef2bf96247266c",
@@ -4781,6 +4817,12 @@
     "local_path": "assets/generated-photos/36149a17ea9781a9-1000-e9d71991c9eb23dcecb3e63c.jpg",
     "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/d1bb43ab-0f03-404a-93c7-9e2add1aadd4/3221882401_07_171_0043.png"
   },
+  "e9dece3a8a9b37c131445a1e": {
+    "cache_key": "e9dece3a8a9b37c131445a1e",
+    "created_at": "2026-10-24T19:08:11.046720Z",
+    "local_path": "assets/generated-photos/40349a17ea97810d-1000-e9dece3a8a9b37c131445a1e.jpg",
+    "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/37341030-36db-4a2c-9438-3cef9e76a693/land_plan_3222784200_04_002_0101_213f8b21.png"
+  },
   "e9f197b215b832e0fdaa0f74": {
     "cache_key": "e9f197b215b832e0fdaa0f74",
     "created_at": "2026-09-15T14:34:36.219694Z",
@@ -5092,6 +5134,12 @@
     "created_at": "2026-09-17T12:47:03.986777Z",
     "local_path": "assets/generated-photos/36a49a17ea9781ae-1000-fccf4fd163ca7102db676d89.jpg",
     "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/c29d838f-afe2-455f-8442-2ceac0efda6c/land_plan_3223186800_08_010_0033.png"
+  },
+  "fd3d0e71dcb64f639f2475ac": {
+    "cache_key": "fd3d0e71dcb64f639f2475ac",
+    "created_at": "2026-10-24T19:08:09.203938Z",
+    "local_path": "assets/generated-photos/40349a17ea9781cf-0-fd3d0e71dcb64f639f2475ac.jpg",
+    "source_url_stable": "https://prod-files-secure.s3.us-west-2.amazonaws.com/6c449a17-ea97-8189-ad8c-00037b40b8d5/eaec83a6-6a3b-4921-b1e7-bda8701a676d/7264488860_a26fba8f472742c4.png"
   },
   "fd60b3b0e9240bff80152f49": {
     "cache_key": "fd60b3b0e9240bff80152f49",
