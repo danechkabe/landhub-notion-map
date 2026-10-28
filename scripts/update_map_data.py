@@ -132,6 +132,12 @@ def main() -> int:
                 ]
             },
         ),
+        NotionSource(
+            key="deactivated",
+            label="Деактивовані ділянки",
+            database_url=LANDMATCH_URL,
+            filter_payload={"property": "Status", "select": {"equals": "deactivated"}},
+        ),
     ]
     categories: dict[str, list[dict[str, Any]]] = {}
     counts: dict[str, int] = {}
@@ -148,9 +154,9 @@ def main() -> int:
 
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
-        "source": "Кадастровий + LandMatch Parcel + Ділянки на реалізацію",
+        "source": "Кадастровий + LandMatch Parcel + Ділянки на реалізацію + Деактивовані ділянки",
         "filter": {
-            "folders": ["Кадастровий", "LandMatch Parcel", "Ділянки на реалізацію"],
+            "folders": ["Кадастровий", "LandMatch Parcel", "Ділянки на реалізацію", "Деактивовані ділянки"],
             "age_field": "created_time",
         },
         "counts": counts,
@@ -327,6 +333,7 @@ def normalize_page(
         "cadastral": CADASTRAL_META,
         "landmatch": LANDMATCH_META,
         "realization": REALIZATION_META,
+        "deactivated": {"symbol": "🗑️", "color": "#777777"},
     }.get(source_key, LANDMATCH_META)
     main_photo_url = extract_file_url(properties.get("Photo"))
     extra_photo_urls = extract_file_urls(properties.get("Фотографії"))
@@ -358,6 +365,7 @@ def normalize_page(
     return {
         "id": str(page.get("id") or ""),
         "source": source_key,
+        "status": extract_property_text(properties.get("Status")),
         "created_time": str(page.get("created_time") or "").strip(),
         "name": (name or "Без назви").strip(),
         "parcel_id": parcel_id,
