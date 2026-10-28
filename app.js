@@ -15,7 +15,7 @@ const ageChips = Array.from(document.querySelectorAll(".age-chip"));
 const state = {
   activeCategories: new Set(categoryTabs.map((button) => button.dataset.category)),
   activeAgeDays: new Set(),
-  deactivatedOnly: false,
+  showDeactivated: false,
 };
 
 let dataset = { categories: {} };
@@ -197,17 +197,17 @@ function passesAgeFilters(item) {
 }
 
 function getVisibleItems() {
-  if (state.deactivatedOnly) {
-    return getCategoryItems("deactivated").filter((item) => (
-      item.status === "deactivated" && passesAgeFilters(item)
-    ));
-  }
   const items = [];
   state.activeCategories.forEach((category) => {
     items.push(...getCategoryItems(category).filter(passesAgeFilters));
   });
 
-  return items;
+  if (state.showDeactivated) {
+    items.push(...getCategoryItems("deactivated").filter((item) => (
+      item.status === "deactivated" && passesAgeFilters(item)
+    )));
+  }
+  return Array.from(new Map(items.map((item) => [item.id, item])).values());
 }
 
 function allItems() {
@@ -290,7 +290,7 @@ function openInitialDeepLink() {
     findItemByCadastral(url.searchParams.get("cad"));
   if (item) {
     if (item.source === "deactivated") {
-      state.deactivatedOnly = true;
+      state.showDeactivated = true;
       syncControls();
       renderMarkers();
     }
@@ -300,12 +300,12 @@ function openInitialDeepLink() {
 
 function syncControls() {
   categoryTabs.forEach((button) => {
-    const active = !state.deactivatedOnly && state.activeCategories.has(button.dataset.category);
+    const active = state.activeCategories.has(button.dataset.category);
     button.classList.toggle("is-active", active);
     button.setAttribute("aria-pressed", String(active));
   });
-  deactivatedToggle.classList.toggle("is-active", state.deactivatedOnly);
-  deactivatedToggle.setAttribute("aria-pressed", String(state.deactivatedOnly));
+  deactivatedToggle.classList.toggle("is-active", state.showDeactivated);
+  deactivatedToggle.setAttribute("aria-pressed", String(state.showDeactivated));
 
   ageChips.forEach((button) => {
     const key = Number(button.dataset.ageDays || 0);
@@ -326,7 +326,7 @@ async function loadData() {
 
 function registerEvents() {
   deactivatedToggle.addEventListener("click", () => {
-    state.deactivatedOnly = !state.deactivatedOnly;
+    state.showDeactivated = !state.showDeactivated;
     map.closePopup();
     syncControls();
     renderMarkers();
@@ -334,10 +334,7 @@ function registerEvents() {
   categoryTabs.forEach((button) => {
     button.addEventListener("click", () => {
       const category = button.dataset.category;
-      if (state.deactivatedOnly) {
-        state.deactivatedOnly = false;
-        state.activeCategories = new Set([category]);
-      } else if (state.activeCategories.has(category)) {
+      if (state.activeCategories.has(category)) {
         state.activeCategories.delete(category);
       } else {
         state.activeCategories.add(category);
