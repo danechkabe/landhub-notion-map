@@ -340,12 +340,12 @@ def normalize_page(
     source_photo_urls = ([main_photo_url] if main_photo_url else []) + [
         url for url in extra_photo_urls if url and url != main_photo_url
     ]
-    photo_urls = [
+    photo_urls = [] if source_key == "deactivated" else [
         photo_processor.process(url, page_id=str(page.get("id") or ""), index=index)
         for index, url in enumerate(source_photo_urls)
     ]
     photo_urls = [url for url in photo_urls if url]
-    plan_photo_url = photo_processor.process(
+    plan_photo_url = "" if source_key == "deactivated" else photo_processor.process(
         extract_file_url(properties.get("План ділянки")),
         page_id=str(page.get("id") or ""),
         index=1000,
