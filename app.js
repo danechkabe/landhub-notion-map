@@ -296,7 +296,7 @@ function renderMarkers() {
       updateUrlForItem(item);
       const photo = marker.getPopup().getElement()?.querySelector(".popup-photo");
       if (photo) {
-        const hideUnavailable = () => { photo.closest(".popup-photo-link").hidden = true; };
+        const hideUnavailable = () => { photo.closest(".popup-photo-link").style.display = "none"; };
         photo.addEventListener("error", hideUnavailable, { once: true });
         if (photo.complete && !photo.naturalWidth) hideUnavailable();
       }
