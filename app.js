@@ -77,7 +77,13 @@ function markerIcon(item) {
   });
 }
 
-function actionButton({ href, icon, label, modifier }) {
+const ACTION_ICONS = {
+  maps: '<svg viewBox="0 0 32 32" aria-hidden="true"><path fill="#34a853" d="M16 2a11 11 0 0 0-11 11c0 8 11 18 11 18s11-10 11-18A11 11 0 0 0 16 2Z"/><path fill="#4285f4" d="M8.2 5.2 23 20.5c2.3-3.1 4-5.7 4-7.5A11 11 0 0 0 8.2 5.2Z"/><path fill="#fbbc04" d="m5 13 11 11 7-8-12-13a11 11 0 0 0-6 10Z"/><circle cx="16" cy="13" r="4.2" fill="white"/></svg>',
+  notion: '<svg viewBox="0 0 32 32" aria-hidden="true"><rect x="3" y="3" width="26" height="26" rx="4" fill="white" stroke="#191919" stroke-width="2"/><path d="M8 23h6v-2h-2V12l10 12h2V9h2V7h-7v2h2v10L11 7H7v2h2v12H8Z" fill="#191919"/></svg>',
+  olx: '<svg viewBox="0 0 42 28" aria-hidden="true"><circle cx="10" cy="14" r="7" fill="none" stroke="#002f34" stroke-width="5"/><path d="M22 5v18h7" fill="none" stroke="#002f34" stroke-width="5"/><path d="m31 7 9 14m0-14-9 14" stroke="#002f34" stroke-width="4"/></svg>',
+};
+
+function actionButton({ href, label, modifier }) {
   const normalizedHref = normalizeUrl(href);
   if (!normalizedHref) return "";
   return `
@@ -89,9 +95,36 @@ function actionButton({ href, icon, label, modifier }) {
       aria-label="${escapeHtml(label)}"
       title="${escapeHtml(label)}"
     >
-      <img src="./assets/${escapeHtml(icon)}" alt="" />
+      ${ACTION_ICONS[modifier] || ""}
     </a>
   `;
+}
+
+function popupPhotoMarkup(item) {
+  const photo = normalizeUrl(item.popup_photo_url || item.photo_url);
+  if (!photo) return "";
+  return `<a class="popup-photo-link" href="${escapeHtml(photo)}" target="_blank" rel="noopener noreferrer" aria-label="Відкрити фото ділянки"><img class="popup-photo" src="${escapeHtml(photo)}" alt="${escapeHtml(item.name || "Фото ділянки")}" loading="lazy" decoding="async" /></a>`;
+}
+
+function popupPhoneMarkup(item) {
+  const phone = String(item.phone || "").trim();
+  if (!phone) return "";
+  const pattern = /\+?\d[\d\s().-]{5,}\d/g;
+  let previous = 0;
+  let content = "";
+  for (const match of phone.matchAll(pattern)) {
+    content += escapeHtml(phone.slice(previous, match.index));
+    const digits = match[0].replace(/\D/g, "");
+    const number = digits.length === 10 && digits.startsWith("0")
+      ? `+38${digits}`
+      : `${match[0].startsWith("+") || (digits.length === 12 && digits.startsWith("380")) ? "+" : ""}${digits}`;
+    content += digits.length >= 7 && digits.length <= 15
+      ? `<a href="tel:${number}">${escapeHtml(match[0])}</a>`
+      : escapeHtml(match[0]);
+    previous = match.index + match[0].length;
+  }
+  content += escapeHtml(phone.slice(previous));
+  return `<div class="popup-phone"><span class="popup-label">Телефон</span><strong>${content}</strong></div>`;
 }
 
 function popupMetaRow(label, value) {
@@ -115,28 +148,27 @@ function popupMarkup(item) {
   return `
     <article class="parcel-popup">
       <h3>${escapeHtml(item.name || "Без назви")}</h3>
+      ${popupPhotoMarkup(item)}
       <div class="popup-meta">
         ${popupMetaRow("Площа", item.area)}
         ${popupMetaRow("До Києва", formatDistanceForSite(item.distance_to_kyiv))}
         ${popupMetaRow("Кадастровий номер", item.cadastral)}
         ${popupMetaRow("Ціна", item.price)}
+        ${popupPhoneMarkup(item)}
       </div>
       <div class="popup-actions">
         ${actionButton({
           href: item.google_maps_url,
-          icon: "IMG_5575.PNG",
           label: "Google Maps",
           modifier: "maps",
         })}
         ${actionButton({
           href: item.notion_url,
-          icon: "IMG_5573.PNG",
           label: "Notion",
           modifier: "notion",
         })}
         ${actionButton({
           href: item.olx_url,
-          icon: "IMG_5574.PNG",
           label: "OLX",
           modifier: "olx",
         })}
@@ -254,11 +286,21 @@ function renderMarkers() {
       riseOnHover: true,
     });
     marker.bindPopup(popupMarkup(item), {
+      maxWidth: 320,
+      maxHeight: Math.max(180, Math.min(480, window.innerHeight - 180)),
       autoPanPaddingTopLeft: [24, 24],
       autoPanPaddingBottomRight: [24, 24],
       closeButton: true,
     });
-    marker.on("popupopen", () => updateUrlForItem(item));
+    marker.on("popupopen", () => {
+      updateUrlForItem(item);
+      const photo = marker.getPopup().getElement()?.querySelector(".popup-photo");
+      if (photo) {
+        const hideUnavailable = () => { photo.closest(".popup-photo-link").hidden = true; };
+        photo.addEventListener("error", hideUnavailable, { once: true });
+        if (photo.complete && !photo.naturalWidth) hideUnavailable();
+      }
+    });
     marker.addTo(markerLayer);
     markerRefs.set(item.id, { marker, item });
     bounds.push([lat, lng]);

@@ -336,6 +336,9 @@ def normalize_page(
         "deactivated": {"symbol": "🗑️", "color": "#777777"},
     }.get(source_key, LANDMATCH_META)
     main_photo_url = extract_file_url(properties.get("Photo"))
+    popup_photo_url = photo_processor.process(
+        main_photo_url, page_id=str(page.get("id") or ""), index=0,
+    ) if main_photo_url else ""
     extra_photo_urls = extract_file_urls(properties.get("Фотографії"))
     source_photo_urls = ([main_photo_url] if main_photo_url else []) + [
         url for url in extra_photo_urls if url and url != main_photo_url
@@ -375,6 +378,8 @@ def normalize_page(
         "purpose": (extract_rich_text(properties.get("Цільове призначення")) or "—").strip(),
         "distance_to_kyiv": (extract_rich_text(properties.get("до Києва")) or "—").strip(),
         "photo_url": main_photo_url,
+        "popup_photo_url": popup_photo_url,
+        "phone": extract_phone(properties.get("Phone")),
         "extra_photo_urls": extra_photo_urls,
         "photo_urls": photo_urls,
         "plan_photo_url": plan_photo_url,
@@ -694,6 +699,14 @@ def write_share_pages(items: list[dict[str, Any]], site_root: Path) -> None:
                     child.unlink()
                 stale_dir.rmdir()
     manifest_path.write_text(json.dumps(sorted(current_ids), ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def extract_phone(property_value: dict[str, Any] | None) -> str:
+    if not property_value:
+        return ""
+    if property_value.get("type") == "phone_number" or "phone_number" in property_value:
+        return str(property_value.get("phone_number") or "").strip()
+    return extract_property_text(property_value)
 
 
 def extract_file_url(property_value: dict[str, Any] | None) -> str:

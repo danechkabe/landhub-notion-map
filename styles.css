@@ -232,6 +232,31 @@ body {
   margin-bottom: 16px;
 }
 
+.popup-photo-link {
+  display: block;
+  margin-bottom: 14px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.popup-photo {
+  display: block;
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  background: #f0eee7;
+}
+
+.popup-phone strong {
+  overflow-wrap: anywhere;
+}
+
+.popup-phone a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 .popup-meta div {
   display: grid;
   gap: 3px;
@@ -264,7 +289,8 @@ body {
     box-shadow 0.16s ease;
 }
 
-.action-link img {
+.action-link img,
+.action-link svg {
   display: block;
   width: 28px;
   height: 28px;
